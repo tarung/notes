@@ -1,0 +1,592 @@
+00:00 foreign
+00:04 [Music]
+00:15 data
+00:20 so this is the idea here was that we
+00:23 have been
+00:24 looking at the data from the consumption
+00:27 side
+00:28 we need to also pay some attention to
+00:31 the
+00:31 production side right so in this case
+00:34 we're talking about loans correct guys
+00:36 are producing our
+00:37 uh either Banks public or private Banks
+00:40 or this non-backing financial companies
+00:42 so they are the ones who are writing the
+00:44 loans right that is correct and so we
+00:46 said can we get data about
+00:48 loans that are getting originated and
+00:50 you know we got access to some data it's
+00:52 in the tech I think it is synthetic it
+00:54 is now unfortunately that data set also
+00:57 had some names of companies companies so
+00:60 we have to be I mean since it's
+01:02 synthetic data it may not really
+01:03 accurately reflect yeah to some extent
+01:05 it does but it cannot accurately reflect
+01:06 because it was backward work back from a
+01:09 report sure so in a sense
+01:12 um since it's work back from a reported
+01:14 eventually it kind of
+01:20 so just to be safe
+01:23 um you know we should not use the names
+01:25 of companies in the analysis yeah I
+01:28 think that's fair so in today's uh
+01:31 lecture going forward in these lectures
+01:32 we'll basically just replace the private
+01:37 bank with just a keyword called private
+01:38 bank it's a 10 this is this thing the
+01:41 public sector bank with just public PSU
+01:43 Bank yes and in BFC with NBS so that
+01:47 category names we know right anybody who
+01:49 wants to relate to the actual names can
+01:51 go back to the previous lecture and look
+01:52 at it if they want but this would be
+01:54 then neutral to any actual party in the
+01:57 ground because we're going to do more
+01:58 Deep dive sure and since the synthetic
+02:00 data I don't think correct the Deep dive
+02:03 may not actually reflect reality yes
+02:04 right yesterday it might have refrained
+02:06 a little bit Yeah but this may not
+02:07 reflect so correct okay
+02:09 so
+02:10 um
+02:11 uh with that
+02:14 disclaimer on the data set
+02:18 can we take a second look at the data
+02:22 and ask a few more questions sure huh so
+02:25 specifically I want to understand credit
+02:27 cards okay
+02:29 um
+02:30 you know great
+02:32 what is the data say credit card
+02:34 the way I think about credit card is I
+02:36 have a credit card I go I buy something
+02:38 I swipe the credit card and let's say
+02:39 petrol I say the more I go buy groceries
+02:42 that's why
+02:43 so I mean each of these is alone or what
+02:47 so
+02:49 I think
+02:50 it really knows that right now
+02:52 taking it is alone because because let
+02:56 us say
+02:57 I swipe today huh my credit card bill
+03:00 comes on 7th of
+03:03 September huh today is let's say fifth
+03:07 my credit card bill will come on 7th of
+03:09 September or whatever 17th of August the
+03:12 credit card bill will get generated
+03:14 generated and 7th of September I have to
+03:17 pay
+03:18 so actually
+03:19 technically I have got credit I have got
+03:23 a loan for 40 days 40 days so it's a
+03:26 short duration known the thing is for
+03:29 those 40 days I don't pay any interest
+03:32 if I don't pay
+03:35 on 7th of September I'm very curious how
+03:39 does the credit card company make money
+03:40 then
+03:41 they charge very high rates of Interest
+03:43 no they charge three percent a month but
+03:46 if I pay I understand but if I pay I
+03:49 have never
+03:50 I don't maybe I have but I can't recall
+03:53 recently at least I have never not paid
+03:57 the monthly bill in full so I'm a bad
+03:60 customer for a credit card company
+04:04 well they make some money I think from
+04:06 the merchant they make a lot of money
+04:08 they make some money from the merchant I
+04:10 think they charge a fee which is called
+04:11 MDR okay
+04:13 discount rate what is it
+04:15 trade something yeah
+04:23 something like that they charge the
+04:25 merchant so every transactions if you
+04:28 spend 40 000 rupees one and a half
+04:29 percent this is a lot of money it's a
+04:31 lot of money it is a lot of money and
+04:33 for nothing you know what is it done
+04:34 correct it's some digital thing which is
+04:36 going through a bag almost 700 rupees
+04:38 there's no cost it's going through bank
+04:40 right so MasterCard has got just for
+04:42 using the network for it to transact it
+04:44 has made money on the on the slide
+04:47 so there is I think a decent amount of
+04:50 money they make like that
+04:51 but this is a facility I think so
+04:53 there's a loan facility that has been
+04:54 given micro loan small loan I also think
+04:56 that they make a lot of money so there
+04:58 are people who don't pay their entire
+05:00 bill
+05:01 they make the date that it is due yeah
+05:04 they make they've been making money on
+05:05 interest and then the credit card
+05:07 company charges three percent a month
+05:10 which is very very high right two and a
+05:12 half to three that is the range it's
+05:14 less than what you might pay a money
+05:15 lender yeah but only March
+05:18 generally less than what you would pay
+05:20 is this true yeah yeah three percent is
+05:23 a lot it's a lot it's a lot so it's
+05:25 exorbitant it's uh you know I mean if
+05:27 you but it is unsecured credit right
+05:29 they have no and it may be only for 10
+05:31 days it may only be for 10 days so three
+05:33 percent a month correct and you take it
+05:35 for 10 days it's one percent so people
+05:37 will be okay one percent I need 10 days
+05:39 to pay my bill right I'm expecting some
+05:41 money another 12 days I can't wait till
+05:43 this that facility is there yes right so
+05:45 it's a comfort in that sense so there's
+05:48 a lot of value out of credit card but
+05:50 here when in our data set can we just
+05:53 see them and quickly check I think this
+05:54 data set does not have all the credit
+05:56 card translations right because this was
+05:58 yes created from something so if we
+06:01 looked at it we can see it I think it
+06:04 contains only those which are durable so
+06:06 we can see I think the way to look at I
+06:09 think they have only captured they're
+06:10 not captured grocery easily and all that
+06:12 they only captured those things which
+06:13 are basically loan type things so
+06:14 durable purchases are the smallest value
+06:18 how do you do it
+06:23 um
+06:24 by using subtitle because the filter
+06:26 does it but when you filter when I will
+06:28 filter it
+06:31 right have you gone all the way to that
+06:33 yeah oh okay yeah
+06:40 so now if I take type of loan as credit
+06:43 card
+06:48 oh okay no no I think I didn't go right
+06:50 to the end
+06:53 they should have gone to some 5000 I
+06:55 think it is
+06:57 G
+07:01 yeah
+07:03 okay the smallest no so I have
+07:06 I filtered on credit card yes
+07:08 so the smallest loan size so subtotal
+07:12 what is that five comma five is five is
+07:15 uh it's telling me what function to use
+07:16 five is midna yeah five is min
+07:19 uh if I click on this it will tell you
+07:26 I think only when you try to change it
+07:27 okay so let me uh
+07:30 two is Count three is Count a four is
+07:33 Max 5 is min okay wise men all right so
+07:35 this is the smallest credit card
+07:38 transaction seems to be 200 and 2100
+07:42 and the largest one so 200 will be
+07:45 something somewhere yeah I don't know I
+07:49 am something like that mixy
+07:53 the largest one is 90 000. so that is
+07:56 the Spread spread some refrigerator or
+07:59 something could be
+08:01 it could also be you know some vacation
+08:03 airline tickets oh that also yeah it
+08:05 could be no because people a lot of
+08:07 people think they've only captured
+08:08 retail right something they have said no
+08:10 no it's a retail is a segment oh so it
+08:14 could be purchased it could be okay
+08:16 okay so it could be something some
+08:19 vacation could be yeah
+08:21 it could be Hotel
+08:24 or it could be a consumer durable
+08:27 it could be a television television
+08:30 yeah
+08:32 easily yeah
+08:35 yeah okay
+08:36 so
+08:38 um so we have a range of 2019 average
+08:41 also or we can we can find average
+08:44 um
+08:47 so that is averages in fact the first
+08:53 average is about 30k this makes sense
+08:56 makes sense yeah makes sense there's no
+08:58 media now let's see
+09:04 we don't have to remember which number
+09:09 stands for which function this most
+09:13 sheets will give you this very nice
+09:15 prompt yeah
+09:17 standard deviations no I think that's it
+09:21 median is not not there huh
+09:24 we can find first standard Division I
+09:26 don't know I mean okay leave it doesn't
+09:27 matter median is not media is on there
+09:31 okay okay
+09:47 large number of them
+09:50 you can see it here itself you can see
+09:52 there are of the ticket yes yes right
+09:54 that's the first two examination will
+09:56 tell you it's a few 12K these are the
+09:58 smaller ones I guess yeah
+10:00 but otherwise they're all like roughly
+10:02 in the 25 to 35k range yeah isn't it
+10:06 yeah
+10:08 somewhere I saw 48k somewhere spit yeah
+10:11 it is a 40K here so
+10:16 okay
+10:17 okay so now you want to analyze we shall
+10:21 so of course analyze it I can analyze
+10:23 using this subtotal but better you know
+10:27 it's easier to analyze using a pivot
+10:29 server let's so we'll take a pivot table
+10:32 now I want a minute before you start
+10:34 analyzing
+10:35 we want to do some analysis by
+10:38 uh
+10:41 what kind of things we
+10:43 average ticket size loans
+10:46 that they have taken see I think the
+10:49 first thing I would like to see is first
+10:52 of all what is the market share of the
+10:54 different kinds of lenders so who's
+10:56 lending how much in credit card who's
+10:58 basically
+10:60 what said of the credit card lending is
+11:04 Private Bank how much is public Bank how
+11:05 much they'll be correct by number of
+11:08 transactions
+11:10 by value of transactions okay those are
+11:13 the things right average values
+11:14 translates that is number one number one
+11:16 I would also if possible like to see how
+11:20 this has changed over the years yeah I
+11:21 want to lose the trend you want to see
+11:23 the trend okay that is one second is
+11:26 uh can we see this same thing
+11:30 information
+11:31 by the category of customer like
+11:35 category as in here we have information
+11:36 about the age yeah
+11:39 so it will be interesting I think
+11:41 because my impression at least TV is
+11:43 that a lot of youngsters tend to splurge
+11:45 on credit card yeah because they don't
+11:47 have any liability so get married to
+11:49 your children
+11:50 correct you're worried about savings
+11:52 older people are pension and all that
+11:53 yeah younger guys
+11:55 I think so but I don't want to do you
+11:58 know see if you look at this age thing
+12:00 it's got 20 25 some a lot of every one
+12:03 age number is there okay too many too
+12:06 many you want to group them
+12:08 you should Define young medium age
+12:10 middle age and older
+12:13 um
+12:15 young means
+12:17 we will say age group can you see what
+12:20 the age group is first of all just do
+12:22 that filter filter on edge see the drop
+12:24 down what does it look like
+12:26 that maybe again
+12:29 I can do it
+12:35 I think
+12:37 4 was
+12:39 56 is the max
+12:43 and
+12:47 21 is the mean okay
+12:50 so should we say less than 30 or
+12:53 that is too old already we don't get
+12:55 married by 30 we'll say 30 years yeah 30
+12:59 to 50 is is in their children you know
+13:02 middle age 10 days they see your
+13:04 attention seniors let's divide like that
+13:07 into three categories so we can do that
+13:10 now the best way to do this is to use
+13:13 ifs right so I've created a new column
+13:15 called age group
+13:16 say equal to
+13:19 if
+13:21 borrower age
+13:23 is less than or equal to 30 yeah
+13:27 then we call it then we call it youth
+13:32 why is enough why is enough yeah as long
+13:35 as you understand its youth okay
+13:38 else
+13:39 if
+13:43 is less than or equal to 50
+13:46 call it m Village
+13:51 in otherwise we will say seniors serious
+13:55 excellent y m and S okay yeah so this uh
+13:59 is a senior correct 54 is a senior right
+14:03 we'll just check a few whether we have
+14:05 done it
+14:07 so 35 is M that is correct 51 is s
+14:11 46 is go to the next one your next one
+14:14 should be y right
+14:17 listen
+14:21 yeah okay okay good nice yeah
+14:38 oh
+14:53 between these three a groups and also
+14:57 male female oh
+14:59 you get I think some demographic yeah I
+15:01 don't know male female mental say much
+15:03 but we'll see we'll see
+15:05 Okay so we've got some age groups
+15:09 so now you want to start with lender
+15:10 first I mean what is the market share of
+15:13 each lender by card type so let's do a
+15:15 pivot I think
+15:17 oh okay so select the data and insert
+15:23 the pivot in a new worksheet
+15:26 so we want to do a pivot table where we
+15:29 can analyze
+15:31 um
+15:32 lender by lender type correct so so I'll
+15:36 select the entire data select Delta Data
+15:39 correct
+15:41 no filters no I open this
+15:45 including all the filters remove all the
+15:47 filters okay
+15:50 and I will select from here to
+15:53 8003 okay
+15:57 insert a pivot table and I'll do it in a
+16:00 new worksheet oh
+16:24 okay now tell me what do you want to
+16:28 analyze on credit card we want to
+16:30 analyze the
+16:32 number of loans given given number of
+16:36 transactions basically that means right
+16:37 okay
+16:39 there are there and you want this by
+16:42 lender type by lender type
+16:44 render type
+16:46 yeah let's first only do this okay let's
+16:48 type in number of loans
+16:52 yeah
+16:53 then can we make a pie chart on this yes
+16:55 we can make a pie chart so this tells us
+16:58 how many credit card transactions were
+17:00 made this across all years these across
+17:03 all years okay we'll see if you want I
+17:05 can it will do it next let's first see
+17:07 this
+17:10 okay
+17:12 you want me to put percentages be nice
+17:14 to have percentage inside
+17:16 okay
+17:21 you want values instead of percentages
+17:24 yeah
+17:26 yeah
+17:28 okay so this chart says what it says
+17:32 58 of all transaction sections
+17:36 originated by private bank correct
+17:38 and uh nbfc 827 and the rest is small
+17:43 number is correct
+17:45 that's what it says can we do the same
+17:47 thing now by
+17:49 transaction size average transaction
+17:51 size
+17:52 across years yeah across yes facility
+17:55 across this then we'll see trade
+18:02 original loan size or outstanding loans
+18:05 uh original launches
+18:08 average you want average
+18:13 so average of the loan that they have
+18:15 given two minutes
+18:18 very important to format it right yeah
+18:22 so they're roughly same all roughly the
+18:25 same correct all roughly the same in
+18:27 this case pie chart doesn't make sense
+18:29 but yeah always do the same okay
+18:30 actually here the a better just as an
+18:34 exercise what would be better perhaps is
+18:37 to show it as a some scatter plot or
+18:40 something budget ah bar chart
+18:44 okay though it's it's really I mean this
+18:48 visually it's not giving that impression
+18:51 because so what you should really do is
+18:54 to say format this
+18:57 grid line
+18:59 and you say you want it from sorry
+19:07 for matte axis
+19:09 you should say
+19:12 from zero on it
+19:15 yeah because then you'll see the size
+19:17 correctly otherwise it will scale it
+19:18 yeah now you can see it correctly
+19:21 right yeah see in the original thing you
+19:24 really thought that there was a
+19:25 significant difference between the three
+19:27 yeah because the uh
+19:30 Y axis was starting only from 25 000 or
+19:34 something current correct right but if
+19:36 you format the y-axis correctly then you
+19:40 can see actually there is not too much
+19:41 difference right yeah
+19:43 so I think in visual representation very
+19:45 important too can we do one other thing
+19:47 before we get into your voice trendwise
+19:49 can we see this
+19:52 being picking certain kinds of age
+19:54 groups where this medium small senior
+19:57 okay medium senior and youngster
+20:00 so they say private bank is going for
+20:02 young sir okay that may be a scatter
+20:04 plot we'll see let's see first first
+20:06 let's just see
+20:08 count of each group
+20:10 ah see PSU bank is targeting what no no
+20:12 no no no this is actually this I should
+20:15 move here
+20:17 and then count of loan IDs
+20:22 so Private Bank seems to be giving
+20:25 mostly to Middle East
+20:40 this way or this way stack without
+20:43 percentage non percentage
+20:49 private bank is giving to
+20:52 now if you want to get the sense of
+20:55 where they are focusing then it's better
+20:56 to look at it as percentage
+20:60 okay this will be a more
+21:02 this will give you a more intuitive
+21:03 field
+21:06 so private bank is focusing on Middle
+21:08 East
+21:10 in general seniors are not
+21:12 ices not I mean seniors are also
+21:15 probably not very keen to take loans no
+21:17 maybe yeah
+21:19 nbfc is youngsters
+21:27 banks are giving to youngsters
+21:30 you see this this is a big number
+21:32 almost 30 percent
+21:39 but everybody is basically large percent
+21:41 of their thing is going to middle middle
+21:43 huh so it's you know
+21:46 youngsters youngsters
+21:51 new new job probably salaries are not
+21:54 very high yeah yeah it's only after 30
+21:59 that you get the capacity to repay emis
+22:03 and therefore people spend more on
+22:06 credit cards
+22:09 yeah isn't it it seems to be the case
+22:11 yeah
+22:13 so um
+22:16 Trend okay let's
+22:21 can we see the for MSY can we see the
+22:24 transaction size maybe that tells us
+22:26 something also
+22:28 the seniors may be having
+22:30 taking bigger medium guys may be taking
+22:33 youngsters maybe taking smaller ones I
+22:35 don't know
+22:36 there's some color like that you can get
+22:41 average of originating
+22:51 no seems to be roughly the same
+22:55 roughly the same
+22:59 of course this doesn't this graph
+23:02 doesn't make sense in this case
+23:07 which is this too
+23:12 it doesn't make sense
+23:13 okay so there's no difference
+23:15 no not particularly
+23:19 they're all buying a television small
+23:21 television or something something I
+23:22 don't know what they're doing
+23:24 laughs
+23:26 okay okay
+23:28 what would you look at Trend now Trend
+23:30 yeah so has it changed how has it
+23:32 changed what has changed this itself we
+23:35 can see has the average changed over
+23:38 years
+23:39 yeah do it the other way row is this
+23:41 column move the row to column and column
+23:43 move viewers here
+23:48 as it is
+23:49 somewhat
+23:51 but this is also not the right to three
+23:55 bars Reading or you should do a line
+23:58 ah line is better multiple lines uh line
+24:01 is better
+24:02 yeah
+24:04 doesn't seem to have no it's marginally
+24:07 going up not marginally going on but
+24:11 right it's gone from 30 to 35 km but
+24:13 inflation tracking aging doesn't seem to
+24:15 be uh age is not a factor not a fact in
+24:17 the ticket size
+24:19 oh
+24:21 change the ticket size to number of
+24:23 loans
+24:35 ah
+24:37 what does it saying seniors are taking
+24:40 lessons are flat basically maybe during
+24:44 covert there became even more
+24:46 conservative youngsters are Gango medium
+24:49 guys are going on
+24:50 as usual they're not affected at all
+24:56 this is interesting
+24:59 okay
+25:01 seriously reduce your flat whereas media
+25:03 I think they became probably more
+25:04 anxious
+25:06 something like that something like that
+25:08 even otherwise they were not growing
+25:10 much no
+25:11 that is intuitively I think it makes
+25:13 sense really
+25:14 in general I have not seen 50 year olds
+25:17 get very adventurous
+25:21 yeah do you know how many people are
+25:24 there
+25:25 we can count
+25:26 you want that
+25:30 I think we can go filter on that end no
+25:32 no we can just okay pivot turns us
+25:35 everything
+25:43 okay
+25:47 so there are 400 middle aged people 91
+25:51 seniors and 160 youngsters
+25:55 so there are less seniors so that as a
+25:57 percentage of the number it may be
+25:58 constant
+25:59 Maybe
+26:00 yeah no we saw its number of course
+26:03 they're declining
+26:09 so what it tells you really GV is that
+26:12 not too many seniors use credit cards
+26:14 that is true yeah isn't it only 90
+26:18 transactions are there people who really
+26:19 use credit cards are the 30 to 50 year
+26:22 olds yeah that's what it's saying isn't
+26:26 it that's what it's saying but the
+26:27 youngsters are getting it
+26:31 yeah yeah
+26:35 that's what it's saying
+26:37 actually this may not be unique we don't
+26:40 know yeah because we don't have borrower
+26:42 ID you know they have no transactions
+26:44 correct
+26:46 correct we don't know it could be the
+26:48 same senior doing 90 transactions it
+26:50 could be one guy doing 90 transactions
+26:52 you don't know that
+26:54 because we don't have borrower ID we
+26:57 only have loan ID we have a age it's a
+26:59 proxy and gender okay
+27:03 all right so okay I mean what you can do
+27:05 with the data is limited but because
+27:08 they don't have too many fields but even
+27:11 then you can do a lot that's what you're
+27:12 seeing yes right yes with some analysis
+27:14 you can still do even though the fields
+27:15 of you
+27:16 okay

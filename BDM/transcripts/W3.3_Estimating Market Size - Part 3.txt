@@ -1,0 +1,334 @@
+00:00 So, I think we have good picture of  
+00:20 this loan buying, I mean, scooter buying, 
+scooter buying. What category they will buy?  
+00:26 If they have a scooter, will they buy new one? 
+They have two other will they buy a two wheeler?  
+00:30 Are the categories changing? Are it changing is 
+what is changed? What I want to understand is,  
+00:35 are there other factors that we can look at 
+to determine this buying intent? In the sense,  
+00:46 for example, if they have refrigerators, they 
+have a house, are they more likely to buy a  
+00:52 two wheeler? If they have a refrigerator, are 
+they more likely to buy a two wheeler? Are there  
+00:57 proxies for two wheeler buying that one can use? 
+Are there, because sometimes you can ask them,  
+01:07 of course, whether you are going to buy two 
+wheeler or not that directly you can do that.  
+01:09 Suppose you do not have that information. But 
+I have an information about the growth of,  
+01:15 for example, deposits in bank. People are 
+depositing more and more money in bank or  
+01:22 they are taking more loans, house loans. 
+This information is more easily available.
+01:27 So, based on that, can I make an 
+estimate of educated guess of the  
+01:33 size of the growth in the two wheeler market? 
+So, what do you think is a good? Finance, I think  
+01:41 let us say, let us forget about refrigerator and 
+all. Can we take FD for example? We can. How many  
+01:51 people own FDs, have FDs, want, I mean, whatever 
+it is. So, we will just do a 2 by 2 like that.
+01:57 We will say have FD. Have FD,  
+01:59 does not have FD. And will buy. Will 
+buy, will not buy. 2 by 2, 2 by 2.
+02:05 Sounds good. What happened? What is  
+02:15 S savings, no it says. Fixed 
+deposit. Fixed deposit.  
+02:23 Copy.
+02:24 Let us  
+02:33 see first of all how many are there. I hope some 
+people have it. Nobody has it, there is nothing  
+02:39 to check. Yeah, quite a few people have. So, let 
+us just, let us just as a check count, 34 have.
+02:49 34. 34 out of 62. No, 62 is there, 
+people are responding. 62 is the  
+02:55 people who have responded. So, 34 
+out of 62 responses. Let me just.
+02:59 That is quite a large number, more than half. This 
+is about 50 percent. More than half, very good.  
+03:04 So, let us see people having fixed 
+deposit versus not having fixed deposit,  
+03:09 intend to buy. And we want two wheeler.
+03:13 How many of them have two wheeler first of all, 
+let us find out. Let us find out. Of the people  
+03:17 who have fixed deposit, between fixed deposit, so 
+2 by 2 fixed deposit, not having fixed deposit,  
+03:23 having two wheeler, not having two wheeler, 2 by 
+2. So, out of the people who have fixed deposit,  
+03:33 I will do it here. I will open another sheet.
+03:38 I will open another sheet. Sheets are for free. 
+I know. Has FD. Now, we will say has does not.
+03:55 No FD, has FD. No FD, yes. Has 
+FD. Has two wheeler. No 2D.
+04:07 No 2D, yes. No, sorry, no 2. 
+No 2W, has 2W. Easy to read.
+04:19 Yes, good. Yes. So, now here I have 
+currently filtered on has two wheeler,  
+04:26 has. FD. FD, has outstanding FDs. 
+And I have filtered on, lot of cars,  
+04:43 two wheeler and 0. So, this 
+is does not have two wheeler.
+04:49 So, 7 people have FDs, but no two wheelers.  
+04:52 All right. Let us put that. 7 people 
+have FDs, but no two wheelers.
+05:02 7. All right. Here I will put now.  
+05:11 See, actually, so if the guy has an FD, there is 
+a very high chance. 80 percent of the people who  
+05:18 have FDs already have a two wheeler. That 
+is the. Whereas there it was 18 and 62.
+05:27 Correct. So, this is a much 
+higher. Percentage is higher.  
+05:32 Now, there is the FD thingy. 
+Let us see, this is the one.
+05:38 No. So, now, there are 17 people 
+who do not have FDs. Out of those,  
+06:03 how many people do not have FDs? This one.  
+06:20 80. 17 people have a two 
+wheeler, but do not have FDs.
+06:26 Hmm. 17 people have two wheeler, 
+do not have FDs. And 11 people do  
+06:52 not have FDs and do not have two wheelers. So, 
+these 11 people. Let us just look at this total.
+06:56 63, something I have missed. 
+I have counted twice, I think.  
+07:02 I think there are 1 and 2 problems with them.  
+07:10 17, okay, identity. Okay.
+07:28 17  
+07:43 Yeah, it is the adjacency. 28. 28 is 
+correct. So now let me go to the other one.  
+08:22 This is the interval column CM.  
+08:32 34, what have I taken here? This is I think 
+this is where I seem to have made a mistake.
+08:40 This is I have taken 35, so out of 34, 
+28 is correct. So this has to be 6.
+09:05 Take it.  
+09:16 Yeah. 7. It is saying 7. Why is it saying 7?  
+09:38 28.  
+09:44 So 28 people totally have 
+two wheelers and has FDs.
+10:09 Let me remove this.  
+10:12 27. 27, not 28. Yeah, this one is 27. Yeah. 
+Yeah. This is all, no? This is no global.
+10:31 This increases size. Yeah.  
+10:37 Okay. Okay. Now what do you want to do? 
+This what does it tell us? Does it tell us?  
+10:44 So one conclusion can be that these 11 people 
+who do not have FDs and do not have two wheelers  
+10:51 are not intent to buy. We can look at intent to 
+buy. So first of all, let us ask the question,  
+10:60 what percentage of the people in a 
+given category do not have two wheelers?  
+11:06 So we are saying 11 divided by, if you do not 
+have an FD, then what did I do? 11 by 11 plus 70.
+11:16 Oh, I should have said plus.  
+11:21 So 39 percent of people who do not have 
+FDs do not have a two wheeler. Yeah.  
+11:28 But only 21 percent of people who 
+have an FD do not have a two wheeler.  
+11:33 So would it be safe to say that 
+having an FD is a strong indicator of.
+11:41 Yes, good indicator of. Of ability to 
+own a two wheeler. Financial capability  
+11:46 to own a two wheeler. So one conclusion from 
+this can be that target only guys who have FDs.
+11:52 Could. Do not target people. One example. Do 
+not target people who do not have FDs because  
+11:57 they are unlikely to have enough financial 
+resources. Correct. Buy a two wheeler.
+11:60 Correct. That can be one 
+conclusion one can. Of course,  
+12:04 maybe a premature conclusion because people 
+may not have FDs, but they may have NSEs.  
+12:10 We will look at that. But before we 
+get there, can we take just FD alone  
+12:14 and look at intent to buy also. Then that 
+kind of square supposition completely.
+12:20 Sure. So what do we want to. Same thing. No T, no  
+12:24 FD as FD, but instead of no TW, 
+STW, you want to say intent to buy.
+12:30 Will buy. Will buy. Will buy. 
+Will buy. Just say won't buy.
+12:34 Won't buy. Will buy. Won't buy.  
+12:41 Will buy. Yeah. Right. Yeah. So where 
+are we? What have I filtered here? CM.
+12:52 Previous college. CM.  
+12:58 So this is people who have 
+FDs. Who have FDs. Will buy.
+13:06 Or you want will buy now. Will 
+buy. Will buy. Will buy. Will buy.
+13:11 Intent to buy. So yes, yes is 
+only 1. Will buy. Yes, FD is 1.  
+13:34 This way. Not buy will be quite big.
+13:44 26. So it is not showing anything 
+actually. It is not showing an  
+13:48 intent to buy. FD is not giving you 
+intent to buy. Correct. No, no, hold on.
+13:52 But it is probably because 
+you already have bought. Yes,  
+13:54 that is probably it. But 
+anyway let us complete the CM.
+13:60 No you said. Yeah. You are right. It 
+is probably because they are you know.  
+14:08 You already bought. Already bought and 
+they may not be interested in buying a  
+14:12 second. It may be showing whether you 
+are interested in buying second one.
+14:15 No, no.  
+14:20 This is 16. This is no, no. This is  
+14:28 definitely the 16 guys are not worth targeting.  
+14:39 No, yes.  
+14:45 No something is went wrong.
+14:49 This is coming to. 44 only it is coming 
+to. How many are there? Should be.  
+14:56 This is. You know have I put, I have probably put.
+15:01 No, no that is why it was coming, 
+hold on. Some filter was on. Yeah,  
+15:05 some additional filter was on.  
+15:17 This is people who are,  
+15:25 who do not have FDs. Of the people 
+who do not have FDs, let us see,  
+15:37 6 are saying they will buy and  
+15:47 22 are saying they will not buy. So 6 are 
+saying will buy, 22 are saying will not buy.
+15:58 What is the total, is it coming? 55. This also 
+we probably need to, ESFD we need to redo.  
+16:15 Yeah, that seems wrong actually. I find it hard 
+to be there, only one of them is interested.  
+16:28 Will not, will buy no is coming to now 29  
+16:38 and  
+16:45 will buy yes is now 5.
+16:52 Is that? Sir, it is not, it is not a signal at 
+all, there is no signal. No signal. FD or not  
+16:57 FD does not matter. So, not much is getting 
+out of it. No. You will take something else,  
+17:04 some other instrument, borrowings you can look at.
+17:06 We can take borrowing, has borrowings. Has 
+borrowings. Yeah, again I will copy this.  
+17:37 Let me first remove all the filters.
+18:04 22 people have outstanding borrowings. 
+Now, CM. No, not CM was this.  
+18:17 Scooter, I will not have to use. You 
+want has two wheeler, do you want? No.
+18:23 Yeah, BQ. BQ. So, has 
+borrowings, no two wheelers is  
+18:33 9. Has borrowing, no two 
+wheeler is 9. And has borrowing,  
+18:48 has two wheeler is 14. Has borrowing, 
+yes two wheeler is 14. So, that is a  
+19:03 39 percent of the people with borrowing have 
+no two wheelers, that seems to be interesting.
+19:05 Has outstanding borrowings. Now, I will put this 
+as no and BQ, no you said. Just see how many are  
+19:31 there.  
+19:52 I should probably do that again.
+20:27 No, BQ.  
+20:43 So, this is no, no is 9. No 
+borrowings, no two wheelers.  
+21:20 Has no borrowing, has two wheeler is 31. 
+That add up correctly? That we have not done.
+21:29 63. We have not done that part. No, no 63 again 
+there is a mistake. No, no you have not done this.
+21:34 You have not done that. You have not 
+done that? No, two times. Hold on.
+21:49 Count is 40. That is correct.  
+22:15 22. 22 plus 40 is 62, correct.  
+22:34 9. That is correct. 9. 9, no, no but how much did 
+we say? 20, no? 22, 30 minutes. 22, so that is 30.  
+22:48 So, what do we say? If he has borrowing, 9 
+out of 13 people are potential target for you.  
+23:00 If the person has borrowing, then there is a 
+very high chance that he is looking to buy also.
+23:09 Of the people who already have. They have to do 
+intent to buy also. This is intent to buy, no? Or  
+23:16 what did we check? We have checked bought has two 
+wheeler. Oh, this is has two wheeler. Let us say.  
+23:24 No, just you have to compare, just compare this 
+thing, this thing with this thing. What this  
+23:33 thing shows? It shows basically that 21 percent 
+of the people who have FDs have two wheelers.
+23:42 No. Do not have two wheelers. Do not have two 
+wheelers. Whereas here it says 41 percent, so the  
+23:49 other way to read it is 79 percent of the people 
+have FDs have two wheelers. Whereas this says that  
+23:55 only 59 percent of the people who are borrowings 
+have two wheelers. Correct. So, if you have an FD,  
+24:03 if you have. See the point 
+is if you have borrowings,  
+24:09 then you may not have the financial capability to 
+pay for a two wheeler because your existing AMIs.
+24:16 Correct, correct, correct. Yeah, 
+that may be the reason. But anyway.  
+24:19 Let us see the intent to buy. 
+Let us see the intent to buy.  
+24:25 It is not giving a clear picture.
+24:27 No. No? Anyway, whatever it is, so 
+you cannot use this as a channel,  
+24:33 so to speak. But there is a relationship between 
+financial savviness and not buying two wheeler,  
+24:38 but taking a loan for two wheeler. That 
+is a true statement. Should we know? Yes.
+24:43 Will buy, this is will buy or 
+will buy now, this is will buy.  
+24:56 Let us remember that column. EA, DZ or EA, DZ, DZ.  
+25:10 So, no borrowings and BQ, 
+no not BQ, no will buy, BT.  
+25:22 No borrowings will not buy is  
+25:29 37, no borrowings will not buy is 37,  
+25:40 no borrowings will buy is only 3.
+25:48 There is a cultural thing about not 
+borrowing. Maybe. DZ you said, no? DZ.  
+26:05 Yes. No, no, I should clear all filters.  
+26:17 So, has borrowings BT, BT.  
+26:26 Has borrowings will buy is 8.
+26:44 Yes, borrowings will not buy. This 
+is stronger signal, this is our  
+26:59 signal.  
+27:07 So, person who is borrowing 
+will has more proclivity to.
+27:11 To borrow. To borrow more. To borrow more. 
+To buy. But we may not want to give that  
+27:16 person a loan because we do not want to. I 
+want to first find out addressable market make.  
+27:23 I think this is good. This is something it told 
+us. See, ideally what one would like to do is,  
+27:29 I do not know, we may not do it 
+here for want of time is to plot  
+27:33 on vertical axis something 
+called financial savviness.
+27:36 Yes. So, financial savviness would 
+indicate various factors. You will  
+27:41 have. How much savings, how much borrowings.
+27:43 Safety, post office investments. Correct. All 
+other things. Mutual funds. Mutual funds, shares,  
+27:49 borrowings, EMI, everything, everything included.
+27:52 Everything. So, that some index. Correct. 
+Guys financial savvy if we can handle  
+27:57 several financial things. Correct. And 
+it is not financial savvy if it is.
+28:02 So, on the vertical axis your financial savviness,  
+28:04 on the horizontal axis you have. In proclivity to 
+buy. Buy. Intention to buy. To buy various things.
+28:09 And presumably there is a relationship between 
+these two. Students can experiment with it.
+28:16 Should make a plot. Yes. We can calculate 
+financial savviness. Correct. Can intend  
+28:21 to buy various things. Correct. And plot it in a 
+scatter diagram. So, it could be refrigerators,  
+28:25 it could be televisions, it could be cars.
+28:26 Some scatter diagram you can plot. Dot 
+plot on this. Correct. And if you see  
+28:31 that the dot plot is going like this, 
+it means that there is a correlation,  
+28:35 kind of a relationship between these two. 
+Absolutely. And there should be because  
+28:39 the more financial savvy the person is, the 
+more ability the person will be able to develop.
+28:43 That is true. Through savings 
+and through borrowings and so on  
+28:47 to be able to acquire assets. 
+Correct. Asset acquisition and  
+28:50 financial literacy so to speak or financial 
+savviness, it should be a correlation. Okay. So,  
+28:56 they can experiment with it. Yeah. Dot 
+plot whatever it is that they want to do.

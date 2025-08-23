@@ -1,0 +1,563 @@
+00:15 So, we got, we had a look at the 
+data, consumption data. One question,  
+00:20 one thought that came when we were 
+looking at the data was, can we plot   a nice pie chart? For example, we want to look at 
+the households with different numbers of family  
+00:32 members. So, those households which have only 
+2 people, 1 people, 7 people, 6 people like  
+00:39 that. So, that was. Pie chart looks like a nice 
+weighted representative, I thought. Yes, probably.
+00:45 So, can we, how do we do that? They had   household group size. So, where was that household 
+group size? Let us see. Age group. Age group.
+01:05 Age group. We said we will do 
+it by age. Not age actually,   we want to do it by number of people in the 
+house. That is there in the other data set,  
+01:13 it is not there in both data 
+sets. Really? Yeah, I think so. Size group is there here, it is not there in the 
+other one. We can do it in this one first. We can  
+01:24 do that. If we want to do that, first is we have 
+to find out where is the size group. Size group.
+01:35 The size group. So, you want somewhere 
+this list, 1 member, 2 members, 3 members,  
+01:43 4 members, 5 members, 7 members. Not 
+all, data not available, we do not want,   blank we do not want. Blank we do not 
+want. Yeah, 1, 2, yeah that is correct.
+01:53 So, the way we have to do this 
+is, let us go to this sheet.   And so we will. You selected that 
+thing. What do you do? I have just  
+02:03 gone into an empty cell. Then you go into data. So, basically what do we want? We want the 
+set of unique values in this column. You  
+02:13 want the unique values in this column. Correct? 
+Yeah, yeah. You want the labels in this column. Yes. Unique labels because 
+they could be repeated. So,  
+02:22 if I look at 1 member. But you cannot 
+do it through the filter drop down list,   you cannot do it. Yeah, you can, you would 
+then have to do it manually. You would have to.
+02:28 You cannot copy from it. With this you 
+cannot copy, this list you cannot copy.   So, you would have to copy 1 member, etcetera. 
+But let us see if we can do it automatically.  
+02:38 So, you go here, you go to data. And then in data, you go into advanced. And then 
+you say copy the data to another location. Now,  
+02:52 what is the data we want to copy? We want to 
+copy the data that is there. Let us first just  
+02:58 rename this just 1 moment. Just to make our 
+life simpler, we will call this main sheet.
+03:06 So, here we will say advanced, copy to 
+another location. What is the sheet we  
+03:14 want? We want the data that is there in 
+main R2 to R101. No, sorry, W, W, W. W2 to.
+03:26 W2 to W101. Correct? And we want to copy 
+it to this cell, beginning this cell.  
+03:44 But we want unique records only. Oh, you are 
+copying it without copying duplicates. Correct.  
+03:50 It is just using copy basically. Yes. Yes, copy. Copy the records 
+without duplicates. Let us see.  
+03:58 Very nice. I do not know why 
+data not available came twice   though. It is just 1 without a and 
+1 something, some spelling problem.
+04:04 Spelling problem. Remove it. Remove it. 
+We do not want it. We do not want that. Remove that. The rest are okay. 5, 4, 3, 2. 
+And then this also let us sort. It is got all.
+04:14 It is your bunches. We will just sort. We will 
+sort ascending. Nice. Now I want to count.
+04:23 Now let us count. So, you know, I discussed with 
+the students a function called countif. Countif.
+04:30 Countif. Countif. Countif. And we want 
+to count from. Means w1 to. W1 to w 101.
+04:42 W2 or 1? W2. W2 to w 101. And I should 
+put, first of all, this should be main.  
+04:56 And then this should be dollar 2. We want 
+absolute addresses, not relative addresses.  
+05:05 And then the criteria should be this one. Correct. Yeah, criteria is one member. 
+So, only one household has one member.  
+05:15 When you go to the next one, then 
+it should be counting compared. Just check. Check. Go to the, one 
+of them is check. What is it? Check.  
+05:23 Oh, you are checking the filter you are 
+going to do? Yeah. We can check with filter. So, if I look at one member. Yeah, 
+correct. Let us look at two members.  
+05:39 There are 10. Have you got 10? Nine. Okay, that 
+is, I think it counted the size group also.
+05:47 So, we should ignore that. Yeah, nine. Nine. 
+All right. So, it seems to be correct. Let us   just check once randomly, four members. Oh, 
+this should be the maximum, no? This is 23.
+06:00 23. 23. All right. Do a sum of all 
+of them and let us say percentage.  
+06:07 This if we take, so this is 62, we can say 62.  
+06:17 Now, you want percentage. So, this if you 
+want percentage, this is going to be equal to  
+06:27 this divided by dollar m, then dollar 10.
+06:43 And we will format this as  
+06:50 percent. Correct? Now, make a pie chart. We 
+can remove that first column. No, we actually  
+06:56 do not need percentages to do the pie chart. 
+Yeah, we could, I guess, if I could do that.
+07:04 We do not need. We could try, let us try. 
+Let us just see if we can do it with this.  
+07:10 Actually, it should be percentage. 
+It should do. So, it will just.   Why are we doing percentage? 
+You are right actually. Right. Absolutely. And if we do the 
+data labels, let us say data labels,  
+07:21 add data labels. Nice. And you can 
+format the data labels, I think. So,  
+07:26 actually the pie chart is 
+already doing percentage. Correct. And we can say 
+instead of showing show value,  
+07:32 you can say show percentage. 
+Oh, you do not, without doing,   it will do it for a second. It will do the 
+percentage itself. Oh, well, so that saves time.
+07:41 It saves a lot of time. So, what is 
+it saying 19 percent? Where are we   now? One member is very small. This 
+is, I think, where we start. Right.
+07:50 This is 1.  
+07:59 Then this is, 2 members is 14 percent. 3 members 
+is 19 percent. 4 members is 37 percent. 5 members   is 24. We had a lot of. So, this 3 to 5 is 
+actually seems to be the average household. It is. 4 plus minus 1 kind of thing. 
+And freshly married or something.  
+08:17 Freshly married maybe 2. Or maybe 2 bachelors 
+living together. 2 bachelors living together. Very few are above 6, 6 or above. 
+And very few are living alone.  
+08:27 Now, so this is nice, very nice. I like this 
+chart. Presentation purpose is always nice to put.
+08:33 It shows the data set. It shows what 
+kind of data we have. No, and you know,   I think most people go to sleep if they look at 
+numbers. They see some visual representation,  
+08:41 then suddenly the message comes out. Much 
+more clearly. So, if we can. By the way,  
+08:46 just as an exercise, we could 
+show this as a bar chart also.
+08:54 Let us see if we can do that. We can 
+change. Is that good to do? Let us see.  
+09:03 Maybe it is kind of conveys it 
+in a slightly different way.  
+09:09 You can see that it peaks in the middle 
+and comes down. Like that you can see. So, you can see like a Gaussian distribution.   Correct, correct, correct, which you cannot 
+see in the picture. Correct. Very true.
+09:18 It is like a Gaussian distribution. 
+That is another view of it. Different,  
+09:24 different message is coming out. Different message 
+is coming out. Depending on what you need to   convey. Correct. So, can we instead of doing this 
+number of members, can we do this thing called,  
+09:39 what is it, age group or age group 
+might be interesting or age group   is there in both? I want to actually 
+see whether the data sets are similar.
+09:46 Sort of consistent. Between the two data sets. We 
+can see. Can we do age group in both? We can do   age group. Is there in both? I think this is what 
+consumption, the other one was aspirational India,  
+09:57 age group is there. Age group is there. So, 
+let us do age group in both, same method. Same method we will do, we will do 
+here. So, what do we do? We say data  
+10:08 advanced, copy to another location. Here we are 
+going to say age group is what, s. We will say,  
+10:21 not sheet 1, main exclamation s2, 
+sorry s dollar 2, no? Yeah, 2 s 101.
+10:35 2 s dollar 1. Yeah.  
+10:45 And then I want unique. Yeah. What happened? I did 
+something funny. You did not say which location,  
+10:56 so it overwrote on that. Yeah, that is okay. 
+We can just do that and then here instead of.
+11:09 You can delete that percentage, we do not need 
+it. We do not need the percentage, delete that,  
+11:14 sorry, del, not backspace. This is the del, I 
+find this keyboard a little confusing. Yeah.  
+11:25 It is clear I guess, the cells, 
+Excel also took care of the cells. And here instead of looking in w, I should 
+look inside s, no? Yeah. Yeah. So, w to s.  
+11:56 Yeah. Now the same thing I 
+will do in the other sheet.
+12:04 Yeah, yeah. This little bit like this, bar chart 
+only. Bar chart is interesting, no? Let us look  
+12:11 at the other one. So, it says basically, just 
+here that bar chart, Sushumesh bar chart again.   It says that youngsters dominant 
+5, grown up dominant 25.  
+12:21 So, grown up dominant and balanced household 
+seem to be the? Largest with no seniors.
+12:27 Correct. Nuclear family basically. Nuclear 
+families. Senior dominant is only 2,  
+12:32 small number. That is what it 
+is. But I think that will change   as India gets older. When you see the 
+aspirational data, I want to understand.
+12:39 This aspirational or the other one? No, 
+this is, this is consumption. Let us see   the aspiration. Let us look at the aspiration. 
+Can you copy that from there to here? No,  
+12:49 no, no, you will need to do it again because 
+you are looking at different columns and so on. Okay, okay, okay. Categories will also be there. 
+Again, we will have to go to data, advanced, copy  
+13:02 to another location. What do we want? We want, 
+we want age group we want to, this is age group.
+13:09 This is R. R. I think the categories 
+are the same, but. 2, dollar R 101. So,  
+13:21 it is, it says sheet, what sheet is it? It is not 
+saying me, it is sheet. That is good, I can see.  
+13:42 And then we have to say, correct, 
+no? Some error is there in that. Where? Why? I have to say colon.  
+13:53 No, there is already a colon. I think 
+just you have to retype, retype it.
+13:58 It is a error. R2, no? R2. So, when you do that,  
+14:08 I think. I see, let me just redo it. 
+Because when your cursor is on the sheet,  
+14:16 this is a standard problem I think in 
+Excel. It kind of over designed I think.
+14:22 This is the age group. R2 to colon $ R. No, 
+it is already come, something came already.  
+14:33 If you are on that sheet, that is what 
+happens. You should not be on the sheet.  
+14:38 Click the cursor here, I 
+think that is alright. R2 to  
+14:44 R1, do not, you do not have to click on 
+that sheet, do not click on that sheet.
+14:50 No, what do you want me to do? No, no, I think you 
+should stay on this sheet. You should have to go   into that sheet. So, long as you know it is R2 to 
+R 102, you can just type it, I think it is easier.
+15:02 Dollar R dollar 101. Yeah, unique record, sorry.  
+15:16 Let me just do this. Main exclamation 
+dollar R dollar 2 colon dollar R  
+15:27 dollar 101. Should I remove the 
+filter maybe? Does not like the  
+15:38 filter. Data.  
+16:00 Advanced copy to another location. I think this I will say, main exclamation 
+or maybe I had not clicked copy to another  
+16:16 location. Yeah, that is what I was saying. 
+Dollar R dollar 101, copy to this one.  
+16:27 Unique record, sorry. Yes. Now here I 
+will say, count if dollar R22, main name,  
+16:44 exclamation dollar R dollar 2 colon 
+dollar R dollar 101 comma, yeah.
+17:01 What happened to extract? I2. Yeah,  
+17:17 make up bar chart.  
+17:30 This is shape is a little different.   Are they the same order? No, I should remove data 
+not available. Data not available I will remove.  
+17:50 So, here balance households with seniors is quite 
+a lot actually. Balance households, no, sorry.
+17:56 Can you put both the charts in the same place? I 
+will delete this one. Put the charts one by the  
+18:03 other.  
+18:11 This chart, no?  
+18:32 So, youngster dominant. So, 
+I can do one thing for you.
+18:37 Let me just copy this. What is the order? 
+They want youngster dominant first.  
+18:48 Let me just copy this here.   Control C, control V. Now what is the 
+first one they want? Youngster dominant.
+19:03 Then they want grown up dominant. Correct? Yeah. 
+Then they want balanced household with no seniors.  
+19:18 Other household of grown ups, senior dominant,  
+19:27 balanced household with seniors. That is 
+not there in the… Different categories.  
+19:33 I think leave it, it is alright. We can compare one to one. So, youngster dominant 
+is more or less like that only. 6 says 5. Grown  
+19:40 up dominant here it is 30, there it is 25. Here 
+there is 10 balanced households with no seniors.
+19:46 Here it is 19. Shape is kind of more or 
+less. Shape is, but they are different   samples. Different samples. Sampling has 
+been different. This is interesting anyway.   We have to check like this because you may 
+be driving some. And this also tells you,  
+20:05 just looking at the bar chart you were 
+able to get quite a few things immediately.
+20:10 Correct. Correct, correct. So, what 
+do you mean probably harder if you  
+20:15 are just trying to look at numbers, 
+probably have struggled much more. Is not it? Visual is always better. Visual is 
+better. So, this is good. This is a good exercise.  
+20:27 So, what do you… Now, what else can we look 
+at? We can look at, what do people in villages  
+20:35 consume versus what do people in… What is 
+the consumption pattern for example? Correct.  
+20:41 Is that easy to do? Or let us put it like 
+this. I mean consumption pattern is too   complicated, there are too many parameters 
+I think. Out of the total consumption,  
+20:49 how much people are consuming on food? That we 
+can do. Can we do the simple method? Is there a  
+20:54 simple method? Yeah, I think now there are, 
+you want to do this, so here is what we can do.
+21:05 So, the, we want to see the distribution of, 
+not distribution, distribution is too much.  
+21:11 Percentage consumption on food. You want average 
+or you want weighted average? What is weighted  
+21:19 average? I mean weighted average 
+weighted by the consumption.
+21:25 Consumption. That is just too average, I mean   let us just calculate the total consumption. 
+Let us just say simple. Total consumption,  
+21:32 total consumption on food and divide. So, 
+if you look at this. That is the first cut. They have some data for total expenditure and 
+they have monthly expense on food. That is all,  
+21:42 divide one. We just divide one by the other. Total, the total. No, no, that, hold on. We 
+will come to that. That is all we will do. We  
+21:48 will come to that. Then we will filter and we 
+will do things. We will filter and do things.   We will do this for each row.
+21:55 So, now what I will do is, I will just insert 
+a column here. Actually I can do it at the end,  
+22:00 but it will be difficult. You are taking the, 
+you are going to take average of the percentages.   That also you can do. Yeah, that is what you will 
+do, no? Or you can take the percentage directly.
+22:11 Take the total consumption. You can 
+do that also. Total, it is the same   answer I guess. It will get, it 
+should give you the same answer.
+22:17 I guess so. We do not know. No, it will not 
+be the same. That because the, some of the   numerators are not. That will be weighted. That 
+will be something else. Some of the numerators by  
+22:28 some of denominators is not equal to numerator 
+by denominator plus numerator by denominator. It is not like that. Is not it? A plus B by 
+C plus D is not A by C plus B by D. Correct.
+22:38 We will get something else. So, 
+let us, let us do this. This is.  
+22:47 14 percent, 14, 34, 35 percent. 
+35 percent. Is spent on food. That household. That household. Let us do it for  
+22:55 all the others. You are in the 
+middle of the sheet. I have not. There is a filter on I think.  
+23:10 Data not available. That is the answer. I will do 
+one thing. I will just select here remove blanks.
+23:17 Now, it is saying the average is 44.  
+23:49 Average of. The average of percentages. 
+Average of percentages. Is, so. However,  
+23:56 the other thing that I could do. Just divide this by that and see what happens. 
+Is say. Some is to think. Some if not blank or.
+24:04 Some blank will take us here. Some in this. No 
+problem. We will take it as 0. It will do it.  
+24:10 Just take some of those two. So, I will say some.
+24:25 Actually, this should be x2. This is blank.  
+24:37 And the same thing I will copy here. 
+What is the total? Now, if I say  
+24:53 this divided by this.
+24:59 40 percent. That was how much? 44 that was.  
+25:05 44. The average of that is 44. 
+This is 44. And this one is 41.
+25:12 41. 41. 41. 41. Let us this because this 
+is weighted by the. Something. Something.
+25:19 It is a sum of the variables. A plus B by C 
+plus D. Whereas that is A by C plus B by D.  
+25:25 Each. Something like that. Correct. Correct. 
+It is not the same as A plus C. No. So,  
+25:36 anyway it gives you some, if you look 
+at between these two you get some. So,   one thing that is clearly obvious immediately is 
+that 40 percent of total expenditure is on food.
+25:47 The most important category of expenditure 
+looks like. Can we do this by urban and   rural? Can we do by just filter or something? 
+That is actually possible. Filter it will go.
+25:58 So, if I filter, the sum would not change 
+actually. So, there is a different formula.  
+26:09 If I just say urban, you will see that this 
+has not changed. What has not changed? The sum.  
+26:20 Because it is still summing all the variables. Because we said sum of x2. 
+But there is a different one,  
+26:26 there is a different formula. I can do that, I 
+can insert a row here and I can say subtotal.  
+26:43 And what do I want? I want the sum. So, 
+I want, where is sum? Sum was there. Yes,  
+26:51 sum. So, I want sum of x3, now it is 3, not 2 
+because we have added a row going up to x1, 0, 2.
+27:12 And what this is doing, GV, is that it is 
+now summing only the cells. So, if you have  
+27:19 a filter in the table, then now subtotal will 
+sum only the cells that have been displayed.
+27:28 So, now let me show you, let us 
+change this urban to rural. Just what,  
+27:33 just remember what was the number here? 49. 
+4.93 lakhs. 4.9 lakhs. 4.9 lakhs roughly.
+27:42 This, if I change to rural, now it is 2.94 lakhs. 
+Oh, I see. So, the same thing if I copy here,  
+27:55 so this was total expense and this is monthly 
+expense on food. And then take percentage.
+28:01 Then take percentage. So, let me just take,   I will just, this divide by this. This is 
+cool here, this is a nice thing actually,  
+28:11 very useful. Then do. So, rural percentage 
+is 44, we saw 41 percent overall. Correct. So, it means urban percentage of 
+food is less. Let us see, let us see. So,  
+28:21 we have 41 overall, rural is 
+44. Now, let me remove this.  
+28:33 39. So, 39 percent of food consumption is on food  
+28:39 for urban areas, but 44 percent for 
+rural areas and overall it is 41.
+28:53 Correct. Very nice. As many do it by this. 
+Correct. Total food expenditure by total   consumption. Correct. Interesting. Okay. 
+Okay. What else would you like to look at?  
+29:02 We will pause. Let us go back to the sheet. 
+Milind, we did, I think we got some very good  
+29:07 handle on the, how the families are 
+broken up by age group or something.
+29:14 And we also saw consumption on food, rural versus 
+urban. That is what we saw. Now I want some more  
+29:21 analysis can we do, similar analysis like this 
+consumption of rural urban, we want to do for  
+29:27 many other things. Is there a simple way where we 
+can do the same kind of analysis? So, let us see,  
+29:32 maybe one thing we can do, instead of putting 
+this percentage here, let us insert a row above.
+29:39 And this percentage number we will put 
+on top. Because the same number you are  
+29:47 representing is percentage. Correct. And this 
+total expenditure is not going to change.
+29:53 Put in dollar. So, I will put it in dollar. We 
+will say dollar x dollar 2. Yeah, you can do that.  
+30:06 So, we got a percentage. And 
+I will format this as percent. Subtotal we did. Subtotal, this is subtotal. 
+Okay. So, now, this column can be removed. No,  
+30:20 I think this is, we had created 
+this column. I will delete it.  
+30:25 So, now the same formula, we can actually, 
+both of these, we can just sort of drag here.
+30:34 So, for each category, we will get the subtotal 
+and the percentage. I see. Nice way. Okay.  
+30:43 So, now if I change the filter, those 
+processes will change? Automatically. Let us see. Let us check. It should, 
+at least in theory, it should.  
+30:52 Let us check if it does. So, 
+that, so this is interesting.  
+30:57 It is a lot of columns. You cannot do 
+that standard trick of… Control, right.
+31:03 Okay, we have reached the end. So, monthly 
+expense on pets is close to 0 percent.  
+31:14 Now, the other problem in a GV is that this has 
+too many columns. Hide some columns. Many of  
+31:20 these columns are not, you know, this, I do not 
+think we are going to use this column anywhere.
+31:25 So, I will hide it.   Then this also we are not going to… Right now 
+we are not using it. This, this, this, this.  
+31:38 A lot of these columns can be hidden. Hide, right.  
+31:53 These let us keep. These let us keep. Now, 
+tell me what would you, okay, first of all,  
+31:59 let us see if… What did we said? We had 
+said urban, no? So, change it to rural. Let us say if I change it to rural. And I can 
+select both also, no? You can select both also.
+32:12 Indeed, you can select both. Numbers changed. 
+41. All the numbers changed, you can see.  
+32:20 Now, let me change it just to 
+rural. Just watch the numbers. Okay.  
+32:28 Okay, let us read now. What are we saying here? 
+44 percent is better. So, one second before that,  
+32:33 what we can do in this case is there 
+is this thing called view freeze panes.
+32:42 Where is freeze panes? Yes, freeze panes. 
+Now, what this gives you an advantage is  
+32:48 that as you scroll to the right, or 
+let me not freeze panes there. Let  
+33:01 us freeze panes here. Freeze 
+panes, freeze panes here. Now,   if I scroll to the right, oh, these things to the 
+left of the frozen pane do not, are still visible.
+33:13 So, now it is become… I want this row also to be 
+frozen. It is frozen. It is frozen. It is? It is,  
+33:20 it is. You go down. That is 
+what I want. This is nice. So,   it becomes easy for us to do the analysis.
+33:26 Yeah, yeah, yeah. Now, now tell 
+me what analysis you want. No,   I want to see after, so we saw for, this is 
+your urban, no? No, we have got everything.
+33:34 Yeah, sorry. Just choose rural for a moment. 
+You want rural? Just rural only. Rural only.   And I want to see after 
+food is the big expenditure,  
+33:45 no? Yes. I hope it is the highest. 
+I am not sure if it is highest. So, it is 40, what is 49 percent?  
+33:54 Oh, that is adjusted. Adjusted. After food, what 
+is the next thing they spend money on? I saw 11,  
+34:06 sir. 9 percent is milk and milk 
+products. That is a subcomponent of  
+34:13 food. There was 11, no? That was a part of food. Probably. Was there 11?  
+34:22 Yeah, this is monthly expenses in cereals and 
+pulses. So, one quarter of the food expenses is  
+34:27 cereals and pulses, it is not surprising. Correct. 
+And another quarter is milk and milk products. 9 percent is milk and milk products. 
+Correct. Out of 44. After 44,  
+34:40 what is the next big thing? Methi, bread,  
+34:48 food, maybe it is an education or something, 
+I do not know. Travel? Let us see.
+34:53 Maybe travel, no?  
+34:59 Intoxicants, let us see, intoxicants, maybe 
+4 other foods, intoxicants. 5 percent is on  
+35:11 intoxicants. 5 percent is on intoxicants. 5 
+percent on intoxicants. In rural, in rural.
+35:21 What is it, urban? Urban, let us see. More? Urban 
+should be more, no? I do not know actually, hard.  
+35:31 3 percent. It is more in. So, people are 
+spending more on food? More on intoxicants.
+35:39 And more on intoxicants in rural area? 
+Yes, more on food and more on intoxicants.  
+35:49 I would not have guessed that. No, no, no, interesting. Intoxicants. Yes, yes. 
+It means liquor, may not be liquor. Liquor and  
+35:57 tobacco. Tobacco. Tobacco probably, lot of chewing 
+tobacco, BDs. Something like that. 5 percent. 5  
+36:05 percent is income on intoxicants. 5 percent of 
+their income in rural, in urban it is 3 percent.
+36:11 What is transport? Transport 
+definitely urban is more,   no, do not think? No, see rural people 
+have to travel long distances for jobs.
+36:24 They do not go anywhere, they work there 
+only. We do not know. I do not know. Urban may  
+36:30 they travel. Where is travel? They have to 
+go there. Where is travel? Let me search. Let me search control F.  
+36:42 Travel. What happened? Transport.  
+36:52 Transport, I think it is 
+called transport. Yes, yes.  
+37:02 There is monthly expense on transport. 
+In urban it is 2 percent of. And what is it per  
+37:15 unit? 4 percent. It is higher. Yeah. So, I 
+could do one thing, you know, if you wanted  
+37:21 more interesting way of looking at it. It is a 
+percentage of income it may be. Let us see what  
+37:27 is the average expense? What is that? What is 
+the average absolute expense? On? On transport.
+37:39 In rural area. In rural area versus urban area. 
+So, average is 101. So, you can, the way you are  
+37:47 summarizing, right now I am doing sum, I could do 
+average. What you will do 3, that? On an average.
+37:56 The subtotal. Urban people, rural people 
+are spending 404 rupees per month. And  
+38:05 urban people. Oh, it may be higher. That may be 
+higher. Are spending, no, 265 rupees, 266 rupees.
+38:11 Is it? People are spending less in cities on 
+transport. That is all the 266 because bus,  
+38:18 I do not know. Maybe it is. Maybe they use their 
+personal transport only petrol, petrol is shown  
+38:23 somewhere else. Maybe. I do not know. No, petrol 
+is there in this one. Anyway, so roughly like  
+38:33 that, so what 40 odd percent is going on food, 
+5 percent on toxicants, 4 percent on transport.
+38:38 Let me just, let us, let me change this back 
+to 109 because only then I will get 2 percent  
+38:46 on transport. No, rural we wanted, no? 4 percent 
+it was. 4 percent. So, about 50 percent goes on  
+38:57 these 3. It may actually, those people who are 
+traveling maybe, I will tell you how it will be. I suspect, rural. Those people who 
+are traveling will be spending a  
+39:05 lot of money. Those people who are 
+not traveling are spending nothing.   But the average is sort of, it 
+is like a bimodal distribution.
+39:14 Bimodal, bimodal, they call 
+a number that they tell you.   Let us see how it looks. It is a bimodal 
+distribution. This is the one, no? If you look at.  
+39:31 Select only zeros, see what happens. How many are there? Just two. But you see who 
+are the guys, small and marginal farmers and  
+39:42 wage liberators. I am not traveling. I 
+am not traveling. Not afford to travel.  
+39:52 This is the one, no? Let me do one thing. I can 
+say less than or equal to 100 for households.
+40:05 Again small and marginal.   I see. Not 100, it should be less than equal 
+to average. Average is, we do not know what  
+40:17 the average is, no? We know, no, it was 400 
+or something, no? 400 was for the city, 290.
+40:23 No, no, 400 was for Rudolf. So, less 
+than equal to 400, you should say.  
+40:34 So, about 19 people are 
+spending less than the average.  
+40:42 It is not that, it is not so obvious the pattern. No. Occasionally, they may be traveling, maybe 
+they travel once a week. Maybe. But when they  
+40:49 travel, they are not spending more. They are 
+spending more money. So, let us do one thing.   Let us, no, no, since we looked at it like this, 
+let us also look at greater than or equal to 400.
+41:03 Here there is, see there is, see numbers 1000,   100. But you can see the difference GV. It 
+is organized farmers, industrial workers.
+41:10 Who are traveling far. Who are traveling 
+far. They are going to some city and   working and going. Correct. That is the pattern. 
+It is, you have to look at the occupation group.  
+41:22 Yeah. Yeah, yeah. Correct. Something like 
+that. Yes. And those guys are then spending. And see for them 6 percent of income is 
+going actually. But look at this man,  
+41:30 some wage laborer is spending 1000 rupees a month. How much is that person earning 
+total? We do not have his income here.  
+41:38 We do not have his income. 
+He has total expenditure. He has expenditure, yeah. It is 
+huge. But it is 6 percent of his  
+41:46 expenditure is actually going in. Quite a 
+bit. It is quite a lot. It is quite a lot. Yeah. So, we learnt intoxicates there. 
+People are consuming a lot. Travel also.  
+41:57 Travel also they are consuming a lot. 
+So, their savings will not be too much.   They will not be saving much. I do not think 
+so. Is not it? Yeah. Alright, useful. Nice.

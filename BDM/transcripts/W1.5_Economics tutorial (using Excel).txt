@@ -1,0 +1,293 @@
+00:00  Start of segment.
+00:20  So what we are going to do in this session is that I am going to work through a problem
+00:29  for you in trying to estimate all the flows, economic flows that are happening.
+00:34  So if you see this problem the way it is structured is that we have two regions, region 1 and
+00:42  region 2 and both these regions produce two kinds of things, wheat and sugar.
+00:54  So region 1 produces 10,000 kilos of wheat and 2000 kilos of sugar whereas region 2 produces
+01:03  2000 kilos of wheat and 6000 kilos of sugar and their total realization from that production
+01:10  is 10 rupees which means 10,000 kilos, 10 rupees per kilo totally 1 lakh rupees of wheat
+01:18  production.
+01:20  The total value of sale of the total value that they have produced, total value of production
+01:25  of wheat is about 1 lakh.
+01:27  Similarly for sugar it is 2000 into 20 is 40,000 rupees.
+01:33  Like that region 2 also has some production and on the other hand region 1 is consuming
+01:39  8000 kilos of wheat and region 2 is consuming 4000 kilos of wheat and the price at which
+01:46  they are consuming it is 10 rupees and 15 rupees.
+01:51  Sugar consumption is 3000 and like that 2000 in region 1 and 2 and at prices 22 rupees
+01:56  and 18 rupees.
+01:58  This is what the data that is given us.
+02:00  Besides that we know that region 1 clearly has some surplus which they are sending to
+02:06  region 2 and region 2 has some surplus which is sending to region 1.
+02:09  So the distance, so when they send this surplus from one region to another they have to transport
+02:14  it.
+02:15  So the distance between the two regions is 1000 kilometers and the cost of transporting
+02:21  1 kilo for 1 kilometer is 0.002 rupees.
+02:27  That is what is given to us.
+02:29  Also to produce something in the farm it requires labor so the amount of labor days required
+02:35  to produce 1 kilo is 0.1 and the number of labor days required to transport something
+02:41  per kilometer per kilogram is very small number 0.0001.
+02:48  And the charge of labor that is if you take labor and number of days per day you have
+02:53  to pay 100 rupees for labor.
+02:55  This is the data that has been given to us.
+02:57  Now from this we want to calculate many things.
+03:01  One thing we want to calculate basically is how much wheat went from region 1 to 2 or
+03:08  from region 2 to region 1.
+03:10  So one thing we notice basically is that if you take the wheat production, total wheat
+03:14  production you see basically that the wheat production is 10000 kilos in region 1, 2000
+03:23  kilos in region 2.
+03:24  So the total wheat production is 12000, 10000 plus 2000 is 12000.
+03:29  So I can write that.
+03:30  So total wheat production is equal to 10000 plus 2000.
+03:52  So that is 12000.
+03:54  And the total similarly if I take the total wheat consumption, total consumption of wheat,
+04:10  this one is from here I can get it.
+04:14  This is equal to 8000 consumed by region 1 plus 4000 consumed by region 2.
+04:26  So the total wheat consumption, so there is no surplus wheat production.
+04:30  Production wheat production is 12000 kilos and wheat consumption is 12000 kilos.
+04:35  So there is no surplus.
+04:37  But clearly region 1, there is no surplus, but region 1 produced 10000 kilos and consumed
+04:46  8000 kilos.
+04:47  So region 1 has a 2000 kilo surplus.
+04:50  Whereas region 2 produced 2000 and consumed 4000.
+04:55  So region 2 has a 2000 deficit.
+04:58  So where that deficit came from?
+05:00  That deficit was met by transportation from.
+05:03  So wheat transported from region 1 to region 2.
+05:16  We can calculate and this is equal to you know 10000 minus 8000.
+05:24  2000, 2000 kilos is the excess production.
+05:29  And because the production and consumption are all equal, therefore the excess production
+05:34  was completely transported to region 2 and that was consumed there.
+05:40  Now let us look at the same thing for sugar.
+05:42  So total sugar production is equal to 2000 plus 6000.
+06:03  That is 8000.
+06:07  Whereas the total sugar consumption is equal to 3000 plus 2000.
+06:31  That is 5000.
+06:34  So here we see there is an excess.
+06:37  So excess production is 8000 minus 5000.
+06:48  So only 5000 was consumed, 3000 was excess production.
+06:53  So what did this excess production, what happened to the excess production?
+06:55  Presumably this was stored.
+07:00  So this was stored.
+07:01  So it was not transported, it was stored.
+07:03  Now again we can do the same thing.
+07:08  You can see that this sugar production is 6000 here, consumption is 2000 here.
+07:14  So the difference between 6000 and 2000 is 4000.
+07:19  But out of 4000, 3000 is stored, 1000 is transported.
+07:23  So the sugar transported from region 2 to region 1.
+07:35  And this can be calculated by taking sugar consumption here and subtracting that from
+07:42  sugar production here.
+07:45  So this difference is 1000.
+07:46  So this is the amount of sugar transported from region 2 to region 1.
+07:50  So total sugar basically if you look, the total sugar production was 8000 of which 3000
+07:56  was stored, 5000 was consumed, but the consumption pattern in the two regions was different.
+08:03  1000, 1000 kilos was transported from region 2 to region 1.
+08:08  Now we can calculate from this the total cost of transportation.
+08:17  The total cost of transportation is 2000 was transported over here.
+08:23  So let me add up the two.
+08:25  2000 was transported from region 1 to region 2.
+08:31  1000 was transported from region 2 to region 1 multiplied by distance between the two places
+08:39  multiplied by cost to transport 1 kilometer per kilo.
+08:46  So 6000 rupees was used, spent on transportation cost between region 1 and region 2.
+08:52  This much we know.
+08:54  We can also calculate what is the total receipt, total receipt by of producers.
+09:04  How much did producers receive in rupees?
+09:08  How do we calculate that?
+09:11  We say this is equal to this into this plus, so this is the amount they received for.
+09:29  B3 into C3 is the amount for wheat.
+09:33  B4 into C4 is the amount for sugar for region 1.
+09:37  Like that 2000 into 12 is for region 2 wheat and region 2 sugar.
+09:51  So 2,72,000 rupees is the total receipt of producers.
+09:55  And what is the total amount that was consumed, spent by consumers?
+10:02  Similarly, I can calculate wheat consumption.
+10:09  Consumption was this much in region 1.
+10:14  Sugar consumption was this much in region 1.
+10:21  Wheat consumption into 15 plus sugar consumption in region 2 into 18.
+10:36  So this tells me that 2,42,000 rupees was spent by consumers.
+10:45  Of course, this difference between 2,72,000 and 2,42,000 rupees was spent, was the excess
+10:53  produced.
+10:54  So I can write here excess produced is, we know 3000 was stored, 3000 is all sugar and
+11:10  it was all sugar produced over here at 18 rupees.
+11:19  Then finally, I mean I need to calculate a few more things.
+11:21  What do I need to calculate?
+11:22  I have to calculate, so we know basically that consumers spent totally so many rupees.
+11:40  So I can subtract this.
+11:41  So this is net.
+11:43  So this is minus this.
+11:48  So 2,18,000 rupees is the net, this is the net amount.
+11:57  So out of 2,72,000 rupees that the producers produced, 54,000 is kept in storage, does
+12:02  not yet mean realized in a sense.
+12:03  It is kept in inventory.
+12:04  It is kept in storage.
+12:06  2,18,000 rupees was realized.
+12:09  Now 2,42,000 rupees was spent by consumers.
+12:12  So what is the difference between 2,42,000 and 2,18,000?
+12:17  So there are two things that we have already calculated.
+12:20  One is transportation cost we calculated.
+12:23  I have written that transportation cost I have already calculated, the cost of transportation.
+12:30  So there is one thing we have not yet calculated, which is trading.
+12:35  Trading costs or whatever, amount received by traders, people who do trading, how much
+12:50  did they get?
+12:51  So the answer is the amount spent by consumers is 2,42,000.
+12:57  The amount that was actually not kept in storage, the amount that was sold is 2,18,000 minus
+13:03  6,000 of this consumer's amount went in transportation, 6,000.
+13:10  So this is a surplus.
+13:11  So the traders got 18,000 rupees.
+13:14  The traders got 18,000 rupees.
+13:16  Transportation guys got 6,000 rupees.
+13:21  Trading companies got 18,000 rupees.
+13:27  Traders spent 2,42,000 of which 2,18,000 went to the producers, 18,000 went to traders and
+13:35  6,000 went to transportation.
+13:39  How did the producer actually get 2,72,000?
+13:41  Because some storage company paid 54,000 rupees and bought the excess produce of the producer
+13:47  and kept it in storage.
+13:49  So 54,000 went from storage company to producer, 2,42,000 rupees was spent from the consumers,
+14:01  spent by consumers.
+14:02  18,000 went to traders, 6,000 went to out of that.
+14:06  Net of 2,42,000 minus 18 minus 6 is 2,18,000 out of that went to producers.
+14:11  54,000 went from storage company, the add of these two things and you get 2,72,000.
+14:16  I hope that is clear.
+14:17  So this is the flow.
+14:19  This represents all the flows.
+14:20  Now let us look at the receipts.
+14:22  So consumers receive money.
+14:24  How do they receive money?
+14:25  They get money, the people get money because they are doing labour.
+14:30  So what is the amount received?
+14:33  Amount received by, for labour for production.
+14:47  So how much is that?
+14:49  So we know basically the total production of wheat is 12,000.
+14:57  Total production of sugar is 8,000.
+14:59  So the total overall production is 12,000 plus 8,000 total production.
+15:07  Does not matter whether it is stored or not.
+15:10  They got produced.
+15:12  So that many kilos of things were produced and to produce 1 kilo we need 0.1 units of
+15:19  labour.
+15:20  So I am multiplying that and the cost of labour is 100 rupees per day.
+15:25  So this is the total cost of labour and that was received by the people in some sense who
+15:32  worked on the thing.
+15:34  Similarly amount received for transportation labour in rupees we can calculate is how much
+15:50  was transported?
+15:51  We know that 2000 kilos of sugar was transported.
+16:03  So 2000 kilos of wheat was transported from region 1 to region 2.
+16:16  1000 kilos of sugar was transported from region 2 to region 1.
+16:20  Total transportation is 3000 kilos.
+16:24  The labour required per kilo of transportation is this and the cost of labour per day is
+16:30  this.
+16:31  So per kilometre, so I forgot to multiply by number of kilometres, multiplied by number
+16:46  of kilometres which is here, number of kilometres.
+17:02  So 3000 rupees was received by transportation.
+17:08  So total amount consumers received, amount received by for labour, total amount received
+17:19  for labour.
+17:20  We are not calculating capital and all.
+17:23  Total amount for labour is therefore 2 lakh for production plus this for labour.
+17:30  So 2 lakh and 3000 rupees received.
+17:32  So in some sense the consumers households they received 2 lakh 3000 rupees for labour,
+17:42  for doing labour in the firms either for transporting or for producing but they spent 2 lakh 42
+17:48  thousand rupees.
+17:49  So there is a net deficit of the households.
+17:54  Now where did these households get this money from?
+17:58  They must have got it from their savings or they must have taken it from their savings
+18:02  or they must have got some other source of income.
+18:04  So there is a deficit of 39,000 rupees which means the households have spent 39,000 rupees
+18:12  more than that they have earned.
+18:14  They earned 2 lakh 3000 rupees for the labour they did and they spent 2 lakh 42,000 rupees
+18:19  so 39,000 rupees they got.
+18:21  So this gives you a picture of all the flows.
+18:23  So we see that region 1, region 2 we know the total producer made 2 lakh 72,000 rupees
+18:28  which he got 54,000 he got from the storage company, 2 lakh 18,000 he got from consumers.
+18:35  How did he get 2 lakh 18,000 from consumers?
+18:37  Consumers actually spent 2 lakh 42,000 rupees but of that 18,000 went to trader, 6000 went
+18:42  to transporter, balance was 2 lakh 18,000 which they gave to producer.
+18:48  The amount of labour that was spent in actually production was 2 lakh and for transportation
+18:53  was 3000 rupees, total amount was 2 lakh and 3000 rupees and so there is a deficit of 39,000
+18:59  rupees in the consumers side which presumably they took from their savings or they got some
+19:05  other source of income which is not reflected here something like that.
+19:09  So this kind of picture of calculating all the flows helps us to get a model.
+19:17  In some sense it gives a model for understanding what is going on.
+19:21  This is the end of this segment.
+19:28  In this segment we are trying to calculate, we are basically we are trying to do a demand
+19:34  supply kind of a reconciliation.
+19:37  We saw that when we have supply and we have demand these two things reach an equilibrium.
+19:43  So in this case what I have is I have two customers, one customer has a monthly income
+19:48  of 20,000 rupees, customer 2 has a monthly income of 50,000 rupees and there is a shopkeeper
+19:54  and we have different price points.
+19:56  So customer 1 is willing to buy wheat like this 10, 8, 6, 6 like this for different prices,
+20:02  rice like this what is given this is our schedule for rice, this is our schedule for sugar.
+20:07  Customer 2 similarly you can see is willing to buy like this wheat, rice and sugar and
+20:11  shopkeeper is willing to buy wheat, willing to sell wheat rice.
+20:15  So one thing you can see basically is that shopkeeper is not willing to sell rice at
+20:19  10 rupees or sugar at 10 rupees.
+20:21  In fact he is not willing to sell sugar even at 20 rupees, only at 25 rupees he is willing
+20:25  to sell sugar.
+20:26  On the other hand you will see customer 2 is not willing to buy wheat at all if it is
+20:30  priced above 40 rupees and customer 1 will not buy rice or sugar if it is priced above
+20:36  45 rupees, 45 rupees or higher.
+20:38  So this is the kind of thing.
+20:40  So one thing we can do is that we can just take this as it is like this and we can chart
+20:47  it, it will come out as a messy chart maybe but we can do a chart.
+20:51  So I can select this whole thing and I can say insert a chart.
+21:13  So it automatically decided to make a line chart.
+21:14  So it is a very messy chart as you can see there are many, many lines.
+21:18  Of course some of these you can remove.
+21:20  So let me start by maybe just showing wheat of customer 1 here I will remove this, I will
+21:34  remove sugar also.
+21:47  So I have removed everything except wheat.
+21:51  So you can see basically that, so this blue line is wheat of customer 1 and this red line
+22:00  is wheat of customer 2.
+22:03  So you can see basically that wheat customer 2 is supposed to have higher income but the
+22:09  curve for customer 2 for wheat is lower than the curve for customer 1 for wheat.
+22:17  So that means that wheat is an inferior good.
+22:18  We discussed this, wheat is an inferior good.
+22:21  Even though the income has gone up, actually the demand has come down and this is the supply,
+22:27  this is how the supply is going.
+22:28  Now if there were no customer 2, there are only customer 1, this is customer, so blue
+22:35  and red are coinciding here.
+22:36  If both only customer 1 is there or only customer 2 is there, both the customers are not there
+22:42  then the solution is going to be this point.
+22:46  This will be the equilibrium point.
+22:47  This is like 15 rupees wheat will be supplied at and 7 and a half kilos roughly of wheat
+22:58  will be sold in the market.
+23:00  There is only one customer is there.
+23:01  But because both customers are there, we got to add these two things.
+23:05  We got to add the wheat of customer 1 and customer 2.
+23:11  Right now we do not have, in this chart we did not have addition.
+23:15  So maybe that is what I should have done first.
+23:17  So let me just delete this chart.
+23:22  Let me delete this chart and let me add one more thing here.
+23:34  Call it total demand.
+23:37  Total demand.
+23:39  Now the total demand for wheat at this price point is obtained by taking the wheat for
+23:48  customer 1 and adding it to it the wheat of customer 2.
+23:53  So the demand of customer 1 and 2 together gives you the demand for wheat and clearly
+23:59  I can add like this, I can do this, it should give me the total demand.
+24:05  If I do like this, this is saying C3 plus F3, C3 plus F3.
+24:14  So I can also do it like this.
+24:16  So I can pull it this way also.
+24:19  That also should work and I should pull it down, that also should work.
+24:25  So I have got the total demand for wheat, rice and sugar over here.
+24:31  What I want to do now is maybe I will plot this whole thing.
+24:37  Let me insert a chart and take out what I do not need.
+24:47  This time I will do rice just for a change.
+24:49  We did wheat last time, let me do rice.
+24:51  So let me remove wheat and sugar.
+25:15  In fact I need, sorry what I did not do.
+25:22  What I should have done is rename this.
+25:27  Let us call it total.
+25:30  So T, let us call this T, this is the total demand and sugar total demand.
+25:41  Now let me insert this chart and then we will, we want to remove, I will remove, only
+25:59  I will keep the total demand.
+26:00  I will remove everything else.
+26:01  Let me remove wheat, rice, sugar of C1, wheat, rice, sugar of C2 and keep only rice, sales
+26:24  and rice total demand.
+26:30  So I have only rice, sales, this is the rice sales, this is the seller, seller's response
+26:37  to rice and this is the total demand for rice.
+26:40  So you can see here that they are crossing over here.
+26:45  So roughly around 20 odd rupees, 20 between 20 and 30 rupees somewhere is where the equilibrium
+26:51  is forming and you know about 12, roughly about 12 kilos or something of rice is getting
+26:58  sold.
+27:00  So what you can do is you can form pictures, you can form the aggregate demand of the thing
+27:06  and you can calculate using the aggregate demand and the sales start for wheat, wheat,
+27:10  rice, sugar you can find out what the equilibrium point is and then determine how much price,
+27:15  at what price, what quantity will get sold.
+27:19  So this exercise you can carry out on your own.
+27:24  So this ends the segment.

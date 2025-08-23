@@ -1,0 +1,276 @@
+00:00 foreign
+00:03 [Music]
+00:26 looking at the data
+00:28 the data is very rich he's given us four
+00:33 uh basic sheets okay
+00:35 there is a sheet that he is calling the
+00:38 SKU Master huh
+00:41 so the SQ master has uh five uh five
+00:45 sort of columns or five items for each
+00:48 SKU
+00:50 first is it tells you the name of the
+00:53 hko m01 m0 to F 0 3 and so on and he's
+00:60 given us data I think for about 30
+01:02 skills okay so 10 from M type so M 0 1
+01:08 to M times 10 mobiles 10 mobile 10
+01:11 mobiles
+01:12 uh 10 fmcg products so it could be soap
+01:16 it could be toothpaste it could be any
+01:18 of these and uh 10 lifestyle products so
+01:22 that could be closed it could be
+01:23 lipsticks it could be you know uh vanity
+01:27 products things like that
+01:29 uh and he has grouped these products uh
+01:33 as you if you remember he was saying
+01:35 that they have three business units
+01:38 called mobile fmcg and lifestyle okay my
+01:42 friend yes so that's where the m f and L
+01:45 in the nomenclature comes from so you've
+01:47 got uh three uh three uh business units
+01:51 each business unit appears to have 10
+01:54 skus each okay right so you've got m one
+01:56 to M ten f 1 to F ten and L one to L ten
+02:01 now for each SKU he has a brand
+02:05 he has a model and he has a price
+02:09 so M1 which is a phone
+02:12 is made by a brand called real you
+02:15 um
+02:17 yeah it's a synthetic name clearly the
+02:21 model number is ru10
+02:23 and each phone of this model sells at 12
+02:27 000 rupees okay and you can see that
+02:31 there is some variation in the prices
+02:32 all right something is concerned this is
+02:34 the one that I think the CFO was saying
+02:36 saying why am why are we not getting
+02:38 stocks of
+02:39 say obviously something moving very high
+02:42 fast possibly but sweet spot but the
+02:45 supply chain is also doesn't seem to be
+02:46 coming through okay so maybe there is a
+02:49 shortage of chips or something right so
+02:51 let's find out yeah let's see what's
+02:52 happening to this yeah but it's also
+02:54 interesting to see GB just take a look
+02:57 at how much variation in price there is
+02:59 foreign
+03:09 at the other hand M10 is 60 000.
+03:14 yeah there are premium phones M9 that is
+03:16 fifty five thousand fifty four thousand
+03:18 so there are premium phones
+03:23 right entry points is eight thousand so
+03:25 there's a lot of variation and so going
+03:28 back to some of the questions that omkar
+03:29 was asking you know uh what squs are
+03:33 giving me a lot of Revenue versus what
+03:36 SK us
+03:38 maybe I shouldn't stock somehow correct
+03:41 yeah yeah yeah yeah isn't it or I should
+03:44 talk more of some of these yeah okay
+03:46 okay yeah yeah
+03:48 so so this is the data that he's given
+03:51 us in the form of what he calls the SKU
+03:54 master
+03:55 and uh so I would expect basically that
+03:57 uh
+03:58 the high Revenue ones are m
+04:00 because the numbers are very becoming
+04:02 well whereas the prices are very big huh
+04:06 prices are very high yes whereas the
+04:08 high volume things are the fmcg ones F's
+04:10 correct that would be intuitively what
+04:13 we would think right because
+04:15 yes uh but uh
+04:19 L I don't know it will be sorry see if
+04:22 we look at the frequency right
+04:24 it is very possible that you buy soap
+04:26 maybe once in two weeks
+04:29 a shirt you may buy one only once in
+04:31 three months once in six months you know
+04:33 three years once in a year but a phone
+04:36 you may buy only once in three years
+04:38 correct correct yeah yeah so the
+04:40 frequency of purchase is going to be uh
+04:43 very different across the three but the
+04:46 prices but the prices are also very
+04:47 different okay you actually end up
+04:49 spending more on so you don't know
+04:50 possibly possibly
+04:53 more than maybe I don't know who knows
+04:55 how much is well if you look at if
+04:58 you're the kind of person who buys 8 000
+05:00 rupee phone
+05:02 then you may actually be spending more
+05:04 three years isn't it quite possible
+05:07 quite possible yeah yeah
+05:09 because you look at this see even if you
+05:11 take the cheapest fmcg item
+05:14 and I think this is some Vedic
+05:17 uh what is it with the
+05:20 cream cream or Vedic shampoo shampoo 290
+05:24 rupees yeah 3600
+05:33 yeah that's true that is true yeah yeah
+05:36 very true isn't it yeah
+05:38 they're comparable actually look at it
+05:40 that way
+05:42 okay
+05:43 over an extended period of time yeah but
+05:46 at that instant you are probably
+05:47 spending a whole lot of money on the
+05:49 phone correct and at that point you
+05:51 think you're only spending 390 rupees or
+05:53 290 rupees on shampoo correct right yep
+05:57 but cumulatively and that is really what
+05:59 fabmart is more interested in
+06:01 uh possibly these spend on fmcg is
+06:06 similar to the spend on phones let's
+06:08 find out let's see what the data says
+06:10 okay
+06:11 foreign no we've only got 15 days data
+06:15 but one way to look at the data one way
+06:20 one will say I will look at it over
+06:22 Thousand Days the other way to look at
+06:24 it is I will look at what thousand
+06:26 people are buying today
+06:28 and you should hopefully get the same
+06:30 behavior ah I say oh okay because the
+06:32 volume okay volume you can make out okay
+06:34 so even though you don't have Thousand
+06:36 Days data you have data about thousand
+06:38 people buying
+06:40 okay many purchases in one small period
+06:43 can give you similar Insight similar
+06:45 Behavior hopefully okay okay all right
+06:49 let's see the next sheet
+06:53 sheets names I think omkar was referring
+06:55 to these these seem to be his standard
+06:58 jargon right and that that is used in
+07:01 his industry the second sheet he has is
+07:04 sales data
+07:06 and what does the sales data tell you
+07:09 the sales data tells you let's just take
+07:11 this first row
+07:14 ah what this sales data tells you is
+07:17 that oh I think I have done some
+07:19 filtering let me just remove the filter
+07:21 so if you take the first row it's
+07:23 telling you on first of April 2021
+07:28 the mobile phone m01
+07:31 sold 26 units in Hyderabad
+07:35 I see
+07:37 okay actually that's not correct to say
+07:39 that it sold 25 units in Hyderabad
+07:42 26 units of that phone were shipped from
+07:46 the Hyderabad Distribution Center
+07:48 I see on First on first of April okay so
+07:52 now if you go down
+07:54 uh you will get a movement data you're
+07:56 saying basically how much is more how
+07:57 much was sold sold from or shipped out
+08:00 from uh
+08:02 now if you go down you will see on 2nd
+08:05 of April
+08:07 so many units of uh
+08:11 so on 2nd of April
+08:13 so many units of f 0 1 which is probably
+08:17 some shirt or something nine units
+08:19 operation were shipped from interest
+08:21 Distribution Center
+08:23 okay yeah so he's given us for each day
+08:27 for each City for each SKU
+08:30 how many units were shipped of that SKU
+08:33 from that Distribution Center hear it
+08:35 yeah we know its price we can calculate
+08:37 okay
+08:41 sirs
+08:43 opening stock
+08:46 so this tells
+08:47 tells on first April
+08:50 2021
+08:52 when I opened my warehouse at nine in
+08:56 the morning
+08:57 how many units were there in the
+08:60 Warehouse
+09:01 so what is telling each of them in each
+09:03 of the warehouses so what are you saying
+09:05 on first April 2021 at 9 am
+09:09 I had 391 units of f01 in Hyderabad
+09:12 Hyderabad is the mother so yeah correct
+09:14 yeah so you just talked more
+09:16 so he had 77 units in Cochin and he had
+09:20 50 units of f 0 1 in Madras okay
+09:24 and he's given us this data for
+09:28 okay this is a static picture this is
+09:32 awesome what existed on first of April
+09:35 2021
+09:37 at 9am
+09:42 the final sheet that he has given us is
+09:46 a little bit more dynamic okay okay so
+09:50 what this tells you is on 1st of April
+09:57 the Cochin so this is he's first of all
+10:00 given us data for Cochin and Madras he
+10:02 has not given us data for Hyderabad okay
+10:04 okay
+10:05 these are the forward BC's these are the
+10:07 forward DC's so what he has told us is
+10:11 that on
+10:12 first of April the Cochin Distribution
+10:16 Center
+10:17 got 10 units of f01 where did it get
+10:21 those 10 units from presumably it got
+10:24 those 10 units from the Hyderabad DC
+10:26 okay okay because what omkar was
+10:29 explaining is that all orders to
+10:32 suppliers are placed from centrally
+10:35 placed so suppliers will supply to
+10:39 Hyderabad Hyderabad will send it to
+10:42 Chennai or to Madras or to Cochin okay
+10:45 so it says first April 10 units moved
+10:48 from Hyderabad to two
+10:50 of f01 like that twenty one five units
+10:53 of f02 yeah so it looks like there's a
+10:56 truck which goes from Hyderabad to one
+10:58 or many correct which go from Hyderabad
+10:60 to Madras every day and in that they
+11:01 pack
+11:02 various various things
+11:13 correct okay so this is the data that
+11:19 okay
+11:20 okay
+11:23 this finishes that first lot of data
+11:25 this one will be how many entries will
+11:26 be there so like this there are 15 days
+11:28 so this is
+11:29 30 30 rows
+11:32 and there are 15 days for each uh
+11:37 forward DC so you have
+11:39 for each DC so 450 per C and 450 for it
+11:43 no no no
+11:44 for each DC there are 15 columns and 30
+11:48 rows so there are two huh so 30 no so
+11:52 there are 900 Essentials 450 for each DC
+11:55 450 plus 450 900 yeah totally correct
+11:57 stock transfers oh my God okay the cheat
+12:01 okay but what you are saying is correct
+12:04 actually you should not look at it as uh
+12:07 900 stock transfers probably what is
+12:10 happening is one truck is going from
+12:12 Hyderabad to Madras every night one
+12:15 truck is going from Hyderabad to Cochin
+12:17 every night and this is and what you are
+12:19 seeing in one column
+12:21 is what are all the items that got put
+12:23 into the truck yeah that's the source of
+12:27 this data probably that's must be the
+12:29 source of the data correct
+12:31 right yeah so 30 trucks moved 15 trucks
+12:34 went from Hyderabad to Cochin 15 trucks
+12:37 went from Hyderabad they only wanted one
+12:39 record right in this case in this case
+12:41 this this data yeah so instead of
+12:43 thinking of it as 900 entries yeah you
+12:45 have to think of entries for 30 trucks
+12:47 yeah yeah
+12:50 okay that's right yeah
+12:52 okay yeah
+12:54 okay so that's the data that's the data

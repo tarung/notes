@@ -1,0 +1,279 @@
+00:00 [Music]
+00:16 so this this right uh ship basically um
+00:20 responds to your question on
+00:23 breakdown of the revenue by region north
+00:26 east west and south
+00:28 you try to compute the total revenue for
+00:30 19. for that we have only one quarter
+00:32 data so we have done it for that one
+00:34 quarter
+00:36 and
+00:36 relating i mean you've given us the data
+00:38 actually and then we have seen
+00:40 how to compute from there
+00:43 potentially the number of agents
+00:46 i mean we did a very simple thing the
+00:48 absence of any rule
+00:50 we just put a
+00:53 target for each of the agents
+00:56 in terms of sales sales targets
+00:58 and then based on that we computed the
+01:00 number of agents
+01:03 so
+01:04 uh that gave us some agents so it said
+01:06 four agents for the north four regions
+01:08 for the east
+01:09 two for the west and four for the south
+01:13 uh
+01:14 for some reason west seems to have lower
+01:16 revenues you can see that in the next
+01:18 figure also right
+01:20 next
+01:22 yeah
+01:23 so west seems to have
+01:25 i don't know why west has lower revenues
+01:27 considering that
+01:28 what you mentioned pune bombay being one
+01:30 of the clusters
+01:32 uh so maybe i mean you can respond to
+01:35 these
+01:36 charts
+01:38 yes
+01:39 that's yeah yes absolutely it's a good
+01:41 analysis where we're looking at regional
+01:44 regional revenues and the focus right so
+01:48 uh we can see that on those three months
+01:50 of the quarter right definitely it
+01:53 appears like the eastern region is is
+01:55 quite high and so it's uh
+01:58 the northern region uh and this depends
+02:00 on the particular mix of customers for
+02:02 this particular uh company ace years
+02:05 they do a lot of business with some of
+02:07 the oems that have big manufacturing
+02:10 presence in
+02:11 the east like jump ship pool cluster and
+02:13 also you know
+02:15 in the panthnaga
+02:16 auto cluster so that's why you see
+02:19 somewhat higher and of course they do
+02:20 have supply to the south they don't
+02:23 particularly have a strong customer base
+02:25 in the west although it is an important
+02:28 sector for auto industry so that's
+02:30 something they have to work on right
+02:31 this also shows
+02:33 the previous previous slide
+02:36 so
+02:38 here we have just simply divided the
+02:40 revenue by
+02:42 some
+02:43 number target and we have got that four
+02:45 two four and four
+02:47 but strictly speaking when you do
+02:49 planning one would probably think that
+02:51 we should put more agents invest because
+02:53 that's where you want to increase the
+02:54 sales right
+02:55 yes
+02:56 yes i think this is uh probably and yeah
+02:59 we could look at a different basis i
+03:01 think the way
+03:03 uh that
+03:04 was worked out by the teamers they said
+03:06 look uh we will give we will appoint
+03:09 agents
+03:10 where based on the on the existing sales
+03:12 quantity to make sure the customer
+03:14 services
+03:15 is improved and all that and i think
+03:18 for every 4 000
+03:20 units they wanted to find one agent
+03:23 something like that right so that's
+03:24 that's what the distribution is
+03:27 this is i think
+03:29 yeah yeah
+03:31 the
+03:31 agent is actually to grow new business
+03:33 not just take take care of existing
+03:35 business then we should probably focus
+03:38 more on the westward there is a good
+03:40 base manufacturing auto industry and we
+03:43 don't yet have good enough sales right
+03:46 so the sales agent should actually be
+03:48 higher but this could be like customer
+03:50 service agents who are just taking care
+03:51 of
+03:52 existing business like making sure that
+03:55 the the shipments are reaching on time
+03:57 and logistic issues are worked out and
+03:59 invoicing is handled properly
+04:02 and collections are handled properly
+04:04 those types of things
+04:06 so in sales they they use the term
+04:08 hunters and farmers
+04:10 yes yes exactly so this is this is more
+04:13 like farming this is like maintenance
+04:15 maintenance of existing customers
+04:18 whereas if you want to hunt or you want
+04:19 to find open up new customers
+04:22 then you need to add on top of this some
+04:24 additional agents in the west
+04:25 specifically for hunting
+04:28 absolutely very good inside there
+04:31 and this could be a recommendation to
+04:32 the management
+04:37 okay we we
+04:39 uh also you should wanted your uh
+04:43 advice so we did look at this data in
+04:46 two different visual representations
+04:48 uh
+04:50 a bar chart a side by side or a stacked
+04:53 bar chart and
+04:54 which do you think makes more sense
+04:57 from a management perspective
+04:60 i like this one that you're seeing right
+05:02 now right the stacked one because it it
+05:04 is simpler for me to visualize there's
+05:06 not so many bars on the page
+05:08 and it also gives me
+05:11 the insight into how is it actually
+05:13 broken down by region so you're you're
+05:15 using fewer
+05:17 uh objects in the chart but still
+05:19 representing the same richness of
+05:21 information so from a visual
+05:23 representation perspective our goal is
+05:25 always
+05:26 to convey the most insight
+05:29 with the with the least crowded
+05:32 chart right so so i always
+05:34 thought that look very simple but convey
+05:37 lots and lots of different insights
+05:40 uh by looking at a very simple
+05:41 uncluttered kind of a presentation uh of
+05:45 the data right so i like this one versus
+05:47 the other one which had um i think
+05:50 it does little bit cluttered no this
+05:52 this does seem a little fluttered
+05:55 exactly
+05:58 yeah
+05:59 yeah
+06:01 in fact if you see the the total is also
+06:03 conveyed with the same so you don't need
+06:05 the separate line because
+06:07 in this chart
+06:08 the the the additive of all the four
+06:11 slices is clearly visible whereas the
+06:12 top of each bar i i can just see that
+06:15 versus looking for a line right
+06:18 so it's very uncluttering
+06:21 right
+06:23 yeah
+06:25 yeah
+06:26 so i think that is an interesting
+06:29 learning you know when you're trying to
+06:31 visualize the data it's important to
+06:34 play around with a couple of formats and
+06:36 try and select a format which is
+06:38 least cluttered but conveys the most
+06:40 information i think
+06:43 that is that's a good learning from
+06:46 this slide
+06:48 absolutely and sometimes what you will
+06:49 find and what i have found from my
+06:51 experience is sometimes you get into
+06:53 complex topics there is so much
+06:55 information to be conveyed right and you
+06:57 and you may sometimes only get
+06:59 one slide
+07:01 to actually convey because it's a top
+07:02 management presentation we have only
+07:04 five minutes you can only put in one
+07:06 slide but you want to convey like i
+07:09 don't know five different insights or
+07:11 six different insights
+07:13 that is the science and the art right
+07:14 like how do you create a chart that is
+07:17 uncluttered
+07:18 it uses uh
+07:20 very few structures right but yet at the
+07:23 same time manages to convey
+07:25 uh all of those insights in that one
+07:27 slide
+07:29 so that's a very important um
+07:32 uh skill that uh people in the data and
+07:35 analytics field need to need to pick up
+07:37 it's a visual representation of
+07:38 information and how do we excel in that
+07:41 uh in that aspect
+07:43 so shave on the slide one with the
+07:45 percentages the stack graph is the
+07:46 percentage on the right one
+07:48 we can see basically that the north
+07:50 region the percentage contribution has
+07:52 been relatively stable
+07:55 cluster whatever you said right yeah but
+07:57 if you see that some things have
+07:59 declared some things are increased
+08:01 actually percentage-wise yeah i absolute
+08:04 number i don't know i'm saying
+08:04 percentage-wise so if you look
+08:07 in some sense it looks like uh there has
+08:09 been
+08:10 some compensation between east and west
+08:13 so some reduction has happened in the
+08:15 east and it has got compensated by an
+08:18 increase in this or something like that
+08:20 yes
+08:22 yes that is true i think what has
+08:24 happened there is probably
+08:26 some kind of
+08:27 shutdown or labor issue or something in
+08:30 the east
+08:32 which may have contributed in december
+08:34 to a to a much lower output
+08:37 there
+08:38 so you see only 18
+08:40 so it went from 71
+08:42 um
+08:43 uh to 34 right from a quantity since
+08:46 almost half
+08:48 and uh
+08:49 and in the west actually it went up so
+08:52 probably you know maybe you know
+08:55 some winning some additional customers
+08:57 and the rest may have happened and then
+08:59 some issues in the existing customer
+09:01 base may have happened in the east which
+09:03 results in
+09:04 a reduction of
+09:07 orders followers they may have
+09:08 prioritized one customer in one month
+09:10 then another customer in another month
+09:12 does it happen
+09:14 yes but also remember another thing
+09:16 that's happened during this time is the
+09:18 reduction of bs6
+09:20 sorry bs4 uh rather the final
+09:23 final leap of bs4 so there was a hump if
+09:26 you remember of bs opponents that the
+09:29 east based probably the customers were
+09:31 the ones that were trying to
+09:33 pump as many way possible
+09:37 so if they need to sell by march they
+09:39 need to probably need the components in
+09:41 october
+09:42 so they may have in a rush of orders
+09:44 during that time that then
+09:45 slowed down by december
+09:49 okay
+09:52 so this these are really interesting
+09:53 right how these charts can really make
+09:55 us
+09:56 uh draw the equal and
+09:59 what happened in the business and why
+10:01 therefore the charts are showing the
+10:03 numbers are showing so these are really
+10:06 excellent
+10:07 ways to prompt such discussions right

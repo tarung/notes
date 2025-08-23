@@ -1,0 +1,312 @@
+00:00 foreign
+00:04 [Music]
+00:18 introduction to Pivot tables so far
+00:20 we've done a lot of we've looked at this
+00:24 data for quite some time and we've
+00:26 looked at interesting ways of analyzing
+00:29 this data
+00:30 but there are
+00:32 lots of things that we seem to be having
+00:35 to do manually right so
+00:38 let me
+00:40 ask a very simple question how many CS
+00:43 students got an A Grade remember we did
+00:47 countif and using countif we were able
+00:51 to figure out that ah
+00:55 here is what we did
+00:57 and let me do that again
+01:00 so I said countif
+01:04 and
+01:24 and then I should do this as absolute
+01:40 okay so I know how many students got any
+01:43 I know how many students got a B how
+01:46 many students got to see how many
+01:47 students got a deal right
+01:49 uh first of all I needed to do this in a
+01:53 very painful way I needed to first know
+01:55 that students could only get a b c d
+01:58 uh and more importantly there is no
+02:00 elegant way of extending this right so
+02:02 if I wanted to figure out uh how many CS
+02:06 students got any
+02:08 okay
+02:09 or how many ECE students got a BC
+02:12 how many godavari students got any okay
+02:16 I want to analyze by hostel there are
+02:19 very many different ways in which I may
+02:21 choose to analyze uh this data
+02:25 by looking at correlations between
+02:28 different fields right each of these
+02:32 columns is called a field
+02:33 and each row is called a data item so I
+02:38 want to look at correlations between
+02:40 these data fields and that is going to
+02:44 be very very challenging if I have to do
+02:47 it by hand
+02:48 now the good thing is that Excel has
+02:50 given us a very very powerful tool and I
+02:53 want you guys to understand this tool
+02:56 very carefully because
+02:59 80 percent of what you are going to
+03:01 learn in this course is just going to be
+03:03 pivot tables right so the tool is called
+03:06 pivot table
+03:08 and what the pivot table allows you to
+03:10 do is to explore correlations between uh
+03:14 different uh Fields uh
+03:19 as we uh
+03:21 that are available in the data set so
+03:24 first thing you do is you pick the data
+03:27 that you want to analyze so I want to
+03:28 analyze the data that I have selected
+03:30 here right so I'm going to analyze this
+03:34 table
+03:35 and
+03:36 insert a pivot table
+03:39 right
+03:41 so I say from this data and it's picked
+03:45 up the data that I want which is a
+03:48 dollar a dollar two up to Dollar K
+03:51 dollar 32
+03:52 and I'm gonna put this analysis in a new
+03:55 worksheet
+03:58 okay
+03:60 so a pivot table
+04:02 consists of uh
+04:05 four sort of broad areas it's got rows
+04:09 it's got columns and it's got values and
+04:12 then it's got something called filters
+04:13 which will come to later okay so it
+04:15 looks very much like a worksheet except
+04:18 that it is a worksheet that I have
+04:20 created by looking at data in another
+04:22 worksheet right so let's first ask the
+04:25 question how many CS students how many
+04:27 EC students do we have
+04:29 so for that what we do is we say I want
+04:33 rows to be Department right so what do
+04:37 we get here the moment I dragged the
+04:40 field rows
+04:41 so this is called a pivot table designer
+04:44 you drag
+04:46 a field from this list of fields into
+04:49 rows you can see that now I have two
+04:52 rows Cs and EC
+04:56 and what do I want here I want the
+04:58 number of students who have this
+05:00 department right so I'm going to drag
+05:03 roll number here
+05:05 and some funny thing came up right so
+05:08 what this is now showing me is the sum
+05:11 of the Roll numbers of students who have
+05:14 CS Department which is not what I want I
+05:17 want this summarized by count because I
+05:21 want to know how many
+05:23 students
+05:25 have what is the number of count of roll
+05:29 numbers where the students department is
+05:32 CS
+05:33 so that is what this design here is
+05:36 showing me
+05:37 the rows are departments and the values
+05:41 are count of roll number
+05:44 okay
+05:46 now I want to know I could do more
+05:48 things right I could do let us say
+05:52 uh
+05:55 how many instead of looking at how many
+05:59 students in a department so there are
+06:02 totally 30 but I want to look at grades
+06:05 okay so if I say how many grades are
+06:08 there a b c d and count of roll number
+06:12 will tell me how many students have an A
+06:14 how many students have a b how many
+06:15 students have a c how many students have
+06:17 a d and again you can see that this is
+06:21 exactly the same calculation sorry that
+06:24 I had done here using
+06:26 countif but now I was able to do this
+06:30 far more easily right similarly if I go
+06:35 back and instead of doing this ah
+06:39 if I just did the department thing
+06:44 I've got 14 in CS and 16 in EC remember
+06:49 we had done the same thing with filters
+06:51 right we had done this with
+06:54 filters
+06:56 so I could say
+06:60 if I just said CS
+07:04 and then selected this
+07:07 you can see here that this 14
+07:10 same thing if I did instead of Cs I did
+07:13 ECE
+07:16 then I've got 16. so again this was
+07:19 something that I could have done with
+07:20 filters but it would have been very
+07:22 difficult to do I would have to keep a
+07:24 lot of track of data manually here using
+07:29 an Excel sheet I am able to do using a
+07:31 pivot table I am able to do it almost
+07:33 automatically right
+07:35 now
+07:37 I want to know how many students are
+07:41 there in
+07:43 each hostel right so I could do that as
+07:46 well
+07:53 hey but I don't want hostile number
+07:54 right I want hostile name
+07:59 so
+08:01 godavari has eight students kaveri has
+08:04 five sarayu has six yamuna has eleven
+08:08 and I think we don't have any students
+08:10 from
+08:13 which hostel one hostel we don't seem to
+08:16 have any students right
+08:18 let me clear the filter so we don't have
+08:21 any students from kaveri Maybe yeah no
+08:24 we've got students from kaveri uh
+08:27 godavari kaveriu yamuna
+08:32 oh yeah that's because we've messed
+08:35 around with this so let's redo this
+08:38 okay so now
+08:41 the data here is changed right
+08:44 the pivot table will not have changed
+08:46 what you need to do is go and right
+08:49 click so if the underlying data changes
+08:51 the pivot table doesn't change
+08:53 automatically what you need to do is to
+08:55 go into the pivot table area
+08:57 right click
+08:59 and you will see a option called refresh
+09:03 if you refresh the pivot table now you
+09:05 see that we have eight students from
+09:08 Ganga three from yamuna 6 from sarayu
+09:12 five from kaveri and eight from godavari
+09:15 right
+09:16 and as data changes uh it is now I no
+09:20 longer need to do any manual calculation
+09:22 again and again
+09:24 uh
+09:26 and keep you know so pivot tables will
+09:29 do it all automatically for me
+09:33 now
+09:35 having done that much I now want to
+09:38 figure out
+09:40 how many students are there in godavari
+09:44 from Department
+09:47 from each department right now there are
+09:50 two ways that I can do this okay one is
+09:52 that I can just drag this department
+09:55 field
+09:56 into rows under
+09:59 hostel
+10:01 so now what is this data telling me
+10:03 godavari has a total of eight students
+10:06 out of which four are from CS and four
+10:09 are from ECE
+10:12 right
+10:13 kaveri has five
+10:15 out of which
+10:17 one is from CS and four are from EC
+10:20 sorry you there are again six students
+10:23 two are from CS and four are from EC
+10:26 yamuna doesn't seem to have any easy
+10:28 students it has three ECS students and
+10:31 ganga has four each from CS and EC
+10:34 but this is not a very nice way of
+10:37 looking at it right what I would have
+10:38 really liked is a table in which rows
+10:41 are hostels and columns are departments
+10:44 and that is where this third area in
+10:47 Excel sheet in the work pivot table
+10:49 comes from so instead of dragging
+10:51 Department under rows let's say a drag
+10:54 Department into columns
+10:57 and
+10:58 voila you can see what happened so now
+11:01 this tells us very clearly in godavari
+11:04 we have four CS students and four EC
+11:06 students
+11:07 in kaveri we have 1 and 4
+11:10 we have two and four in yamuna 3 and 0
+11:14 and ganga 4 and 4. now I could do other
+11:17 things right instead of looking at
+11:19 uh Department I could say
+11:23 you know which hostel has done the best
+11:27 in terms of great
+11:30 right and while this may be a boring
+11:32 thing to look at just imagine you could
+11:34 be doing the same calculation on let us
+11:37 say the results of a sports meet and you
+11:39 want to know which hostel won the
+11:41 general Championship right
+11:43 so you can see that
+11:46 only one student got an A and she was in
+11:49 godavari
+11:51 five students in godavari got a B and
+11:56 two got a D so out of the eight students
+11:59 in godavari uh
+12:01 one got a a five got B's and two got
+12:05 these
+12:08 kaveri
+12:09 uh four students got to be
+12:12 one got and one got a C
+12:14 Sarah you five got a B and one got a C
+12:18 yamuna one got a B and two got C's and
+12:22 ganga five B's two C's and One D okay so
+12:27 you've got now a picture of how you can
+12:30 get grades uh you can I could have as an
+12:34 example instead of hostel I could have
+12:36 just gotten grades by Department as well
+12:39 right
+12:40 so it tells you that once year student
+12:43 got an A no ECE student got a
+12:47 but a lot of EC students seem to have
+12:50 got uh
+12:51 Beach right the bulk of VC students 14
+12:54 out of 16 have got Beats so so
+12:58 a lot of analysis a lot of data Cuts you
+13:02 are able to get
+13:04 uh almost for free once you've built a
+13:07 pivot table you're able to drag data
+13:09 around
+13:11 and play around
+13:13 right so this is a very very powerful
+13:17 Tool uh I would encourage you to get
+13:20 very comfortable with this tool
+13:23 uh now let's look at something more
+13:26 right
+13:27 let's look at uh
+13:31 if I look at
+13:34 I want to know how many CS students are
+13:37 there
+13:37 and what is the split of grades by
+13:41 hostel okay so notice here that you've
+13:45 got departments all and I'm not
+13:47 interested in all departments so this x
+13:50 fourth region here in the design is
+13:52 called a filter suppose I want to look
+13:55 only at CS students okay
+13:57 so
+13:58 I could say
+14:01 only show me CS
+14:04 okay
+14:06 and now if I say only CS
+14:09 then it's showing me oh I have taken
+14:13 hostile number I should not have taken
+14:15 hostile number I should have taken
+14:16 Hospital name
+14:18 so it's showing me
+14:20 the breakup of hostile name versus
+14:24 grades
+14:26 right so any sort of cut I can play
+14:30 around uh
+14:32 so a very very powerful very rich Tool
+14:37 uh bulk of our conversation in this
+14:41 course is going to be taking large data
+14:44 sets and analyzing it using pivot tables
+14:48 I would therefore encourage you to get
+14:51 very comfortable play around with data
+14:54 sets
+14:55 that will be given to you and see how
+14:60 you can understand the data
+15:05 end of segment three

@@ -1,0 +1,552 @@
+00:00 foreign
+00:04 [Music]
+00:15 Market
+00:20 and some idea of
+00:22 I mean I don't think that correlation
+00:24 between you tend to buy and finance
+00:28 was so good but we got some idea that
+00:31 people who borrow
+00:33 borrowings
+00:35 are likely to borrow more to buy it okay
+00:38 that's fine
+00:39 so
+00:41 um somehow going down this path of
+00:43 looking at consumer
+00:45 information it's purchasing decisions
+00:47 information and then trying to figure
+00:49 out
+00:50 patterns of lending and all
+00:53 is a little far-fetched I think there
+00:55 should be a direct way of doing it by
+00:56 going directly to the other side
+00:59 where are the loans coming from it's
+01:00 coming from certain kinds of financial
+01:02 institutions which land right so can't
+01:04 we just take data that is originating
+01:06 from financial institutions sure
+01:08 production data producer data but so
+01:11 wherever originations are there where
+01:12 are Finance where are loans are
+01:14 originated
+01:15 and surely these things are getting
+01:17 reported somewhere right civil score
+01:18 there are these credit rating scores
+01:19 there are various places where loan
+01:21 information gets reported so if you can
+01:23 collect data from that origination data
+01:26 loan origination data it may have very
+01:28 few Fields that's correct okay right
+01:30 suppose we get hold of data like that
+01:32 and stare at it for some time you're
+01:34 getting a picture you got a this side
+01:35 picture okay get a picture of that side
+01:37 you're going to demand side picture
+01:38 you've got a demand side picture now
+01:40 you'll get a supply side picture and
+01:42 that together they will you know give
+01:45 you a much better view of what's going
+01:48 on in this industry right so you want to
+01:50 understand basically what kind of
+01:51 lending is going on in the marketplace
+01:53 so people will be willing to share this
+01:55 data GB for study purposes samples you
+01:58 can always get okay okay right you can
+02:01 always get samples such sample data you
+02:03 can get okay with Anonymous of course
+02:05 people share
+02:07 and they do share because they share
+02:09 because they people credit scores and
+02:11 all that have to be prepared so
+02:11 everybody's lending has to be stated
+02:13 right with the credit score credit
+02:14 agency credit rating agency
+02:17 so
+02:18 um and I think even uh government RBI
+02:21 also mandates I think some models
+02:24 of loans right because they calculate
+02:28 which loans are potentially going to
+02:29 become non-professionals yeah yeah okay
+02:33 makes sense so
+02:35 um
+02:36 so assume you have some origination data
+02:39 sure
+02:40 then we can hopefully study it and make
+02:43 a better picture it that makes sense
+02:44 right yeah
+02:46 so I understand that we have such such a
+02:48 data yes we've got one data set huh so
+02:51 maybe we should look at that data set
+02:52 okay it doesn't have you know compared
+02:54 to the previous data sets it's a
+02:56 somewhat it has lots of rows but fewer
+03:00 columns okay okay so if you look at the
+03:02 row is what one row is one is one loan
+03:05 one single loan yeah I think we have
+03:07 like almost eight thousand information
+03:09 about eight thousand loans yeah it's a
+03:11 lot that had a few number of rows more
+03:12 colors
+03:14 I see yeah
+03:16 because that was this is also a sample
+03:18 but it's a bigger sample
+03:20 that was a smaller sample ah
+03:23 but it has only some 11
+03:26 columns okay okay
+03:29 so the First Column is loan ID
+03:32 which is like a unique ID of uh each
+03:36 load each load right so that the lender
+03:39 can keep track
+03:40 of you know Melinda has borrowed 10 lakh
+03:44 Rupees to buy a house kind of thing um
+03:47 the second is the second and third
+03:51 columns have to be read together right
+03:53 so it tells us when the loan was given
+03:56 was first given
+03:59 so if it says Q 1 F by Twenty it means
+04:01 given as April to June of yeah so so FY
+04:04 here means Financial year
+04:07 Financial year in India begins on April
+04:10 1st
+04:11 and ends uh March 31st so FY 20 would be
+04:16 the year ending 31st March 2020 so it's
+04:21 actually April 2019 to March 2020.
+04:27 okay so q1 FY 20 and it Financial year
+04:31 is divided into four quarters of three
+04:33 months see three months each
+04:35 so q1 FY 20 is actually 2019 is yes it
+04:39 is April May June of 2019.
+04:45 Q2 FY 20 is
+04:48 July August September of 2019
+04:51 Q3 FY 20 would be October November
+04:56 December of if 2019 and Q4 FY 20 would
+05:00 be January February March 2020. now we
+05:04 have finally committed to indeed okay so
+05:06 if I so when you say FY 20 it basically
+05:09 means April 2019 to March 2020 correct
+05:12 all right that's clear okay
+05:14 [Music]
+05:15 um
+05:16 then there's a thing called segment
+05:17 segment so let's look at what is segment
+05:20 of loan right segment of loan seems to
+05:22 be in three categories
+05:25 there are commercial loans commercials
+05:27 give it businesses given to businesses
+05:28 yeah to run a business to run a business
+05:31 it could be for trading it could be for
+05:36 [Music]
+05:42 like I might have done some Project work
+05:45 for you yeah and you'll pay me later
+05:47 correct meanwhile I have to working
+05:48 capital I have to take care yes right
+05:50 yes
+05:50 so for that I might need a lot of direct
+05:53 or I might just be exporting some thing
+05:56 money will come after three months after
+05:58 I ship it it'll reach there that guy
+06:00 will accept the product then only I'll
+06:02 get the money like that yes there will
+06:04 be some time period yes so these are all
+06:06 commercial loans or I might just buy
+06:08 some take the loan to manufacture
+06:10 something manufacturer
+06:12 I mean actually I have to I may even
+06:14 take a loan to set up a factory to set
+06:15 up a factory which is a capital capital
+06:18 purchase right so all of these are
+06:20 commercial yes and second big category
+06:24 is retail retail is a
+06:27 what we saw already correct you know
+06:29 buying a scooter so it could be buying a
+06:31 house
+06:32 buying a scooter
+06:33 uh going getting a degree getting a
+06:36 degree buying television or a
+06:38 refrigerator yeah yeah it could be a
+06:41 personal loan
+06:43 you may just take a loan to do something
+06:45 expense yeah right or uh for a wedding
+06:49 or something yeah
+06:52 you know it could be a loan because
+06:54 somebody fell ill
+06:56 no typically these kind of loans whether
+06:57 you do commercial or retail or whatever
+06:60 the lender will see different types of
+07:02 lenders are there but lender will
+07:04 be worried if he gives a larger ticket
+07:06 loan
+07:07 and he'll want to secure it securitize
+07:09 it right he will so myself TV is that
+07:12 commercial loans will typically be
+07:15 bigger tickets because businesses will
+07:19 borrow so if they are doing Capital
+07:21 purchase that means they're buying
+07:23 something and for which they need a loan
+07:24 then it is then the bank can basically
+07:27 just uh
+07:32 you're buying a
+07:35 uh machine which is worth three crores
+07:39 yeah bank will not give three crores it
+07:40 will say I'll give you two crores
+07:42 you put one crore and you buy the
+07:44 machine and uh if you don't don't pay
+07:48 I'll take back that machine and then
+07:49 I'll sell it in the market maybe I get
+07:51 to and of course and I get my money back
+07:52 correct right correct so that way the
+07:55 bank is reasonably
+07:56 insured that they can get their money
+07:58 back but in the case of uh similarly for
+08:01 land also House of the same place I can
+08:03 always yes mortgage I can take the house
+08:05 yes in case you don't pay the loan I
+08:07 will take away the house yes
+08:15 but in this case typically banks will
+08:18 see the contract they'll see the
+08:20 validity contract right so if you've
+08:21 basically got an export order
+08:23 and if it's from a well-known reputed
+08:25 company or if you got an order from Tata
+08:26 or something the repeated company okay
+08:28 it's a purchase order you have in your
+08:30 hand so against that the bank feels
+08:31 confident
+08:32 that if you can deliver it that the
+08:34 company will pay
+08:35 and against that they can get their
+08:37 money back so that's how they feel
+08:38 comfortable that something is there yes
+08:40 a contract is there but my guess is that
+08:42 alone like that probably has a slightly
+08:44 higher interest rate whatever I are
+08:46 interested they will look at your track
+08:48 record of repeating such loans then only
+08:49 they'll give you the loan level right
+08:52 ah retail is not like that but no retail
+08:55 of course if you're buying a scooter I
+08:56 can I guess
+08:57 you see I think if you're using it to
+09:01 buy an asset like a house or scooter or
+09:03 a car then there's no problem then there
+09:05 is still something you know it is an
+09:07 asset packing
+09:09 uh education a television or a
+09:12 refrigerator is a little bit you know
+09:15 even if the bank takes the refrigerator
+09:18 back who will they sell it they can't
+09:19 sell it
+09:25 take loans for weddings as an example
+09:27 it's unclear what's a retail loan so in
+09:30 this case you just have to go with the
+09:31 guy the track record of that person and
+09:33 whether he is employed he's getting a
+09:36 salary I look at the salary slip
+09:38 I get the confidence that this person
+09:40 has got an income
+09:41 but I think the other thing Banks also
+09:44 do gve is that as the loan becomes
+09:46 riskier
+09:48 they charge a higher interest rate
+09:51 so a mortgage is probably the cheapest
+09:53 retail loan that you can get a personal
+09:56 loan especially house yeah because they
+09:59 know what they can you know they know
+10:00 how they can recover the money they can
+10:02 just go take over the house the more
+10:03 there is interested
+10:07 okay it's interesting now unfortunately
+10:09 we don't have the interest rate data
+10:11 here but uh microfinance is the third
+10:13 category which basically is for small
+10:15 loans yes small shopkeepers small trade
+10:18 loans trade loans
+10:20 you know there's a vegetable guy who
+10:22 needs a thousand rupees
+10:26 or something okay take a microphone
+10:29 something like that classic actually is
+10:31 a shopkeeper who buys vegetables in the
+10:34 morning
+10:35 has to sell all of those vegetables by
+10:37 end of day and then he returns alone yes
+10:39 one day so essentially you've got a
+10:41 single dealer and it's small it's like
+10:43 probably 10 000 rupees not more than ten
+10:46 thousand very small ticket sizes all
+10:47 right okay so I think the category of
+10:49 loan is clear then there is some lender
+10:51 names
+10:53 so there are three lenders that we've
+10:55 got data for uh there's a company called
+10:57 Bajaj finserv there's a company called
+10:60 ICICI
+11:01 and there's a company called SBI State
+11:04 Bank State Bank so these are three
+11:05 categories the different types of
+11:06 lenders I think the State Bank basically
+11:08 is a public sector government Bank yes
+11:09 of course it's some shares are owned by
+11:12 the public but yeah it's majority owned
+11:14 by the government of India so it's a
+11:15 government bank and ICICI is a private
+11:17 bank
+11:18 but both are banks yes and then Bajaj
+11:21 finser is a company that belongs to a
+11:25 category called non-banking Finance
+11:27 Company it's not a bank non-banking not
+11:30 a bank they don't have banking license
+11:31 so strictly speaking non-banking finance
+11:34 companies can't take deposits okay Banks
+11:36 can take deposits so since Banks take
+11:38 deposits from you and me we put our
+11:41 savings in the bank deposits in the bank
+11:43 they take deposits and then these
+11:45 deposits they can create a pool of money
+11:48 then they can lend but non-banking
+11:50 finance company does not have deposits
+11:52 so they don't have a source of income a
+11:54 lot of money they don't have inflow
+11:56 you can lend money so they have to get
+11:58 the money from somewhere so nbfc might
+11:60 take the money from a bank and land it
+12:01 that's one possibility and BFC can take
+12:04 can raise money by corporate deposits or
+12:07 some other thing they have to do their
+12:09 own Innovative way of raising money or
+12:10 they have to borrow the money from a
+12:12 bank so they may borrow money from the
+12:13 bank at eight percent and lend it out
+12:16 and get this what is called net interest
+12:18 margin name of three percent are there
+12:21 and then try to survive on that so
+12:23 that's how the mbfcs operate sure so
+12:25 Bajaj Finster so I guess there are three
+12:26 examples
+12:28 some companies which represent three
+12:30 different categories correct they're not
+12:31 banking finance companies yes
+12:38 a type of loan
+12:40 type of loan can be agricultural loans
+12:43 loan for agriculture yes so as an
+12:45 example I would need to buy fertilizer
+12:46 fertilizers I need to buy seeds I need
+12:49 to buy insecticides yeah I need to I
+12:52 need to rent a tractor tractor tractor
+12:54 yes yes things like that things like
+12:56 that
+12:57 auto loans auto loans auto loans is what
+13:01 we have been discussing for a while so
+13:03 we understand business loans also we
+13:05 discussed right yeah
+13:08 commercial vehicle loan is an
+13:10 interesting it's an intersection of
+13:12 commercial loans and vehicle vehicle
+13:13 loans right yeah
+13:16 as an example or a water tanker or a oil
+13:19 tanker you know things like that correct
+13:21 bustles bus bus bus right school bus
+13:24 school bus and Runners yes yeah
+13:28 consumer durable loans we discussed you
+13:31 know television refrigerator air
+13:33 conditioners yes many of these people
+13:36 take on
+13:37 loan credit card now what is a credit
+13:41 card this is not actually a loan it's
+13:43 not a I mean it's a difference is it
+13:45 loan it's a it's a different it's a
+13:47 coming from the other side
+13:49 what do you mean in the sense that the
+13:51 others are
+13:52 objects for which loan is given
+13:54 commercial legumes for the vehicle
+13:55 you're giving a loan correct you're not
+13:56 giving a loan for credit no no no no no
+13:58 no no it's a mechanism of giving I don't
+14:01 know it is a mechanism of giving loans
+14:03 that are given via credit card correct
+14:06 small ticket or it could be travel for
+14:08 example mostly quite a few people to
+14:10 travel you know you'll buy Hotel uh
+14:13 vacation vacations
+14:18 you might do that
+14:20 with credit card
+14:22 education loan big one big one yeah very
+14:25 long gestation period right yes like
+14:27 home loan yes gold loan gold loan gold
+14:30 loan I think is when there is you place
+14:33 gold as a security and take it alone
+14:35 selected purpose of the loan is not
+14:38 relevant not to buy gold it's not to buy
+14:40 gold
+14:41 today
+14:44 against gold so it's like credit card in
+14:47 that sense right gold is being used to
+14:48 make a loan right
+14:50 Home Loans home loans personal loans are
+14:53 loans for which the objective is not
+14:56 clear I mean you are doesn't have to be
+14:58 declared yeah
+15:00 property loan property loan again is I
+15:03 think in the gold loan category it is a
+15:05 loan against property yeah
+15:08 object is you know why you want the loan
+15:10 is not relevant it is a loan against
+15:12 property yeah and two wheeler loans
+15:15 actually I think vehicle loans which
+15:18 probably means four-wheeler loads auto
+15:20 loans probably means four wheeler loans
+15:22 four wheeler and two wheeler loans is
+15:24 two wheeler Villas okay
+15:27 and some of these things don't fit into
+15:29 this category like microfinance I think
+15:31 there's none of this right so it's just
+15:33 black yeah the cattle and all that codes
+15:36 correct correct yeah that is we don't
+15:39 know okay
+15:41 the next thing is what was the value of
+15:45 the loan originally sanctioned oh
+15:48 originalization
+15:49 now why is this important so let us say
+15:53 I took a loan for one lakh
+15:56 um
+15:57 and I was supposed to repay that over
+15:59 five years
+16:01 at the end of the second year
+16:04 I have repaid three lakhs hmm
+16:07 this is some left there is seven lakhs
+16:09 left
+16:10 so the original value of the loan is
+16:14 10 lakhs outstanding value is relaxed
+16:18 yes 700 lakhs
+16:21 so both are important both are important
+16:23 both are important both are important so
+16:25 you can see that some loans are really
+16:26 big 36 crores 90 lakhs 96 000.
+16:30 this is actually even bigger right this
+16:32 is all commercial loan that's right yeah
+16:35 let's see this is this is one and a half
+16:38 crores
+16:39 this is one and a half crores this is no
+16:42 but this is some 36 crores also is there
+16:44 oh yeah this is 36 crores 90 lakhs 96
+16:47 correct correct okay actually we'll do
+16:50 one thing if you put commas now then
+16:52 Things become easier to read them
+16:56 so this is
+16:58 15 million rupees which is one and a
+17:01 half crores
+17:02 this is 20 261 million there's 369
+17:06 million that's 36.9 37 crores
+17:11 actually it'd be interesting to maybe we
+17:13 should just sort this
+17:16 curiosity okay sorry yeah sorted by G
+17:20 declining oh sorry sorry I should have
+17:23 done custom sort no
+17:26 custom by G
+17:29 by column
+17:30 G
+17:32 largest to smallest zero
+17:35 yeah
+17:38 yeah so there is something that is 41
+17:41 crores
+17:44 41 crores and it's clear all the big
+17:46 loans are commercial and then it starts
+17:48 falling off can you see 20 became two
+17:51 crores just go down
+17:52 by the time your eight or eight thousand
+17:54 entries correct so we are still in 50
+17:57 yeah good let's go yeah
+18:11 yeah even in commercial loans it started
+18:13 falling so this is if it's more you see
+18:17 the tail will be very long it's called
+18:18 long tail right yeah long tail means
+18:21 that you
+18:22 the distribution is correct like that
+18:24 okay like that is going on
+18:27 yeah these are like all One lakh loans
+18:28 there are many unlike loans they are
+18:31 still in 400 remember 800 yeah huh yeah
+18:33 we're going to fall below one lakh
+18:35 before we go to 800. which is 10 percent
+18:38 see we have gone below one leg ah in 500
+18:41 itself
+18:43 one only one percent of the loans are
+18:45 above one lakh
+18:47 good card
+18:50 and now you see what are the kind of
+18:52 loans right now they're no longer
+18:54 commercial it's all retail and
+18:56 microfinance
+18:58 I want to see how small the loan gets
+19:01 you have 500 rupees
+19:05 well it could be actually
+19:09 some data itself is not there okay okay
+19:13 yeah but it goes down to
+19:19 goes down to about a thousand five
+19:21 hundred four hundred and sixty five
+19:23 smallest turkey anyway
+19:25 so two thousand three thousand like that
+19:27 300 okay okay
+19:29 tells you something we have only data
+19:32 this actually gvn will probably see this
+19:35 in a later case study this is fairly
+19:38 typical of data sets that if you have a
+19:41 large data set a very small number of
+19:44 items will represent will represent a
+19:47 very large percentage of the ah
+19:50 yeah you know yeah that's 80 20 hours
+19:54 yeah yeah okay okay so let us
+19:59 once again
+20:00 remove the sort so custom sort now I
+20:05 will sort and column A which is how it
+20:08 was
+20:11 um it was inserted on me here it was
+20:13 inserted on me
+20:15 undo sir Ctrl Z
+20:25 yeah yeah okay okay
+20:30 now so we have original loan size and we
+20:33 have outstanding launches what is the
+20:36 next one age age
+20:38 and why is the age of the borrower
+20:39 important especially in retail loans it
+20:43 impacts the ability to repay so as an
+20:45 example if I am a 50 year old man and I
+20:49 want to take a mortgage for 20 years
+20:51 and I'm gonna retire at 60. then it is
+20:54 unclear to the bank how I'm going to
+20:56 repay after
+20:57 correct for 20 years correct maybe 15
+20:60 years correct yeah
+21:02 so therefore the age of the borrower is
+21:04 relevant
+21:05 what is the other thing that is relevant
+21:08 is what is my income
+21:10 because the bank wants to know
+21:12 if based on my income I have the
+21:15 capability of paying my Emi commercial
+21:18 means income must be the company
+21:19 companies income
+21:22 individuals
+21:27 the next
+21:29 is
+21:31 a column called new to Credit
+21:35 First Time borrower okay
+21:39 this goes back GB to your point of
+21:41 financial savvy
+21:44 anybody who is a first emperor probably
+21:46 doesn't have Financial Services
+21:49 yes it is borrowed many times and
+21:51 returned many times he is likely to be
+21:53 to borrow once again in return once
+21:56 again
+21:60 okay yeah and then the last column is
+22:03 some demographic data which is gender
+22:05 you know
+22:06 male and female they could be others
+22:08 there could be others yeah geography of
+22:10 origination right okay
+22:12 okay anyway this is a few fields are
+22:15 there so it should be more easier to
+22:17 analyze
+22:19 but at the same time I think it's Rich
+22:20 guys we have 8 000 entries correct
+22:23 for four thousands yeah

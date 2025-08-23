@@ -1,0 +1,427 @@
+00:00 foreign
+00:03 [Music]
+00:32 that he would like us to answer with
+00:35 that data sure let's have a look at
+00:37 those questions as well see whether we
+00:38 have the same understanding it's very
+00:40 important to make sure that we have the
+00:41 same understanding of the questions
+00:43 right correct because you can multiple
+00:45 ways to interpret yes what the question
+00:48 is okay so do you want to look at the
+00:49 data first or do you want to look at the
+00:51 questions first we can maybe look at the
+00:54 question maybe look at the questions
+00:55 first because the questions first that
+00:57 way you can see the data with some okay
+00:59 you have a better way to look at what
+01:01 what you're looking for in the data
+01:02 isn't it that way true yeah true okay
+01:04 true so so so what I recall GV is that
+01:08 what omkar had said is that there were
+01:10 three key stakeholders that he is
+01:13 answerable to right one one was the
+01:15 planning head uh one was the CFO
+01:20 and the third person was the CEO right
+01:23 and the planning head I think his job
+01:27 was really to get orders to customers as
+01:31 fast as possible right he wanted he was
+01:34 looking at how to minimize uh delay in
+01:37 terms of shipments the CFO had a
+01:40 slightly different objective because I
+01:42 think the CFO was more worried about
+01:43 making sure that you don't hold too much
+01:45 inventory not too much Finance is not
+01:47 tied up correct correct things like that
+01:48 yeah yeah and the CEO was overall
+01:51 interested in making sure that the
+01:52 business as a whole was growing correct
+01:54 yeah so so but I mean that is very high
+01:57 I mean
+01:58 that is I understand that but
+02:01 what are we specifically looking for so
+02:03 I think the questions that omkar has
+02:05 given us sort of follow from these three
+02:08 broad things right okay so if you look
+02:12 at what the planning head is looking at
+02:13 he wants to know about actually most of
+02:17 the questions there are quite a few
+02:18 questions from the planning data right
+02:19 so first thing he is looking at is what
+02:21 are the high volume skills skus stock
+02:24 keeping units right and that means what
+02:26 so that's an item so it could be as an
+02:29 example an Apple iPhone would be our
+02:31 iPhone 11 would be an SK iPhone 12 would
+02:34 be a different SQ a Samsung M7 would be
+02:38 one SKU uh a real me phone would be
+02:42 another SKU the things like that like
+02:44 what you keep on a store shelf correct
+02:46 correct so different shelves you keep
+02:48 different things somewhere you keep milk
+02:49 somewhere you keep absolutely you just
+02:51 get somewhere you keep so each of them
+02:53 is an SKU yes and but you're saying now
+02:55 that the milk itself there may be three
+02:57 different brands of milk each brand is a
+02:59 different Escape so not only is each
+03:01 brand a different scale if you have a
+03:04 half liter packet versus a one liter
+03:06 package that's a different Escape so a
+03:08 unique way of identifying a specific
+03:10 product item that is there on your shelf
+03:12 correct yeah but of course this is
+03:13 electronic shelf it's not a real it is
+03:15 an Electronics yes but nevertheless the
+03:17 same concept same concept applies
+03:20 so ah what are we saying we want to find
+03:22 out so the first thing I think the prime
+03:26 plus high volume
+03:32 is selling in large numbers large
+03:33 numbers because he has to organize his
+03:36 entire life there's an assumption here
+03:38 the assumption is that uh there are some
+03:42 items which are selling in large numbers
+03:44 because we don't know we'll find out
+03:46 correct correct that is everything is
+03:49 nothing correct the answer is not good
+03:52 actually yes but there is an assumption
+03:53 that some items some items are selling
+03:56 typically there too yes typically they
+03:57 do in any shop some item will sell like
+03:59 if it's a punch or panel cell or if it's
+04:02 a vegetable chocolate onion will onions
+04:06 and potatoes you know I may buy other
+04:09 things but onion potatoes everybody will
+04:11 buy onions potatoes and tomatoes right
+04:13 yeah okay so there'll be some items that
+04:15 will be moving correct so so if you want
+04:17 to find out which items are going a lot
+04:19 correct and the reason why you want to
+04:21 find out is I think I suspect okay uh
+04:24 that your Logistics chain has to be
+04:26 designed for these items oh I see okay
+04:28 because you have to make sure that you
+04:30 can remove a lot of these yeah you keep
+04:33 so okay that's all you need to know I I
+04:35 suspect but we should we should find out
+04:37 these items you want management
+04:38 attention has to be there on this access
+04:40 in terms of logistics correct okay okay
+04:42 then all right we'll find out the next
+04:44 question that he wants us to ask is one
+04:48 is high volume
+04:49 uh but which skus are giving a lot of
+04:54 Revenue
+04:56 and they what will be interesting to see
+04:59 is whether these are the same right so
+05:01 are the high volume skus may not be
+05:04 because it may not be enough yeah
+05:06 because you can have a very highly
+05:07 expensive item correct which is sold
+05:09 even if you sell one you will get a lot
+05:11 of money yeah yeah you go to Vietnam
+05:14 correct versus if you are selling
+05:17 coriander coriander uh
+05:20 uh A Team edition high-end TV high on TV
+05:25 then you get a lack yeah you get yes
+05:27 suddenly you get a big sale correct
+05:29 whereas you can buy a lot of
+05:31 uh vegetable or some other small two
+05:33 rupee coffee pouches I can buy lots of
+05:36 them and still you'll never reach one
+05:37 like correct isn't it correct so you
+05:40 want to find out high volume is one
+05:41 thing the other is uh High Revenue okay
+05:44 okay which again there's an assumption
+05:46 that some items are contributing very
+05:47 correct
+05:48 correct there is an assumption
+05:50 uh
+05:52 likely likely right yes okay
+05:57 ah what else this third thing and again
+05:60 this is I think he's coming from a
+06:02 logistics perspective he wants to know
+06:05 that there are some items that are high
+06:07 volume some items that are high Revenue
+06:10 in my warehouse in my fulfillment center
+06:14 uh where should I physically place the
+06:19 high volume skus where should I place
+06:21 the high Revenue skills so that when I'm
+06:26 assembling a order for a customer
+06:29 how can that order be assembled quickly
+06:32 and securely efficiently and securely
+06:35 okay securely
+06:37 because it's a costly item correct you
+06:39 want to it could break it could get
+06:41 stolen it could so you have to make sure
+06:44 that certain items are protected
+06:45 properly and some items are kept uh in a
+06:50 place where it is easy to lift and pack
+06:52 correct
+06:53 okay
+06:54 all right so so the next question that
+06:58 the planning person is asking is what is
+07:01 this sector this question this third
+07:03 question
+07:07 we are expecting that we'll answer it
+07:08 with the same data that we did same
+07:10 thing that we did for
+07:12 I mean this requires some understanding
+07:14 of logistics right no we don't know we
+07:17 should ask omkar that actually okay
+07:19 so we are saying that with the same
+07:21 analysis that we have done we are doing
+07:23 we should be or just looking at the
+07:25 sales data we should be able to do this
+07:26 okay we'll see let's see let's see okay
+07:29 um
+07:31 the next question uh that we need to
+07:33 answer is uh as a planning head
+07:37 what skus should I order from my
+07:40 supplier study
+07:42 today today as in which ones are nearing
+07:45 being depleted correct so you want to
+07:47 know how much I have yes my what are the
+07:50 items that are my warehouse is going to
+07:53 get empty today or tomorrow we'll get
+07:56 empty so very quickly correct because
+07:58 the sales are very high for the item
+08:00 or even if sales are not high sales are
+08:02 slow
+08:03 uh maybe I sell only two units every day
+08:07 but I am now down to four units
+08:10 of sales correct okay so how many days
+08:13 or sales I have sitting in my
+08:15 something like that
+08:17 and then
+08:19 based on that I want to order I will
+08:22 place an order on the supplier I have
+08:24 lead time over there so I have to order
+08:25 an advance also possibly possibly the
+08:28 supplier wants if I call him he's not
+08:30 going to come and give it to me today
+08:31 tomorrow you may you may take even three
+08:33 four days it may take some time correct
+08:37 so I have to know three days that if
+08:39 it's good to take three days to deliver
+08:40 I should know three days before that I
+08:41 need this okay yes actually many times
+08:43 when you click go and place an order the
+08:45 shopkeeper will tell you you know sir if
+08:48 you place an order I'll get it to you
+08:49 after three days I think that's what's
+08:51 going on there it's not there in his
+08:53 Warehouse so he has to get it from
+08:54 somewhere
+08:55 correct
+08:60 Okay so
+09:02 I see okay so you need to know when to
+09:04 order
+09:05 all right yes
+09:06 and I hope you have data for all this
+09:08 okay we'll see I don't know I think we
+09:11 should take a look at the data all right
+09:12 okay uh the next question the planning
+09:15 head wants to know is is there a trend
+09:18 and I think why the trend is necessary
+09:20 uh is basically that will help him plan
+09:23 right so is there a trend in terms of
+09:26 volumes as an example yeah is there some
+09:29 unit where is it Trend it means that
+09:31 it's consistently going up or
+09:34 consistently going down or orders are
+09:37 high on Saturdays I see I see something
+09:39 you know some Trend some pattern some
+09:42 pattern some pattern across this across
+09:44 time across time across time so it could
+09:47 be a repeating pattern it would be
+09:49 increasing decreasing something correct
+09:50 all right it could be across months it
+09:52 could be across weeks it could be across
+09:54 days okay
+09:56 so that's called Trend okay so uh which
+10:00 is useful for basically preparing so
+10:03 let's say we have a lot of sales on
+10:04 Saturday Sunday
+10:05 then you prepare for Saturday Sunday
+10:07 like that okay uh if you find basically
+10:10 that uh Monday there is a usually a lean
+10:14 day
+10:14 for the shop you might do some other
+10:17 activities on that day so you know the
+10:19 other thing I think people also do I
+10:21 know this is that you know they would
+10:23 give their staff in the shop a day off
+10:26 because
+10:37 it's not a heavy day correct correct
+10:39 things like that you can plan okay okay
+10:41 you probably don't want to plan your
+10:44 staff having a holiday on Saturday if
+10:45 there are a lot of orders
+10:48 yeah
+10:49 I understand
+10:50 uh so link to that I think is the next
+10:54 question which days have the highest
+10:55 sale right these days which days of the
+10:59 week I'm assuming right here the
+11:01 question is I'm I'm assuming we should
+11:03 ask home carpet yeah uh and then the
+11:07 next two questions are somewhat related
+11:09 which items should I stock more which
+11:12 item should I stock less then some items
+11:14 are moving a lot correct and there's a
+11:17 lot of demand some items don't have so
+11:19 much demand so I can't stop talking
+11:22 the second question which is also more
+11:24 interesting is where should I stock
+11:26 these items Ah that's the various
+11:28 Warehouse question is correct no no
+11:29 optimization so should I stock it in
+11:32 Madras should I stock it in Kochi should
+11:35 I stock it in Hyderabad it has to be
+11:37 local
+11:38 yeah yeah so you demand in Chennai
+11:41 correct should be served from Chennai
+11:44 because then you can serve it faster
+11:46 like I guess
+11:48 generally I mean in this space in
+11:50 e-commerce especially if you can't find
+11:52 the order you will probably not buy it
+11:53 from you or you'll go yeah you'll go
+11:55 from here to Amazon or some other
+11:57 correct total and bite there correct so
+12:00 you must be able to fulfill the demand
+12:02 yes which means that you have to stock
+12:05 locally yes as far as possible okay
+12:09 yeah there are some items I guess rare
+12:11 items where people may be willing to
+12:12 wait a little bit a few no right mostly
+12:15 they want it
+12:21 yeah
+12:22 okay yeah
+12:25 so the next set of questions is coming
+12:27 from the CFO Okay and like we said the
+12:30 CFO is most worried about
+12:32 uh
+12:35 how much capital is he locking up
+12:37 in inventory and yes and therefore so
+12:42 because inventory is expensive yes of
+12:45 course we are assuming that the company
+12:46 buys the it keeps it may not be it may
+12:48 not be but but still some of it I guess
+12:51 if nothing else you are occupying space
+12:53 right so you are paying for the space
+12:55 you're true very true you're paying for
+12:57 the space so how much inventory are you
+12:60 holding is it necessary to hold that
+13:01 budget okay but he is also he doesn't
+13:05 want revenue losses right so he also
+13:08 wants to know are there situations when
+13:10 the or customer ordered something
+13:13 but that item was not available in my
+13:16 warehouse
+13:17 so I ordered a phone or customer ordered
+13:19 a phone but I didn't have this phone in
+13:21 my warehouse which is called a stock
+13:23 order that is called a stock so stock
+13:24 out basically means there's no stock
+13:26 there is no stock right so customer
+13:28 wants something yeah but there is no
+13:30 stock in my way so if you type if you go
+13:31 to Amazon or something you type you'll
+13:33 say not available currently unavailable
+13:36 so that's a server yes or if you go to
+13:39 yourself get very upset or or if you go
+13:41 to your local shoe shop that guy will
+13:43 tell you sir I don't have you come
+13:45 tomorrow I will get it for you yeah
+13:48 I'll deliver it to your house right
+13:50 right that's a stock out really
+13:53 no but there in that case in the shoe
+13:55 shop you can't have so much shoes anyway
+13:56 correct can only have limited number of
+13:59 models receive a catalog correct right
+14:01 correct
+14:02 but here but what he knows what he knows
+14:04 is that that item is available in
+14:06 somewhere else he knows that that
+14:08 information here and that information
+14:10 actually I think omkar also has ah if it
+14:14 is not available in Chennai he knows it
+14:16 is available in Hyderabad so he can take
+14:18 the order correct and deliver it correct
+14:20 it may come until later correct
+14:22 all right
+14:24 yeah the final question and this seems
+14:28 to be a very data specific question so
+14:30 we should find out why the CF was asking
+14:33 this question he's asking why are we not
+14:35 getting stocks on sku m01
+14:40 so so there is a mobile SKU m01
+14:45 uh and what I recall from the data and
+14:48 let us look at the data but what I
+14:50 recall from the data is that there is
+14:52 demand but supply seems to be a little
+14:54 bit of a problem
+14:55 so I think that is what the CFO is
+14:58 asking that's very specific all right
+14:59 yeah okay
+15:03 so the CEO wants to look at growth right
+15:09 and his questions are very very growth
+15:11 oriented
+15:12 the first question he is asking is
+15:15 if there is a customer from Chennai do
+15:18 places an order what percentage of the
+15:21 orders that a customer from Chennai
+15:23 faced places are fulfilled from the
+15:25 Chennai Warehouse
+15:27 it's called a forward this year okay so
+15:30 a forward TC is basically a distribution
+15:33 center which is near which is near the
+15:36 customer so so what omkar if you recall
+15:39 what he had told us in the last lecture
+15:40 is that Hyderabad is the Hub okay or the
+15:44 mother Distribution Center okay and
+15:47 Madras and Kochi are forward forward
+15:50 DC's okay so if a m if a customer from
+15:54 terminal Valley or a customer from
+15:57 Chennai places in order it will it
+15:60 should in theory get fulfilled by The
+16:02 Madras DC and if it is if there is no
+16:05 stock in mattress DC it will go to
+16:07 Hyderabad
+16:08 okay
+16:10 but ideally
+16:12 a very high percentage of the orders
+16:14 being placed from Chennai should be
+16:17 fulfilled from the Chennai DC because
+16:19 then you are able to do one day
+16:20 turnaround two-day turnaround kind of
+16:22 thing for which you need to have a good
+16:24 idea of the kind of orders you're
+16:25 getting from this region right correct
+16:27 so over a period of time you can collect
+16:29 the data and this and do something okay
+16:31 all right this second question I think
+16:34 the CEO wants to ask is uh you know
+16:37 omkar mentioned that he had three bu's
+16:40 they had a lifestyle bu they had a
+16:44 consumables View at FMC GPU and they had
+16:48 a mobile Speedo okay and the CEO wants
+16:51 to know which bu is growing fast okay
+16:54 which is this is the one that is growing
+16:56 correct okay
+16:57 and the third one is uh you know how do
+17:01 you plan service levels for important
+17:03 escape's right yeah
+17:06 it's as in uh how many days you should
+17:09 you should correct how do you make sure
+17:12 that for these important skus 98 of the
+17:16 time you can get one day delivery here I
+17:18 think mobile phone he said your current
+17:20 sentence you don't do it they don't buy
+17:21 it correct correct there are some things
+17:23 like fashion or something people are
+17:25 willing to wait maybe willing to wait
+17:26 yeah yeah

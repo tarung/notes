@@ -1,0 +1,601 @@
+00:15 Millin, let us first shall we take a look
+at the datasets that we have. Sure.
+00:20 We seem to have two datasets both coming from
+CMI, I think. And one of them is, what is it?
+00:30 It is a consumption data? It is, I think one is the consumption data
+and the second is.
+00:36 So, consumption data would say what? I mean, it would tell you, it is by households
+presumably.
+00:42 It is by households, yes. So, you will go to, so they have gone to some
+sample households and then in each household they have asked some questions.
+00:48 Correct. And these questions will basically tell you
+what is it that they consumed weekly or monthly
+00:55 or something, monthly presumably. I think weekly is also there.
+01:00 Let us just see. We can search, maybe we can search for weekly.
+01:06 Maybe it is monthly, does not matter actually. So, if it is, so you know by month what they
+have consumed and in that month they, what
+01:20 kind of? It is monthly. Monthly. And what kind of, I mean did they consume
+food, if they consume food, what kind of food?
+01:27 Did they travel? Should we see what is there? Why do not we do that? Why do not we do that?
+01:33 So, what would be, this is a, this is Excel
+sheet we got. This is the Excel sheet that we have got from
+CMIE.
+01:39 Now, the problem GV is that it is a very,
+very big sheet. This is a sample sheet, so it has only 100
+rows.
+01:45 If you go down, I think it has about 100 rows. So, it is a, I mean it is a sample.
+01:50 It is a sample, it is not a full set. It is not a full set which you need. It has a 100.
+01:56 They just gave us something. Yeah, correct. But if you look at the columns.
+02:01 So, what is the first one? Household ID, they have given an ID for each
+house. So that, when they go next time to the CMOS,
+presumably they carry same ID maybe.
+02:10 And state, obvious. State, obvious. So, what kind of states are represented here? Is there a way to, I mean, how do I get all
+that?
+02:19 Can I get a unique list of all the states
+or something? This if we click on filter, we will get all
+the, all the, all the.
+02:31 What are the states that we have? They have Andhra Pradesh, Bihar, Chhattisgarh. You have filtered the entire set? Yeah.
+02:37 So, here is what I did. I took the entire selection and applied a
+filter. I applied a filter.
+02:43 So, actually the filter was already active. So, I will show you how we, I applied the
+filter.
+02:49 That means that every column will now get. Every column now has a filter. Drop down. Yes, every column will get a drop down.
+02:55 Drop down. Yes. And that drop down will contain all the elements,
+one unique, only unique element. All the unique elements that are present in
+that column.
+03:03 So here what do we see? We see Andhra Pradesh, Bihar, Chhattisgarh,
+Delhi, Goa, Gujarat, Haryana, Himachal Pradesh,
+03:14 Jammu and Kashmir, Jharkhand, Karnataka, Kerala,
+Madhya Pradesh. So they have all the states.
+03:20 It is almost like very comprehensive, Madhya
+Pradesh, Maharashtra, Odisha, Puducherry,
+03:26 Punjab, Rajasthan, Tamil Nadu, Telangana,
+Tripura, Uttar Pradesh. I think it is.
+03:31 But you have only 100. So, which means that 20 odd states, 100, 4
+or 5. 100.
+03:36 So, maybe there are like, we can check actually. Let us see how many samples are there from
+Maharashtra. How do you find out?
+03:41 We can just select Maharashtra. Just select Maharashtra in this.
+03:48 Maharashtra. And we have, we can count now if I just select
+all of these and we go to the bottom, there
+03:58 are about 11 samples from Maharashtra. You can see this here. There are a lot of samples.
+04:03 What about Tirupurar? Yeah, let us take one of the smallest states
+now maybe. Take Tripura or something.
+04:09 Tirupurar, let us take. Let us see, maybe there is only one.
+04:15 This has got 11? Just one. Too much. Too much. Just another bit.
+04:20 Yes. We can try Goa. Goa is the only one. Probably 2. 2.
+04:26 Let us look at Uttar Pradesh. Uttar Pradesh will be a big one. Should have been.
+04:32 Must be more. Yeah, big one. It is a big state. Let us take Uttar Pradesh. Yeah, so it is probably like 14.
+04:39 So, they have tried to take samples based
+on the population per se. Probably. Wow.
+04:45 Probably. That is nice. So, West Bengal also should be there. Yeah, that is nice. Yeah. So, we will do that.
+04:51 So, what is the population? So, what is the population? So, West Bengal also should be big. I think West Bengal has a lot of. West Bengal has a good population. Maharashtra has a good population.
+04:57 Correct. Maharashtra we saw 11. Uttar Pradesh is 14. Let us see West Bengal. So, let me remove Uttar Pradesh and select
+West Bengal.
+05:03 Only 4. And maybe if we look at the actual, the entire
+sample, maybe we will get a more representative.
+05:09 So, this is not necessarily giving you the
+same percentage as population. Correct.
+05:15 Take Karnataka, Karnataka I think has 6 crores
+out of, out of 40.
+05:21 140 crores. 140. So, it is like 6, 6 and 100.
+05:26 6 and 100. Not bad. Here and there, here and there. So, I understand. So, we got all the states, then what do we
+have?
+05:34 So, this is something called a homogenous
+region. Do you know what a homogenous region is?
+05:41 It is, I think, region, it is, I mean. At least what I could figure out from their
+website is it seems to say that it is a subunit
+05:51 of a state where people seem to have similar. Buying performance. Buying performance. So, as an example, they would say Bangalore
+is perhaps a different homogenous region compared
+06:03 to. Humbly. Humbly or Tumkur or something like that. Or a rural area, something like that.
+06:10 And then it says urban versus rural. That is very important. That is, that is straightforward. That is very straightforward thing. And then month, month and year, month and
+year.
+06:19 This is month slot. Which year, which month they went and did
+the survey?
+06:25 Correct. Month and year. Correct. What is this? This is the month for which they gathered
+the data.
+06:31 So, they went in April, but they asked the
+household.
+06:38 About December 19th. About December 19th. Oh my. So, the data could be. So, the data could be. So, the resensory effects will be.
+06:44 Correct. So, if you take January 20, you will get reasonably
+good reliable. Better. Yes, yes, yes. But if you go April, you are not going to
+get that.
+06:51 So, if you see, all the data in this column
+is for December 19th. Yes.
+06:57 However, the data has been collected in different
+months. It has been collected, some data has been
+collected in January, some in February, some
+07:07 in March, some in April. Because they could not do it all at one time. Correct. I see.
+07:13 Very interesting. So, of course, some of this could also have
+been impacted by COVID lockdown. This is 2020, but 20, 20 is started.
+07:20 20 is when it started, no? Did not it? I think April 20 was when the first lockdown.
+07:27 Just came maybe. Just before, prior to, so not that much. Now, reason for, what is this? Non response.
+07:33 Oh, people do not respond. So, let us see what are the reasons, can you
+do again the problem?
+07:39 We can, yeah, we can. Now that we know this method, what are the
+reasons?
+07:45 Could not be executed. I do not know what that means. Which they could not reach, I think.
+07:51 Probably. They could not implement. Or maybe it is could not be executed because
+of COVID. Maybe also.
+07:57 Household not found. They had an address, but they could not find
+a house.
+08:03 Can happen. Yeah, yeah. Yeah, yeah, happens all the time, I think. Locked. No.
+08:09 Yes. Perfect. They went, but there was nobody at home. No failure means actually they got the data. No failure means, okay. The way of saying that they got the data.
+08:18 And refused, which means there were people
+at home, but they refused to share. But they said I will not give you.
+08:25 And blank means what? Nothing, we do not know. Let us see if there are any blanks actually. Maybe there are no blanks. There are no blanks.
+08:30 No blanks, okay. Just there as an option. It is just that is all. But why, because. Because I have selected the whole thing.
+08:38 You selected the whole thing. That is why you got blank. So, this is of course district again, straightforward.
+08:46 Yeah, district inside the state. Yeah, this is northwest. Some districts may not have any data responsible.
+08:55 Correct. Then? Response status. Is what? Means either did they give the data or they
+did not give the data.
+09:03 But we saw that refused not, what is the thing
+something? Non-failure. So, if you see, if you say accepted, then
+wherever it says accepted.
+09:13 There will be no failure. There will be no failure. However, if it says non-response, then you
+will get different reasons for non-response.
+09:23 Actually, intuitively to me this I should
+have come before g.
+09:30 Correct. Then it would have been easier to understand. It would have been easier to understand.
+09:35 Then what do we have after that? Family shifted.
+09:42 It means did people change their address I
+guess. I see.
+09:50 Something. This is something that I do not understand. It says stratum. Again, it is a geographical indicator.
+09:57 Which is I think it is some combination of
+geography and income levels, I suspect, but
+10:04 I do not know. PSU ID also I do not understand. It is some encoding I think that they have
+for some statistical, how they got the sample.
+10:17 This is the household weight. So, they have the sum of the weights of all
+the members in the household.
+10:25 How do they determine the weights? They also have.
+10:32 Anyway, we are not going to use those fields
+presumably. Are you using those fields?
+10:38 I do not think so. So we can skip those.
+10:43 Then what is it? Then they have age group. That is an interesting one. What is the age group?
+10:48 Age group. Age group. What is that? Let me say balanced household with no seniors.
+11:04 Balanced household with seniors, children
+dominant, grown up dominant, other households
+11:12 of the young, other meaning it is probably
+some 20 year olds all living together.
+11:17 So, you could just have some family that has
+got married, husband and wife saying hello. Or it could be. Or it could be.
+11:23 Or it could be. Or it could be. Or it could be old people living. Some 4 guys who have just recently got a job
+sharing an apartment.
+11:31 Or a house could be. Correct. Yeah, there is all these kinds of things. All these kinds of things. I see.
+11:37 Okay. Other households of grown ups, senior dominant,
+youngsters dominant.
+11:42 I see. Okay. So, some. Some color.
+11:48 Some color. So, you will know if it is a elderly house. Correct. Then certain kinds of things will probably
+get consumed.
+11:54 Youngsters means they probably eat less. Correct. They will eat out more. Correct.
+11:60 Correct. Something like that. Okay. Occupation. Do you have information like that to eat out
+or do you eat at home?
+12:07 Yeah, they have. Oh, okay. They have. I see. So, occupation.
+12:12 This is, this should also be interesting. So, there are agricultural laborers. Data not available of course. Okay.
+12:18 It is fine. Entrepreneurs, industrial workers, miscellaneous,
+non-industrial technical employees, organized
+12:27 farmers, retired or aged, self-employed entrepreneurs.
+12:33 I think we had entrepreneurs here also and
+I do not know what is the difference between
+12:39 entrepreneurs and self-employed entrepreneurs. Small traders or hawkers.
+12:44 I guess entrepreneurs means that they have
+a shop or something and self-employed entrepreneurs
+12:50 might be, I do not know, like a vegetable
+supplier or something. No, that they actually have a different category.
+12:56 They say small traders or hawkers. Those are the vegetable vendors.
+13:02 Okay, something. Something. Small or marginal farmers, support staff,
+wage laborers, white collar clerical employees,
+13:11 white collar professional employees. So, you get a lot of color actually.
+13:17 You get a lot of information. Okay. Education. Again, it tells you what is the predominant
+level of education in the household.
+13:28 So, everybody in the household is a graduate
+or everybody in the household has finished
+13:33 10th standard. Majority of the people have finished graduation.
+13:40 Some people in the household have finished
+graduation. Or they could all be matriculate.
+13:47 There is also, by the way, household of all
+illiterates. That also says.
+13:53 Household of all literates. You could have all illiterate, you could have
+all graduate, you could have some graduate, some matriculate. All matriculate.
+13:58 All combinations. All combinations. This will be interesting data, I think. We should try and see. We should see whether there is a relation
+between this and some consumption.
+14:09 Then gender group. So, gender group is what?
+14:15 It is female dominated, female majority, male
+dominated, male majority, only females balanced,
+14:23 balanced. I forgot balanced right at the top. See, if you do individuals, you will get the
+gender, but now you have this more basic things.
+14:29 Correct. In your house. Correct. But consumption is always by house only. Yes. Most of the consumption is by house.
+14:35 It is not individual. Not individual. No. Very interesting. Then I think the size of the household is,
+yes, size.
+14:43 It tells you how many members are there. Like 4, 5, 6, 7. Biggest household seems to be 7 members.
+14:50 That is a big house. It is a joint family. Joint family or probably grandparents, parents
+and some kids living together.
+14:58 Only people have 4 member families. Let us see. Let us see. I mean, most families would be.
+15:05 Probably 3 or 4. 4 or 3, 4 maybe. So, 4 is coming to how many?
+15:12 23. 23 out of 100. So, 100 is 4. 4 member.
+15:18 Let us look at how many are 3. 3 also is probably quite common.
+15:23 We will see later. We should make some chart out of this. We will make some chart. Let me remove this filter.
+15:29 What is that minus 19? 19. 19. 19.
+15:35 19. 19. 19. 19. 19. 19.
+15:41 What is that minus 99? I think when they could not get data, they
+fill it up as minus 99. Why would they do that? Why do they leave it blank?
+15:47 They could, I guess, but it is just a way
+of. I guess, if you leave it blank, you are not
+sure they fill it up. Correct. Correct.
+15:52 I guess so. So, for a guy to data enter, he knows how
+he is doing. So, if you look at non-response, if you look
+at non-response, let us just filter on non-response.
+15:58 They will all be minus 99? I think so. Let us check.
+16:04 No, it says data not available. No, no, that they may have data. Wherever there is number, it will be minus
+99.
+16:10 Yeah. Oh, I see. So, all the number things they put as minus
+99. Minus 99.
+16:15 So, that it is a number field. Maybe the entry software allows you to have
+a number. Correct. Correct.
+16:21 Probably. Minus 99. And let us do the other check also. So, if I say I have got a response, then there
+should be no minus 99s, no?
+16:35 Is not it? Let us see that. I suppose so. We will see. We are checking.
+16:40 We are checking. Yeah, you are right. See, there is no minus 99. Nice.
+16:45 So, minus 99 is a proxy for, number proxy
+for not, no response. Yeah, but it is good to check, you know, when
+you have this kind of hypothesis, you have
+16:52 to check both of… But you know, this minus 99 is later on going
+to create trouble for us. Let us say you want to add all the… That is true.
+16:57 It will add minus 99. That is true. Let us, let us see what happens. Let us see.
+17:03 Let me just clear the filter. Or you want to do a count, minus 99 will also
+be counted. Yeah, so let us say this is, this is what
+total expenditure.
+17:12 So, yeah, so it is probably, it is counting
+100, and it is probably taking those minus
+17:23 99s also. So, when we do some… We should remove those minus 99s. Can you just do it later?
+17:30 We can always do find and replace, no? And minus 99… Let us just clean it up.
+17:36 There is no data which is going to be minus
+99. Correct.
+17:41 That is why they put minus 99. Correct.
+17:46 Let us remove it. Actually, let us remove it from the entire
+sheet.
+17:54 Let us remove minus 99, replace all. Replace all. Good.
+17:59 6954 replacements, man. So much. So much. So much. So much. So much data was in minus 99.
+18:05 But you know, I mean, it is only 100 rows. So, actually, there are so many columns. Correct. Many columns. Correct. That is probably 6.
+18:12 How many columns are there, Bheer? How many columns? How many columns? That may be difficult. We can do one thing, GV.
+18:17 We can count that one. We can select. One row we can take out. No, no, we can select all the columns, the
+first row.
+18:25 Count is there, Bheerana. Count, yeah, 191. So, 191 columns. 191 columns. There are a lot of columns.
+18:30 So, we can do that. So, we can do that. So, we can do that. So, we can do that. So, we can do that. So, let us take out a lot of data.
+18:36 Wow, we are not going to read all the 190. Okay. Next time. I will tell you what we will do.
+18:41 Let us copy this and in a new sheet, just
+the field headings, I will paste in a format
+18:47 that will be easy for us to. What are you doing? So, I copied all the column headings and I
+will paste it transposed.
+18:57 Transposed. Which means instead of having everything in
+columns, I will put everything in rows.
+19:05 So, so you are, like a matrix transposed. Yes. You copied the columns and you pasted it.
+19:11 As rows. So, this reads nicely. Now, it is easier to read. I think so, yeah. So, let us see what data is there.
+19:17 These are the columns, what are the data there? Yeah. Okay, so response you have seen here, it said
+something with all that.
+19:22 This is now. Now comes the expenditures. Monthly expense. So, this is the total expenditure of the household
+for the month.
+19:30 But now they are going to tell us the breakdown. And I think for now, they, so for a lot of
+this data, they have the total expenditure
+19:39 and they have adjusted total expenditure. Yeah, adjusted test by using recency. So, we will, for, I think for this discussion,
+we will ignore the adjusted.
+19:48 You basically correct it for recency. Correct. Recency effect. Correct. So, the most important thing is how much do
+people spend on food?
+19:58 Must be most of the expense. Most of the expense. We will see. We will see. We will see.
+20:04 So, first group is. You say 50 percent is food? Probably. For poor families, it will definitely be,
+you know.
+20:09 Even for wealthier families, maybe 40 percent
+at least. Food, possible, I do not know.
+20:15 Now, if you take food itself, you can further
+break it down. How much was on cereals and pulses? Rice and wheat and all that.
+20:23 So, you can see, no, it is not just atta,
+see it is whole grains. Whole grains would be rice or wheat.
+20:31 Wheat. But atta would be processed cereals. So, they separately put it. They separately put it.
+20:36 So, rice and wheat. Yeah. And then you may grind it yourself. Correct. You may cook rice, of course, you cook leather
+only.
+20:43 Correct. Then you have pulses. Pulses. Then you have edible oils. Edible oils. You have ghee.
+20:49 Ghee. Dry spices. Dry spices. Dry spices, I guess is masala. Masala stuff.
+20:55 Must be. And then you have got vegetables and wet spices. Wet spices, I suppose would be coriander leaves,
+ginger leaves, garlic, things like that.
+21:04 Then you have. Vegetables, fruits. Yeah, your fruits. You have dry fruits and saffron.
+21:11 Oh my god. Saffron, they could have that. Saffron is not a spice. No, they. Saffron is a flower.
+21:18 Potatoes and onions. Milk and milk products. Potatoes and onions. Milk and milk products.
+21:24 Milk and milk powder. Powder, maybe. And milk products they have got separately
+which is probably curd and.
+21:31 People who do not have access to milk must
+be converted to milk powder. May be in difficult places. What difficult place? Hotel and all will be converted.
+21:39 Correct. Correct. That is true. Who knows what they do with milk? They produce milk powder and milk, I think.
+21:45 Yeah. Monthly expense on Mithai. Mithai is the, for some places Mithai is the
+must, no? Could be.
+21:51 As Bengal and Delhi. Yeah, probably. Monthly expense on bread. Yeah, more increasingly becoming an important.
+21:57 Biscuits. Biscuits. Snacks. Salty snacks. Noodles and flakes. That is corn flakes I guess.
+22:03 Corn flakes, pasta. Noodles and pasta. Muesli, muesli. Muesli and oats. Chocolate cake ice cream.
+22:08 Wow. Ice cream. Man, the level of detail is just amazing,
+no? Chocolates and cake. This must take a lot of time to collect.
+22:16 Crazy, no? Each time you ask, huh? How much you will draw, Clyde? Yeah. Yeah.
+22:22 One hour they will be collecting data list. Ice cream. Ice cream. Jam, ketchup and pickles. There must be an army to collect data, huh?
+22:28 Meat, eggs and fish. This will be interesting to see, no? Meat, meat and fish, eggs.
+22:35 Which states are? Yeah, we should, we should take a look at
+that. Some states do not take meat.
+22:42 Some states. Tamil Nadu eats lot of meat and fish. Is it? It is coastal, no?
+22:47 Probably. Kerala, Tamil Nadu. West Bengal, Bihar. West Bengal, Andhara, Odisha. What is it? Fish especially.
+22:53 Fish, yeah. Gujrat and Rajasthan must be eaten. Correct, correct. Let us see. Probably. We will find out.
+22:59 We will find out. Then? Monthly expense on ready to eat food. Tea, coffee, sugar, beverages and water.
+23:05 Water. Bottled water. See, actually in Bangalore lot of people buy
+bottled water actually because the quality
+23:10 of water is so poor. Lot of people buy. Baby food. If you have babies, you have baby food.
+23:16 Correct. And then one catch all other foods. Other foods.
+23:21 Then monthly expense on intoxicants. Booze. Booze, cigarettes I guess. Yeah, cigarettes and tobacco. That is also intoxicant.
+23:29 Beadies. I see. Other tobacco products, snuff I guess.
+23:35 There is probably in rural areas, snuff maybe. They chew also. Yeah, they chew.
+23:41 That I guess will get counted here, no? Cigarettes and tobacco.
+23:47 Yes. Chewing tobacco is probably. Yeah, monthly expense on liquor.
+23:54 Then monthly expense on clothing and footwear. Footwear. I see. So, whole bunch of categories there.
+23:59 Clothing accessories, artificial jewellery,
+bags, wallets, crazy man, cosmetics, dental care products, toothpaste, tooth powder, toothbrush.
+24:05 How are people going to remember whether in
+December 1990, asking me until 20, I will
+24:10 rather I bought. Very difficult. How will, how do they get this data? They will not remember. No. They will say something.
+24:16 They will say okay, I mean on average. On and on average. On and on average. On the average, I buy maybe 1, 2, 3, very
+much. I do not know. I mean something like that.
+24:22 Air oil, shampoo, conditioner. Powder, creams, deodorant. Maintaining the records, bills, they have
+something, I do not know. Then appliances. They buy something. They buy something.
+24:28 They buy something. They buy something. They buy something. They buy something. They buy something. They buy something.
+24:34 They buy something. They buy something. They buy something. Appliances. They buy online, so you can always go back
+and check.
+24:42 Probably. But I am sure in villages people maybe do
+not know.
+24:49 They will probably have better records, I
+do not know. Maybe.
+24:55 Maybe. Actually. Yeah, because they will keep accounts. We do not know.
+25:01 Kitchen appliances. Household appliances, mobiles. See you are asking, restaurants eating out.
+25:07 How much do they spend on eating out? Correct. So, food in restaurants, living out.
+25:14 Now, of course, CD is gone. Entertainment, toys, bills and rent, house
+rent, food.
+25:29 Water charges, society charges, other taxes,
+power and fuel, cooking fuel, yeah, gas, gas
+25:41 or kerosene or whatever. Correct. Correct. Petrol and diesel for your vehicles, electricity,
+transport, you are asking transport, monthly
+25:53 tax, so what are the transport categories,
+bus, train and ferry, outstation taxi bus
+26:00 train, auto rickshaw and cab, airfare, parking
+fees, toll charges, communication and info,
+26:11 that is probably phone bills, landline phone,
+cell phone, cable TV, internet. My goodness, fully.
+26:17 Good and fast now. What is the hobby? Hobby classes, school transport, yes, school
+transport B1.
+26:24 Correct. Overseas education, other education, health,
+medicine, doctor. This is a big one, health will be a big one
+I think.
+26:33 Hygiene products, fitness, parlour spa, oh
+yeah, they go for fitness, lot of people do
+26:43 that. EMI for house, EMI for vehicle.
+26:49 Wow. And then miscellaneous. How much you spend on domestic? Very important.
+26:56 Motor vehicle repair, rent. Remittances. Remittances, remittances sent.
+27:02 Yeah, if you send money to your son or daughter
+for studies kind of thing.
+27:08 Social obligations, religious obligations,
+consultation. General insurance, vacation, lighting, furniture,
+man, oh man.
+27:16 Pets. Oh man, okay. Pets. Pets, people spend lot of money on pets also.
+27:24 Yeah, yeah. Okay. So, this is very extensive data.
+27:29 It is very extensive. Very extensive data. Very extensive data. Okay, so, but I mean, we will see, I think
+we will do some statistics on this later.
+27:41 First thing that I am very curious, G.V. But one thing I want, I am not fully satisfied,
+even though I have so many feels.
+27:52 What more would you like? No, no, I mean, see, if I am trying to do
+a calculation of, I want to find out whether
+27:58 I want to sell a product or not. It is not enough for me to know whether the
+person has consumed toothpaste or not.
+28:05 It is not enough. I want to know whether the guy is wanting
+to buy toothpaste. Okay, toothpaste. Yeah.
+28:10 No, I understand, I get your picture, but
+you know television. If he bought toothpaste last month, the chances
+are he will buy toothpaste.
+28:18 So, I can see that there is a predictability. No. But if you take like say, motorbike.
+28:24 Yeah. It is not like he is buying motorbike every
+month or something. Yeah, I mean. He either has a motorbike, he does not have
+motorbike, most likely.
+28:31 Correct. Now, for the guys who do not have motorbike,
+I want to know whether they are going to buy motorbike or not. One way to look at that is to see how much
+does the guy spend on transport.
+28:40 Oh, okay. On public transport. But still that does not tell me whether he
+has an intention to buy motorbike.
+28:48 No, it does not. It does not. No. So, why do not they ask questions about what
+are you likely to do rather than just.
+28:55 Actually, I think there is another data set
+perhaps where they do. Shall we look at that?
+29:00 What is that? I am not sure. Let us check. There is another data set that given us called
+aspirational India.
+29:10 Aspirational India? Yeah. R sample that is called. What does India aspire to?
+29:15 Using R. Same households? May not be, no. I think let us see.
+29:22 The sample they have given us may not be.
+29:27 No, I do not think so. Let us see if this household ID, let us see.
+29:34 It will be interesting for students to try
+and put the two data sets together if I do
+29:44 not know. But of course, households have to be common. Correct. No. It is not the same households.
+29:50 Because these are two samples. I think maybe if you had the full data sets,
+then it would what you are saying could have
+29:56 been interesting. What does this contain? Can we take the headings of these?
+30:02 Yeah, we can do that. We can do exactly what we did last time. You copy it. And then open a sheet.
+30:11 And then you paste a transpose. Paste transpose. Paste special. Paste special. In that you select special.
+30:16 And here you click transpose. I see. How many are there in this?
+30:26 287. Oh my. That had 190, this is 287.
+30:33 Oh my God. I do not think they are doing it at the same
+time. Can you check? Maybe they do it at different.
+30:39 Maybe, no, I do not know. This is also for December 19 or what data?
+30:44 Month slot. They have probably done it at roughly the
+same time, much even.
+30:53 But they are same time, but it is asked about,
+it is about future.
+30:59 It is not about December 19. Correct. So, you know the same time. Yeah, because I mean, you visit a house, you
+try to get as much.
+31:05 As much data. You have to go quite far to get to some household. Correct. So, if you look at this, what is this?
+31:12 So, I think some of the initial fields are
+very similar. So, aspiration means that they are asking
+the house what they are aspiring for, aspirations.
+31:20 What are they? Intending to. Intending to buy, I guess. Or what do they wish to buy.
+31:26 What they want to buy, wish to buy. Wish to. Whether they buy or not. Correct. Depends on the income.
+31:31 God knows. Depends on many things. So, I think the first 17 fields, 18 fields
+are probably the same.
+31:37 There is now a new column here called income
+group, which was not there earlier.
+31:43 Because income is not, they have total expenditure
+there. That was expenditure, this is income.
+31:51 Total expenditure will tell you how much they
+spend, total income will tell you how much they earn. So, let us look at what is the income.
+31:56 If you had both the data sets together, you
+would normally be saved. It will be correct. But there you have also how much saved.
+32:02 We have saving? No, there we do not. It is only expenses, I think. No saving?
+32:08 No savings. Savings, are they here? I think this data set has it. See here, if you see, this is all expense,
+completely expense.
+32:16 But aspiration will tell you how much you
+want to save. How much are you going to spend on motor cycle,
+that and all?
+32:23 And how much are you going to spend on save
+in a fixed deposit? Here, let us see if, let us just go down if
+there is savings.
+32:39 You can search. Savings.
+32:45 What did I do?
+32:51 Control F. Has outstanding savings in fixed
+deposits.
+32:57 Has saved in fixed deposits. Will save in fixed deposits. Has outstanding savings in post office.
+33:04 So, person who has savings are likely to save
+more, you can check like that.
+33:10 Maybe. So, what do they have? They have fixed deposits, they have post office,
+they have NSE bonds.
+33:18 NSE bonds are big. KVP, Kishan Vikas Patra, Provident Fund, Life
+Insurance. Many people have life insurance actually.
+33:25 And then? Let us see. Let us go down. Mutual funds, listed shares.
+33:32 Why not? Business. They have their own business. They have their own business and they put
+savings in that.
+33:40 Gold, gold is a huge one. Huge one. Huge one. Very big.
+33:45 Very big. Gold. Real estate. Really. Another big one. Another big one.
+33:51 Gold and real estate would be the two big
+ones. Chit funds. Chit fund will be another one. Another bit. Another one. Correct.
+33:57 Other financial instruments. Oh, then they have borrowings also. So, they have savings and they have borrowings.
+34:02 So, what have you borrowed for? You have borrowed for housing, education,
+medical expenses, lot of people forced to
+34:11 borrow for a medical expense. Correct. Wedding. Wedding. Consumption expenditure.
+34:17 I do not know about this. You cannot plan for medical. Insurance, I think some people.
+34:22 Insurance is there, but. Insurance. So, they will borrow or they will sell their
+gold. Correct. So, they will borrow.
+34:27 So, they will borrow or they will sell their
+gold. Correct. These are two things. Correct.
+34:32 Consumer durables, borrowed for business,
+borrowed for investments.
+34:39 Oh, wow. Borrowed for debt repayment. That guy is in trouble, man.
+34:44 If you are borrowing to repay debt. Because you have. So much debt that to settle off one loan you
+are taking a new loan.
+34:53 Tough. Tough. Borrowed for vehicles. I think this lot of people do.
+35:00 People buy cars, people buy two-wheelers. Most of times people buy. Other purposes.
+35:05 Now they are saying where did you borrow from? Borrowed from bank and for what purpose?
+35:13 Borrowed from money lender and for what purpose?
+35:19 Borrowed from employer. This also lot of people do actually. For what purpose?
+35:27 Borrowed from relatives and friends, very
+common again.
+35:34 Borrowed from NBFC. What is NBFC? Non-banking finance company.
+35:39 What is an example? Bajaj finance. Bajaj finance. Okay. Okay.
+35:44 Yeah. So, if I went to buy a refrigerator and somebody
+came and offered me a loan for a refrigerator, I would have said that I would have been most
+likely.
+35:53 It is not a bank usually, many times not a
+bank.
+35:60 Correct. Got it. Got it. So, they do not have a banking license, they
+have what is called an NBFC license.
+36:08 I see. Self-help group, microfinance. Yeah, microfinance. Actually, microfinance is separate. Self-help group is separate, microfinance
+separate.
+36:13 Self-help group itself will draw money from
+microfinance. Shit funds. Shit funds, again, a lot of people borrow
+from shit funds also.
+36:20 Yes, yes, yes, they do that. Credit cards. Credit card is for urban people, yeah.
+36:26 Yes. Yes. Borrowed from shops. Oh, I see, because credit they keep in shops.
+36:31 Correct. Wow. Interesting. Very interesting. Restaurants, shops, all keep credit many times.
+36:36 Yeah. And then the final one is borrowed from other
+sources. Okay. At other, so I think that is more like a catch
+all, I think.
+36:43 Yeah, from friend and family. Early finances compared to a year ago.
+36:49 So, this is judgment, right? Are you better off today than you were a year
+ago? I see.
+36:55 Do you think you will be better off a year
+from now? Okay. Those are the kind of questions.
+37:01 Okay. Do you think the country will be better off
+in the next one year? I see, okay.
+37:07 Even the profits can say okay. You ask credit, probably they have better
+sense, who knows?
+37:12 Correct. Is this a good time to buy consumer durables? Yeah, yes, good question. What type of roof, type of wall?
+37:17 What kind of house are you living in? Has electricity. What kind of house are you living in?
+37:24 Power availability in hours per day. Man.
+37:30 Can we go back and see what is it they want
+to buy? Are they buying? Let us see. Are they going to buy a refrigerator? That is there before savings.
+37:37 AC or? Yeah, that is there actually. Do they want to buy a two wheeler? If you just go beyond this.
+37:43 So, are they going to buy scooter or motorcycle
+like that we can say? Let us see. So, the first thing they ask is houses owned.
+37:51 How many houses does this household own? Okay. Is that it? Have they bought a house or do they intend
+to buy a house and if they are intending to
+38:02 buy a house. Will they buy now? Buy now or later? Later. Oh, wow.
+38:07 Okay. Wow, this is detailed. And. It is a useful piece of information. The next one. Do I think it is a good time to buy a house?
+38:14 Even if I do not intend to buy. But it is a good time to buy. But it could be a good time to buy because
+I think house prices will go up.
+38:21 Maybe but also maybe I do not have money. Or maybe I do not have money. This is for a guy who is going to lend money. Correct.
+38:27 Correct. You do not want to go to a guy who is going
+to buy a house and he has got the money. Correct. You want to go to a guy who is going to need
+a loan.
+38:33 Who thinks it is a good time to buy a house
+but does not have the money. Correct. That is the guy you have to.
+38:38 Correct. And this same pattern you will see for all
+the data. So, do they have refrigerator?
+38:45 Have they bought a refrigerator? Have they bought a refrigerator recently? Will they buy a refrigerator? If so, will they buy it now?
+38:52 Is it a good time to? Good time to buy. Okay. Now the same pattern we will repeat.
+38:58 Air conditioners, coolers. Coolers. See North India, lot of people use coolers
+in the summer. Desert.
+39:03 Rajasthan and all. They do not buy air conditioners.
+39:08 Washing machines. Television. Television is definitely going to be something. Correct.
+39:14 Computers. Oh, computer DJs. Kids want cars. Cars.
+39:20 Cars. You are asking cars or two wheelers? Cars or two wheelers. Two wheelers.
+39:25 Two wheelers. And then they have asked what kind of two
+wheeler do you own? Type of two wheeler. Do you own a scooter or a motorcycle?
+39:31 Brand also. Brand is there. Brand I do not think is there. Too many brands.
+39:37 So, I looked at, I took a look at it. No, well actually the brand information would
+be useful for the brand company.
+39:46 So, if I was TVS. It will be but yeah, maybe yeah.
+39:51 But more than that is category I think. Yeah, category is. Is it a scooter or motorcycle?
+39:57 I think broadly if you know that. Or a moped. By the way there is something called moped.
+40:04 So, moped, scooter or motorcycle. So, here is what it is showing. So, one category is Bajaj City, Bajaj Platino,
+Hero Splendor, blah, blah, blah.
+40:12 Motorcycle. This seems like a motorcycle kind of thing. Then the next is Honda Activa, TVS.
+40:18 Scooter. This is scooter. TVS Apache, Bajaj Avenger. I think these are big motorcycles.
+40:23 These are 200 cc plus. Small motorcycle, big motorcycles.
+40:29 These are probably like 100 cc. They do not have moped. They do not seem to have moped. Moped maybe it is gone in the category.
+40:37 Maybe it is gone. 50 cc or 60 cc. They used to be very popular once upon a time. Because you do not need license to drive some
+of them.
+40:43 That is why. People carry lot of weight also on that actually. Lot of people also sit on that.
+40:50 Then it will go at 10 kilometers an hour. Correct.
+40:55 So, let us go back to our. So, this is an interesting sheet.
+41:00 So, what are we seeing? In this sheet we are seeing intent to. By the way, look, look, look.
+41:05 Cattle. Cattle tractor I saw. Tractor, cattle, genset. Very rich data.
+41:12 Very rich data. Now, of course, then after that was savings,
+which we looked at already.
+41:18 So, between these two data sets, consumption
+data set, what have you consumed in the some
+41:25 period, some month? And what are you intending to do or what do
+you own now and what are you intending to
+41:31 buy? Are you going to buy a car or whatever it
+is? Are you going to save? So, where are you going to save?
+41:38 What have you saved? Are you more a fixed deposit type or are you
+just share buying type, share purchase type?
+41:45 Based on that, I think a lot of analysis can
+be done. So, I was already thinking, you know, Jeevi,
+you had this question, maybe we should spend
+41:51 some time thinking about this two wheelers. If there is somebody who is spending a lot
+on public transport, does not have a two wheeler
+42:04 today, but thinks it is a good time to buy
+a two wheeler. Because it will reduce the cost.
+42:11 Correct. Maybe. It should. Maybe. I mean, of course, they have to spend money
+on the two wheelers. Also, but there is comfort.
+42:17 This you will save time. You will save time. It is more, you will save time and it will
+reduce your cost overall.
+42:25 Maybe we should at some point spend some time
+looking at these two pieces of data and. Put it together.
+42:30 We should do that. We should do that. Maybe that is something we can do.
+42:37 Yep.

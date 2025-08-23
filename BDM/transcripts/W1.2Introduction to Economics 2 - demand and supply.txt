@@ -1,0 +1,241 @@
+00:00  This is the start of segment 3 which is going to introduce the law of demand and supply.
+00:22  So, in the previous segment which is the introduction to economic segment, I explained to you the
+00:28  circular flow model, where it comes from. It started from the idea of trade, then we said
+00:32  that we should reorganize it so that we can put all the producers on one side, the consumers on
+00:36  the other side and look at producers itself in terms of various kinds of things that they do.
+00:43  Besides production, you have to transport the product, you have to store the product
+00:49  and on the other side when you have to collect money from customers, you need banks and so on
+00:53  which will intermediate between deposits of customers and loans that the company will get
+00:58  and so on. So, all this put together you get this category called firms and in this side you get
+01:02  this category called households which basically is an aggregation of all the people in one unit
+01:08  who are consuming similarly in some sense. All the people in one house, they are all buying
+01:13  things together. They are not buying individually. Some things they buy individually, but most of the
+01:16  things they are buying in newspaper, milk, rice, grey, all these things, most of the things like
+01:21  that they are buying together. So, we said we will put households on one side and firms on
+01:26  the other side and we said that the firms basically interact with the households via
+01:35  product markets whereas the households basically provide to the firm resources like land, labour
+01:40  and capital through the resource markets. So, this is the picture that we drew.
+01:45  We called it the circular flow model because there is a flow. Firms basically by selling
+01:51  products and services to households, they are getting money and that money they are spending
+01:57  on resources which is going back to households. So, the money is flowing from households to firms
+02:02  and then firms back to households. Like that the money is keeping on going round and round.
+02:05  That is why it is called the circular flow model.
+02:07  So, in this segment, I am going to introduce you the concept of demand and supply. Basically,
+02:17  the concept underlying the way in which markets function, how it works. So, all this starts with
+02:25  customer and the customer's willingness to pay. So, which aggregates we will see eventually into
+02:32  what is called a demand. So, just let us start very simply, let us start like this. Let us say
+02:37  that customer is there, single customer is there and the customer wants to buy a mobile phone and
+02:43  this customer is willing to pay 8000 rupees for this smartphone. Up to 8000 rupees they are
+02:49  willing to pay. If it is 7000 that is good, if it is 5000 rupees even better, but not more than 8000
+02:54  rupees. At 8000 rupees if they find the price is 9000 the customer is not going to buy because they
+02:59  do not have the ability to pay 9000 rupees. So, they do not want to buy. So, I could try and
+03:06  picture this, I could try to make a picture. Visual is always good, try to make picture of
+03:10  this. So, what I need basically is on one axis I am going to put price. So, various price points
+03:15  like 4, 5, 6, 7, 8 we discussed all these price points. I put that in the x axis, on the y axis
+03:20  I put how many phones are sold 1, 2, 3, 4, 5 I put all the phones. Then what I know basically
+03:28  that if the price is below 8000 rupees, no one phone will be sold and when it crosses 8000 rupees
+03:35  0 phones will be sold. So, clearly this graph looks like this. So, 1 fold is sold for price
+03:42  below 8000 rupees and above 8000 rupees I am assuming at 8000 rupees it is transitioning from
+03:48  1 to 0 and above 8000 rupees it is gone to this thing 0. Because what happened at 8000 rupees
+03:56  you can say maybe the answer at 8000 rupees also is 1, but after that it is 0. So, you can define
+04:01  the function like that. So, this is a function basically it is a step function, it is a step
+04:04  function it is going from 1 to 0 like this. Now, in this picture a second customer comes,
+04:12  the second customer comes, this second customer is willing to buy a phone only if it is less than
+04:19  or equal to 7000 rupees. If it is above 7000 rupees this person is not going to buy.
+04:25  So, what is the picture going to change to now? Clearly, if it is picture looks like this now,
+04:33  if your price is less than 7000 rupees both the customers are going to buy. So, you get 2
+04:38  units sold. If it is between 7 and 8000 rupees only 1 customer, the first customer is going to
+04:44  buy because that guy is willing to buy up to 8000 rupees. So, he will buy it and above 8000
+04:49  nobody buys. So, the function looks like this up to 7000, 1 from 7000 to 8000, 0 from 8000.
+04:57  Of course, one can say why stop here one can extend it. Let us say that there are 5 customers,
+05:02  these 5 customers have willingness to pay a 4, 5, 6, 7, 8, 8 we saw as the first customer,
+05:07  7 we saw as the second customer, I have added 3 more customers,
+05:10  and willingness to pay 4, 5 and 6. Now, this business that we are saying that there are 4,
+05:16  5, 6, 7, 8 kind of willingness to pay is what is described in statistics we have already studied
+05:23  as a distribution. You might ask here I put 11111. So, it is uniform distribution, but what if
+05:29  4 had 1, 5 had 3, 6 had 10, 7 had 4, 8 had 2 or something then you will get some curve
+05:35  distribution curve and you can appropriately use that to create this demand curve.
+05:39  But right now I am assuming it is 11111 which means uniform distribution. I mean,
+05:45  I mean it is basically all the people have, they are only one one customer of each type.
+05:52  So, if it is like that, then you know basically that if it is less than 4000 rupees,
+05:56  I will have 5 customers. Between 4 and 5000 rupees, I will have 2 customers. I mean, sorry,
+06:04  if it is 4 and 5000 rupees, the first the fellow who is willing to pay only up to 4000 rupees will
+06:09  drop out. So, 1 percent drops out here and we get 4 customers. When you go between 5 and 6000,
+06:15  2 people drop out of the market and we are left with 3 customers. When you come here,
+06:20  what has happened now is 3 customers have dropped out, we are left with 2. When you come here,
+06:24  4 customers have dropped out, we are left with the only first one and above 8000,
+06:28  all the 5 customers have dropped out and so we have nobody. So, the curve looks like this.
+06:32  Now, clearly if you start putting more and more people, then you will see that this curve will
+06:37  look something. You can make a straight line, this will become smooth. More and more smooth
+06:42  it will become and you will get a straight line like that as we add more and more customers.
+06:46  And we look at the distribution. The distribution is more interesting. It is not 1, 1, 1, 1, 1,
+06:50  but something else, the curve will become in a shape like this, some shape like this we will
+06:54  take. So, that curve which you are getting is called the demand curve. You are getting the
+06:59  demand curve because what you are doing really, you are aggregating individual willingness to
+07:05  pay us. There is an individual willingness to pay your first customer, second customer,
+07:09  third person, like that you are aggregating across all customers their demands.
+07:12  The first customer's demand is that demand function we saw. He will be willing to buy
+07:17  if it is less than 8000 rupees. So, demand function is a step function. Second person's
+07:20  demand function is another step function. So, he added all these step functions, he got this.
+07:24  If you add many, many, many of them, it will become smooth like that.
+07:28  Now, one can say, in the case of mobile phones I understand, it is a step function. What about
+07:34  wheat or something like that? It does not look like it will be a step function.
+07:38  You get what is called a demand schedule. You will get something like this.
+07:42  So, here we, how we understand it basically is the customer is saying that if you give me 10,
+07:49  you know, if you give me 10 rupees per kilo wheat, I will buy 20 kilos.
+07:53  So, clearly the customer seems to have a budget for wheat in his mind. He has got total income
+07:57  in a month out of which he has said I will spend 200 rupees on wheat or something like that. So,
+08:02  if you give him 10 rupees, he would be willing to buy 20 kilos of wheat. So, 20 to 10, 200 rupees.
+08:07  On the other hand, if you give 11 rupees a kilo, 200 rupees may he can only accommodate 18 kilos
+08:12  of wheat. 12 rupees a kilo, only 16 can be accommodated, something like that.
+08:17  So, as we keep increasing the price, the amount of wheat that the person is willing to buy at that
+08:23  price, at 15 is willing to buy only 13 kilos of wheat. So, the amount of wheat that the person is
+08:30  willing to buy at different prices keeps changing. So, we have different, so it is not like 0 and 1.
+08:36  If you give me at less than 8,000 rupees, I will buy it, if I do not, I will not buy it, it is 0,1.
+08:41  Here is not like that. Here there is a quantity and you are saying as the price keeps increasing,
+08:44  the quantity keeps decreasing. So, how do I picture this? Way to picture this, I can say,
+08:51  let me put the price like this 10, 11, 12, 13, 14, 15 year, let me put the quantity like this 13,
+08:55  14, 15, up to 20. And each of these points I can plot. So, 10 is 20, so there will be a point here,
+09:02  presumably like that. So, I can plot. So, for 10 there is 20, for 11 there is 18, like that I can
+09:07  plot all the points. So, that gives me some points. If I really want to understand, of course,
+09:13  the price can be between 10 and 11, then what do I do? I interpolate. So, I join these two with a
+09:17  straight line, I join these two with a straight line, I can keep joining with lines and I get
+09:21  this picture. So, this graph, this picture demand curve in some sense tells you for different price
+09:27  points. There is one customer now, we are not aggregating many customers, single customer.
+09:31  It is saying for a single customer for different prices, what is the quantity? So, this is the
+09:36  graph for what was that step function graph for a single unit like mobile phone, this for that step
+09:43  function graph has become a graph like this for one customer. And each customer will have a graph
+09:47  like this. So, just like we added the step functions, we have to add these graphs now,
+09:51  that is what we have to do, to get the demand. So, what you observe here basically is that you
+09:56  can read this both ways. When the price rises, when the price rises, this is going down this table,
+10:01  then the demand goes down. But I can also read it the other way, there is nothing which says that it
+10:05  should go less, it can go less also. If the price decreases, if I decrease the price, quantity will
+10:09  go up. So, if I go like this, quantity will go down, if I go like this, quantity will go up.
+10:14  So, both ways I can read it, there is no direction else, that is how one has to understand.
+10:18  In other words, I can go either like this in this chart or I can go like this in this chart.
+10:22  There is no direction in this chart, there is no arrow in this chart. You can go this way or you
+10:25  can go that way. That is the demand versus price. This is called the demand schedule,
+10:31  this is called the demand graph. Now, similarly, in the same way,
+10:36  just like we drew this, one can talk about suppliers. Now, the supplier is similar thinking,
+10:43  you know, I mean, at what price should I sell, he is thinking, suppliers thinking, shopkeeper
+10:49  is thinking that at 10 rupees, I do not want to sell all my wheat.
+10:52  If I get 15 rupees, I have 20 kilos of wheat, let us say. At 15 rupees, I am willing to sell
+10:56  all the 20 kilos. But if you give me only 10 rupees, I do not feel like selling everything,
+11:02  I will keep something, I will sell off 13 kilos and 7 kilos I will keep because who knows,
+11:07  tomorrow price might go up to 15 rupees, then I can get some money, additional money.
+11:10  So, I will keep some in reserve and sell only whatever I feel like selling, some
+11:13  or smaller number I will sell. So, as the price keeps increasing, the seller is willing to sell
+11:18  more and more. Because they think that they can, if they keep the, rather than selling it, if they
+11:25  keep it in this reserve, maybe tomorrow I will get a better price, I can sell it. That is all
+11:30  they are thinking. So, that is why they do not sell everything. But if they good, good price,
+11:34  he gets 15 rupees, you will say, I am clearing up, I will sell everything and go off. That is fine.
+11:38  So, you can plot this again, you can chart this. So, I put all the prices here, I put all the
+11:42  quantities here, you can see that as the price keeps increasing, the person is willing to sell
+11:47  more and more. So, this is the chart which shows the selling quantity with price. Now, what one can
+11:53  do basically is you can take the demand quantity and the supply quantity and put them both in the
+11:59  same chart. Here you see basically the price goes up, supply goes up, price goes on, supply goes on,
+12:03  not very surprising. I can put both of them in the same chart. So, it is what I have done here.
+12:08  So, I have put here, this is the supply chart, which you already saw, this is the demand chart
+12:13  that we already saw. There is only one customer, there is only one supplier. There is only a single
+12:17  customer and a single supplier, but I have put that single customer's demand over here and that
+12:22  single supplier's demand over here, quantity over here and I have put the price, same price.
+12:27  The price is common and against the price I put the demand and supply. So, you can see that when
+12:31  the price goes up, the demand goes down and the supply goes up. When the price goes down, the
+12:36  demand goes down, supply goes, demand goes up and the price goes down, the supply goes down.
+12:43  So, suppose you are here at this point, at this place, basically at this price,
+12:48  at 11 you get a very high demand, but you have no supply, you have no supply, you have a very high
+12:54  demand. You have a lot of people asking for the product at that price, willing to buy that product
+12:58  at that price, but there is nobody who is, that shopkeeper is not willing to sell. So, he is only
+13:03  willing to sell some number like small amount here. So, what happens basically is that it will
+13:08  start slowly, the thing will start to move like this, it will start to move like this.
+13:12  And similarly, if you are here, somewhere here on this side 14, you will see basically that
+13:16  at this point, a lot of goods, the shopkeeper is willing to sell a lot of wheat, but nobody
+13:21  is willing to buy the wheat. So, the shopkeeper will say, look, nobody is buying the wheat,
+13:25  I must reduce the price. Here what they are saying basically, the people are willing to,
+13:31  the shopkeeper is, if 11 rupees, shopkeeper is finding a lot of demand, shopkeeper is saying,
+13:37  so much demand is there, why am I keeping my price at 11 rupees, I should increase the price.
+13:40  Here he is saying I will reduce the price. So, they are basically, the price is either
+13:44  moving, both ways it will move and eventually it will end up here, which is called the
+13:47  equilibrium price. So, in this case, you can see the equilibrium price is between 12 and 13
+13:53  and the equilibrium quantity is between 15 and 16. So, that is where the two curves intersect.
+13:59  And this price, this price, at this price at 12 and a half rupees, everything that the seller
+14:04  is willing to sell, the buyer is willing to buy. So, the market we say is cleared, cleared means,
+14:10  so the seller, of course, the seller has maybe 20 kilos, he is keeping some, but whatever he brought
+14:14  to the market, he cleared. He wanted to sell, he was able to sell and the buyer also, whatever
+14:19  they wanted to buy, they were able to buy at that price. So, market is cleared at that price,
+14:23  there is no shortage or excess at that price. So, that is called the, that is why it is called
+14:28  the equilibrium and things move to the equilibrium. Now, we know basically, therefore,
+14:33  because of this equilibrium model, we know that the price is the result of market actions of
+14:37  buyers and sellers. If there are more buyers, the price will start to go up. If there are more
+14:40  sellers, the price will start to go down and you know, basically, therefore, buyers and sellers
+14:45  interact and the interaction of buyers and sellers basically gives rise to price.
+14:50  And so many times what happens is that you say, why cannot we instead of writing price, the x-axis
+14:56  and quantity in the y-axis. We have written price in the x-axis and quantity in the y-axis,
+15:01  but it looks like the price itself is a result of the quantity that is demanded and supplied.
+15:06  Price is a result of quantity actions. It is not a, it is not, it is, where did it come from? It
+15:12  is not, how did the seller decide to set a price in the first place? There are multiple sellers,
+15:16  how can they all coordinate and set the price? They cannot. So, the market determines the price.
+15:20  So, price is an outcome. If price is an outcome, should we not be putting demand in the x-axis and
+15:27  price in the y-axis? This is another question. And this makes sense. Sometimes we put price as
+15:32  a result of demand. This makes sense because also if you look at it, when you sell to customers,
+15:38  it, you, I mean, you can do discounted pricing. It happens all the time. You can go to the customer
+15:43  and say, look, I am willing to give you 10 rupees provided you buy 20 kilos. Then I am willing to
+15:48  give you a 10 rupees. If you are going to buy only 13 kilos, then I can only give you a 15 rupees.
+15:52  This is called discount table. So, if you are buying large quantities, I am willing to give
+15:57  you discounts, something like that. So, this, this kind of table can also be constructed,
+16:01  which is kind of inverse relationship between price and quantity. Instead of having the price
+16:07  on the x-axis and quantity on the y-axis, you put the quantity on the x-axis and price on the,
+16:11  quantity on the x-axis and price on the y-axis. And we have drawn the same diagram. But regardless
+16:16  of how you draw it, whether you put price here, quantity there, quantity here, price there,
+16:19  whatever it is, this line is a line and you will be moving up and down the line, does not matter.
+16:24  So, once you have drawn the line or the table, it does not matter which you put,
+16:28  call this column first or that column first, the table is the same. So, as far as you are looking
+16:33  at the line and the table, the analysis will come out the same, whichever way you look at it,
+16:37  whichever way you put it, whether you put price in the x-axis or quantity in the x-axis.
+16:41  Last thing I want to discuss in this segment is the effect of income. Now, assume that there are
+16:50  two customers, one customer is high income customer, let us say person has a high salary
+16:55  and another is a low income customer, is a lower salary. Then you can see basically that the high
+17:00  income customer is willing to buy for, has a higher budget basically, because he has got high
+17:05  income, he is willing, he has got a more budget to spend on wheat and so if you put the price in
+17:11  rupees per kilo for the same price, the high income customer may be buying more of the item
+17:18  than the low income customer, that is what I have shown here. So, you can plot it, so you can see
+17:23  basically that these are the prices here, this is the quantities, so the lower income person is here
+17:30  at the same price, this person was willing to buy 15 kilos, but this person is the higher income
+17:35  person is willing to go and buy 16 kilos because he has that much more money to spend.
+17:40  So, therefore, he is willing to buy additional kilo for the same price. So, the higher income
+17:48  curve, typically higher income curve, the curve, the demand curve for higher income person will be
+17:53  higher than the demand curve for the lower income. So, the general tendency is income, increasing
+18:00  income pushes this curve outward. So, one can say basically that with more and more income,
+18:05  people's demand curve will keep going out like this, that is what it will happen.
+18:09  Now, sometimes strange things happen, strange thing happens, like for example,
+18:16  it may so happen, this strange thing happens because there is not just one good, there are
+18:20  other goods like there are substitutes. So, people can eat, I mean, I need to, reason I buy wheat is
+18:25  because I want to eat chapati or something, that is why. So, I could eat wheat, I could buy wheat,
+18:30  make it into atta and then make chapatis out of wheat and eat it or I can buy rice, cook the rice
+18:33  and eat it. These are two ways. So, maybe my preference is for rice, not wheat. I like rice
+18:40  more than wheat. In fact, actually tendency in India is that people are consuming more rice than
+18:44  wheat and all. So, more income basically might mean that I, if I have more income, I am earning
+18:51  more, I might decide to replace wheat with rice. When I have less income, I cannot afford rice,
+18:57  so I eat wheat, that could be possible. In which case, wheat is called an inferior good.
+19:02  It is called an inferior good. I mean, it is not necessarily, I mean, I am just taking it
+19:06  as an example. It is not that wheat is inferior or anything. I am just saying that if at all it
+19:11  turns out that people switch from wheat to rice when their income goes up, then wheat is called
+19:16  an inferior good compared to rice. I am not, therefore saying that wheat is inferior, rice
+19:21  is superior or something like that. I am just saying that in this example that you have taken,
+19:25  it could so happen. It could be that people replaced wheat by rice.
+19:30  So, in that case, what happens basically is that the curve looks like this. So, the higher income
+19:36  curve actually becomes lower than the lower income curve. If you saw this curve, what we saw is that
+19:42  the higher income curve is higher than the lower income curve. But here what happened, the higher
+19:46  income curve went below the lower income curve. Why did it go below? It went below because
+19:51  the person with higher income decided to drop wheat and move to rice.
+19:55  That is why it went below. So, such a good is called inferior good. So, it is very important
+19:59  to understand firstly whether the good is a normal good as it is called or an inferior good. If it is
+20:03  an inferior good, then you should not apply the principle that income, increasing income will push
+20:09  the curve outward. Increasing income, if it is an inferior good, it may not, actually it may push it
+20:14  the other way. But generally, most of the time, you will find basically that increasing income
+20:19  pushes the demand curve outward. In rare cases like this, you might find that certain goods
+20:24  are substituted out for better goods and they are called inferior goods.
+20:28  All right, with that little bit of introduction to economics, which is understanding the circular
+20:34  flow and understanding the demand and supply that happens in the markets, I think you have some
+20:39  language that will allow you to understand most of the context with which we will be speaking about
+20:46  things in this course. So, that is the end of this segment.

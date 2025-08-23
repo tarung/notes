@@ -1,0 +1,640 @@
+00:00 [Music]
+00:15 uh
+00:17 so maybe it's a good time now to start
+00:19 looking uh
+00:21 uh now that you've given us this broad
+00:24 overview
+00:25 uh maybe a good idea to start looking at
+00:27 a
+00:29 data exactly fantastic
+00:33 okay
+00:35 uh
+00:36 so julie uh we'll have shiv walkers
+00:38 through the data right right
+00:41 yeah
+00:42 so you want to open the excel uh
+00:45 i will open this and open the x
+00:48 so um
+00:49 so perhaps we can start as i said you
+00:51 know we are going to go from
+00:54 the customer
+00:55 backwards right the sales backwards in
+00:58 the value chain of the company so first
+00:59 thing we look at is the sales
+01:01 information which is basically
+01:04 how much of the product was sold and
+01:06 what price was it sold
+01:08 and
+01:08 during each month so
+01:10 all of this data most of the status
+01:12 available for the entire 24 months
+01:14 uh so from april 2019 all the way to
+01:17 march 2021
+01:19 to show
+01:21 all the different impacts that happened
+01:22 right the ps4 to bs6 transition
+01:25 the impact of kobe the recovery from
+01:27 kobe and so on so forth
+01:29 um so what you see in the sales data is
+01:32 as i said the 10 gear assemblies which
+01:34 are the finished products that the ace
+01:35 is selling and for each of those gear
+01:38 assemblies you will see the sales for
+01:40 each month
+01:41 for example what you're seeing right now
+01:43 is april 2019 uh it shows the total
+01:47 sales of that gear assembly the numbers
+01:50 to 8960
+01:52 units of that finished product was sold
+01:54 and the price at which it was sold 420
+01:57 rupees that was the price it was sold at
+01:60 and so on so you see
+02:02 for may 2019 june 2019 quantity and
+02:06 price
+02:07 for all of the
+02:09 uh the months right
+02:12 the 24 months so that's the first data
+02:14 set that you'll see
+02:15 and when you see this data set i think
+02:17 you see the impacts that we talked about
+02:20 in the sales you will see
+02:22 that products number one two
+02:25 are the ps4 parts
+02:27 you'll see that there the sales of those
+02:29 products so one of the things that i
+02:31 want to
+02:33 you to analyze is what happens to sales
+02:35 of those ps four products
+02:37 as the transition to bs6 happens um
+02:41 on april 1st 2020. so that's the first
+02:43 question
+02:44 and then you will see that
+02:47 the parts
+02:48 number
+02:50 three to uh
+02:53 three to eight they are applicable for
+02:55 both vs4 and vs6 so that means that
+02:58 their sales are not going to stop just
+02:59 because of ps4 or six but can you see
+03:02 some seasonal pattern in the year that's
+03:04 my second question seasonal pattern
+03:07 means at some point in the year the
+03:08 sales is high and then another point in
+03:10 the year the same snow can because we
+03:12 have two years we can start to see
+03:15 potentially some seasonal patterns so my
+03:17 second question is are there any
+03:18 seasonal patterns you see
+03:20 in the sales data
+03:22 and then the last set of products is the
+03:24 bs6 products which
+03:26 initially you'll see zero because vs6 is
+03:28 not kicking till april 1st 2020
+03:31 and then you'll start to see their sales
+03:32 so the question on that one is how what
+03:35 is the pattern of sales of these bs6
+03:38 products did they when did they start
+03:40 selling and why did they start selling
+03:42 at that point
+03:43 uh when you did see their things start
+03:46 so that is the third question the fourth
+03:49 question is what is the impact of covet
+03:51 uh on the sales of these products so as
+03:54 production actually
+03:56 uh and sales actually slowed down after
+03:58 the pandemic stuck in march 2020
+04:02 what kind of impact are we seeing from
+04:04 the pandemic uh
+04:07 through
+04:08 through the next several months right as
+04:10 the first wave hit and then receive it
+04:13 what kind of impact do you see in the
+04:15 sales of these products so that's
+04:17 another
+04:18 question i have
+04:20 then i also want to find out some things
+04:22 like what what are the products that are
+04:24 giving me the highest sales quantity
+04:27 and what are the products that are
+04:28 giving me the highest sales value value
+04:31 means revenue right which means not only
+04:33 that so if you multiply the quantity and
+04:35 the price and that's when you get the
+04:36 sales value so which products gave me
+04:39 the the best sales value that i should
+04:41 pay more attention to because i
+04:43 obviously want
+04:45 to pay a lot of attention to products
+04:46 that giving me a lot of revenue i want
+04:49 to make sure that there's no shortage of
+04:51 those products and so on so those those
+04:53 are other questions i have on that first
+04:55 table right what's
+04:57 what's the products that are giving me
+04:58 the maximum revenue what are the
+05:00 products that are giving me the minimum
+05:01 revenue uh which means uh you know i
+05:04 might rethink whether it's worth selling
+05:06 those products in the next coming years
+05:07 so those are some questions i have on
+05:09 that first table
+05:11 you see
+05:13 okay
+05:15 the
+05:16 next table
+05:18 uh seems to be more
+05:20 from a
+05:21 regional perspective i see
+05:26 yeah
+05:28 maybe you can help us understand this
+05:31 table
+05:32 yes absolutely so what we then say is
+05:35 because asia cells in all four regions
+05:38 of the country
+05:39 right
+05:40 and automobile clusters are there as you
+05:42 know in multiple parts so around the
+05:44 west right mumbai pune especially you
+05:47 have a cluster of manufacturers i mean
+05:49 the south of course chennai is
+05:51 the detroit of uh of india so there is a
+05:53 lot of manufacturing activity there's
+05:55 also east and north where significant
+05:59 activity happens for companies such as
+06:01 tata motors
+06:02 um and mahindra's and so on so so the
+06:05 regional sales distribution is is given
+06:08 for just three months and is given only
+06:11 for the eight products in this
+06:12 particular case this because of course
+06:14 the
+06:15 product nine and ten were not selling in
+06:17 that particular three months we looked
+06:19 at october 2019 november 2019 and
+06:23 december 2018 so you this is called the
+06:25 q3 of the financial year 20. so you'll
+06:28 see three months and for each of the
+06:30 three months you'll see for the eight
+06:31 products that were selling at that time
+06:34 you'll see the overall sales but it also
+06:37 see in which region how many units of
+06:39 that product sold so you'll see north
+06:41 east west and south so if you take gear
+06:43 assembly one for example in october 2019
+06:46 it sold 14 400
+06:49 units right and most of the sales came
+06:52 from east and south so 11 200 units in
+06:55 east and 3 200 from south there were no
+06:58 sales in north and west for that
+06:60 particular family that could be because
+07:02 that assembly is used by a
+07:05 particular manufacturer who only has
+07:07 factories in east and south right um
+07:09 that could be the reason for that and
+07:11 similarly you would see for all of the
+07:13 eight gears what's the regional sales
+07:16 for each of the four meters so that's
+07:18 what's there in this table
+07:20 and in terms of questions around this
+07:23 table
+07:24 um i want to understand um you know
+07:26 which regions are most important to me
+07:28 where is that
+07:30 i'm getting
+07:30 the maximum sales quantity but also the
+07:34 maximum sales revenue uh now you have to
+07:38 look at both tables to figure the
+07:39 revenue side of it um so that's one part
+07:42 i want to find out and then i also want
+07:44 to find out
+07:46 is there uh i could for example i could
+07:48 give
+07:50 specific focus to some regions by
+07:52 appointing a regional sales agent uh so
+07:55 what these regional sales agents do is
+07:57 they are actually stationed or located
+07:59 in that particular region in one of the
+08:00 cities and they are making sure that
+08:03 account that they will make sure that
+08:04 the customers in that region get regular
+08:06 with it
+08:08 their feedback is incorporated the
+08:09 schedules are clarified and so on then
+08:12 the agents can actually
+08:13 help improve customer relationship and
+08:15 also improve the sales so if i if i want
+08:18 to appoint a few agents then which
+08:20 region should i appoint these agents in
+08:22 and how many agents should i appoint in
+08:24 each region
+08:25 if i want a point agent in such a way
+08:28 that
+08:29 it is
+08:30 somewhat related to the amount of
+08:31 revenue i am making from that region so
+08:33 every region in which i'm making
+08:36 uh you know more than a certain number
+08:38 of products are sold or revenue is
+08:40 gathered i want to appoint those agents
+08:42 and i have a fixed budget for how many
+08:44 agents i can appoint then how should i
+08:47 appoint those agents which region should
+08:49 i point more which is region should i
+08:51 point less so that's another question
+08:54 that uh that i would like to have and
+08:56 then i'd also like to see
+08:58 are there
+08:59 some products that are clustered in some
+09:01 region right some products are only in
+09:03 certain region some products and only in
+09:06 certain other region is there a pattern
+09:07 like that so those are some of the
+09:09 questions that i have from the regional
+09:11 perspective
+09:13 okay
+09:16 then the next table seems to be
+09:20 uh
+09:21 i've let me unfreeze this
+09:24 and
+09:26 now let's look at this table
+09:29 okay
+09:31 um now this this one is actually
+09:35 about production right so we talked
+09:37 earlier in the case study how
+09:39 you know based on how much you sell you
+09:42 want to start producing enough so that
+09:45 you do not
+09:47 miss any sales right so you have enough
+09:49 product to sell uh
+09:51 depending on the customer demand if the
+09:52 customer is demanding ten thousand
+09:54 then if i have only nine thousand i'm
+09:56 going to lose the thousands of sales
+09:58 right so so basically i don't want to do
+09:60 that so i want to make enough so that i
+10:02 can satisfy all the demand that's there
+10:04 but i don't want to make too much
+10:05 because
+10:06 if i make too much then
+10:08 that product will lie
+10:10 idle as inventory
+10:12 either with me or in the regional
+10:14 distribution center or somewhere so
+10:16 that's also not good
+10:18 another thing that is important from a
+10:20 production planning perspective is
+10:23 you don't want production to go up and
+10:25 down ass as much as the variation in
+10:28 sales so sales may suddenly peak in one
+10:31 month and drop in another month because
+10:33 there are many factors like for example
+10:35 if there is a
+10:36 strike a labor understand
+10:40 in a car manufacturer's factory and as
+10:43 you all follow the headlines toyota had
+10:45 such a major understanding
+10:46 2019 for example that they had to shut
+10:49 down the factory for a number of months
+10:51 so then what happens is suddenly your
+10:53 demand from your customer is going to
+10:55 drop in one month or it could be a new
+10:57 model that's getting launched by that
+10:59 that manufacturer and initial months you
+11:02 have very high demand right because
+11:04 because customers are just trying to get
+11:06 their hands on the product uh as quickly
+11:08 as they can a recent example is mahindra
+11:11 where they introduced the new power
+11:13 right the car assuming and the demand is
+11:16 so much that even if even if they
+11:18 produce for one more year they can't uh
+11:21 catch up to the waiting list right so so
+11:23 those types of things happen when the
+11:25 demand is fluctuating a lot but you
+11:27 can't
+11:29 flex your production you don't want to
+11:31 change your production so rapidly
+11:33 because
+11:34 then you mean then it means that number
+11:36 of labor will be idle for some time and
+11:38 suddenly there will be overwork and you
+11:40 won't have enough labor so what you want
+11:42 is a production that is more smooth it
+11:45 should it should be responsive to demand
+11:47 but you should not be as much jagged uh
+11:49 you know going up and down rapidly like
+11:51 the demand so you have a production plan
+11:54 that's more smooth
+11:56 and follows the sales plan so what you
+11:58 see in this table is for all of the 10
+12:00 assemblies that we make
+12:03 you'll see the
+12:05 thing called beginning inventory which
+12:07 means at the start of the month how many
+12:09 of those products were already in my
+12:10 store right finish good store or in my
+12:13 warehouse
+12:14 and then you see how much was actually
+12:16 produced that that month and you see the
+12:18 ending inventory which is at the end of
+12:20 the month how much products would i have
+12:23 on hand at the end of the month so you
+12:26 for every single one of those months
+12:28 from april 19 to march 21 you see the
+12:31 beginning inventory of the gear assembly
+12:33 one
+12:33 for example you see how much of gear
+12:35 assembly one was produced that month and
+12:37 then you will see how much of the
+12:39 inventory is still lying with me at the
+12:41 end of the month
+12:43 and i think as you can logically imagine
+12:45 the ending inventory that the inventory
+12:48 that i have the end of the month
+12:49 will be
+12:51 equal to how much did i have at the
+12:52 beginning how much did i make and then
+12:54 how much i sell so logically you can put
+12:57 those three things together to find what
+12:58 is ending inventory and so similarly you
+13:01 will have that data for all the 24
+13:02 months for all the 10 products right so
+13:05 that's what you see in this particular
+13:07 table one thing you see is that
+13:09 production does vary so if you look at
+13:10 year assembly one
+13:12 it we produced 7 000 in april we
+13:15 increased to 9000 in may and then we
+13:18 kept 9 000 for some months and probably
+13:20 then we start decreasing or increasing
+13:23 depending on the customer demand so you
+13:24 see that it's further
+13:26 10 000 in september and so on
+13:28 so there is a pattern to this but if you
+13:31 see the same gear assembly one in the
+13:33 previous table if you see the sales
+13:36 if i can go back to the first table in
+13:38 the top right
+13:42 if you see the sales of vr assembly one
+13:44 it was actually 8960 then it fell to
+13:47 7960 then it suddenly increased 10 960
+13:52 and then
+13:53 560 and so on right so you see that
+13:56 there's a lot of ups and downs in the
+13:58 sales of the of the product uh but
+14:01 production is also going up and down but
+14:02 it's not going as rapidly up and down
+14:05 and this is the job of the what we call
+14:08 that the sales and operations planning
+14:10 right that we saw in the chart earlier
+14:12 which says okay how is my sales going to
+14:14 behave and therefore house my production
+14:17 should look for each each month so the
+14:19 sales and operation planning and the
+14:20 market production scheduling which is
+14:22 the next step we saw these two
+14:24 activities will make sure that we
+14:26 produce the right amount
+14:28 and that we produce it in a smooth way
+14:30 and not so uh up and down as much as the
+14:33 sales so shift just for my understanding
+14:36 uh
+14:37 i mean do i do i understand that each
+14:40 gear assembly
+14:41 is manufactured by a different machine
+14:46 and has different indi as people
+14:49 associated with that manufacturing
+14:51 because the reason i'm asking that
+14:53 question is that we are trying to smooth
+14:54 each row and we are not taking the total
+14:56 and smoothing the total right
+14:59 yes
+15:01 that's an excellent question we should
+15:03 also be smoothing the overall production
+15:05 so that is uh also uh what the mps tries
+15:08 to look at like what is the resources
+15:10 available so to your question it is all
+15:12 shared right it's not dedicated lines um
+15:15 you'll see later on that in the
+15:17 production scheduling part of the case
+15:19 study that the same hobby machine is
+15:22 actually used to make two gears two
+15:24 different devices
+15:26 so yes it is all shared and the
+15:30 goal is definitely like you said
+15:32 uh
+15:33 to smooth not only one product but to
+15:36 smooth the entire system
+15:38 okay
+15:39 so two observations i had uh shiv uh
+15:43 first is you know this table that you
+15:45 have shown us seems very similar to the
+15:48 ledger that we were seeing in the
+15:50 e-commerce case
+15:52 uh because there what we saw was that
+15:55 opening stock plus uh
+15:58 incoming goods minus sales was equal to
+16:01 closing stock
+16:03 and it seems to me at least at first
+16:06 glance that you are looking at something
+16:07 similarly here right
+16:09 except that i would differ the only
+16:11 thing is that their incoming can be
+16:12 anything
+16:14 variation incoming is not a problem
+16:16 there but here
+16:17 it has to be smooth because for whatever
+16:19 we discussed just now production needs
+16:21 to be smoother you can't just have
+16:23 variability in production
+16:25 right right
+16:27 the the second
+16:29 sort of
+16:30 thing that immediately strikes me is
+16:32 that if production is smooth and sales
+16:35 are sort of variable
+16:38 and the amount that i have in my
+16:40 warehouse will keep changing constantly
+16:44 big swings
+16:48 and that that would be another challenge
+16:50 perhaps for the warehouse manager to
+16:52 manage it
+16:54 yes absolutely
+16:56 that is very true and that is the role
+16:58 the inventory plays cycle inventory is
+17:01 both bad and good or good and bad right
+17:03 so the bad aspect of inventory is if you
+17:05 have a lot of inventory then it's ideal
+17:07 products it is locked up capital
+17:10 uh it is not actually being used in the
+17:12 further in the value chain
+17:14 but the good part of inventory is that
+17:16 it helps you to do this smoothing
+17:18 it
+17:19 make sure that you know your sales and
+17:21 your production does not exactly match
+17:23 your sins because you can dip into the
+17:25 inventory when you need more and if
+17:27 you're producing more you can add to the
+17:28 inventory but as you said rightly the
+17:31 inventory is a very
+17:34 important thing to manage the store the
+17:36 space that is required and the security
+17:38 that's required to manage the inventory
+17:41 the warehousing
+17:42 and sometimes some production like we
+17:45 know in the case of vaccines now cold
+17:47 cold storage is required not in this in
+17:50 this kind of product but those things
+17:52 are all part of the inventory management
+17:54 is you have the right storage you have
+17:56 the right conditions ambient conditions
+17:57 for the storage do we have enough
+17:60 security and
+18:02 control over the inventory so that's
+18:04 very important so one of the questions
+18:05 that therefore i will have in this is
+18:08 how do you manage inventory
+18:10 uh from a warehouse manager perspective
+18:12 how much
+18:13 is the maximum and the minimum uh and
+18:16 therefore what is the kind of percentage
+18:18 variation i'm having in that inventory
+18:20 over the 24 months right um
+18:23 so how big a space um should i take
+18:26 right like uh or should i you know
+18:28 what's the level of variation that
+18:30 you've seen that inventory is an
+18:31 important question in this
+18:35 exercise
+18:36 so you have given us uh the inventory
+18:39 data as well right
+18:41 shifts to
+18:43 uh
+18:43 and and to me at first glance it seems
+18:47 very similar to
+18:48 uh
+18:50 to the production plan so so what is the
+18:53 difference between the two maybe you can
+18:55 explain this table and also tell us what
+18:57 is the difference from the production
+18:58 plan
+18:60 yes so the first table we just saw was
+19:03 the is that is called the production
+19:05 plan for the finished product so think
+19:08 of that if you think back on the slide
+19:10 we saw there is two stages in this
+19:12 production right so first we have to
+19:14 take the blanks and we have to make the
+19:16 gears
+19:17 and then we have to assemble the gears
+19:19 together and test and pack and ship it
+19:22 so these are the two stages right so
+19:24 what you see in this table right here on
+19:26 the screen is the finished product
+19:28 assembly
+19:29 production plan so that means i have to
+19:31 make seven thousand assemblies in april
+19:34 2019 i think that's what you see there
+19:36 right
+19:37 but to make 7000 assemblies i need to
+19:40 have the two components available
+19:43 to make the assembly so what you see in
+19:45 the below table is actually the plan for
+19:49 the first stage which is how do i make
+19:51 the the two gears and how much do i make
+19:54 each month so that i can then create the
+19:56 assembly in the second stage so what you
+19:59 see here is the gears two a two b three
+20:02 a three a three b and so on so these are
+20:06 the gears actually required to make the
+20:07 assemblies
+20:09 two three four five and six so we are
+20:11 showing the six just for the sake of
+20:13 managing the amount of data so for each
+20:15 of those assemblies there are two gears
+20:18 that are required and what is the
+20:19 production plan for those two gears so
+20:21 this is how we go level by level right
+20:23 we start with how much we produce the
+20:24 finished product how much should we
+20:26 produce at each of the sub assemblies
+20:28 and how much should we produce of each
+20:29 of those parts and so on so what you see
+20:32 here is the production plan for the
+20:35 the individual gears themselves because
+20:37 the hobbing and broaching are the two
+20:39 steps required to make the individual
+20:41 gear and then the assembly is the next
+20:43 stage where you put the gears together
+20:46 test it and align it in package
+20:51 okay
+20:53 that
+20:54 actually
+20:55 then my natural question is what is uh
+20:58 what was the term that you used to lift
+21:00 material
+21:10 yes
+21:11 yeah here we are seeing the bill of
+21:13 material
+21:14 in action right and
+21:17 and that should be
+21:19 uh
+21:20 a little bit of comfort for us perhaps
+21:22 because then uh
+21:25 from a purchasing perspective i can
+21:28 you know it i can smooth out the
+21:30 purchases because the same blank is
+21:32 being used into uh
+21:34 into products
+21:36 perhaps hopefully
+21:38 absolutely absolutely so you you even if
+21:40 you have let's say more demand for 3a
+21:43 but at the same month you have less
+21:44 demand for 4a
+21:46 that means you don't have to change your
+21:49 your purchasing of blanks 0 1 1 because
+21:52 there will be more use in one place and
+21:54 less using another place so the more we
+21:55 have common components
+21:57 the more you can actually smooth your
+22:00 production and make the product
+22:02 structure less complex and this is the
+22:04 reason that automotive manufacturers go
+22:06 for platforms the strategy of platforms
+22:08 so if you look at many cars they can be
+22:11 built on the same
+22:13 platform so for example right now the
+22:15 volkswagen group is launching a platform
+22:17 called mqb a0 in in india and on top of
+22:21 this single platform which uses common
+22:25 components in the chassis and common
+22:27 engines they can make a suvs they can
+22:30 make compact sedans they can make
+22:32 midsize sedans they can be
+22:34 hatched
+22:35 so all of these
+22:37 and the strategy behind that is exactly
+22:39 this is you have fewer
+22:40 components you have fewer assemblies on
+22:43 which you can build multiple different
+22:45 types of products
+22:48 all right very very interesting
+22:52 so shim all the other excel sheets have
+22:55 the same data right there's no other raw
+22:58 data
+22:59 yes there is there is one more aspect um
+23:02 so here we have seen the scheduled
+23:04 production of finished product uh sales
+23:06 of finished product then regional sales
+23:08 and we saw the production of finished
+23:10 products then we saw the production of
+23:11 the gears themselves and then there is
+23:14 the aspect of uh scheduling which is
+23:18 shift by shift how much do i need to
+23:20 make
+23:23 machine and approaching machine so
+23:25 that's the data we haven't probably seen
+23:27 it and then there's also data on
+23:28 purchasing
+23:30 okay

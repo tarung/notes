@@ -1,0 +1,418 @@
+00:00 So, G V,  
+00:15 he saw that in rural people are spending a lot 
+more on food. They are spending on intoxicants  
+00:23 and they are spending on transport. So, 
+maybe their savings are not very high.  
+00:30 Likely, because their income also is low. 
+So, how can we test out this hypothesis? I  
+00:34 think there is this EMI column was there, 
+remember? Yeah, EMI is there. Yeah, yeah.
+00:39 Let us just look at EMIs.  
+00:42 How many people had EMIs? It will be, EMI and only 
+city will have it. Let us see whether it is city,  
+00:50 we can also look at it by state, monthly 
+expense on all EMIs. Let us remove.
+00:55 Because those guys they go to moneylender. No, but 
+I think the EMIs include moneylenders. Is it a,  
+01:01 it does not? I think so. Let us look at, so rural 
+only one person had EMI. That is what I am saying.
+01:11 No, no, but there is a moneylender is also there  
+01:14 knowing this. Has borrowings. 
+EMI though. EMI means? They have  
+01:20 has borrowings. Concept of EMI, what is that 
+I mean? Moneylender I do not know what else.
+01:23 Let us look at your right actually.  
+01:28 Oh, that has borrowings was there in the other 
+sheet. This EMI, where was the EMI? This will  
+01:37 do by state, I think this might make sense. No, 
+no, let us look at urban. Urban will be there.
+01:42 Urban EMI 100 percent for homes, home loan 
+they have taken. Where is filter? Clear.  
+01:51 So where is EMI?  
+02:13 Insurance. Insurance. It is not working.
+02:35 This is it. Monthly expense of all EMIs. 
+So, let us now remove 0 and blanks.  
+02:45 So, what is it showing up? Only few people 
+actually how many people are taking EMIs? 1,  
+02:49 2, 3, 4, 5, 6 out of them 5 are. And what is 
+also interesting GV to me what is striking  
+02:56 is that there is only one person 
+Uttarakhand who is taken in EMI.
+03:01 Otherwise they are all from the southern 
+states. See, not only organized in a way. So,  
+03:10 the penetration of organized lending seems 
+much higher in South India than it does in  
+03:18 North India. There is more scope for doing lending 
+in North India, organizing. Or East India maybe.
+03:23 Or in East India. This is interesting. 
+So, analysis by state also may give us  
+03:30 some more interesting data. Those 
+percentages are saying something  
+03:34 what is it saying now? Let us see what 
+they are saying. So, they are saying.
+03:38 30 percent is what? 30 percent of their total 
+expense is. Actually you know what this number  
+03:45 is also getting changed. So, the numbers are 
+not correct now. Which? This number is total.  
+03:51 It is not subtotal, is it 
+subtotal? It is subtotal.
+03:58 So, total expense this you do not want 
+me to use subtotal, you wanted me to use  
+04:03 total. No, it has to be subtotal. So, of 
+the money that these guys are spending,  
+04:10 if you have an EMI, Oh right, yeah, yeah.  
+04:14 Then the guys who have EMI's are totally spending 
+about 1.02 lakhs, out of which 31,000 are.
+04:23 You are right, you are right, you are right, 
+I got confused. Yeah, yeah, yeah. Correct? It  
+04:27 is correct. So, what are we saying? So, 
+the people who have EMI's, 30 percent of  
+04:32 their expenditure is going on EMI.
+04:33 Correct. Good God. Look at that. And 
+I suspect a lot of it is probably for  
+04:38 buying a house. Maybe we should 
+see. That we will not see here,  
+04:42 that is again aspiration data. 
+Oh, that is an aspirational data.
+04:48 But it is not surprising, I mean people 
+do spend a lot of money on EMI, those  
+04:52 who have loans. Correct. Right. Those 
+who have loans have very high loans.
+04:55 Very high. But what is surprising G V E, while 
+if that hypothesis was correct, here is a wage  
+05:04 laborer family. This is your EMI? And their EMI. 
+All matriculate. Look at that, all matriculate.  
+05:13 All matriculate on a total expenditure of 23,000, 
+6 and a half thousand is going on servicing loans.
+05:23 It is potentially a debt trap.
+05:26 Going here. No. Yeah. Yeah.  
+05:35 Interesting. Interesting. See, 
+this is giving a lot of insight.
+05:39 Yes. And then so. So, we had this other 
+hypothesis. Which is. So, since we are  
+05:44 looking at statewide, we had said that 
+meat consumption may vary by state. The  
+05:51 vegetarian states. So, I would, 
+let us look at meat consumption.
+05:55 Is there a number? We had a number I think on 
+meat. Meat consumption. Meat and fish, just got  
+06:00 everything. This is meat, eggs and fish. 
+So, let me just clear all the filters.
+06:11 So, totally India's Indian 
+family spent 4 percent on meat,  
+06:16 meat, eggs and fish. So, let us take 
+our hypothesis. Let us take the southern  
+06:21 states. Take Kerala , Tamil Nadu. We 
+will take all the southern states.
+06:21 Andhra Pradesh. No, no, we did not want 
+southern. We said eastern states, we said  
+06:21 east coast states. Andhra Pradesh is okay. It is 
+Odisha, Andhra Pradesh, West Bengal, Tamil Nadu.
+06:21 Let us say. It will be high. It will be high. 
+Take Kerala also, just for a heck of it.
+06:47 Kerala. Odisha. Odisha, West 
+Bengal. Kuducherry. Tripura.  
+06:55 Tripura is not a sea coast. I do 
+not think you should take Tripura.
+06:57 You should not take. I am saying 
+because they are near the sea, more  
+07:04 consumption of fish. This 
+is enough. Enough, enough.
+07:04 Enough, enough. Tamil Nadu I missed.  
+07:10 See 8 percent. 8 percent. Now, you go to  
+07:14 select Rajasthan, landlocked. Of 
+course, Gujarat is not landlocked.
+07:22 But Gujarat, I think northeastern 
+states. Haryana also I think. Haryana.
+07:35 Haryana, Punjab. Take the stick. 
+Punjab. Landlocked. Punjab. Rajasthan.
+07:37 Punjab and Rajasthan. Let us look at this. 
+So, this is the India's northwestern border.  
+07:45 Something like that. South east versus 
+west. South east versus north west.
+07:50 Vegetarian is a West Indian phenomenon. 
+Look at this. 1 percent. What is this?  
+07:57 Vegetarianism is a West Indian phenomenon.
+07:59 Correct. Not an East Indian phenomenon. North 
+also, let us do that a little bit more. Let  
+08:06 us look at what happens if I pick, let us 
+say Uttarakhand and Uttar Pradesh. Bihar.
+08:12 Let us pick Bihar. Bihar will also be 
+vegetarian. Possible, possible. Madhya Pradesh.  
+08:20 Gangetic plains we will pick.
+08:22 Uttar Pradesh, Uttarakhand. That is enough. 
+Let us see. 4 percent. So, they are about  
+08:28 average. They are about average. It is a north 
+western border that is strongly vegetarian.
+08:35 And the east coast is non-vegetarian. 
+Coastal. Coastal. Coastal. Except for  
+08:39 Gujarat. Let us just take Gujarat. Gujarat is 
+an anomaly I think. Gujarat also I think GV the  
+08:48 coast is such that it is probably, 
+it is too salty and marshy and.
+08:52 You do not get fish up. Maybe, maybe. I do 
+not know. Just check. We do not know in our  
+08:59 sight. I do not know what they do.
+09:02 But it looks like they are 
+vegetarian. Gujarat is 0 percent on.  
+09:07 They probably do not give information. If you 
+ask them to eat meat, they will probably say no.
+09:12 Even though they may be eating meat. I do not  
+09:14 know. Probably. This is 0 
+percent. It is unlikely 0.
+09:21 Of course, the sample. Sample. It could 
+be because of sampling. If we say Haryana,  
+09:26 Haryana is 1 percent. See, 
+actually, let us see what.
+09:33 Goa will be. Goa is probably high. 
+8 percent. Not surprised. Not at  
+09:38 all. Even actually take Tirupurra 
+or something. Let us take Punjab.
+09:42 Punjab actually I think. It is a 
+vegetarian state actually. Is it? Yeah,  
+09:46 it is. You get all these pictures of. 
+That is true. It is only 2 percent.
+09:50 They drink a lot of milk and all, 
+but they are vegetarian. Actually,  
+09:52 you get all these pictures of the. Correct. 
+Consumed of non-vegetarian, chicken or something.
+09:56 No, it is not true. Not true. Interesting. Very  
+09:59 interesting. Tirupurra we said. Not 
+to have enough data may not be there.
+10:03 15 percent. But of course, it is a 
+hard to. Now, one day. Just one sample.  
+10:09 But 15 percent. No, no, northeast of course.
+10:12 Northeast I think in general people. Generally. 
+This is interesting. Interesting. So, I mean,  
+10:19 I think what is illustrated here is that 
+you can do so much analysis. I think that is  
+10:24 more important. You can do so much analysis by 
+just putting down the subtotal and percentage.
+10:31 And you can analyze on multiple axis. And then 
+you do filter. You can do by. And then done, done,  
+10:35 done. And then you just keep seeing the percentage 
+and you get some information. Without too much  
+10:40 effort. And you can copy that information 
+down somewhere on the sheet and make graph.
+10:42 Make a graph. Without having to do some 
+Excel thing. Correct. Complicated Excel  
+10:48 thing. Correct. That is the useful thing I think 
+here. And you can do this on multiple axis.
+10:54 You can do space, you can do 
+state, you can do education,  
+10:57 you can do age. And you do not have 
+to redo the effort every time. It is  
+11:02 just once you have got this entire 
+machinery set up, it is for free.
+11:05 Free. It is for free. Nice. So, what would 
+be nice, Milan, is to see, I want to see some  
+11:15 income correlates. Or understand consumption, how 
+it goes with income, but we do not have income.  
+11:21 We have income in the other sheet, but then 
+that does not give us the expense breakdown.
+11:28 So, that gives us income, but not the expense. 
+It is not the same household. It is not the  
+11:32 same household. So, what do we do? Can we 
+do, so without income, but I still want,  
+11:36 so let us take a surrogate for income. Is there 
+a proxy for income? Education, one hypothesis  
+11:43 that we can make is that. It is not, I mean 
+there is statistical evidence that if there is.
+11:47 People are more educated than 
+they are. More educated family,  
+11:50 there will be more income. I think 
+that is well established. Let us check  
+11:53 that out. What are we checking? 
+What we can do is we can say.
+11:56 We take those houses which have 
+more graduates. Graduates. More  
+11:58 graduates. Take those households which have more 
+graduates and see whether they are spending more.
+11:59 All graduates or graduate majority.  
+12:09 Take like that. There are not too many. No, 
+that is okay. And we can see that the average  
+12:18 for these guys. So, if I just say average 
+expense and average if you remember was 101  
+12:27 is 17000. On an average households that have 
+graduates are spending 17000 rupees a month.
+12:39 Same thing if I just say household of. 
+Illiterates. Illiterates and some illiterate.  
+12:52 That is it. You can see that. 
+Now, let us look at matriculate.
+13:03 All matriculate and matriculate 
+dominated. Dominated  
+13:15 also. Matriculate. Matriculate 
+minority. 14.3 percent.  
+13:21 14.3 k. So, it is less than 17 k. But it is 
+probably, so if I look at just literates and  
+13:31 literates I am assuming means that they know how 
+to read and write, but they have not passed 10th.
+13:44 If I just look at that, it is about 11 k.  
+13:48 So, it is increasing. It is kind of a. Fair 
+to assume that as. Assume that graduation.
+13:51 As education increases. Education increases,  
+13:53 the expenditure. Household expenses increase. 
+Therefore, also must be income of this degree.
+13:57 Correct. That is our hypothesis. Hypothesis. 
+So, can I now see what percentage. So,  
+14:04 now I will go back to getting total instead of 
+average. Now, you want to do these percentages.  
+14:11 But I want to do these percentages for 
+graduate, the majority graduate households.  
+14:18 Where are they spending their 
+money on? Let us do that.
+14:22 I guess they will be spending the money on 
+education. This is my guess. If they are graduate  
+14:27 people, they will be spending a lot of money on 
+education and maybe medical expense. Possible.
+14:32 So, let us see. Or if they are house then EMI. So, 
+I have picked, I will tell you what I have picked.  
+14:36 I have picked all graduates, graduate majority and 
+graduate minority. Wherever they are graduates.
+14:42 House also with graduates. House also with 
+graduates. Let us see the percentages for this.  
+14:47 And then you wanted what? You wanted education. 
+Education. What is education? How much they are  
+14:53 spending on education? But first let us see 
+the total expenditure is 35 percent only.
+14:60 Not that. Yes. On food. On food. So, it 
+is come down. So, they are spending on  
+15:06 other things. They are spending on other things. 
+That is the first. Now let us look at education.
+15:10 How about intoxicants? We will see. No,  
+15:16 we can do that actually 
+because that is the next thing.
+15:19 Maybe they are getting drunk.  
+15:21 I do not think so. Maybe it is low. My 
+guess is low. Let us see. Let us see.  
+15:34 2 percent. How much was it? 
+It was 4 percent for average.
+15:40 Average was 4. Average was, 
+no average for rural was 4,  
+15:43 average for urban was 2. So, it is like an urban.
+15:45 It is like normal. Normal urban. Let 
+us look at education. Let us look at  
+15:51 education. Let me search for. Hey, by the way, 
+this cosmetics is spending money on toiletries.
+15:59 Look at that. 4 percent  
+16:04 on toiletries. Luxury items. Is not it? Let 
+us just do that. So, since we are at it,  
+16:13 where was that education? 
+Let us remove this and see.
+16:18 Matriculates. Matriculates. Anywhere 
+where there is a matriculate.  
+16:30 This is also spending. 5 
+percent. They are also spending.
+16:34 Let us just say, let us look at all.  
+16:37 Everybody is spending 5 percent. So, 
+not a luxury item. Soap, I think maybe.
+16:43 Soap maybe. So, let us go back to graduates. 
+And we want to see education. Education.  
+17:05 11 percent. And let me just do this. So, 
+let us, average expense is 5 percent.
+17:15 See, first of all, rural urban. Just 
+do rural urban. Rural urban. See,  
+17:20 I think that urban, rural people will go to 
+garbage school. Maybe 0 spending. 4 percent.
+17:28 Urban is probably 5 percent. Not much difference.  
+17:33 But the difference is coming because of, 
+so it is rural urban is not so much. It is,  
+17:38 are the people at home educated? People who 
+are educated seem to spend more on education.
+17:45 And then their children will get 
+educated. They will be educated. So,  
+17:48 they will be self-perpetured.  
+17:51 Eighth problem. Interesting. It is the people 
+who are not educated are not spending on.
+17:55 Try to look at the metricolate. Try to 
+look at the illiterate. What is illiterate?  
+18:05 This also I look. This is probably the  
+18:11 3 percent. 11 versus 3. Now, let 
+us look at some metricolates.
+18:16 Metricolate may also be spending actually.  
+18:21 Metricolates actually. Because they 
+will want to become graduates. 4  
+18:28 percent. That is actually the bulk 
+of the, I think the, 25 out of  
+18:40 100 records are matriculates.
+18:44 That is the bulk of India. Let us look at 
+health. There is another thing is medicine.  
+18:48 Health. Yes. What was the thing? 
+What was the… Again, same thing.
+18:53 I think the rural people, something has 
+happened. We can go here and see. What was it?  
+19:05 Medical. Just say school college 
+fees. There is nothing like that.
+19:09 Just see that is a lot. There is a thing called 
+school college fees. Just go to education. See  
+19:14 school college fees and private tuition fees. 
+Just look at those two. Let us look at that.  
+19:22 I do not think any rural person will be 
+spending money on school college fees.
+19:26 Not that many at least, but definitely 
+tuition fees may be very low.  
+19:31 So, 2 percent on an average. No, 
+I have to remove this filter.
+19:39 On an average it is 3 percent.  
+19:47 Rural is 3 percent. What is 
+it? Everybody goes to private  
+19:51 school. Urban is also 3 percent. Okay. 
+Tuition? So, tuition is the next one.
+20:00 So, urban is 1 percent. Rural is 0 percent. 
+So, urban is spending something on it.  
+20:09 So, tuition is much more of an urban. 
+Graduates. Take graduates there.
+20:20 It is an urban phenomenon.  
+20:27 3 percent. Graduates are spending more on  
+20:32 it. But that, my suspicion is 
+matriculates will be spending more.
+20:36 6 percent. Because parents can teach. No,  
+20:43 at home matriculate method that may not be 
+possible. Correct. This is probably what it is.  
+20:50 Wow. This is good insight. Yeah. So, 
+when families are largely matriculate,  
+20:56 they have the ambition to educate the children, 
+but they may not be able to guide the children.
+21:01 Therefore, they go to private tuition.  
+21:05 Wow. But again, here you see only 
+few, it is dominated by a few numbers.
+21:10 Actually, this one family is spending a lot. 
+Organized farmer family is spending a lot.  
+21:17 It is queuing the number. Maybe. Maybe. It is 
+queuing the number. It is queuing the number.  
+21:23 But anyway, your hypothesis, I mean, if you 
+will have larger sample, you will get no.
+21:26 Correct. It is very likely actually what you 
+are saying. Health, you had this other thing.
+21:28 Health. But is there a, she thinks. I think 
+this. Medicines. Medicines. Yeah, health.  
+21:40 This again, I expect that urban.
+21:41 Urban will be. More, I think. 
+That is all there are doctors. 0  
+21:55 percent on health. No, health supplements. 
+This is health supplements. Health.
+22:05 5 percent. 3 percent  
+22:17 on health. No, metric, let us spend more 
+actually. And urban is also 3 percent. Same it is.  
+22:27 India as a whole spends 3 percent on health.
+22:31 Not much difference. Not much difference. 
+Like if you want to see by education,  
+22:35 if that makes a difference. 
+Graduate households is 4 percent.
+22:42 4 percent. Look at largely illiterate or less 
+educated. Let us not say illiterate because  
+23:01 it is not. 3 percent.
+23:03 It is average. So, graduates are 
+spending a bit more. Little bit more.  
+23:06 Alright. I think we got sense. I think this 
+data is very good. It gives us a lot of insight.  
+23:15 There are some things we can do with aspirational 
+data set, but I think we will take it up later.  
+23:18 Yes. Because we I want to understand the 
+number of people who will buy two wheelers.
+23:26 In fact, I am very particular to understand 
+not only those people will buy two wheelers,  
+23:30 but those people will take loans for 
+buying two wheelers. I want to know  
+23:33 that. That should be our journey over 
+the next few weeks. Let us find out.

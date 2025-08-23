@@ -1,0 +1,229 @@
+00:00  Segment 1 introduction to Excel.
+00:20  So our course this entire course is about analyzing data as JV just spoke and the tool
+00:28  that we are going to use is a tool called spreadsheets.  Now depending on which suite of tools you use this could be called Google sheets in
+00:40  Google or Microsoft Excel.  I personally prefer to use Microsoft Excel but that is a matter of personal choice Google
+00:47  sheets and Microsoft Excel have roughly the same functionality.  So what we will do in this segment is get an understanding of how Microsoft Excel or
+00:58  Google sheets work.  So open up the Excel program and you will see that there is a menu that comes up file,
+01:13  home, insert, page layout etc.
+01:19  The basic document that any of this spread sheeting software works on is called a workbook.
+01:26  So what we are going to do now is open an existing workbook so you could of course create  a new workbook by so you go to file, new and that will create a new workbook for you but
+01:43  I have one workbook that has some data so I am going to open that data.  So I am going to close this workbook again to close a workbook you go to file and close
+01:53  and I will open an existing workbook so I do not want to save these.
+02:01  Now if you look at this workbook you will see that the workbook actually divides itself
+02:07  into two sort of broad areas.  At the top over here you will see that there is a right over here you will see that there
+02:18  is a set of buttons that allow you to do various things and this sort of set of buttons is
+02:28  called the ribbon.  If you are familiar with any other software like word or PPT those software also have
+02:38  a similar ribbon at top which have functionality like cut, copy etc.
+02:44  The bulk of the screen is taken up by a table which has rows and columns.
+02:52  So if you look at first let us look at the ribbon, the ribbon will give you let us say
+02:59  3 or 4 key parameters so first of all it gives you a set of functions to do cut and
+03:08  copy again this is very similar to how Microsoft word or Google doc works.
+03:16  So we can start from there let us perhaps you know to see how cut and copy works let
+03:22  us go first to the worksheet.  So the workbook will consist of multiple sheets you can see the sheets being listed
+03:30  down below so this workbook has two sheets sheet 1 and sheet 2 you can switch between
+03:37  sheets by clicking on this tab here.  So you can see that sheet 1 is empty, sheet 2 has some data in it you can also add a sheet
+03:48  by clicking on this plus sign and that will create then a new sheet in which you could
+03:54  store something my data let us call it my data.
+04:00  You can also delete a sheet by clicking on this tab and saying delete.
+04:08  So that gives you ability to do a little bit with some of the worksheets.
+04:14  So let us now start looking at what is in a worksheet.  So a worksheet is basically a very very large table of rows and columns.
+04:28  So if you look at what you have here you have rows that are named A, B, C, D and so on.
+04:39  If I go right to the end you can see that it goes to A, D actually it will go even further
+04:45  if I add more rows it will keep just going until I think ZZ.
+04:52  So it will go till XFD and if I am not mistaken that is something like 10,000 odd rows.
+05:02  Similarly if you go I will go back to A1 you can also then look at number of rows.
+05:13  So you can see row 1, row 2, row 3, row 4 and then you go right down and that is oh
+05:22  it is a lakh and 5000 roughly.  So you can get a lakh and 5000 rows and a lakh and 5000 columns.
+05:34  Now if you are wondering how I am jumping right to the end of the sheet control right
+05:41  arrow will take you to the last column, control left arrow will take you to the first column,
+05:47  control down arrow will take you to the last row, control right arrow will take you to  the first row.
+05:54  So you can navigate this sheet you can pick which is the current cell that you are working
+06:00  on by navigating either with arrows which is what I am doing now.  So I am going down one row, I am going right one column again down one row or you can also
+06:13  pick a row by cell by just clicking on it.
+06:19  Each cell has what is called an address.  So the cell that I have currently picked is called cell E4 and why is it called E4?
+06:29  It is because it is in column E and it is in row 4.  So you could have cell E4 and I could store some data in it, I could store let us say
+06:40  the number 4.  Now I can then go to let us say cell D5 and store another number in it let us say I store
+06:51  7.  Each cell can store any data that you wanted to store.
+07:02  So right now I have stored 2 numbers, I could also very well have stored pieces of text.
+07:10  So I will say this course is business data management.
+07:21  So now what have I done?  In the cell E4 I have now stored the string business data management.
+07:33  So you can as an example store a string which is a series or a text item, you can store
+07:43  numbers.  I could also store so here I have shown you how to store integers, you could equally well
+07:53  store decimals.  So I could have stored 4.2, I could have stored 7.8.
+08:03  So you can store integers, you can store decimals or real numbers, you can store strings.
+08:11  What else can you store?  You could store percentages, so I could store something as 0.11.
+08:19  Now 0.11 is a number between 0 and 1, so I could in theory interpret it as a percentage.
+08:27  Now if I want to show something as a percentage there is if you go to the ribbon there are
+08:34  a bunch of sort of buttons here that will allow you to decide how to present the data
+08:43  that you have stored.  By default Excel will show the data as a data type called general.
+08:50  So all the data that we have stored right now in Excel does not understand whether it
+08:56  is a number, whether it is a percentage, whether it is a string, any of this.
+09:03  I could if I wanted choose to show this number as a number.
+09:10  So if I click on this drop down box you can see that I can show this there are various
+09:17  number formats that are available.  We would not go into all of them but let me give you a flavor and then you can play around
+09:23  with it yourself.  So one example is I could show this as a number.
+09:31  Now you notice that the moment I say number by default Excel will assume that it is a
+09:37  decimal number it is not an integer.  So it will show it as 4.00 by default it will show you two decimal places after the decimal
+09:50  point.  I could if I wanted show fewer decimal places.
+09:58  So I could say decrease decimal.  So if I said let me go back if I said decrease decimal instead of showing it as 4.00 it will
+10:09  now show it as 4.0.  If I clicked decrease decimal once again then it would really show me only the integer portion
+10:20  and just show it as 4.  Same way if I clicked on 7 and I said increase decimal.
+10:29  Now note that increase decimal you cannot do on a number that is on a data that is being  displayed as general.
+10:37  So let us go back.  So this was general the moment I clicked increase decimal look at what happens to the data it
+10:47  automatically gets interpreted as a number and the data gets displayed as 7.0.
+10:54  I could keep increasing the decimal points I could get 7.00 there is I can keep doing
+11:00  this so I can get 7 followed by 3 0s 7 followed by 4 0s and so on and so forth.
+11:11  Because I have stored this as 4.2 if I increase the decimal here it is now going to become
+11:20  4.20 or 4.200 what happens if I decrease the decimal.
+11:28  So if I go from 4.200 and decrease the decimal it becomes 4.20 decrease once again it becomes
+11:38  4.2.  If I decrease once again what will happen?
+11:44  It will show it as 4.  Now what happened to the data remember our data is actually 4.2 but we are only showing
+11:53  4 did we lose the value of 0.2 let us check let us increase the number of digits after
+12:01  the decimal.  And if I do that you can see that 4.2 actually is keep is stored it is only the way you display
+12:11  the data that is changing because you click on these buttons.
+12:17  Now let us look at 7.8 7.8 if I decrease the decimal what happens?  Why did 7.8 become 8?
+12:26  So when you have when you are displaying only one decimal after the decimal point and you
+12:33  say decrease decimal then the number that is displayed is the decimal fraction rounded
+12:41  off to the nearest integer.  So since 7.8 is bigger than 7.5 it will display as 8 however the moment I increase decimal
+12:53  I will go back to 7.8 once again.  And same way if I look at 0.11 if I decrease the decimal it will show up as 0.1 and if
+13:05  I decrease the decimal once again it will show up as 0.  Remember that this does not mean that the data associated with 0.11 is lost it is just
+13:16  that we are displaying it as 0 if I want I can always look at the complete data.
+13:23  But remember what I told you 0.11 because it is a number between 0 and 1 I could also
+13:30  choose to interpret this as a percentage.
+13:36  If I choose to do that then I will say I will display this as percentage you can see this
+13:44  choice here and now this is being displayed as 11 percent.
+13:54  If I choose to convert back into number it will once again become 0.11 is this clear?
+14:03  So any number between 0 and 1 we could choose to display as a percentage you could also
+14:13  actually display a higher number.  So I could choose to display 2 as a percentage look at what happens when I say display 2
+14:22  as percent it shows as 200 percent.  So it interprets the number 2 as 2.00 it will multiply 2.00 by 100 and display that number
+14:35  as a percentage.  There is another useful format so imagine that I have a number 1, 2, 3, 4, 5, 6, 7,
+14:47  8, 9.  Now it is very hard and I want to read out this number as let us say so many lakhs, so
+14:54  many thousands, so many ten thousands etc.  Very hard to read out this number now because I have picked a very simple number I could
+15:03  read it as 123,456,789 but in general it could be a more complex number.
+15:13  Now there is a convenient format in excel which is called the comma style if you click
+15:19  on that then commas will get displayed.  Now this particular excel is set in an American style so it will display this in millions.
+15:32  If you choose to set up your excel or workbook in the Indian style then it will show it
+15:38  as lakhs.  There is a format and I would encourage you to explore how to change from American style
+15:46  into Indian style.  But the fact that the moment I have these commas I can now interpret this as 123,456,789.
+16:00  I could of course then decrease the number of decimals after this.
+16:09  This style of representation is called the accounting style because mostly finance folks
+16:15  use it and you will see as we go through our course a lot of the data that we are going
+16:22  to talk about is about cost, about prices and so on and it will be represented in this
+16:28  format.  So let us look now at a piece of data that I have.
+16:35  Now this data is the marks of the students in a class that I am teaching.
+16:43  This class, this course is a joint course between the computer science department and  the electrical department.
+16:50  Students have a roll number so I have 30 students in my class roll number 2023001 to 202301
+16:58  to 2023030 each student has a department so you can see here are the roll numbers,
+17:07  30 students.  How do I know that I have 30 students?  If I just select all of these, so what am I doing for selecting?
+17:19  I can press shift and down arrow and it is selecting multiple cells.
+17:26  The moment I do that something interesting begins to happen.
+17:32  If you look at this count here, you can see this function here it is counting the number
+17:39  of selected cells.  So this tells me that I have selected 30 cells.
+17:46  Now it so happens that the roll numbers are numbers and therefore you can get other data.
+17:53  Right now the data is not of interest to us but let us look at you know it does not make
+18:00  sense to add up roll numbers.  It is also showing me the sum of all roll numbers but the sum of all roll numbers is
+18:06  not data that we are interested in.  So let us ignore it for now.  If you now instead of this let us go to the department.
+18:15  So each student has a department, the department could be electrical or computer science.
+18:21  Now let us select this department.
+18:29  And if we select this you will see that now you do not see any sum or average you are
+18:36  only seeing the count.  And why is that?  Because this is text data summing or doing an average over text data is does not really
+18:47  make sense.  For each student I also have his or her marks in maths, physics and chemistry on a scale
+18:58  of 0 to 10.  So student number 1 has scored 8 marks in maths, 9 marks in physics and 7 marks in chemistry.
+19:07  So this is how you interpret a row.  This row represents one student, the data associated with one student and what is the
+19:16  data associated with one student?  What is her roll number?  What is her department?
+19:22  What are her marks in physics?  Sorry maths first.  What are her marks in physics and what are her marks in chemistry?
+19:29  These are the 5 pieces of data that we have associated with each student.
+19:35  So same way if I go instead to the next student his roll number is 2023002.
+19:43  He is also from the elect department and he has got 7 marks in maths, 7 marks in physics
+19:49  and 1 mark in chemistry.  So this sort of tells you and you must have seen these sorts of mark lists put up on your
+20:01  school notice board or your college notice board which has the number of the roll number
+20:07  of a student department and marks in the in different courses.
+20:13  But of course you want to know more interesting things.  I want to know how what is the total number of marks that the student roll with roll number
+20:23  2023001 got.  So how many marks did she get?
+20:29  She got 8 plus 9 plus 7 which is 24.  Now I am doing this math orally but ideally I would like to have a way to do this automatically
+20:42  and that is really where spreadsheets come into their role.  So let us now create a new column here called Sum of Marks
+21:01  and what I can do is I can say equal to and equal to means I am not going to give data
+21:08  I want you to compute what data should go here.  I am telling the spreadsheet I am not going to give you the number to put in this cell
+21:16  I want you to compute the number that you are going to put here or the data that you  are going to put here and what is the data that I want?
+21:24  I want the data in C2 which is this marks of the student in maths plus I want her marks
+21:40  in D in physics which is in cell D2 plus her marks in chemistry which is E2 and if you
+21:52  do this you can see that you have got the math marks for the student in the sum of the
+22:00  marks that she has got.  Now let us repeat this for the next student.
+22:06  Now his marks are C3 plus D3 plus E3 and so he has got 15.
+22:22  The next student has got C4 plus D4 plus E4.
+22:36  So this is a very powerful thing that spreadsheets can do they can compute the data in a cell
+22:44  based on the values in other cells instead of you having to feed in the data every time.
+22:53  Now of course this is a what I just did is I typed the same formula three different times
+23:01  and that is a very painful thing.  So I could in general instead of having to do this painfully for every cell I could copy
+23:12  this formula and I could paste it in the next formula.  Now notice something interesting happened what happened this formula was C4 plus D4
+23:25  plus E4 when I pasted the formula the formula that I got was C5 plus D5 plus E5.
+23:34  So it is not really exactly the same formula but it is doing what I wanted it is now giving
+23:41  me the sum of marks for student number 4.
+23:47  This is called relative referencing and we will study more about this in the next segment.
+23:59  The other thing that we could do of course is I would also want to know what is the average
+24:08  marks that a student has got in maths.  Now one simple way to do that is to select all the marks in maths and now you can see
+24:20  that I have selected 30 data points the sum of all these marks is 144 but that really
+24:30  does not make is not very interesting to us.  If I had done this if I had said if I had just done this this is of interest because
+24:40  now if you see the sum is showing me 18 if I just copy our famous formula here and I
+24:49  think which was this one was it.  So the student does indeed have 18 marks and you can see that if I just select his 3 marks
+25:00  you can see the sum here is 18 but if I am looking at all the maths marks then what is
+25:07  of interest to me perhaps is not so much the sum but the average and I know now if I look
+25:13  at this that this class has got an average of 4.8 out of 10 in maths.
+25:21  How much has the students have the students got in physics on an average they seem to  have got 4.26 or 4.27 and in chemistry they have got 4.03.
+25:37  Now of course one thing I could do is keep looking at this sort of bottom row here bottom
+25:45  ribbon here but I want to store this value in a cell in my in my sheet.
+25:52  So how do I do that?  So in excel now one thing we saw of course is that excel could allowed us to do addition
+26:00  of data that is there in various cells what it will also allow me to do is to do statistical
+26:08  functions on the data in the cell.  So I could say average of these 30.
+26:24  So what am I saying here compute the average of all cells from C2 to C31 and note what
+26:34  we have done we have not said C2 comma C3 comma C4 comma C5 etc.
+26:40  We have said C2 colon C31.  So this excel will interpret to mean take all the cells from C2 to C31 and if I did
+26:51  that I would get the average and this is exactly the average that we were seeing over here.
+27:01  Now if I just copied this formula again and pasted it in the next column you could see
+27:08  I will get 4.266 and I will get 4.03.
+27:15  Now so this is good you can get so we will label this row as average score.
+27:25  We could also as an example try and figure out what is the minimum score in physics how  would we do that?
+27:32  We would do that by saying let us say min, min is a function that will allow you to compute
+27:39  the minimum and again select C2 to C31 and this will give me the minimum score of the
+27:47  students in maths and some students seems to have got 0.
+27:54  Similarly what is the minimum score in all the 3 is 0.  Let us now look at the maximum score and how would we do that?
+28:05  This is we would do by saying max and max of the same C2 to C31 and the max score seems
+28:21  to be 10 and in this case the max score for all the 3 is 10.
+28:36  That is good so looks like you know some students are doing really really well some other students  are not doing so well but then I also want to see what is the sum of their marks and
+28:47  if I drag this then I will get the sum of all their marks.  So when I click on a cell and I drag its bottom corner the formula in that cell gets filled
+29:00  in all the cells that I have selected.  Let us for your let me just show it to you once again.
+29:08  I will so let us delete all the data from here.
+29:19  Now this formula C2 plus D2 plus E2 I could just click the bottom right corner keep the
+29:28  mouse button pressed and just drag it below and every cell now has the corresponding formula.
+29:38  So it has C3 plus D3 plus E3 and so on and so forth.
+29:44  Very good so now we know what are the max of each student.  Now the university where I work also gives classes.
+29:53  So it says if or it gives numerical grades so we would say that if you got more than
+30:00  20 marks you get grade A between 15 and 20 you get B between 10 and 15 you get C and
+30:07  below 10 you get D. So I want to assign grades to the students and I want to do this automatically
+30:18  of course I can look at the data and say hey this guy has got 24 therefore he has got an  A this guy has got 15 so he is B this guy has got 7 so he is D etcetera.
+30:34  But can I do this automatically?  So what excel allows me to do is to use a function called if.
+30:44  So I will say fill this cell with a computed value and what is the value if.
+30:54  And the first thing I want to do is and you guys have done computational thinking so you  know what how ifs work.
+31:01  So if the value in F2 is greater than 20 then fill the cell with A with the string A. What
+31:20  happens if it is less than 20?  Then I want to check if it is more than 15.
+31:29  So let us say if and I could here instead of again I will say F2 is greater than or
+31:38  equal to 15 note that I have now said greater than or equal to instead of greater than 15
+31:46  then give the person a grade B. What happens if it is less than 15?
+31:57  Let us check if it is greater than 10.  If again F2 is greater than or equal to 10 then give the person C else give the person
+32:15  D. And now I have to remember to close all the brackets.
+32:24  And excel will helpfully tell you if it is closing.  So now I have closed all the brackets and you can see that this formula calculates that
+32:33  the student must get A. Why is it saying that?  What did it do?  It checked if F2 is greater than 20.
+32:40  F2 was greater than 20 so it populated this cell with the value A. Let us now copy this
+32:47  formula and put it in the next cell.  And it is computing B. Why did it compute B?
+32:54  It looked at the value in F3.  Is it greater than 20?  It is not.  So, it went to the else part.
+33:04  What is the else part telling me?  The else part is saying if F3 is greater than or equal to 15.
+33:11  Is this value greater than or equal to 15?  Yes.  So, it populated it with B. Now the next student.
+33:22  This student got a D and this is correct.  So, what did this formula do?
+33:28  It checked is 7 greater than 20?  No.  Then is 7 greater than 15?
+33:34  No.  Is 7 greater than or equal to 10?  No.  Hence D. So, I can now just drag this entire formula down and now I have got the marks
+33:50  for each of the students, the grades for each of the students.  So, this is a basic introduction to what data sheets can or worksheets can do.
+34:02  Please note that this is not a comprehensive introduction.  I would encourage you to play around, look up, read some books, read the help.
+34:14  There is an excellent help section that is available both with Google docs as well as  Microsoft Excel.
+34:21  Please learn to play around and see how you can do some more interesting things with Excel.
+34:31  The bulk of this, bulk of the computation in this course is going to be done with Excel.  So, the more convergent you get with Excel and the sooner you get convergent with Excel
+34:42  the better it will be for you.  Thank you.  End of segment 1.

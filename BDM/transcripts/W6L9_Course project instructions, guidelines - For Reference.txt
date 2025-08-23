@@ -1,0 +1,684 @@
+00:00 [Music]
+00:15 my name is ashwin badiga and with me is
+00:17 hari haran hi and we are phd research
+00:20 scholars uh in the advanced stage uh
+00:23 we'll be completing soon hopefully and
+00:26 we are also the co tutors for the course
+00:28 on business data management
+00:31 and today we are here to discuss uh
+00:32 regarding the capstone project so hari
+00:35 could you please tell me as to what a
+00:37 capstone project is and why is that we
+00:39 are doing this
+00:41 so what essentially happens in a
+00:43 capstone project now that you have uh
+00:46 four weeks of
+00:48 understanding about what business data
+00:50 management what is happening in the
+00:51 business data management and you may
+00:53 also be looking at
+00:55 case studies in the ensuing weeks
+00:59 that will give up overall perspective
+01:02 about how data is managed in the
+01:03 business
+01:04 this captain project goes a little
+01:06 further ahead when it comes to
+01:09 this business data management course
+01:11 where you actually try and collect
+01:14 primary data from different sources and
+01:17 then use it for uh
+01:19 i mean and
+01:20 collect the data and analyze the data
+01:22 and interpret the data so that certain
+01:24 insights come out of it that's the very
+01:26 purpose of doing this capstone project
+01:28 and
+01:29 that's the intention with which this
+01:31 capstone project is introduced in this
+01:32 particular business data management
+01:34 harry you did mention that something
+01:36 about primary data collection or what is
+01:39 this primary data collection and how is
+01:41 it different from a secondary data okay
+01:43 so when you look at the primary data
+01:47 for this
+01:48 primary generally data is classified
+01:50 into primary data and the secondary data
+01:53 the primary data
+01:54 is the data that you actually collect
+01:57 from the source itself
+01:59 whereas the secondary data is the data
+02:02 which is available in the internet or it
+02:04 could be available in certain public
+02:06 document or whatever it is and you use
+02:08 that for data analysis so this is the
+02:10 primary classification that we do on any
+02:14 data for that so in the capstone project
+02:16 we typically expect students to do a
+02:18 primary data collection yes collect the
+02:20 data you clean the data you analyze data
+02:24 and you plot certain trends take
+02:26 make interpretation interpretations so
+02:28 what is going to happen when you do this
+02:30 kind of interpretation how is it going
+02:31 to help the decision makers or how is it
+02:33 going to help anybody
+02:35 fine now that we know what capstone
+02:37 project is yes what is that we are going
+02:39 to do in this capstone project okay and
+02:42 uh how is that it is going to be useful
+02:45 okay for anybody that i'm going to do
+02:47 yes so this capstone project is a unique
+02:50 opportunity to carry out independent
+02:52 research which will help you collect the
+02:54 data you will be cleaning it you will be
+02:56 analyzing the data and will be plotting
+02:58 certain various trends that will help
+03:00 the decision maker or the person who has
+03:02 given you the data to come up with
+03:03 better decision making it will help a
+03:05 manager to solve a real world problem so
+03:08 what typically you are going to do as
+03:10 harry mentioned earlier is that you are
+03:11 going to collect primary data by primary
+03:14 data we mean that you are going to meet
+03:16 the people directly and going to collect
+03:18 data from them rather than collecting
+03:19 the data from already available sources
+03:21 so this is the main difference and
+03:23 whenever you're doing a kind of primary
+03:25 data collection it is quite complicated
+03:27 because you know it is not something
+03:28 which is direct you need to speak to the
+03:30 people there are a lot of challenges
+03:32 which is happening currently the
+03:33 pandemic is there but we would also like
+03:35 to show you as to how we have done it to
+03:37 give you certain idea as to how this
+03:39 capstone project is to be approached
+03:41 and
+03:42 though project of this scope and scale
+03:44 is quite challenging i'm sure that
+03:46 you're going to enjoy as you work on
+03:49 this particular project this is going to
+03:51 be an individual exercise and you're
+03:53 going to collect data at least for a
+03:55 period of one month so for example today
+03:57 is 25th of september so if you are going
+03:59 to collect the data on 25th of september
+04:01 you are going to typically collect data
+04:03 for a period of one month so what can
+04:04 you do with this so you can analyze
+04:06 trends for a weekly
+04:08 on a weekly basis you can analyze the
+04:10 trends on a monthly basis you can
+04:11 analyze the trends for every 10 days or
+04:13 every 14 days or something like that
+04:15 yeah
+04:16 i shouldn't be it will also be good if
+04:18 you can tell them as to where they can
+04:21 collect the data definitely so firstly
+04:23 what we are going to do is that me and
+04:24 hari had
+04:26 just for the sake of illustration so we
+04:28 visited one of the wholesaler merchant
+04:30 in chennai and we requested him to share
+04:32 the data so we are going to show you
+04:33 that first and then we are going to give
+04:35 certain ideas as to how you can approach
+04:37 now you might be having a question that
+04:39 given that it is pandemic it is
+04:40 uncertain times you cannot go out and
+04:42 collect the data but you know it's that
+04:44 simple you just don't have to go very
+04:45 far you can speak to a kirana store
+04:48 which is near your home you can also
+04:49 speak to a laundry person who is
+04:53 you can speak to a person
+04:55 who owns a laundry shop you can also
+04:57 speak to a vegetable vendor or anybody
+04:60 but typically what you have to do is
+05:01 that you will be in constantly in touch
+05:03 and you will be collecting data for a
+05:04 period of one month so this is what you
+05:06 have to do so what is that you are
+05:08 expected to do it is very simple just
+05:10 step out you don't have to go very far
+05:12 see places around you and collect the
+05:14 data it's that simple
+05:16 make friends with uh yes and typically
+05:19 in this process you tend to understand
+05:20 the shopkeepers and let me point out to
+05:22 you that hari in india if you look at
+05:25 the market which is there it is more of
+05:28 unstructured and unorganized so you know
+05:30 you have to you know taking him taking
+05:33 them into confidence and giving them a
+05:35 feeling that you know you have to take
+05:36 them into confidence and you just tell
+05:38 them that this is a part of your project
+05:39 and we are going to give you certain
+05:41 insights which is going to help you in
+05:42 making better decisions
+05:44 so me and hari are now going to explain
+05:46 as to what we have done this is for
+05:48 illustration purpose and to give you an
+05:50 understanding of what a capstone project
+05:51 is so what we did is that we both
+05:53 visited a merchant wholesaler and
+05:55 requested the owner to share certain
+05:57 transaction details and typically most
+06:00 of these businesses like merchant
+06:02 businesses or wholesale business they
+06:04 operate on a day-to-day basis and most
+06:07 of their transactions are recorded on
+06:09 books rather than the softwares so all
+06:11 these softwares are done with
+06:12 supermarkets and stuff but if you if you
+06:14 go to a sub-g monday if you go to a
+06:15 marketplace you don't have any you don't
+06:17 have any complex systems in place they
+06:19 just have a book where they note their
+06:20 day-to-day transaction and if you have
+06:22 to ask them okay what is the difference
+06:24 between last month's sales and this
+06:25 month sales so they'll not be able to
+06:27 give you accurate description as to what
+06:29 has really happened yes so you don't
+06:31 have scratching there they would be
+06:32 scratching their head you know they
+06:33 would not be knowing how much they have
+06:35 realized what has been the profits which
+06:37 is you know something which you feel
+06:39 it's a drawback and
+06:41 don't you think it's a very
+06:42 good value addition to the shopkeepers
+06:45 definitely it's a very good value
+06:46 addition to the shopkeepers and most
+06:48 importantly
+06:49 i would also like to state that you know
+06:50 a lot of food also gets wasted so
+06:53 typically when you collect the data when
+06:55 you are giving them with certain
+06:56 insights a wastage also can be could be
+06:58 prevented in first first place you could
+07:00 also identify the stock which is moving
+07:02 very fast and procure them and keep in
+07:04 advance you could identify the
+07:06 slow-moving stock you can also identify
+07:08 the non-moving stock so all these things
+07:10 can be identified when you do a capstone
+07:12 project
+07:13 so what we did was that we
+07:15 we went uh to chennai a street in
+07:19 chennai
+07:20 and we collected data from a wholesaler
+07:21 merchants for the period of wholesaler
+07:23 merchant for the period of may and june
+07:24 2021
+07:26 so what we have done is we have changed
+07:28 the names of the various goods sold but
+07:29 the remaining details like the opening
+07:31 stock the um the item which was procured
+07:34 the sales everything remains the same
+07:36 the prices and all is correct because we
+07:37 had to maintain anonymity
+07:39 and in the below table i am showing you
+07:42 all the details of the incoming stock
+07:43 the sales quantity the price and the
+07:46 closing stock now what uh what is that
+07:48 i've done with this this also gave me
+07:50 information about what was the lead time
+07:52 for procurement how much i mean when did
+07:55 they procure it and when did they sell
+07:56 it this is very very important right you
+07:57 would not typically want to stock your
+07:60 vegetables or your groceries for longer
+08:02 periods because every item has its own
+08:04 shelf life so in addition to that i
+08:07 could also help identify i could also
+08:09 identify what was fast moving what was
+08:11 slowing moving and what was not moving
+08:12 all these insights briefly we have given
+08:14 in the table below so we have collected
+08:16 data for two time periods that is we
+08:18 have collected data completely for the
+08:20 month of may as well as for the as well
+08:22 as the month of june and we'll be
+08:24 showing as to how we have done it and
+08:26 then you are expected to do it on the
+08:27 similar lines and will also be giving
+08:29 you ideas on how you have to proceed
+08:31 further and and this data is collected
+08:33 at the peak of the pandemic yes so we
+08:35 have not an excuse
+08:37 pandemic is not an excuse to say that oh
+08:40 we can i mean we can't collect the data
+08:42 so typically you don't have to go even
+08:43 far you know you can just speak to
+08:44 people around you you you really don't
+08:46 know you are going to help somebody out
+08:47 and you know if you can bring a smile on
+08:49 their face what is that more you need so
+08:51 okay so here you typically see the
+08:53 various particulars which is the goods
+08:55 which is being sold by xyz merchants so
+08:58 xyz traders in chennai so the opening
+09:00 balance is nothing but the inventory of
+09:02 these existing goods which were there in
+09:04 his warehouse so he typically sold some
+09:07 15 to 20 items and he's a wholesaler so
+09:10 wholesaler means they typically sell in
+09:13 25 or 30 kgs and not like what is being
+09:15 sold in the retail stores so that is why
+09:17 you will find that the rates are very
+09:19 less than what you see in the retail
+09:21 stores so uh he had nine thousand eight
+09:24 hundred and nine thousand eight hundred
+09:25 kgs of gram one which was priced fifteen
+09:28 rupees forty one pisces and which is
+09:30 valued at approximately one lakh fifty
+09:32 one thousand so the next thing is a
+09:34 column which is called as inwards by
+09:36 inverse we mean that the amount the the
+09:39 procurement which he has done from the
+09:41 producer and which has come inside and
+09:43 what happened is on in the month of may
+09:45 they procured 15 800 kgs at a price of
+09:49 16 rupees 74 percent now you may be
+09:51 asking me as to why when in stock the
+09:54 price was 15 rupees 41 peso
+09:56 but when it was procured it is 16 rupees
+09:58 74 percent yes so hari
+10:02 could you please explain as to why this
+10:03 is the case so
+10:05 when you look at these
+10:07 products
+10:08 the price is not going to be the same
+10:10 because the price the products uh prices
+10:13 dependent on the demand which you would
+10:15 have read in your economics class just
+10:18 two or three weeks before so the prices
+10:20 fluctuate based on demand correct so the
+10:23 demand for gram one in this particular
+10:26 case
+10:27 when this was initially bought could be
+10:30 very less and therefore the price could
+10:32 be at
+10:33 15 rupees and 41 pi say and something
+10:36 could have happened in the ensuing
+10:37 period in the month of may 1st to may
+10:39 31st uh
+10:41 may 31 so where the price could have
+10:44 increased
+10:46 maybe pandemic could be the reason yes
+10:48 maybe
+10:50 i mean unavailability of transport could
+10:52 be the reason the rise in the petrol
+10:54 price or the diesel price could be the
+10:55 reason because of which
+10:57 the inward price has increased yes okay
+10:60 and and
+11:01 during the pandemic we also saw that you
+11:03 know people were buying more than what
+11:05 they actually wanted yes so what happens
+11:07 is that you know the demand the supply
+11:09 the demand is more than what is being
+11:11 supplied so that kind of creates a
+11:14 disequilibrium in the system and then
+11:15 the corresponding changes in the prices
+11:18 it also can be seen from the uh outwards
+11:21 which is being sold to the customer
+11:23 customers and you see that you know 16
+11:26 100 kgs were sold at an average price of
+11:29 18 rupees 12 i say
+11:31 can can i assume that uh
+11:34 by selling at 18 rupees and 12 percent
+11:36 yes where you bought it at 16 rupees and
+11:38 74 paisa okay the difference is the
+11:41 margin for me definitely yes but however
+11:44 you have to note here that uh 15 800 kgs
+11:47 was what was being brought you already
+11:50 had
+11:51 989 800 in stock yes okay so when you
+11:55 add
+11:55 800 with 15 800 you typically get
+11:58 something like 25 600 now out of 25 600
+12:01 16 100 is being sold so you know when
+12:04 you yes definitely it's a profit so when
+12:06 you compare it uh with what is being
+12:08 bought and what is being sold there is
+12:09 definitely a you do see a price
+12:11 difference of one rupees and 38 pisces
+12:13 approximately yes and then you are
+12:15 having the closing balance where that is
+12:17 at the end of 31st whatever is being
+12:19 left is it is the closing balance which
+12:21 will be taken as inventory for the next
+12:23 time period now you might be having one
+12:25 more question that when we so the value
+12:27 is obtained by multiplying the quantity
+12:29 with the rate so if you look at the
+12:31 first uh if you look at the row
+12:33 once open balance 9800 into 15.41 gave
+12:36 me approximately one point five x
+12:39 fifteen thousand eight hundred into
+12:40 sixteen point seven four give me this
+12:42 much which is approximately two lakh
+12:43 sixty five thousand sixteen thousand one
+12:45 hundred into eighteen point one two gave
+12:47 me approximately two lakh ninety one
+12:48 thousand so is the closing balance value
+12:51 the summation of opening balance value
+12:54 plus inverse minus outwards the answer
+12:56 is no the simple reason being there is a
+12:58 fluctuation in the rates and that is why
+13:01 the the quantity would not be the same
+13:03 because whatever you are having has a
+13:05 closing balance which is 9500 kgs that
+13:08 particular day's price would be given
+13:10 and the value would be fixed on that
+13:11 particular price however if you if you
+13:13 compute the quantities 9800 plus 15 800
+13:16 is 25 600 25 600 minus 16 hundred is
+13:20 nine thousand one hundred nine thousand
+13:21 five hundred so if you look at that the
+13:23 quantities will be the same however you
+13:25 will see that the price is not the same
+13:26 because the price in in markets the
+13:28 price fluctuates on a daily basis
+13:30 another example for you to make you
+13:32 understand is that suppose you bought a
+13:34 kg of tomatoes for 10 rupees and you go
+13:36 tomorrow to the same store the
+13:37 probability that it will be of the same
+13:40 price is very less almost you know it is
+13:42 i can just say that there is very low
+13:43 probability yes which is there so again
+13:46 then what we did is
+13:47 we again asked him to provide us data
+13:50 for the next time period and as you know
+13:53 whatever is the inventory at the end of
+13:56 inventory at the end of may 31st is the
+13:59 opening stock for the month of
+14:02 june first and then again certain
+14:04 inwards happen inwards is they had
+14:06 procured from the producer again certain
+14:08 items were sold and the closing balance
+14:10 which is being given so similarly from
+14:12 this what you can do is that you can
+14:13 plot certain trends you can look at a
+14:15 weekly basis now this is all a collated
+14:17 output which are presenting to you in
+14:18 fact we had data for every point so we
+14:20 collected it on first second third
+14:22 fourth this is the collective output
+14:23 which you're seeing but when you are
+14:25 doing this we would typically want you
+14:27 to analyze on a weekly basis or a
+14:28 monthly basis or a fortnightly basis
+14:30 what is the change so i hope that you
+14:32 now that you have been introduced to
+14:33 various graphs uh during the graphical
+14:36 so
+14:38 don't you think that we can easily make
+14:40 a trend graph out of this particular
+14:41 exactly exactly and what how is it going
+14:43 to help the decision makers yes see uh
+14:47 maybe having two month data correct
+14:49 might not really help when it comes to
+14:51 trend analysis correct but if you have
+14:53 imagine a one year data you will come to
+14:56 know at what point in time the product
+14:59 is being sold more or the product is
+15:01 being sold less exactly and therefore
+15:03 correspondingly the price also varies
+15:05 according to the demand of the product
+15:07 yes so
+15:08 as a retailer as a wholesaler in this
+15:11 context i would like to have more of the
+15:14 product when the price is very high yes
+15:16 yes and less of the product when the
+15:18 product price is very low so
+15:22 this is for a wholesaler but for a
+15:24 retailer the cycle need not be even
+15:26 six months or one year it can be even
+15:28 two months or one month that should be
+15:30 enough yes you go talk to a retailer he
+15:32 will exactly come to say that the price
+15:35 of some product
+15:37 varies within a week also yes so uh i i
+15:40 go to shop to buy uh vegetables for my
+15:43 home
+15:44 um
+15:45 first today i go and see the tomatoes
+15:47 price will be like 25 rupees the next
+15:49 day it will be 30 rupees
+15:51 uh next day it will be 35 rupees and
+15:53 then it might come to 15 rupees again i
+15:55 asked them why there is so much
+15:56 fluctuation he says sir in coimbatore
+15:59 market we did not get tomato exactly
+16:01 okay so
+16:02 uh retailers story will be different
+16:05 from wholesaler story and that will be
+16:07 different from the manufacturer's story
+16:10 so just
+16:11 you must be very clear as to what kind
+16:13 of story you want to say correct so if
+16:14 you want to go and say a story about a
+16:16 retailer about his price fluctuations
+16:18 and other things you might have to
+16:20 collect data appropriately for that and
+16:23 one more thing which i observed here was
+16:25 that you know so they typically
+16:27 wholesalers do not sell typically less
+16:28 than 25 kgs so uh so they were selling
+16:31 horse gram for approximately 31 rupees a
+16:34 kg so typically if a customer has to buy
+16:36 a minimum of 25 kg and just out of
+16:38 curiosity i went to the retail store
+16:40 same thing which was being sold for 31
+16:41 rupees
+16:42 uh 1 kg packet was being sold at 95
+16:45 rupees so you see the difference you
+16:47 know it is like 60 rupees difference but
+16:49 then you may be then there naturally may
+16:51 be a question as to why this difference
+16:52 is used see when you get this particular
+16:55 groceries there is transportation cost
+16:57 involved there are many other costs that
+16:59 are involved you have to clean it
+17:01 because these grains will be having a
+17:03 lot of dust so you would be clearing it
+17:05 you'll be packing it and then you'll be
+17:06 selling it to your final cut there'll
+17:07 also be some waste stages there will be
+17:09 wastages so all these costs get added
+17:11 and that is how why the retail prices
+17:13 are pretty much higher one more example
+17:15 which i would like to say is that
+17:16 recently hari
+17:17 you know our nandini tea store and where
+17:21 typically they sell something called as
+17:23 dhokla which is a gujarati kind of
+17:25 steamed gujarati snack and many of us
+17:28 really like it i hope you also like it
+17:29 which is served with nice
+17:31 chutney chutney
+17:32 chutney so mint chutney yeah so what
+17:35 happened is that
+17:36 we had been
+17:37 i almost visit there once every two or
+17:40 three days and every day whenever i have
+17:42 visited after six o'clock dhoklas were
+17:44 not available
+17:45 and then i asked him as to why doh class
+17:48 if if it is getting sold every day so
+17:51 typically he makes twenty five thirty
+17:52 dollars and if it is getting sold every
+17:54 day by six o'clock why is that he does
+17:56 not make forty dollars
+17:58 so he told me that uh you know um the
+18:01 day i make 40 dollars the day i make
+18:02 extra dough class nothing gets sold so
+18:05 everything becomes a waste yes so i said
+18:08 no that could not be the reason
+18:10 so that could not be the reason so do
+18:12 you know as to why it was not getting
+18:13 sold
+18:15 maybe festivities maybe yes so typically
+18:19 people prefer to eat certain days in a
+18:21 week they do not prefer to eat certain
+18:23 days outside and that was the very
+18:25 reason as to why dough classes are not
+18:27 sold on the other days so initially what
+18:30 he assumed has the reason for non uh
+18:33 i mean uh the reason as to why these
+18:35 documents were not sold it was kind of a
+18:37 spurious correlation where he attributed
+18:38 it to you know you make
+18:40 luck you say that you make a lot of
+18:42 dough class it would not be sold the
+18:43 answer was not that the answer was that
+18:45 typically when i visited five to six
+18:46 times i observed that on certain days of
+18:48 the week the customers would not want to
+18:50 dine outside and that was the very
+18:52 reason as to why the row class were not
+18:53 being sold so then i gave him this
+18:55 particular insight and then he reworked
+18:57 on it and he increased the document
+18:58 quantity so that's very nice so this is
+19:00 one thing which so but there is also one
+19:04 important insight that we must have to
+19:06 learn yes the location of the place yes
+19:08 location of the place also is very very
+19:09 so if it is if this particular nandini t
+19:12 store is going to be located in a
+19:14 central locality say tinagar in chennai
+19:17 is very central locality where different
+19:19 sort of people come at all the time so
+19:21 at that point in time
+19:23 the idea of festivity may not work yes
+19:25 yes because people might have i mean
+19:28 different type of people might have uh
+19:30 doctors at different uh you kind of have
+19:32 a moving population it's a moving
+19:34 population so therefore uh
+19:36 the demand is kind of normalized it
+19:39 depends on various conditions there are
+19:41 certain contextual uh factors which come
+19:43 into place which uh in fact uh you know
+19:46 alter your demand and supply correct and
+19:48 i mean that is what we expect you as a
+19:51 student to understand
+19:52 and
+19:53 provide an insight that be really useful
+19:56 for
+19:56 the shopkeeper or retailer or whoever
+19:59 you're going to help out with the data
+20:01 so
+20:02 that's the very idea of this capstone
+20:04 project where you actually talk to the
+20:06 people
+20:07 collect data try to organize the data
+20:09 like the way ashwin had explained you
+20:11 how organizing the data so he has
+20:14 organized individual
+20:15 everyday data into collected them into
+20:17 and put them into a monthly data correct
+20:20 likewise you may have to organize the
+20:21 data in a weekly format or a fortnightly
+20:24 format or a monthly format and if you
+20:25 wish to do a little more also it's fine
+20:27 yeah so you can do that you kind of draw
+20:29 graphs because always they say that
+20:31 pictures are remembered better than
+20:32 words so my professor used to say that
+20:35 with picture you can't yes so
+20:38 when you have certain trends you can
+20:39 analyze and then you can predict what
+20:41 kind of demand is happening is there a
+20:42 spike is there a fall what is the fast
+20:45 moving stock what is the slow moving
+20:46 stock what is non-moving what should be
+20:48 the reorder point etcetera all this
+20:50 could be determined so now we have the
+20:52 now that we have explained you all this
+20:53 where is that you can collect the data
+20:55 from yes you can collect it from the
+20:56 kirana stores you could also collect it
+20:58 from cab abbreviators ola and uber now
+21:00 you know ola and uber uber has this uber
+21:03 go uber suv uber they have different you
+21:06 know different vehicles catering to
+21:08 different segments correct so typically
+21:10 you can just speak to the drivers try to
+21:11 understand how many trips they are
+21:12 making per day how much they are
+21:14 realizing from it have a monthly data
+21:16 and then
+21:17 you can suggest the driver as to in this
+21:20 particular day in a month yes instead of
+21:22 taking uber go trips try to take uber
+21:24 outstation
+21:26 so you can make more money by doing that
+21:27 yes that's the idea that's the kind of
+21:29 insight that you may want to give to the
+21:31 cab driver and i i'm sure that you'll be
+21:34 certainly happy about that in fact you
+21:36 can also visit tea and coffee shops
+21:38 because you know business is picking up
+21:40 well you can visit the supermarket
+21:41 stores well when you talk about tea and
+21:43 coffee shops in chennai there might be
+21:45 around
+21:46 20 to 30
+21:48 shops with the name chai chai chai guli
+21:51 chai shastra blah blah blah so you can
+21:53 take any one of that kind of shop and
+21:55 then maybe you can also visit
+21:56 supermarket stores like big bazaar just
+21:58 have a look at things around you you can
+21:60 also go for go for laundry services
+22:02 visit a laundry services store and there
+22:04 are many more so we leave it to your
+22:06 imagination and we hope that we have
+22:08 convinced you as to what a capstone
+22:10 project is and we look forward
+22:13 to your projects and uh interacting with
+22:15 you further in a nutshell ashwin would
+22:17 you like to list down
+22:19 the entire process in a minute or two so
+22:21 that they'll be very clear about yeah so
+22:23 now that we have explained you what the
+22:25 capstone project is so you typically
+22:27 first go and speak to the service
+22:29 provider you visit a store and give them
+22:31 the confidence as to why you're doing
+22:32 this i mean don't just do it for marks
+22:35 you know you should also have that
+22:36 intrinsic satisfaction that you're
+22:37 contributing to something so you will be
+22:39 giving them the confidence you will be
+22:41 explaining the purpose as to why you are
+22:42 doing this and how is that they are
+22:44 going to be benefited so once that is
+22:46 done you would be collecting the data
+22:48 the minimum time period is one month you
+22:50 will be cleaning the data you will be
+22:52 analyzing the data you will be plotting
+22:53 certain trends and you'll be giving
+22:54 you'll be also listing the set of
+22:56 implications what has been your
+22:57 learnings and what is that what is that
+23:00 can help the decision maker from all
+23:02 this analysis that you have done how is
+23:04 it going to help the decision maker and
+23:06 in what ways it has actually helped them
+23:08 if you can go one step further so i hope
+23:10 uh you will enjoy working on your
+23:13 capstone project and we look forward uh
+23:16 to meeting you all soon yeah so yeah so
+23:18 that's it from us have a good day bye

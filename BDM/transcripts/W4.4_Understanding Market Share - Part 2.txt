@@ -1,0 +1,295 @@
+00:00 foreign [Music]
+00:20 you want to First do some more abstract level analysis
+00:25 um I mean I want to see this long tail first day possible can we draw the loan loan size on a
+00:32 graph or something distribution can you do the truth that so what do you want to do
+00:39 so let's plot the loan setting and sort it we sorted it we it unsorted it
+00:47 okay so what are the categories you want to see you want to see above 1 million
+00:54 number one crore like that you want to do no I just want to plot all the loans that's all online
+01:00 yeah four thousand will too many yeah probably
+01:07 be easier if I just but you can draw a line we don't do a bar graph
+01:12 can we make a line out of this but sort it and then do a line let's see it will show you whether
+01:17 there's a long tail or not basically
+01:26 sort by G
+01:36 just take that column G and plot it so as a line
+01:42 you may die trying to produce it eight thousand entries
+01:48 blank line yeah
+01:56 I think you have to drop a few entries otherwise they'll not show anything it's correct
+02:02 no but this is actually this is the shape of a long tail yeah it is it's showing you this why
+02:12 don't you select from up to 100 or something first Android will treat us outliers
+02:18 okay
+02:23 we're not seeing anything after 100 became less than one lakh now the number
+02:31 didn't start from there
+02:44 even then no I see
+02:49 okay let's see let's I'll remove this further and
+02:56 but maybe it may be worth explaining to the students why this represents a long tail it's a long yes so this here if I
+03:06 can just take this so what it is telling you is that these very few how do I draw
+03:13 I think I have to okay
+03:19 yesterday I could anyway so this set here
+03:24 is a very small set of items that have very high values and then there is a
+03:31 very long list of items that are very small values correct so the small value
+03:37 items long list of small value items is the long long tail this is a typical
+03:43 kirana shop type of thing right they'll have a few items of extremely high value and which will be when they won't sell much
+03:49 of it but we'll keep it because and then they will have a lot of small things but when we see when we discuss
+03:55 the e-commerce case we'll see that uh you know e-commerce stores will sell mobile
+04:01 phones a single phone could be 20 000 rupees and they will sell large number
+04:07 of Cosmetics you know bindis and lipsticks and Europeans you know that would be like less than 100 rupees yeah
+04:13 so they will probably sell hundreds of those they may sell only one phone in a day
+04:20 right so very common Behavior
+04:26 so okay
+04:35 now what do you want to see so okay this is done just say control Z and let's go yeah I've done Ctrl G
+04:42 we are back to the original oh no no one more control yeah yeah
+04:47 so now um some mix can we see how many
+04:53 loans were originated by Bajaj finserv how many by HSA Bank how many by number
+04:58 first sure and then ticket size uh maybe larger loan size as a banker so
+05:04 something like that just first look at the number okay do I do a pie chart uh let's first
+05:12 calculate huh and then we'll okay so we know actually since in this
+05:18 case we just know that there are only three I won't do that
+05:24 think of removing duplicates and things like that okay though ideally that is what we should do
+05:30 it will make pivot here I can just do a pivot okay I can do a perfect we do
+05:36 pivot the only three actually is strictly speaking you can do could have done with countless yeah I could but we'll do
+05:43 pivot we'll do pivot so sorry
+05:48 so let's pick so I think the students we should let
+05:55 them know that you know I had told them that about 80 percent of all
+06:01 analysis in this course is going to be centered around pivots okay so this is probably
+06:07 the first time that they are going to see pivot tables right all right so I've picked the data that I want to analyze
+06:15 and now I am going to insert a pivot table okay okay and I'm going to insert
+06:22 it in a new sheet and I'm going to say increase I have to increase the size
+06:28 okay now I'm going to take lender name
+06:34 and you want number of loans or you want let's say number
+06:43 okay can you make a pie chart on this yeah sure we can so we'll just select this
+06:50 and say insert
+06:55 oh nice okay roughly can you get the labels on that or uh yeah of course we can get
+07:02 labels so add data labels and you want percentages so you want this percentage Yeah
+07:11 format data labels we don't want values we want percentages
+07:17 nice correct nice so so what are we saying we are saying
+07:23 Bajaj fin service or nbfcs are about 35 percent of the original agents number
+07:28 not the number not the value yes uh SBI is about 36 percent um
+07:36 in ICICI Bank is about 29 tomorrow is equal I would say more or less equals broadly so government Banks private
+07:44 Banks and NBA NBS these are equally split but now if you look at it in by number
+07:51 I can look at the average ticket size no no first let's look at the size of the origination
+07:58 size huh yeah original loan size sorry what did I do
+08:05 this is being what lender name no okay wow you just have to keep this
+08:12 right does it keep coming now we will do some
+08:17 so this is the total amount of loan originated yes original size so again
+08:23 let me format this add data labels
+08:28 percentage of percentage
+08:39 not for my data series I want it for change
+08:45 format data labels what did I do
+08:53 add data labels
+09:06 huh okay so 46 percent of the value of loans was
+09:14 given out by Bajaj finser or by nbfcs wow
+09:22 12 percent were given out by private Banks
+09:28 42 percent were given by public sector Banks I see
+09:34 okay okay now my suspicion is that this is
+09:40 one commercial correct fifty crore 40 correct no correct we could look at this
+09:46 by Year by the way you could look at it by let's say I just wanted to find out how this was
+09:53 yes so I moved here into filter and I could just see what happened in FY
+09:60 17. thank you in FY 17 Bajaj finserv seems to have
+10:05 given lots of loans in FY 18
+10:13 also so it is probably one Loan in FY 17 that's queued
+10:20 fy19 see here whatever SBI has given some Big Lots correct
+10:29 so ideally you should take out the outliers and do it no it's probably no
+10:35 makes sense whereas the data is getting skewed like correct
+10:42 okay okay so we'll select all
+10:49 so this is but average ticket size I mean I want to see whether you want to see average tickets
+10:55 doing some of original loans I can take average
+11:03 so this is the average ticket size what is that so this is
+11:10 comma ah so I see it's just getting small
+11:15 loans yeah but that's when serves giving 20 lakh on an average and this ba is giving 23
+11:22 lakhs on the average I see
+11:29 again maybe skewed by one or two possible possibly it could also be because you know maybe NBA NBS have higher focus
+11:36 on Commercial loans can we see the correlation between lenders and the type of loans category
+11:42 of loans lenders on the side category on that side okay we can try that
+11:48 segment of loan let's move segment of loan two ah so you can see actually that the
+11:55 reason why this is getting so skewed is because SBI and balance server giving commercial
+12:02 loans yes focused more on retail loans
+12:07 that is why so just look at the pie graph for retail
+12:13 and see what happens for every look it's very coming on on top yes we do retail loans
+12:18 this one this is average what is this okay this is average this is average
+12:24 just put count rather than average first then we'll do value
+12:29 so look at the number of analysis you are able to do with so fast also isn't
+12:35 it is it count okay it count off so you want retail no I want retail
+12:43 so I can do what is simpler is if I move this segment here
+12:50 and years we don't need so I'll just put oh we made a filter so now
+12:56 we will just say retail yes okay so 51 of all retail loans are
+13:05 coming from bank that bank is completely focused on that retail segment that is
+13:11 their strategy see you can see the difference in strategy yeah yeah
+13:18 yes and this is count of original loan size
+13:23 not loads okay it doesn't matter I could I mean this is why is the title called Original loan size because that is
+13:30 what I've counted okay I can count anything now if you look at the sum sum yeah some
+13:40 retail loans if you look at 50 percent of the total value of retail
+13:46 loans is coming from ICC Bank the others are also having equal split
+13:51 yeah now the same thing instead of retail let's look at commercial it's
+13:57 completely correctly that's the thing I get it
+14:02 okay so ICICI Bank as a strategy is not
+14:08 focusing on Commercial loans commercial loans focusing on retail loans
+14:13 now if I wanted to do it the other way around right so let's see I wanted I'll move retail sorry lender
+14:22 to filter and segment to rows I want to see what is
+14:28 Bajaj finser's strategy how is it Landing okay what is it telling you it's
+14:33 completely focused on common you want me to do count some if you do it will get
+14:38 skilled lately okay gone
+14:46 so it's largely focused on actually commercial in number of loans it is giving is very small again not a
+14:53 surprise not surprise no not a surprise equally split between microfinance and Retail basically
+14:59 if you look at the value value because value is predominantly commercial ones
+15:04 are so high then you should do only count I don't think the value value will you will do it you can't see anything
+15:10 actually if you see value okay so let's look at uh similarly look
+15:16 at Isis you will find it's all detail right it can be largely detailed
+15:21 retail and some microfinance and if I look at SBA
+15:28 it's everything no it's a lot of it is microfinance and then followed by retail
+15:36 ok so SBI is mostly microfinance is mostly written and this guy is mostly commercial it's something like that
+15:42 correct okay good pictures I think these are interesting so you understand the lender category and what they're doing okay now
+15:51 um what are they lending for okay
+15:56 or rather I'm not okay I mean I don't know whether we have enough information for that but we do we have type of loan
+16:05 I mean I just I'm not interested generally I want to know who's doing two wheeler roads okay let's do that because
+16:11 that's the final goal now for us correct so who is originating two wheeler loans
+16:17 is it Bajaj finance that is originating at is it I say about programming business you know
+16:22 but you'll find out let's find out so what do we want segment of so if I'm a customer I should know where to go
+16:28 correct you know segment of loan should be retail correct yeah
+16:34 and within that I want two wheeler load
+16:41 yes that's what I want Bajaj finserv is making 300 loans ah
+16:51 ICICI is doing 125 loans is not this AI is not focused on that segment
+16:58 at all so you go to Bajaj Finster yeah if you wanted looks like correct
+17:05 and my guess GV I think is that Bajaj finserver Summers these dealership types
+17:10 actually that you should go to the website it's very interesting website will show you yes no yes
+17:24 pencil
+17:34 what does it show it's a two-wheeler here I think it's
+17:39 there it is hold on
+17:48 biceps they've got all the things Bikes let's
+17:54 look at bikes really so they are actually telling me what
+18:01 bike to buy they have types Honda shine bs6 drum black book now if
+18:07 you want to do that it will tell you on road price is ninety seven thousand
+18:15 and they will give me a loan starting with an Emi of
+18:20 1.8 k a month 30k down payment is it drama there's a disc variator yeah
+18:27 yeah there's a term variant and a disc variant okay
+18:34 so he's actually promoting the motorcycle but actually he's not promoting motorcycle his loan correct
+18:39 isn't it he's got all the motorcycle yes so you see this is It's almost like Amazon no
+18:46 you go to an Amazon or a Flipkart website go to Royal Enfield yeah the Royal Enfield
+18:53 very popular bike these days getting bullet bullet 350. bullet 350.
+19:03 two lakh price hmm
+19:09 it's giving you but it is not he's not giving a lot no I don't know he's okay let me just put my
+19:18 PIN code oh it's not available I think
+19:27 let's see no no so no yeah
+19:33 for a Royal Enfield yeah okay it's there it's there yeah this is the Emi
+19:40 oh so look at the comparison no it's
+19:46 he doesn't have a bullet yeah correct that is why correct
+19:58 that model is not been launched okay let's let's look at a model that is
+20:03 launched
+20:12 which one should I cook this one let's try meteor
+20:19 it's there 2.6 lakhs you pay 80 000 roughly down payment and
+20:26 then you pay four and a half thousand a month for how many months for 60 months
+20:32 so that's how they're selling it they're selling their loan they're selling the loan no wonder they have much go I can't
+20:37 see the share now we understand why they have the share correct they are a good sales company
+20:43 they know how to sell there right yes they're actually selling the product yes
+20:48 via their website correct so that the guy will take his laundry okay very nice
+20:53 interesting company it's not an e-commerce company he's not an e-commerce company he's a loan company
+20:59 he's a loan company you see very nice okay okay no since you were
+21:05 also interested in two wheeler average ticket size two wheeler loan let's look
+21:10 at the average tickets so this all of them seems to be referral
+21:15 and that is not a surprise right because they're all about sixty thousand sixty thousand and that seems to match what we
+21:21 saw on the website also the auto loan you see what it gives okay let's okay we might be four file X I expect
+21:29 yeah no yeah probably uh three legs two legs so SBI is
+21:35 actually financing the more expensive cars see the number don't look at the value
+21:41 the number okay every week maybe they are financing very few cars
+21:48 no they are not roughly similar this is interesting car loan everybody is very well do you know this philosophy correct
+22:01 okay is there house loans are there Muslims are there mortgage
+22:11 no we don't have data data is not they are not given us data yeah
+22:18 let me see if this is no we don't have the data
+22:24 so this is uh this show you what we've done we have put a pivot table and we have created some and we've analyzed
+22:30 from multiple Cuts multiple cuts and one single graph yeah
+22:36 huh yeah one graph you put yeah keep on changing the pivot table yeah put drag and drop and then keep showing things
+22:42 correct we can just snap it out to your screen and then copy paste into your PowerPoint yes within after you can make perfect
+22:49 you can make a 20 sled for one point presentation several slides yes yes I
+22:55 see yes very cool I wanted one more thing therefore we kind of wind up on
+23:00 this session sure um can we look at Trends because this thing has years it has years right yes
+23:08 so we saw that so you want two wheeler what do you want a trend of uh two
+23:14 wheeler later on I want to do other things I want to do credit card maybe yeah sure right now let's say two wheelers I want to see two wheeler
+23:20 originations number versus Years Years
+23:27 there are how many others here
+23:32 oh wow so whatever I done I've got years in columns I've got uh
+23:40 vendor in rows and I have got number of loans given
+23:46 now the best way to represent some data like this is actually a
+23:51 line chart
+23:57 okay but it is not the best way to do this so hold on I'll do the
+24:09 row and columnar transposition yeah that's what I was trying to see I can okay this instead of
+24:16 doing all this
+24:27 pivot table again the answer is no get the you're in the row and yeah okay
+24:33 that's what you should do yeah yeah and this is it
+24:38 okay uh
+24:45 19 seems to have been a good ERA yeah
+24:51 well at least for finserv and ICICI it has been a good year SBI had a little
+24:57 bit yes can we 21 it would have fallen because
+25:03 of can we do Market stat market share or something like that some stacked graphs something is not possible
+25:08 what market share do you want I want for year-wise market share stacked graph for year one yeah do that
+25:15 stacked um this little bit let this be okay let it be keep it somewhere call it copied
+25:22 because this is nice dot it's just showing numbers
+25:32 ah correct like that nice this is nice okay this graph what does it say
+25:39 it's saying FY 17 market share of insert was about nearly
+25:45 69 then it came down 18. came down 19 and then went up again in
+25:53 20 years data labels labels are put a line mechanic connected
+25:59 line no it's not possible no no
+26:05 I should do it for the entire stigma
+26:19 beautiful
+26:26 you want to add percentage now this is giving the number
+26:37 oh no it's not
+26:43 how to okay never mind okay
+26:49 but it's clear that in FY 19
+26:54 I say took share from both both SBI and finally and that you can see I think
+26:60 here also no maybe not it's not so apparently it's not very apparent it's
+27:05 not so apparent that's why this bar stack graph is usually very useful for market share
+27:11 picture ah it's not so apparently also apparent
+27:19 okay this is good
+27:24 this is for what loans these are two wheeler loans these are two wheelers can we change it to secret card or something
+27:30 sure and credit card is there yes yeah
+27:36 okay what does it say S Credit Card ICICI Bank is a big player in this it is the player it is
+27:46 the player in this but market share has been roughly Bajaj
+27:51 fin service trying to make a push that's as you can see that also right
+27:57 yeah what is can you see one more something else what would you like to see uh agree
+28:04 alone we have data I don't know I don't know no I think we don't have data
+28:13 commercial vehicle loan is that there no no data is not there
+28:22 home loans [Music]
+28:27 they're giving us only some information I think
+28:33 commercial loans were there business loans for there
+28:40 no no no I don't know what the issues I should
+28:46 select all and then just filter here
+28:52 it died I think so what did we want uh you ha so if I
+28:60 could do this commercial loads and remove two wheelers
+29:08 what did you want you wanted to see Trends you want to see trend
+29:18 so we had done it no yeah yeah this is it this is the trend for
+29:24 commercial loans number of loans is very small you see yeah yeah
+29:32 we'll do this diagraph again
+29:38 this one correct no no this is not how we want it we want it like this
+29:53 yes nice so actually Bajaj finserve is losing in
+29:59 terms of number of things
+30:05 look at that he's coming yes yes
+30:11 yeah but if you want instead of this if I
+30:17 looked at value Value method one or two things will disturb no
+30:23 yeah I I agree yeah and I know what you're saying but yeah you're right it's still even in
+30:28 value also is making a push so so this is a change in strategy from must be SBI
+30:34 yeah correct nicely is pushing retail loans
+30:45 interesting different kinds of firms behave very different very differently very very differently very interesting
+30:54 okay so what we should do next GV in the next segment perhaps is to spend some
+30:59 time looking at the first maybe just two wheeler launch different cuts yeah yeah and then we'll
+31:06 look at credit cards yeah
+31:13 which income groups are taking loans but that data do we have yeah oh yeah yeah
+31:18 we have we have that data yeah some other fields you know yeah yeah we do we do we do we do we have income we have
+31:24 borrower income yes we can do that uh Trend we saw we have to uh
+31:31 that also we can do it right yes uh how many are new loans okay sure the
+31:38 date of origination as of today the outstanding is always as
+31:44 of today but if it originated yesterday then today same thing it will be otherwise it
+31:50 will Decay faster correct so some people may be rotating their loans they may not be paying their this is a way to figure out whether people are paying their loan
+31:56 or not no I with this data no why not because it doesn't say anything it says how much
+32:02 is outstanding if the amount of loan that is outstanding is roughly equal to its originated value
+32:08 huh yeah we could do that I don't know I I'm just saying this is far too far I think you're going no no
+32:15 you can say ah income is another thing you should look at yeah we should we look at we need to look at income so I
+32:21 think these are things we should do in the next next step you can just since you brought this up this is a quick one
+32:26 we'll do it but you have to look at it by year of origination
+32:36 20 has been left percentage left
+32:41 over how many years oh I left to do okay I understand so it
+32:49 will be a little bit more complex okay give it doesn't matter
+32:57 what thing so if there's a loan given in FY 17
+33:03 huh you have to look at it and it is more than the problem is that we need to know the 10 years
+33:10 correct so we don't have enough data yeah yeah don't development we also need
+33:17 to know the interest rate is 30 year loan correct only interested
+33:24 have been paid outstanding difficult difficult okay we'll leave this leave it leave it
+33:30 all right okay so with income with age group different cuts of
+33:36 Auto two-wheelerator okay that's what we'll do next done

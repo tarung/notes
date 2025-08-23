@@ -1,0 +1,210 @@
+00:00  Segment 2 using complicated functions with excel.
+00:23  So, in the last segment we saw how we could look at the marks for students for Maths,
+00:36  Physics and Chemistry.  Now, one more course that the students are attending is English and the English teacher
+00:44  has conducted their exam out of 20 marks instead of 10.  All the other courses they got graded out of 10 but the English teacher got graded them
+00:54  out of 20.  Now of course we cannot take the marks for English as out of you know as absolute because
+01:04  each course is supposed to have equal weightage.  So we need to reduce the weightage for their English marks also down to 10.
+01:14  Now how do we do that?  So here you can see I have got now their marks for English and I want to compute the
+01:21  adjusted marks for English.
+01:27  Adjusted meaning what?  We do not want the value the weightage for English to be 20 we want it to be 10.
+01:36  So, I am going to put the weights that I want here in the first row and I want all courses
+01:46  to have equal weight.  So, I have given Maths as weight is 10, Physics is 10, Chemistry is 10, English is also 10
+01:58  but the marks that I have got are for 20.  So now one thing that I could do is I could say the weighted marks for English are the
+02:08  marks that the student obtained which is equal to the marks that student obtained divided
+02:14  by the maximum marks given by the teacher multiplied by the weight that I want to assign
+02:22  the course which is 10.  And therefore the student has got 9 instead of 18 because then the marks are I can compare
+02:33  the marks for Maths, Physics and Chemistry which are out of 10.  Now the marks for English are also out of 10 perfect no problem.
+02:42  Can I now just copy this formula into the next cell?  Hey what happened?
+02:48  I got an error.  Why did I get an error?  Because if you remember from relative addressing when I copied the formula what formula had
+02:59  I put here?  Look take the value of the cell to the left, divide it by the cell 2 up and 1 to the left
+03:13  and then multiply it by the cell 2 up, 2 rows up.
+03:19  If I try to do exactly that, that is exact when I copied the formula that is what got  copied.
+03:25  So I am taking the value from F4 which is correct that is the number I want to take
+03:31  but then I am dividing it by F2 which is some gibberish it is some text obviously I cannot
+03:39  divide 1 by English I have to divide 1 by some number.  So if I try doing that then it will not work and therefore that is why I am getting an
+03:48  error but what do I want really?  I want 1 to be divided by 20.
+03:54  So once again I want F4 divided by F1 multiplied by G1 which is the weights for the English
+04:07  course.  So this is correct but remember if I drag this formula again I am going to get the same
+04:17  problem all over again.  This is painful I cannot keep entering the formula again and again and again there has
+04:24  to be a smarter way of doing this.  Now the smarter way of doing this is basically I want to say that when I want to compute
+04:37  the adjusted marks for English take the marks from the cell at the left divide them by the
+04:54  cell F but I do not want you to keep changing the first row.
+05:02  So I want you to always look at when I am doing the division look at the first cell  of row F even if I drag the formula down do not change this row.
+05:14  So when I put a dollar before 1 what it means is when I drag the formula down even if I
+05:20  go to row 18 I still want you to look at cell F1 and that is what I call F dollar 1 and
+05:29  then I want you to multiply by G dollar 1.  So the row in which I am going to look for the weights and the maximum marks is not going
+05:41  to change when I drag this down.  So now let us look what happens if I drag 9 down to this formula down to the second
+05:52  row for the second student I am getting the correct marks.  Let me drag this all the way down and is this correct let us take a random student
+06:05  the student has got 17 therefore weighted marks are 8 and a half perfect.
+06:13  This is called absolute addresses when I put dollar so remember the address of a cell is
+06:20  two components it is got a column number and then a row number.
+06:26  If I put a dollar behind the column what it means is when I copy the formula do not
+06:32  change the column always look at so if I had said dollar F dollar 1 what it would mean
+06:39  is always or dollar F1 it would say always look at column F but the row number can change.
+06:47  If I said F dollar 1 it would mean always look at row number 1 but the column can change
+06:57  and if I said dollar F dollar 1 then what I am saying is always look at cell number
+07:04  F1.  So now we have got the adjusted marks now we can do all the fun stuff that we did.
+07:11  So we can now we can say total marks for the student
+07:21  and that is going to be C3 plus D3 plus E3 plus and the student has got 33 and then I
+07:42  can drag this down and then I know the total for each and now I have to give grades remember
+07:48  that is what I did so I will do the grades again and here I will say if this is and now
+07:58  I will change the threshold I will say more than 32 is A.  So if sorry I should have said I do not want data I want computation so therefore equal
+08:10  to 32 greater than equal H3 greater than equal to 32 then A else H3 greater than or equal
+08:25  to 16 is B if H3 greater than or equal to 8 is C otherwise it is D.
+08:46  Wonderful, so I have got the grade for the student A for this student and she has got
+08:59  an A I can drag this down and now I have got the grades for all the students brilliant
+09:06  no problem.  Now I want to find out how many students which students got an A how do I do that now of
+09:20  course there is one particularly painful way that I can do this the student has an A so
+09:26  roll number 2023001 has an A then go down, go down, go down nobody is got an A man nobody
+09:38  else is got an A but just imagine if I had to go through a 100 students like this, this
+09:45  will be painful.  So the best way to do this is that excel or Google sheets will give you a function you
+09:55  can select this entire data and in this data you have a function called sort and filter.
+10:06  So I could pick filter.
+10:12  Now if you look at what happens and when you do filter remember that in the first row that  you select you must give the heading of the column.
+10:21  So headings in our case roll number department etc.
+10:27  Now I want to see all the students who got A if I click on this down arrow above grades
+10:35  if I click on that it will show me that students have got grades A, B, C, D or blank and blank
+10:43  is probably because I selected a little more data than I should have but let us say in  this let us just select A and you can see there is only one student wonderful.
+10:57  More interestingly let us now select B. So I have just selected B and I can see that
+11:07  how many students do I have?  I have 20 students out of 30 have got a B that is quite generous grading I would say.
+11:21  Let us see how many C's?
+11:29  Six C's and how many D's?  Three D's.
+11:38  So let us just for our memory sake one student got A, 20 students got B, how much was it?
+11:50  Six.
+12:02  Six got C and three got D if I remember right yeah three got D. So I would say broadly it
+12:23  is fairly generous grading you know bulk of the class has got A or B and you can also
+12:30  see how many students got let us say C and D or you could see how many students got A
+12:41  or B. This is one way to look at it.
+12:50  The other thing that would be of interest to me is to sort the students.  So we could say let us say we say the bottom 20 percent of the class maybe needs extra
+13:02  attention and we are going to conduct some extra classes for the students who are perhaps
+13:08  having some difficulties.  So what we can do is we can do a sort but we do not want to sort on roll number.
+13:18  We are already we already know this is already in ascending order of roll number.
+13:24  What we want is we want to sort based on the ascending marks total marks.
+13:33  So we will choose a custom sort and we will say sort by total marks smallest to largest.
+13:48  What happened?
+13:54  Sort custom yeah I am just curious where the how many values got sorted?
+14:21  Oh that is because I have a filter active hold on hold on I should select all.
+14:30  And first I am sorry I tried doing all this with the filter on.
+14:45  So let me remove the filter.  Let us remove the filter let us select all the data and now let us sort the students
+14:55  like I was doing on total marks.
+15:02  And now you can see that the least marks student has got is 6, 6, 6 and a half, 8 and a half,
+15:10  12 and a half and let us say you know anybody who has got below 15 out of 40 we are going
+15:18  to sort of pick for extra classes.  So we could pick this and we will say that these students perhaps need some extra attention.
+15:30  So we can fill the cells with a color yellow.
+15:38  So far good.  Now the other thing that we did remember is that we counted how many students got A's,
+15:53  how many students got B, how many students got C, how many got D. But I did this manually.
+16:00  Is there a way in which I can do this automatically?  There is.
+16:11  So remember that here we used a function average.
+16:22  Now there are other functions which will as an example allow you to do sum.
+16:29  I could have done sum and I could have said count.
+16:44  The count is an interesting function.  What is count doing?  Count is counting the number of values.
+16:51  So how many values do I have here?  I have 30 values and if I do sum divided by count I will get the average.
+17:04  You can see that this number here I got is exactly the average that I have for that subject.
+17:13  So count is a very useful function.  It helps you count the number of values that are there in the column.
+17:24  But I want to do something interesting here.  I want to count only if the value is A. Can I do that?
+17:35  So there is a function called count if and what is count if going to do?
+17:41  So I count if.
+17:49  So I want to count only if the cell has the value A.
+18:01  And what does it say?  It says 1.  I could, so I could then copy the same formula and I change this to B and I get 20.
+18:25  Is this correct though?  It is not.  And why is it not correct?
+18:31  If you click on this range you can see we are actually ignoring the first student.
+18:38  And why are we ignoring the first student?  We are ignoring the first student because when I copied the formula from here to here
+18:46  I did not do absolute addressing.  I only did relative.
+18:52  So what do I, what should I do here?  I should say take the data from I dollar 3 to I dollar 32.
+19:04  And if that data is A there is 1.
+19:13  Similarly if I did this and I said B, again if I copied that and I said C
+19:34  and if I copied this and I did, if I did D. So this is exactly the numbers that I had
+19:49  calculated by hand.  You can see right, 126 3, 126 3.
+19:55  But again this is very painful.  Every time I had to copy and I had to change the value.
+20:02  What I could have done was done something smarter.  I could have just said A, B, C, D. And here instead of taking the value A I could have
+20:19  said this should be equal to this value.
+20:26  Perfect?  And now if I just drag this down, does not really seem like we have done anything, does
+20:41  it?  But actually we have.  Let me show you.  Let us say I change this value of B to C. Suddenly the count changed.
+20:54  Because the count is being computed every time if I said C to there D, now the count
+21:00  changed again.  In the earlier formula that I had used, if I had kept changing the neighboring cell nothing
+21:08  would have happened.  So this is a very very useful sort of way of dealing with counting conditional values,
+21:17  a useful technique to analyze numbers.  Now let us go back and sort this once again on roll numbers.
+21:31  Okay, good.  So let us just remove the filter, pick this entire table and now we will sort on first
+21:54  on department and then we will sort on roll number.
+22:08  So we so far have seen how to do sorting on one field.
+22:14  It is now possible, it is also possible for us to do sorting on multiple fields.  So let us just take an example.
+22:21  Here is the data that we have and we want to look at first within the department.
+22:27  So we want to first segregate these students into two departments CS and EE and then within
+22:33  the EE department I want to see who are the toppers and then in CS who are the toppers.
+22:41  I can do that.  So let us do sort and filter.  Let us do first custom sort on department and then within the department I will sort
+22:55  by total marks.
+23:01  So now look at what has happened.  The first sort of 15 or 14 rows are the CS students and you can see that I have now sorted
+23:14  them in order of increasing marks and then the next 16 rows are the ECE students and
+23:25  again they are sorted on increasing marks.  So first I sorted on the department then on the marks and that way it allowed me to see
+23:36  what is the order of students amongst the CS students, what is the order of students  amongst the electrical students and it gives me a better feel for you know across departments
+23:47  how things are going.  So it is possible to do sorting on multiple sort of, giving me that error because I have
+24:07  selected the entire, yeah now this should do it.
+24:15  And it is, so I want to remove, let us say I just want to look at department or I do
+24:23  not want any.  Actually I just wanted it, sorry I wanted sorted by roll number and that should do it.
+24:36  So you can do sorting on multiple columns, you can do sorting on single column, you can  do sorting in ascending order, in descending order, whatever you like.
+24:48  So we saw that we could filter data on multiple columns.
+24:55  Now we have a new set of information.  Actually the students, the college has 5 hostels.
+25:04  Hostel number 1 is called Sharayoon, hostel number 2 is called Ganga, hostel number 3  is called Yamuna, number 4 is called Godavari and number 5 is Kaveri.
+25:14  But the person who has entered the data did not put the names of the hostels.
+25:20  Actually he has only entered the hostel number and we want to populate the hostel number,
+25:29  the hostel name by looking at this table which allows us to map the number to the name.
+25:38  So if I want to do that manually, this student is staying in Godavari, this student is in
+25:49  Ganga and of course I can do it like this.  But only thing is it is a little painful because if I had, just imagine if I had to
+26:01  do this for 10,000 students, it could take me possibly 2 days of work.
+26:08  Now the entire purpose of having workbooks is to make sure that you do not spend too
+26:14  much time doing somewhat work that can be automated.
+26:20  So excel gives us a wonderful function called VLOOKUP and so you can say VLOOKUP which basically
+26:32  stands for vertical lookup and I do not remember the parameters that VLOOKUP takes.
+26:42  If you are in the same position that I am in, my suggestion is you just type VLOOKUP
+26:48  and the function name will pop up below, click that.
+26:54  Oh sorry, I should not have put these double brackets.
+27:00  So this function has popped up, click on that
+27:11  and the value I want to look up is, this is the value I want to look up.
+27:17  I want to know what is the name of hostel number 4 and where can I look this up.
+27:25  I have a table in which this data is available.
+27:31  So sorry, what did I do?  So I want to look up this value here and I want to look it up from this table.
+28:02  What is the next thing?  And I want, I have to tell it where I can find the value that should come here.
+28:11  So here I will say column number 1.  Sorry, I should have said column number 2.
+28:23  So I got Godavari.
+28:30  Now let us understand what I did here.  What I said here is I have a table which maps hostel numbers to names and that table is
+28:39  available in Q3 to R8.  It is available here, you can see it is highlighted here.
+28:47  That is what I am telling VLOOKUP.  The key thing here is that hostel numbers are sorted.
+28:55  It is very important that the first column in this lookup table is sorted.
+29:02  Sorted in ascending order.  That is the implicit assumption.
+29:09  If it is not sorted in ascending order, then VLOOKUP will give you funny answers.
+29:16  Now in this dictionary or table, I want to look up the value that is there in cell J3
+29:25  and I could as an example have also here.
+29:31  So let us say that I had a hostel name and before hostel name I could have said number
+29:40  of rooms.  So hostel number 1 has 200 rooms.
+29:52  Hostel number 2 has 300 rooms.  Hostel number 4 has 500 rooms.
+29:59  Hostel number 6 has 400 rooms.  Hostel number 5 has 100 rooms.
+30:06  Now if I want to look up, what do I want to look up?
+30:12  I want to look up for hostel number 4 from this table.
+30:18  Do I want to look up number of rooms or do I want to look up hostel name?  So the first column is hostel number, the second column is number of rooms, the third
+30:31  column is hostel number.  So I want to look up the third column.
+30:38  If I do that, then you will see that the 400 will change to Godavari.
+30:45  And if I just drag this down and then again I made a mistake which is that I did not give
+30:55  absolute numbers here, absolute addresses.  So I should do dollar, dollar and then again.
+31:18  If I drag this down fully, you can see that now for every student I know the name of the
+31:24  hostel that the student lives in.  So VLOOKUP is very very useful when you are combining data from two different tables.
+31:36  What did we do here?  We had one table which is this table which had a mapping from roll number to hostel number
+31:46  and then we had another table here which was a mapping from hostel number to hostel name.
+31:54  And what VLOOKUP allowed us to do is allowed us to combine the data in these two tables
+32:00  into one single table.  Now here it is important to note two things.
+32:07  First is assumption is that in the lookup table the first column is sorted in ascending
+32:15  order.  The second assumption is that in the lookup table the first column has unique values.
+32:27  So let us say that I had two names for hostel number 2.
+32:33  The second assumption is that the values in the column number 1 are unique.
+32:39  So let us see what happens if the same hostel has two names.  So let us change the value of hostel number 3 to Yamuna, sorry to hostel 2.
+32:54  So now hostel number 2 has two names Ganga and Yamuna.  So if I go back if you look at student number 2 he was currently staying in Ganga.
+33:05  If I change hostel number 3 to hostel number 2 here in the lookup table you will see that
+33:16  his hostel has changed to Yamuna.  So what happens if the same key has two values then the second value in the list or the last
+33:28  value in the list if the same key this the value in the first column is called the key.
+33:34  If the same key has multiple entries then the last entry is looked up but this is not
+33:41  reliable behavior you should not this is possibly implementation dependent.
+33:48  The second is now there are some students here who were in hostel 3 and they are still
+33:54  in Yamuna and why are they in Yamuna?  They are in Yamuna because that is the last key that is available before 3.
+34:06  If you go to 4 then you have already jumped over Yamuna.  So it is a very unstable behaviors you will get if you A have multiple entries in the
+34:18  key and 2 if you do not if you have a missing key.
+34:24  So again I will encourage you to play around with this behavior and get a sense for yourself
+34:31  on how this works.

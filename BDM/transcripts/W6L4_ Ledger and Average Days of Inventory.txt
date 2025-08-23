@@ -1,0 +1,316 @@
+00:00 foreign [Music]
+00:17 that is coming up with respect to inventory managing inventory
+00:23 is whether or not we have enough material sitting in our
+00:29 go down depose to take care of the sales that are
+00:34 happening we have sales going on yeah but do we have enough stock enough stock yeah
+00:41 so if you don't have stock then basically we may not be able to fulfill sales that's the problem actually right
+00:46 correct so how do we know whether we have enough stock or not it's a question right uh so that is analysis that
+00:54 roughly we wanted to do sure so I guess uh the key information here is how much
+00:59 stock we have so let's let's do that let's uh I think there is a sheet that
+01:05 omkar had given us called open Stock okay and what it tells us is how much stock
+01:11 for each sko they had in Hyderabad Cochin and Madras uh on at the time they opened the
+01:19 warehouse on the first day okay so what we should do is perhaps
+01:24 calculate the total yeah we're not doing it by city by City we'll do as a whole
+01:29 look at total yeah so I think as an exercise some students can basically work on City wise yeah right
+01:37 yes yes but let's do it totally yeah so we will say sum of
+01:45 B2 to D2 right Okay Okay so we've got it so this
+01:52 is the opening stock this is the opening stock across cities across cities okay that we have now I need to know 518
+02:01 is the opening stock for f01 I need to know how many days 518 will
+02:06 last for me okay how do we find that out so let's do one thing we
+02:14 we can create a pivot sheet so let's find out how much we sell of f01 every day if we did this one that
+02:21 you have that sheet is there huh that cheese sales data all right it's okay I'll just recreate uh
+02:28 it's do we have it in series oh yeah we have it in sales data
+02:33 but we will still need to create a pivot table out of this why do we oh by date we did now
+02:39 trendline we didn't we we did it but I I'll have to look at which sheet that
+02:44 data is so I'll just create a new version yeah yeah you can create one it's easy to create just create by so
+02:51 you're saying by date right yeah create a pivot table
+02:57 dollar dollar a Solan dollars G
+03:03 and now what we want is by date that's what you wanted right you want by
+03:09 date you want volume correct volume but you want for a single
+03:16 HQ oh right correct that's the difference so now what you can do is to put
+03:25 there is a additional area in the uh pivot table called filter
+03:31 so we will use skus as filter okay so now here it will allow you to
+03:38 filter let's say I only want F1 so I can select F1
+03:45 f01 and now what it's telling me is what is my yeah yeah that's the true that is
+03:51 true I want to do it by Escape correct correct yeah that's a big difference yes yes so you want I want also opening
+03:57 stock file if you want the opening stock okay on the sheet yeah so we'll look it up
+04:04 opens talk and here what we will do is we'll say we
+04:11 look up and for vlookup we want to vlookup B1
+04:19 and the data we want is in open Stock see open stock
+04:26 from A1 we want dollar a dollar one no
+04:34 yeah do another one
+04:41 two dollar e dollar 31
+04:47 yeah correct comma five comma
+04:53 one two three four five correct five false right yeah
+04:58 yeah it's not work all right yeah yeah so actually one
+05:06 thing we should increase the size of the sheet 175 we should so now the only thing let's just check
+05:13 if I change the filter cell does think do things work so let me
+05:18 instead of F1 let's take F2 and it does seem to change right but see
+05:25 what it is 272 opens up 272. ah all right okay okay all right
+05:35 so now I want to see okay let's say 272. 272 Loop goes how many days 272 goes for
+05:40 how many days so then we will do this cumulative sales no yeah foreign
+05:59 first thing is B4 and the new one is
+06:06 this one Plus B5
+06:12 right yeah and then you double click that
+06:18 yeah good decision I'll remove because this is
+06:24 so what are we seeing we are saying 272 showing up the last up till ninth last
+06:31 year yeah on day 10 we will run out of date and we'll run out
+06:37 um yeah ninth last or nine days it'll last for nine days but I mean it's cheating a
+06:43 little bit because you're looking forward yeah so how many uh you're
+06:48 you're at ideally you're at one four correct you're sitting on an opening stock of 272. correct you don't know
+06:54 what sales is going to be forget about tomorrow you don't even know for today one thing we can do is we can just divide to 72 by 26 what is 26 which is
+07:03 the day sale on the first day that's one okay so at the end of today I can do it
+07:10 at the end of today I can do it and I have the sales data for today correct I can divide 272 assume that every day is
+07:15 going to be like today yeah 272 long assumption no 11 days something it gives
+07:21 some one indicator no no you should do better than that you should do you should do better than uh average
+07:27 of past data yeah right we don't have past data okay but you know so we can
+07:35 say that this 15 days period is typical whatever average you're getting ah
+07:40 correct that is right the average you are going to get for this 15 days is like the average would
+07:46 should have been it will be there any time in the past 15 days because there's some growth correct just for growth
+07:52 required yeah something like that something like that okay yeah so take the average okay some gross number you
+07:58 put on that the simplest thing to do is I can do average
+08:08 daily sales
+08:14 what like this you can see average off
+08:23 B4 to be 18. correct correct
+08:30 so 28.6 is the average huh so you should divide 272 by 28.6 so and
+08:36 we will say days of see it
+08:44 available yeah correct yeah yeah assuming of course at
+08:51 the average that you're getting for this 12 15 day period is very similar to the spelling mistake
+08:57 what you're saying is the average of these 15 days is very similar to the average that could have been there correct
+09:03 fast also last 15 days also would be roughly similar may be slightly different but yeah I think that makes
+09:10 sense foreign
+09:17 this divided by average yeah
+09:23 and roughly nine inches cumulative also we came to roughly the same thing yes because the days it's not
+09:29 changing that much correct for this Escape some other Escape it may change yes so we can try it try another sqlc
+09:35 and try you want to see m01
+09:41 let's say yeah yeah less times you know yeah CFO will anyway ask us this question
+09:50 what happened m01 right days of sales available is only 3.6 oh
+09:57 you see there it was 9.5 the average daily says 60 yeah and they're 220 okay
+10:05 because the supply is not coming in try something else try some L type things let's try and
+10:12 type thing let's try l01
+10:19 uh comfortable six and a half days six and a half days okay
+10:25 so this is a way this is one way this is one way it's one way so what what we've done basically here is that we have taken the
+10:31 open stock not comfortable okay we will see open Stock and then we divided that by
+10:38 uh average sales average sales of that stock of that uh SKU and we are saying
+10:45 okay with this open Stock how many days I can go correct but the days the stock is declining or maybe declined we don't
+10:51 know yes yes some stock is coming in so in M1 there's something selling
+10:57 something coming in also right uh yes so if well Hyderabad we don't have a
+11:02 picture because Hyderabad things are coming from suppliers but in the case of
+11:08 Madras as an example we know that there is stock coming in from Hyderabad so Madras if you take fake madrosity okay
+11:14 we can take for Madras there is stock coming in going out to the ceiling yes
+11:20 resell it goes out yes and stock is coming in correct so what's
+11:25 happening to our staff so it may be increasing decreasing okay let's just take first of April right we
+11:31 know how much stock there was in the morning yeah we know how much stock we sold huh yeah
+11:39 now uh also we know how much stock came in actually this data was given to us
+11:44 so we know that this much stock came in
+11:50 right seven units came in yeah yeah so from that we should be able to
+11:56 compute how much stock was there at the end of the day in midrash
+12:03 so you have opening stock minus how much better how much went out
+12:08 plus how much came in would be the closing stock for first for
+12:13 the first and that will be the opening surface again for a second like that and then you keep repeating
+12:19 this so like cumulative sum yeah accumulate this accumulate this so let's talk okay shall we try doing
+12:27 that I don't know you lose this is something yeah we'll have to do it
+12:33 in Excel so okay let's try that let's try this so what you're saying is that we'll take
+12:40 we'll take the opening stock as on first or favorite or any day actually opening stock yes on the first of April is given
+12:47 other days are calculated so so let's do one thing okay let's take sales data
+12:52 and let's first thing we should do is always create pivot tables right so we
+12:60 will create a pivot table from
+13:10 sales data controller a
+13:17 colon dollar G here again we're doing SQ user
+13:23 yeah so we wanted SKU wise but we wanted to buy uh so we want first let's take skus rows
+13:31 okay let me increase the size
+13:37 k u y is stock position daily top position no so first thing we will do is
+13:43 we want to know what is the SKU wise uh outflow for Madras
+13:50 okay I think you want to First calculator yeah let's first write it yeah yeah columns are
+13:57 States okay
+14:02 and this is sales sales that's how it go
+14:09 so that tells you the daily outgo format from address no and I need to take City in the filters
+14:18 and select mirrors
+14:27 okay okay let us quite fast okay so what we have calculated is the daily outgo from address correct okay device device
+14:37 okay what we know is the opening
+14:43 uh you know the opening stock right so let me know do one thing let me create a
+14:50 uh new sheet
+14:56 and this sheet I will call Madras
+15:05 Ledger correct laser okay okay
+15:10 and in this lecture what I will do is
+15:16 I will first Ledger keeps track of what comes and goes now like what these kirana people
+15:22 keep track of yes in Daily incoming and God going at the end of the day reconcile correct right correct
+15:30 they always reconciled end of the day if it's not reconciled they will not sleep yeah
+15:35 they have to reconcile okay yeah mandatory now what we need to do is we
+15:41 want opening stock huh
+15:47 we want sales
+15:53 we want size increases yeah
+16:09 okay
+16:15 inward removed stock
+16:21 and we want closing stop no yeah
+16:27 closing stock can be nice you know uh it could I guess right
+16:36 which we should at least set it to zero now it can't physically be negative you know what okay
+16:42 of course you can see the point is invert stock is coming into Chennai sales is we can have sales because sales
+16:48 can happen they can take sales even though we don't have stock internet yes so your principle actually sales can
+16:55 be more than opening but opening stock can never be negative so if the previous days closing stock is negative you will
+17:02 have closing stock and negative but opening stocks at least zero yeah yeah so here I will say first April
+17:11 2021 right so let's just first do it for first of April so in this case it's so
+17:16 okay here let's do it yeah so this is going to be equal to V look equal to
+17:23 uh yeah I can do we look because you can just copy that
+17:28 column button this is a better way of doing it yes you look up
+17:35 a four a four comma open Stock sheet
+17:45 okay stock dollar a dollar one
+17:54 important color e dollar 31 you know
+18:04 comma I want if this is one two three four
+18:10 four is what I want um and then false correct yeah correct
+18:16 correct correct okay
+18:22 okay this is opening star no sales sales also I just created an Excel sheet
+18:29 pivot table right yeah this I can just
+18:36 do this
+18:41 is going to be a little bit painful actually what we need to do is two levels of vlookup but
+18:48 uh I'll cheat a little bit okay and I'll just take this data so we will say this
+18:54 is equals
+18:59 from sheet 18. oh I see we look because you have to look up one first April I have to look up first April honestly so
+19:06 that is going to be a little tricky but anyway you're going in order yeah so but you have to keep this one that is
+19:12 something because we have columns in between columns it won't be that easy we'll see we'll see okay some tricks
+19:18 so right now I'm just going to cheat okay you know later thing we'll we'll show the
+19:24 students how to do this okay okay so this is sales
+19:30 right now inward stock is available from stock
+19:36 transfer oh my goodness this is something huh okay okay all right and again there is
+19:44 okay like that take it I take that I'm just going to take this yeah only going to the next one is going to be
+19:50 interesting huh okay now this is going to be
+19:56 this minus sales plus invert
+20:04 what is it oh nice nice okay just doubt like that we'll see what happens now
+20:10 none of them are negative let's go down let's see if anything negative okay are all positive but in any case so
+20:16 let me just copy Edition
+20:27 let's make this second favorite
+20:33 so now we want to opening stock same as the previous talk except if it
+20:38 is below zero okay so I will say Max of Ah that's the way to do it
+20:45 you would have done anything yeah this is a very good way to do it that was that if zeros and things so this this
+20:51 will do it yeah right
+20:58 yeah now sales again and again this is not a
+21:04 very healthy way uh but right now let's just do it like this
+21:10 so we want C5 right
+21:19 so what you keep doing it for every day for every day ideally at some point we
+21:25 should automate this okay and
+21:30 so there is an offset function but what I thought we
+21:36 will do it is leave it a little later in the course okay to introduce the offset function okay okay we'll do it for two
+21:43 days we'll see what happens then then this will
+21:50 inward stop no
+21:57 and then closing stock is exactly
+22:04 the same formula
+22:11 I'm going to write
+22:20 negative okay no
+22:26 but some are coming very close to zero you say our guests look if you look at
+22:32 the data would be M1 right so M1 we started with 64.
+22:38 it has gone down to 38.
+22:43 so we wanted to do I mean we wanted to improve this what we calculated right we calculated that uh number of number of
+22:51 days of inventory number of days of sales days of sales how many days what cover we have correct this one but now
+22:56 we want to do it in a much more accurate way because this Ledger thing gives us a insight into the stock position not just
+23:03 on the opening day but also as it progresses yes so can we and we also see
+23:09 that later on you know you're getting negative so it means that we are getting stockouts beginning without getting stock outs correct we talk about later
+23:14 on correct so rather than taking the inventory stock position on the opening day can we
+23:21 not take the Average stock position we can do that so let's try and calculate the average how many days of
+23:29 average uh sales yes is covered by the average Stockbridge yes which would give us some
+23:36 kind of average days of inventory correct right correct how many days how many inventory days we have so let me
+23:42 insert a new worksheet and I'll call it mattress
+23:48 days of inventory
+23:53 and let me set it to 175.
+24:00 now we want what we want average average sales
+24:07 average open stock NOW first I always open Stock average sales and we want
+24:13 average sales is already available somewhere no we want average sales by day
+24:20 well yeah it's available in some form but really anyway we can compute it because we have now got
+24:25 yeah okay so what we need to do is we need to find the average if the
+24:32 corresponding label is uh open stock right so for that it is a function
+24:37 called averages and what average if we'll expect us to
+24:42 be a bridge is normally average but we are now going to do I will only take numbers into my average computation if
+24:50 their label is open Stock okay okay all right okay so I look at this column
+24:57 and what I say is so first I'll say what are the labels I'm looking at the uh
+25:05 just so it should be not before B3 right
+25:13 sorry B 3 2 B 3 2 p i three e i three and this I just want
+25:22 to make sure that this I protect with dollars the range is fixed
+25:29 the labels are fixed labels are fixed okay and this I'm only interested in something that is
+25:37 labeled open Stock okay and if that is the case then what
+25:43 average is then I am going to take the average of
+25:51 in this what I will do is I'll protect the bees I won't protect the rows okay
+25:58 okay knock out the zeros little bit
+26:06 and same way do this
+26:14 right and now instead of open Stock I want to call it
+26:21 sales
+26:27 I see this is what is is it okay correct no
+26:32 yeah sales correct yeah okay and then you drag that up so I will just drag
+26:39 both of them
+26:45 wow wow this is what so what are we saying
+26:51 you're saying that uh we are divided let's divide the two yeah but is this every change correct because
+26:57 uh can't be 0.2 no 0.3 so today again we can be they sold
+27:04 one item after it's 15 days actually yeah which can be yeah
+27:10 yeah correct correct it is possible now we want to compute
+27:16 average is divided by average open stuff average sales divided by
+27:22 so lifestyles are all the decimal so you want open Stock divided let me just take one of those if you are if you want to
+27:28 do that let's take uh uh if if 10 if 9 will say
+27:35 let's go look at F9 F9 see they sold two one three yeah
+27:42 actually two one three three two one two two but six actually there's a simpler way of doing this now let's just look at
+27:48 sales data and what do we want F9 let me filter this
+27:58 is by D if you want the overall sales total sales no we want sales for matters
+28:04 but by day yes so I will do
+28:15 so for Mattress which SQ F 0 9
+28:21 foreign
+28:53 open Stock by and again I'll reduce the on decimal is
+29:01 good yeah
+29:06 okay drag it
+29:12 all right so the fashion Goods 4.6 6.55 but they're all looking okay F9 57 okay
+29:19 so GV uh We've looked at average sales we've looked at average open Stock now
+29:25 we have a picture of uh average days of inventory yeah I think we just need to
+29:31 find a decent way of representing this uh in ah in some form of graphical
+29:40 I'm surprised that the l01 we have only one day of humanity
+29:46 you should probably ask omkar about this in fact if you see a lot of the ills
+29:52 have a very little inventory so some of them say l06 l l o seven is 42 days it's
+29:57 okay yes let's go down and see what is the other situation see some of 0.8.7 or M my God what's going on
+30:10 m is a serious problem m is a serious problem actually if you see no the first
+30:16 six see you know when we did that first opening stock by we didn't get this picture at all correct that is true
+30:22 isn't it is true so that is the reason why we need to do this very very true very true
+30:27 and actually in many of these no in both in lifestyle you will see that some have
+30:35 very low inventory and some are very high very high same way in phones also
+30:41 l09 173 okay I don't know that makes no sense at all yeah basically it means
+30:47 that they have some product and it's not selling at all that's right yes they have inventory and it's not selling it you should do some what you call it the
+30:53 clearance sale correct something like that you should get rid of it and go up and see what you got if F okay
+30:59 that's f is all right F I think should be all right f is f is already if looks okay yeah
+31:05 it looks okay yeah no we should definitely discuss this L see M actually
+31:10 we had some inkling right because we knew that yeah yeah but L also something is happening we should discuss with
+31:17 omkar um so I was thinking maybe they've been
+31:22 depict it in some form of uh diagrammatically yes so there is an you
+31:29 have three I mean unfortunately okay we have three things to represent no we have so X and Y will be this X and Y can
+31:35 be open Stock average sales average sales and uh how do you represent the average is I think let me just see this
+31:43 uh there's a bubble chart okay let's just take
+31:53 if you want to take I'll just take the F's because we saw one one thing we saw GB is
+32:01 any of these caterpillars let's just look at you need to have only 10 elements or something if you have too
+32:06 many Ah that's okay what is that what you had earlier no it's anyway taking
+32:13 okay what is it saying oh it's picked different colors for the
+32:19 different F's it's baked we don't need different
+32:26 colors for different types did you choose the F also you don't use f
+32:32 you don't want me to choose f yes don't use the first for any column and see what happens
+32:41 because that it is let's see
+32:50 yeah that's better right yeah okay so what is it doing now it's saying
+32:58 basically okay so what have we plotted but what is the size and what is the what is X and Y out
+33:04 to choose X and minor so no let me label this then we can do something better so this is
+33:24 let me how do I insert a chart design add chart element
+33:31 we will add access title so primary vertical is what this is
+33:39 vertical is or days of sales but has it taken that we don't know
+33:47 it may not have taken that it has a yeah it does okay it is
+33:53 so yeah
+33:60 and horizontal it has taken data series one
+34:07 average opens hold on let me do one thing
+34:19 select data
+34:24 add yeah FM CG
+34:30 X values are from here always better to do this
+34:36 because you don't know what it's doing for what character yeah X values are this y values are sales
+34:50 yeah yeah and bubble size is
+35:14 okay yeah yeah this is bad this looks good yeah this looks good yeah yeah and now uh let
+35:22 me add a title so access title is
+35:40 okay this is what this is uh average daily sales no no this is
+35:48 average opening stock average
+35:54 open stock add chart element
+36:06 average I think it's not writing it there so I'm
+36:11 very editing yeah okay
+36:16 average daily so what do students can do gve perhaps
+36:22 is create similar charts for lifestyle and mobile well yeah yeah and I think
+36:28 there will be some interesting things to see in the mobile case it looks like a lot of them are in trouble isn't it yeah yeah
+36:34 you'll get dots yes the resource small you will get correct correct the bubbles
+36:39 will almost be dots huh yeah I think should be a nice exercise
+36:44 to do okay I think we have enough material to show to um I think so yeah
+36:51 okay

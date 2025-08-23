@@ -1,0 +1,171 @@
+00:13 Now we are, this week we are going to start 
+our first case study. And for this case study,  
+00:19 I would like to welcome Omkar who is, who works at 
+Flipkart and Milind maybe you can give us a short  
+00:28 introduction to Omkar and then give an opportunity 
+to Omkar to explain what he does at Flipkart.
+ 
+00:33 Omkar Karandikar has been involved in 
+logistics and warehouse planning for  
+00:39 more than 15 years now. He is currently director 
+of inventory planning at Flipkart. Before this,  
+00:46 he used to work with Meback consulting. And today, 
+I think Omkar we would like to talk a little bit  
+00:53 to you about how e - commerce companies organize 
+their distribution, and what sort of data gets  
+01:03 generated in this process. 
+Sure.
+ 
+01:06 So welcome. 
+Thank you. Thanks. Thanks, both  
+01:10 of you for introducing me. Yeah, so it is a very 
+crazy world in e - commerce. Last one year or one  
+01:19 and a half years, I will say starting from COVID 
+has been a revolution in e - commerce industry.  
+01:25 And it is one of the industries which has 
+actually seen a uprise in this difficult time,  
+01:32 starting home deliveries and delivery of 
+essential status it has become a backbone  
+01:37 for the whole Indian economy right now. 
+I say all the e - commerce industry came up  
+01:44 the front and supported this lockdown and ensured 
+that people are not starved at this time. What  
+01:52 makes e - commerce unique I think is the growth 
+that we have seen in India, though we see that  
+01:59 industry is growing at let us say 60, 70, 80 
+percent every year, but this is just a start. 
+ 
+02:04 We have not even scratched the surface yet. There 
+is a huge untapped market in India, tier two, tier  
+02:11 three cities and it is going to be a long growth 
+story. Flipkart has been in India for 10 years.  
+02:18 Now Flipkart knows about what Indian customers 
+want and we are tailoring your services to the  
+02:25 customers. This whole exercise is just to give 
+a flavor of what e - commerce is all about and  
+02:32 how we look at the data and how we build ourselves 
+for the next set of growth incentives. 
+ 
+02:40 So, just for statistics, since we presented some 
+statistics about various industries in the first  
+02:47 few weeks of course, e - commerce as a percentage 
+of commerce, the total retail industry in  
+02:53 India would be what, what percentage? 
+It will be actually very low if I look at the  
+02:59 unorganized and organized retail 
+in general, e - commerce will be  
+03:05 in single digit market share.
+Professor G Venkatesh : And is it  
+03:08 growing? The market share is growing ? 
+Yes, market share is growing pretty fast and  
+03:13 there are different versions of e - commerce 
+which are coming. So, Flipkart and the other  
+03:18 players in market are typically the platform by 
+e - commerce companies, but there are different  
+03:23 versions of e commerce which are coming up. And 
+there are new models which are coming up where  
+03:30 the inventory is actually distributed in stores 
+and it is going to get sold from there. So yes,  
+03:37 it is going to be a long big story 
+for e - commerce to grow in India. 
+ 
+03:43 Okay. And if you compare our e - commerce industry 
+with the e - commerce industry in China or  
+03:50 USA would we say we are heading to those 
+levels or we are not dissimilar to…
+ 
+03:55 So, China is always a template for India, in e – 
+commerce. So, there are a lot of new initiatives  
+04:02 which are, which are executed in China. We look 
+at China as a template and there are a lot of  
+04:10 replications of those services and offerings 
+which happen in India. From growth perspective,  
+04:16 China has already exploded, they are into 30, 40 
+percent. market share from retail perspective. 
+ 
+04:23 We are not yet there we are we are in we will be 
+around close to 10 percent roughly. So that is  
+04:30 long way to go again. But China teaches 
+us a lot of things what customer want,  
+04:34 how do we enable speed. What kind of new service 
+offerings can be delivered to customer so yes,  
+04:40 China is a template that will get. 
+US a different market altogether. US and  
+04:45 Europe I would say it is a little bit 
+of different market. There the services  
+04:51 are not mass market. China is a mass market, e - 
+commerce industry. For example, India is right now  
+04:58 going from niche to mass market. So, we follow 
+more Chinese trends than European US trends. 
+ 
+05:09 US is another interesting altogether we have a 
+lot of learnings from us how to do e - commerce  
+05:16 are and how not to do e - commerce as well, 
+how do we expand how do we plan for future,  
+05:22 make or break to invest long term in one location 
+or to invest distributed in long term there are a  
+05:27 lot of learnings from US that we are getting. 
+From a data perspective, since it's the data  
+05:32 science course, is there a very big 
+difference between the kind of data  
+05:37 that you see in e - commerce from the data you 
+collect in retail typical retail scenario? 
+ 
+05:42 So, I will relate to the experience I had from my 
+consulting period. So, I worked with a lot of FMCG  
+05:50 companies and a lot of retail companies at that 
+point of time. This problem in those, in that era  
+05:59 was to know customer. I am if I go to, let 
+us say, offline store, let us say a central  
+06:09 probably central person; the central store 
+manager will not know me as a customer. 
+ 
+06:17 At the time of billing, they might ask you for 
+a mobile number just for billing purpose, but I  
+06:22 may refuse to give my mobile number. So in terms 
+of data in terms of knowing customer the offline  
+06:30 retail is way behind and how we switch the gap or 
+how we bridge the gap in traditional retail was  
+06:37 the typical traditional mom and pop stores. When 
+you used to go to your corner store the person  
+06:43 used to know you not only you or the whole family 
+used to know he or she used to tell everything  
+06:50 about it or medical stores, so he will say okay, 
+your father's medicines will be over take it. 
+ 
+06:55 So, that was a relationship with the customer. 
+Now the modern retail probably somewhere it was  
+07:00 difficult to establish in offline world, but 
+online world it is coming back big time because  
+07:05 that is a big difference we have. We know the 
+customer, we know where the customer is, where the  
+07:13 customer is going, what are their browsing habits, 
+which category your customer is interested in. 
+ 
+07:19 And we can we can look at the customer's 
+preferences, buying history, shopping history,  
+07:25 cart history, fabrics, all those things are 
+available to us. Due to that e - commerce is  
+07:31 able to build a customer profile, 
+where a customer is, I mean,  
+07:36 where we are able to predict about customer 
+to a great detail to a great detail where we  
+07:42 are able to predict whether a person is he or 
+she, whether a person is married, whether the  
+07:48 person has kids or no new kids and what kind 
+of demographics that person belongs to. 
+ 
+07:53 So, we know whether a person is going to buy 
+a high-end smartphone, let us say apple or is  
+07:58 going to go for a value smartphone and this is 
+that we are able to actually offer customized  
+08:05 experience to each and every customer. 
+When you look at let us say Flipkart website.  
+08:11 If you log in, a customer A and customer B, you 
+may not get the same website at any point of time.  
+08:17 There will be a lot of customizations, 
+a lot of recommendations, a lot of  
+08:22 merchandising, which will happen for 
+each and every customer and that makes  
+08:27 e - commerce little easy and 
+little difficult as well.

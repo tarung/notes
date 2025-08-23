@@ -1,0 +1,279 @@
+00:00 foreign
+00:03 [Music]
+00:20 looking at the
+00:22 what is the important which are the ones
+00:24 that are selling the most get of the
+00:26 revenue sales trying to look at together
+00:27 and so on I think they're done
+00:29 what remains to be done is uh trending
+00:33 right yes you wanted to see uh actually
+00:36 the planning planning head to head that
+00:38 question I had that question right uh
+00:40 can we see the sales by day can we see
+00:41 the sales something like that right
+00:43 correct
+00:44 um
+00:45 so so let's try and do that let's try
+00:49 and see uh let's say how volume strength
+00:53 we want to see the volume Trend by by
+00:55 date you can look at first we look at my
+00:59 date then we'll look at by date day
+01:01 we'll see yeah that should be more
+01:02 interesting that will be more
+01:03 interesting so first let's look at my
+01:05 date Dave is basically you're seeing
+01:06 whether there is correspondence between
+01:08 the Monday of this week and Monday or
+01:09 the next right so if there is a pattern
+01:11 that comes because of the weekend but
+01:12 later no let's just first 15 days 15 day
+01:16 chart so uh what do we do right so again
+01:20 we go same problem same problem right
+01:22 same problem is that we have given by
+01:25 this data has give has been given by
+01:27 CTE and all that correct so now we will
+01:30 just do our standard pivot table
+01:32 we will insert a pivot table
+01:35 and in that pivot table we will take
+01:38 data from
+01:41 column instead of adding by SK you want
+01:43 to add by date correct that's all I want
+01:45 to do ah
+01:48 lovely that will be nice right yeah yeah
+01:50 let's do that
+01:52 let's add do a pivot table where the
+01:55 rows are
+01:56 date yes
+01:58 huh rows are dead
+02:03 let me make it a little larger
+02:06 okay so we will say rows are dead rows
+02:09 are dead and valuable
+02:13 computers sale sale by some some of
+02:16 sales sum of sales okay yeah and now
+02:20 just this blank value has come so let me
+02:22 just remove the blank value
+02:25 very good at the Blackberry because I've
+02:27 selected the entire column okay
+02:30 okay
+02:31 so now if I take it's recommend us I
+02:33 should recommend something let's see
+02:34 let's see what graph it recommends
+02:51 so let's say insert recommended graph
+02:56 so one this uh do you want to do it like
+02:60 this or do you want to do it like this
+03:01 line is better cleaner Yeah clean okay
+03:05 line is better
+03:06 yeah okay you remove it yeah you don't
+03:09 need to remove this Legend yes
+03:20 yes
+03:30 yeah
+03:31 no what is this do you say anything
+03:34 uh it seems to I mean I would have
+03:37 thought okay so it's not keeping on
+03:39 going on of course in 15 days it's not
+03:40 keep going I'm getting
+03:42 but even trendwise itself you're just
+03:44 going a little bit up and down but no
+03:46 clear Trends right no time no Trend no
+03:49 trend
+03:50 uh should we do the same thing by
+03:53 Revenue
+03:54 ah that might be interesting let us see
+03:56 yeah let's see the revenue so let's
+03:58 repeat this exercise
+04:01 where is the sales data
+04:07 and let me insert
+04:10 your table from
+04:35 increase the size
+04:43 again date is a row date is the row
+04:46 and revenue is the radius sum of Revenue
+04:50 is the value okay and this let me
+04:54 format as
+04:56 currency it won't remember no it won't
+05:02 yeah
+05:04 okay
+05:05 remove the black remove the black
+05:17 okay
+05:18 okay and now
+05:26 we can try inserting a
+05:30 chart
+05:32 and again let's do it as a line right
+05:34 yeah because the correct line chart
+05:39 you can remove the total thing
+05:42 and again I don't see no Trend no any
+05:45 major Trend right yeah I guess 15 days
+05:47 is not is not enough yeah yeah what
+05:51 trend you will see in this okay
+05:53 slightly going up and down around some
+05:54 hours that's all yeah yeah but you can
+05:56 see that they are doing 25 to 30 lakhs
+06:01 roughly in that type of thing per day
+06:03 yes yes huh yes
+06:06 yes 25 to 30 lakhs after a day per day
+06:10 good huh yeah yeah it's a lot of money
+06:12 it's a lot of money so if you look at it
+06:15 as uh you know seven and a half crores a
+06:17 month oh yeah right okay so and this is
+06:21 only for 30 skills this is only for 30
+06:23 skus they would typically have I don't
+06:26 know tens of thousands of thousands
+06:29 so you can change the title to revenue
+06:31 trend
+06:33 so that you can share it with
+06:38 the sum of Revenue come here
+06:44 wait let me be I think that's just a
+06:46 legend okay it's all right
+06:49 we'll call it
+06:51 Revenue
+06:53 tricked OK yeah
+06:57 now what may be more interesting GV
+06:60 perhaps we should look at is what you
+07:03 were saying in terms of day
+07:05 day which means Monday
+07:08 Tuesday Wednesday Monday correct one
+07:10 chart then Monday next week another I
+07:12 mean another
+07:13 no so we will do this graph very similar
+07:17 to this
+07:18 except instead of having dates on the uh
+07:24 uh x axis x axis we will have days on
+07:28 the X but then you'll add up Monday and
+07:30 Monday yeah
+07:32 yeah that's okay so we want to see which
+07:34 day of the week is giving us ad Monday
+07:37 of this week and Monday of next week
+07:38 together okay all right yeah okay yeah
+07:41 let's do that
+07:43 so
+07:44 for that first thing I have to do is the
+07:46 sales Master
+07:48 or the sales data I will have to add
+07:52 a new column called day day of the week
+07:56 without the furniture
+07:59 so we can actually find that out from
+08:02 the date
+08:04 there's a function to do there yes so
+08:06 what we can say is text
+08:09 so we want to convert this date
+08:12 into text okay so instead of doing this
+08:15 we will say
+08:16 text
+08:18 A2
+08:21 comma
+08:23 and the format we want it is is d d d
+08:34 basically means d
+08:37 Ford is your gear yeah
+08:39 okay okay
+08:41 so now if you go down
+08:43 yeah because
+08:47 oh okay okay so it's going to Friday
+08:50 when the date changes yeah
+08:56 yeah I just wanted to check yeah okay
+08:59 okay yeah so let's just see just are
+09:02 there other days Sunday or not is there
+09:06 30 that's because 15 days we are
+09:09 checking
+09:10 Wednesday
+09:12 okay all right it's fine it's okay okay
+09:14 [Music]
+09:17 now
+09:21 let's go to now you'll some by Thursday
+09:23 again paper table insert a pivot table
+09:25 with G as the a you will make the yes
+09:28 you want to make G as the row correct I
+09:31 know correct okay okay and the thing is
+09:34 now what I will do is until now I used
+09:36 to consistently pick up till column
+09:38 G
+09:46 so that the day also shows up yeah okay
+09:48 now I'll just one second before I do
+09:51 that let me
+09:54 increase it to
+10:00 right so we will take day
+10:05 and uh what shall we do you want to look
+10:07 at volumes you want to let's first look
+10:09 at volume volumes yeah yeah
+10:15 so interesting
+10:18 sales actually seem high on Tuesday
+10:21 Wednesday Thursday
+10:23 and lower on weekends
+10:28 we don't will ask maybe there's a reason
+10:30 for this we don't know isn't it it does
+10:32 the volume at least yeah
+10:35 okay let's
+10:37 we should go back to omkara
+10:40 that's it I guess that's the difference
+10:42 between no you know what
+10:43 maybe that's the difference between
+10:44 e-commerce and real life maybe on
+10:47 weekends people go to the malls
+10:49 and on weekdays they shop from home
+10:51 yeah they're saying at least possibly
+10:54 possibly but Sunday there is a little
+10:56 bit of a spike maybe Sunday evening
+10:58 people are just sitting here yeah yeah
+11:00 something like that possible we don't
+11:03 know but Tuesday to Wednesday Thursday
+11:05 seems to be the Thursday really seems to
+11:08 be a year today they finish the shopping
+11:09 come back it's low it's low everywhere I
+11:11 think it's low everywhere correct it's
+11:12 an iterative that's why I think so
+11:14 Thursday actually this is probably a
+11:16 little bit of an artifact because in our
+11:17 data there were three Thursdays so we
+11:19 can ignore this
+11:21 ah see there were only two Mondays two
+11:24 Tuesdays but there were three Thursdays
+11:26 because we got data from first of April
+11:28 to 15th of April
+11:30 so there were three Thursdays
+11:33 oh okay that is the reason that's the
+11:34 reason so Thursday we can ignore her but
+11:36 Tuesday and Wednesday there definitely
+11:39 seems to be a little bit of a bump up
+11:41 yeah yeah
+11:43 but anyway let's plot this and show this
+11:46 to omkar
+11:48 um
+11:53 and again we'll insert a chart
+11:57 and how do you want to do it
+11:59 yeah that's good for this
+12:03 okay yeah so I will remove this
+12:11 this is
+12:14 volume
+12:17 trend
+12:19 by D
+12:24 yeah okay okay the same thing I will do
+12:27 maybe
+12:29 30 seconds
+12:45 it's a pivot table
+12:51 from
+12:53 sales data dollar a to
+12:57 dollar G
+13:04 and then I will take day here or I
+13:08 should increase the
+13:16 should I take day here remove the blanks
+13:27 and then get Revenue here
+13:30 right
+13:32 again let me format this as currency
+13:36 unfortunately it doesn't remember that
+13:38 this started office currency so it
+13:41 should come out as currency
+13:55 okay that's right watch out
+13:57 yeah nice
+14:03 and this is
+14:05 Revenue
+14:08 trend by
+14:13 again not any significant nothing
+14:15 significant yeah yeah
+14:19 anyway Let's Go and show yeah yeah this
+14:22 I'll remove this
+14:24 okay yep
+14:27 okay so okay this is Trend analysis yes
+14:31 we didn't learn much but yeah yeah
+14:33 I guess we had more data we could have
+14:35 done something correct no correct
+14:37 possibly yeah okay yeah except this
+14:39 inside that maybe people e-commerce they
+14:42 do in the video yes

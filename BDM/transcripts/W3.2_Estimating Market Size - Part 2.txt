@@ -1,0 +1,518 @@
+00:00 So, I think we got a sense of 
+this addressable market thing,   some kind of method. Some picture at least. 
+Picture we got. Now, the question really is that,   of course, while we did that, we did it out of 
+hunch right off, some general top down thing.  
+00:20 But a good way to do it is not this top 
+down, which is to start from the top, but  
+00:36 kind of allow the information 
+to flow from the bottom. So,   if you have data and we have data, we 
+have to look at the data and start to make  
+00:45 sense out of it, keeping in mind the fact 
+that we are trying to solve this problem. Which problem? Trying to find how 
+many people will buy 2 wheels,  
+00:50 not only that, how many people 
+will take load to buy 2 wheels.   So, that problem is there in the mind. While that 
+is in the mind, we are not being influenced by  
+00:59 that problem overly. We are just staring at 
+the data and trying to make sense out of it. And trying to interpret what is coming from 
+the data. So, I guess the sheet we have to  
+01:10 look at aspirational data set. I guess. We have 
+not looked at that data set. No, we have not. We have not. We spend some time on the other 
+one. Not much on this. So, shall we look at  
+01:20 that data set, aspirational data set? It says 
+something. It says, are you going to buy? This is,  
+01:28 these, we had done earlier, we had done this. We tried to compare. We had looked at the fields 
+that are available. So, are you going to buy a  
+01:39 2-wheeler? It is asked specifically in that. It 
+is asked specifically. So, one thing to do is.
+01:44 It is asked, actually they have 
+a second question. This is,  
+01:50 they have three interesting questions. 
+Let us just look for 2-wheelers. So,  
+01:59 they are, the first thing they have asked is, how 
+many 2-wheelers you own? So, can we just simply  
+02:07 look at how many people are saying they want to 
+buy 2-wheelers, intend to buy. Let us do that.
+02:13 And as a percentage of the population and see 
+the split of that by some. So, but even that we  
+02:21 have more information. Will buy 2-wheeler, will 
+buy 2-wheeler of type and will buy 2-wheeler now  
+02:30 and is this a good time to buy 2-wheeler? We 
+have a lot more color on it. Let us start with   just will buy 2-wheeler. I presume we will first 
+say will buy 2-wheeler and then only the others.
+02:41 So, let us start with that. So, 
+first let us count how many people   want to buy 2-wheeler as a percentage of the 
+population. So, we had 100 samples in this.  
+02:51 How many have 2-wheelers, let us 
+specify that dot. Good, good question. You are doing by filtering. I am doing it by 
+filtering. Let me remove all filters first.  
+03:05 And then we will. Oh, there is a minus 99. This one we have not done the minus 
+99. I will just do that quickly.  
+03:11 Replace minus 99 with blank. Replace.
+03:18 Minus 99. Oh, sorry.  
+03:31 Done. Now, what do you want? We want 
+to see how many people have. So,  
+03:38 let us remove the blank. Some people have 2. Looks like. How many people have 2? Let  
+03:47 me. 2-wheelers. So, there are 2 out 
+of 100 have 2 2-wheelers. That is  
+03:52 believable. Let us say there is a young 
+couple, husband and wife, both of them. They do not ask them. They do not ask them. 
+Maybe one scooter, one motorcycle. Could be.  
+04:02 They did not ask like that. See, actually they have asked, if you 
+see, but. It says 2. Does it have a.  
+04:12 It does not have multiple fields. If you 
+have 2 2-wheelers, then you want to know. Anyway, whatever. This 2, area 2 data set 
+is very small. So I will pick 0, 1 and 2.  
+04:26 We will remove the blanks. So, we now know that 
+there are how many? So, 62 people have answered.
+04:36 Responded. 62 responded. 
+62 responded. Out of that,  
+04:41 we will remove the 0s. So out 
+of 62, 46 own a 2-wheeler.  
+04:51 We saw that actually when we were doing that 
+other analysis. 46 out of 62 own a 2-wheeler. 70 percent, they said. Yeah. 70 percent already. 
+Roughly. Roughly. Very high penetration already.
+05:05 Correct. I do not think this represents 
+the reality in India, but anyway.  
+05:10 I do not think 70 percent of households 
+are 2-wheelers. Do you mean? 70 percent of   households may be having 2-wheelers. I do not 
+think. 70 percent of people may not be having.
+05:20 70 percent of households. That many 
+2-wheelers are there. So, if on average,   1 person, 1 household has 4 people, then you 
+are saying 1 in 28 people. 35 crore households.
+05:33 35 crore households. 35 crore. Car 70 percent. 
+70 percent will be like 25 crores. 25 crores,  
+05:42 scooters. Install base. How can I? If you are 
+selling a crore and a half 2-wheelers a year.
+05:49 For 25 years. But it is okay. Okay.
+05:55 All right. Maybe. Maybe. Okay. Looks like a 
+lot. Okay. I thought there were a lot of poor  
+06:03 people in India. Poor households are supposed to 
+be. I think affordability is, affordability is.
+06:09 Middle class percentage is only 
+35 percent or something like that.   But I think a 2-wheeler can be afforded by 
+somebody who is not entirely middle class.  
+06:19 Because people will go and buy second 
+hand. So, because of second hand, no? Okay.
+06:27 Possible. I know people, I know painters as an 
+example who own 2-wheelers. But urban, yeah.
+06:34 Urban. Yeah, yeah, urban. Fair. All right. 
+Maybe. Okay. We do not know. It looks,  
+06:41 okay, if that is the number, that is the number. We will just go with that. So, we 
+have, see this is the thing about data,   right? You have to just believe it. 
+Correct. Right? Correct. You cannot  
+06:49 question it. You start questioning 
+it, then you cannot go in there. No. No. So. So, the other thing we know is, 
+have they bought a 2-wheeler in the recent past,  
+06:59 last 6 months? We know that. We know that. Okay. 
+How many bought in the last 6 months? Out of this  
+07:06 46. How many bought in last 6 months? Out of the 
+46, maybe 5 have bought in the last 6 months.
+07:15 So, they have new 2-wheelers. So 5 out of 46 means 
+1 by 9. 1 by 9, 1 by 10. So, about 10 percent of  
+07:22 the install base either has been, has bought 
+the 2-wheeler now or they bought another one.
+07:27 Yeah. Or they replaced it. Correct. Or they 
+bought a second hand actually. We do not   know what. We do not know how the question 
+was worded. But it is a way to think about  
+07:36 it. If you have an existing market of, 
+we wrote it in our addressable market.
+07:41 If you have an addressable, if you have a market 
+which is of 2-wheelers that is there, 10 percent  
+07:46 of that you can assume are people who will 
+replace their 2-wheelers or something. Correct. Correct. Something like that you can. Correct. 
+The other way to look at it is if 10 percent of  
+07:57 the people have bought in the last 6 months or 
+1 year whatever, you forecast it in the future,  
+08:04 maybe another 10 percent will replace. Something 
+like that. It makes sense because you do not keep  
+08:11 a 2-wheeler for too long. Correct. Car on average 
+about 7 years after that it starts to give up.
+08:16 Yes. After 10 years you 
+kind of have to replace it.   Maintenance cost becomes too high. Correct. 
+2-wheeler also similar. Correct. Of course,  
+08:22 I know people who have kept 
+2-wheelers for more than that. Yeah. 10, 12, 15 years. Yeah. On average 
+I think 6, 7 years. Correct. 10 percent  
+08:34 is a very reasonable I think. So, what is 
+also makes sense TV is the guys who have   bought recently are saying they will not buy a 
+2-wheeler obviously because they have just bought.
+08:44 Correct, correct, correct, correct, correct, 
+correct. But what we really want is these guys,  
+08:49 people who have answered yes to the 
+question will buy 2-wheeler. Yes,   yes. So, let us remove this 
+filter and filter here.
+09:01 Out of the 46. 46 people who have 2-wheelers. 
+Oh, 46 people who have 2-wheelers. 2 people  
+09:09 are saying they will buy 2-wheeler again. 
+Correct, which could be either replacement  
+09:14 or it could be a second 2-wheeler. No, no, no. So, this yeah, it could be yeah. So, 
+what are we saying now? Out of 46, out of 46,  
+09:22 6 people, 6 know. 6 bought recently. Out of 
+46 or 60 something, no 62 total size, 46.
+09:31 62 total size, this is 46. 
+Out of 46, 6 bought recently.  
+09:36 And 2 are saying they will buy. 
+They will buy again. Again.   Out of the 46, 6 remove, 40 is there, out of the 
+40, 2 more are saying they will buy a replacement.
+09:45 Correct. Either replacement or a second. 
+Alright. The 6 guys basically may have  
+09:52 bought it new. For the first time buyers 
+may have. First time buyers. Correct. Then? Now, let us look at the people who do 
+not have 2-wheelers. Because they are likely  
+10:03 to be our primary market. They are the ones, yeah, 
+they do not have 2-wheelers. They are the first,   first thing you should bought. So, here 
+you can see that about 18 people out of 62.
+10:12 So, 44 plus 18 is 62. 62. So, 18. So, 
+18. Out of 62. Do not have 2-wheelers.  
+10:22 Do not have 2-wheelers. How many of 
+them are interested in buying? 18. So, that we can see will buy.  
+10:31 Oh man, quite a few. So, 9 out of 
+18. 9. So, 50 percent. 50 percent.  
+10:39 Now, we saw that penetration 
+itself is like 60 percent. After the remaining 50 percent, we need to 
+buy. It may not be now. Are you going to  
+10:46 buy now? Good time to buy. What does it buy now? Good time to. We will 
+buy. Okay. Okay. That is what you should see.  
+10:54 This is what we will buy now. So, out of those 9,   7 are saying they will buy now. And is it a good 
+time to buy? Actually, people who are saying,  
+11:09 what are 7? Only 3 are saying. So, at least 
+4 people are saying it is not a good time to  
+11:14 buy a 2-wheeler, but I still have to buy 
+because I may be needing it for my job.
+11:20 For work. Or you know, the guy 
+could be driving for swiggy.  
+11:28 So, 62, so okay, 62 total people have responded of 
+which 18 are saying they do not have 2-wheelers.  
+11:35 After 18, 9 are saying they want to buy. Let us write this down. We have to. Yes, 
+this picture let us write down. Draw the  
+11:43 picture up. So, what did we say? So, 
+what did we say? Total respondents 62.
+11:56 62. Of which,  
+12:05 let me do this.  
+12:13 Do not have 2-wheeler, 18.
+12:20 Of which,   want to buy, want to buy. 9. Not 9, 7. 9, 9. Not 
+a good time to buy 7. No, no, will buy now is,  
+12:41 this is will buy now, will buy, will buy now.
+12:46 7. Will buy now is 7. 7. 7 will buy now. So, 
+which is, as a percentage 7 by 18, 18 for about  
+12:57 40 percent will buy now. Of those who do not have 
+2-wheelers, 40 percent will buy now. Correct.
+13:05 It is good information. And have 2-wheeler  
+13:16 is how much? 44 of which want to buy now. 
+Correct, correct. Two of them want to buy.
+13:25 Of that. Now, there I do not know whether we 
+looked at want to buy now. So, let us do that.  
+13:34 So, cars only.  
+13:42 Here, this is.
+13:49 It is not mutually exclusive, car and 2-wheeler   ownership. No. We will check that. 
+No, probably not. So, out of this,  
+14:02 this is 44, no? This is 44.
+14:07 Now, what do we want? Will buy now. 
+Will buy now. This is will buy now,  
+14:22 no? 2 out of 44. 2 out of 44 will buy now. So,   you have to add those two 
+numbers in some sense to get.
+14:29 Correct, correct. So, we got 2 from here 
+and 7 from there. So, if I copy this.  
+14:39 So, can we, this is a good way to 
+depict this kind of thing is 2 by 2.  
+14:45 So, on one axis you show people who are having 
+2-wheelers, people not having 2-wheelers.  
+14:54 So, this 2 by 2, management 
+made 2 by 2 is a big thing.   Everything has to be depicted by 2 by 2 because 
+it is easy to visualize, easy to understand.
+15:02 So, you have, do not have, do not own,  
+15:12 own. That is the one direction. 
+The other direction you have,   will buy, want buy, will buy. Want 
+buy, will buy. So, you got a 2 by 2.
+15:25 Do not own is how much? Do not own and will 
+not buy. Do not own and will not buy. Do not  
+15:31 own. Do not own is 18. Out of 18, 9 are 
+saying, 7 are saying, will not buy now.
+15:40 We will interpret this as will not buy now.  
+15:46 Will buy now. Correct? So, 18 minus, this is 
+11. 42. And this is 7. This is 7. That is 42.
+16:02 This is 2 and this is 42. So, this is the total, 
+you start up, the whole thing must come to 62. 62.  
+16:12 Yes, correct. 62. So, this split 
+of 62 into 4 boxes goes like this.
+16:18 This is a very good way of showing. Actually, 
+it is very clear. Very clear. Very clear. Now,   this 7 plus 2, 9 is the total number that. And the  
+16:26 ones that we want to go after are these. 
+Correct. But the mechanism of selling  
+16:35 to these guys versus the mechanism of 
+selling to these guys may be different. Different. Two out of. Also, the kind of vehicles  
+16:43 these guys will buy. Because they will 
+probably be more informed about together. Kind of, yes. You will have to upgrade 
+them. Is not it? Maybe you have to buy back.  
+16:51 Something. Upgrade, buy back. Correct. 
+You give them some offer, you give them. Or, you know, my first vehicle was a 
+100cc. Now, I am aspiring to a 200cc. So,  
+17:02 you should ask actually in your 
+survey question, you should ask,   if you own a motorcycle, what is the 
+category of motorcycle you have? You would  
+17:08 like to buy. And what is it you would like 
+to buy? That you have to ask. Is not it? Yes.
+17:13 And you have to finance him for in a way that   basically you will get his 
+putter rail back. Correct. Give him a new one. Correct. For the delta,  
+17:20 you give him a finance and all that. Correct. 
+Car guys do it very well. I do not know whether   two-wheeler guys do it that way. Car guys 
+do it very well. Car guys do it very well.  
+17:30 But for this guy, who does not own but will 
+buy now, the mechanism may be very different.
+17:37 There it may be just pure financing. Financing, he 
+may not know much about two-wheelers. He left to  
+17:44 do education. You tell him about two-wheelers, 
+my age, that. Motorcycle has more mileage.
+17:50 Motorcycle is not so family friendly or whatever. 
+Scooter is very family friendly. Can carry  
+17:55 your stuff. You can lift things, you put things 
+inside. So, many things are beneficial in scooter. Child can stand in the front. 
+Big family can sit there.  
+18:05 It is easy to push around. It is not heavy. Those 
+kind of benefits. But the guy who already has to  
+18:10 let go of all that. No point in telling him all 
+that. No sir, but the fact that he by just by  
+18:15 putting it in this sort of a box, you can now have 
+some of these conversations is very interesting. Very interesting. Yeah, yeah, yeah. Very 
+nice. So, what I like next to do basically  
+18:27 is to understand this two by two itself, 
+but going down a little further. Sure.  
+18:34 Can we generally looking at the whole population,   can we now look at it from the lens of urban 
+and rural? Is there some, so if I do urban.
+18:41 What do you like to do? If I just take urban. Let 
+me. And do the same questions, same two by two I  
+18:47 want to do. Let us see here. So, what do you want? 
+You want me to first filter on urban is it? Yeah,  
+18:52 is the same picture appearing or is it slightly 
+different picture in urban? So, now the same thing  
+19:29 you want to draw, no? Same picture I want to make. So, this is all. All. Yeah. Now, I will just 
+copy this and say urban. Yeah. And we will   clear this out. Yeah, you can do a similar 
+one for rural. Yeah, I might as well.
+19:38 Just have to subtract that from this, so you 
+do not have to do it again. Yeah. Just have  
+19:44 to subtract one from the other. So, now I have 
+filtered on urban. So, first what is the first  
+19:53 thing that we. How many people have two wheelers 
+and how many people do not have two wheelers?   Out of the people who have two wheelers how many 
+want to buy now? First let us remove the blanks.
+20:02 So, if I remove the blanks. That will 
+be 62. No, it will not be enough. It will be 45. 45, let us keep that in 
+mind. Total is 45. So, out of the 45. Oh,  
+20:13 45 urban. 45 urban. I see. Sample is skewed. 
+Well. I thought more people are in rural.
+20:22 More urban people have responded to the survey. 
+Aspirational survey they want to do more urban.
+20:29 Maybe. So, 31 out of. 45 have two wheelers.
+20:35 So, 45, so let 45 which? 45. 
+31 out of 45 people have to do   more urban. 45. 45. 45. 
+45. 45. 45. 45. 45. 45. 45. 45. 45. 45. 45. 45. 45. So, 31 
+out of 45 have two wheelers. So,  
+20:44 what are we saying? We cannot write anything yet. We have to do one more. No, no. We 
+know, no. The sum of that is 31.
+20:50 That is how we know. Oh, okay, 
+okay. And now? We want to buy now.  
+20:58 We will buy now. We will buy now. Yes, 
+sir. We will buy now. Nobody. In urban,  
+21:05 people who have two wheelers do not 
+want to buy a second two wheeler. So, all the 31. Let us write. Put it in 
+the box. We can put it in the box. 0.
+21:13 So, you see, 2 wheeler. This 
+gives us some real insight.   So, urban people who own is 31. 0. 0. 
+Now, let us go to people who do not own.
+21:30 Do not own. How many do not own? 14 
+do not own. Out of those 14. How many  
+21:51 will buy now? 7 will buy. It is a lot. 7 out of 14 will buy. 
+But it is the same. No, what is it?  
+22:02 No, it is less. Do not own 7. 7. So, 
+half, whereas where it was 7 and 11 all.
+22:12 Correct. So, not subtract. I think this is 
+giving some picture about urban and rural.   So, this is. Urban seems to 
+be more. 4. Iffy about buying.
+22:20 0. 11. 2. So, these rural people who do not own. 
+Is that correct, by the way? Let me check. Rural  
+22:32 people who do not own are not going to buy. 
+Looks like. Because they do not have money.   So, probably what has happened is there 
+has been a good crop and the people  
+22:41 who have made money are probably 
+looking to buy a second one maybe. Maybe there are people who are rich can afford,  
+22:48 poor people cannot afford. 
+Divide is much higher. Correct.  
+22:54 So, you see there are only two people from rural 
+areas who are interested in buying two will have. So, you should only concentrate 
+as selling to urban areas. Maybe.  
+23:04 Maybe. Sad way of looking at it, but yeah. 
+Yeah. And even if you are going to rural areas,   go to people who already have 
+two will have to sell to them.
+23:13 Correct. Do not be able to 
+others. Correct. In urban   area on the other hand, you will 
+target the guys who do not own.
+23:18 Yes. Because seven of them you 
+are going to sell. Yes. Yes.   This is really insightful. 
+This is very insightful.
+23:25 Very insightful. It is telling you a lot about 
+strategy. Yes. Now you will go about it. Yes.  
+23:31 Maybe I should just make this bold because this 
+analysis has to be clear. Urban and then rural  
+23:38 also you can write. Yeah. Yeah. So, you can 
+write that sell only to, sell only to urban  
+23:55 market in rural only those who have, target 
+only those who already have two will.
+24:03 See, the point is if they already have two 
+willers, they will be coming for maintenance   and all. Correct. Correct. Yes. They 
+have service station will be there.
+24:10 And that is the way to reach them. When they come,   you try to push another two willers to 
+there. In urban markets. Like that. Target  
+24:21 those who do not own. Do not have to be less.
+24:28 This is our recommendation. This 
+is our recommendation based on   the results. And what would be really nice 
+GV is if, when students do their project.
+24:37 Project. They can do something. They could come   up with some recommendations 
+like this. Similar to this. Yeah. That would be interesting. 
+That would be really nice. Really,  
+24:46 really nice. Really nice. Is not it? Yes, 
+yes. This is just as example recommendation.  
+24:60 Right? Yeah.  
+25:05 Okay. So, I think this is, this is very cool,   man. Now one more thing, one 
+thing we have not looked at all.
+25:13 There are, we saw that there are three categories 
+of, there is scooters, there are some cheaper  
+25:20 motorcycles and there are heavy 250- Correct. 
+100cc motorcycles. Correct. Big motorcycles. Big motorcycles. How many are, how 
+many people out of the people who own,  
+25:28 how many people own which category? That is 
+one piece of information. Okay. We can try   and figure that out. And second is out 
+of the buying intention, what are they  
+25:37 saying? I want to understand whether there is 
+a general trend towards bigger motorcycles. See in cars, this is clearly the 
+case. Yes. Lower end cars are  
+25:45 going out of fashion. People want 
+to buy SUVs. Yes. Is not it? Yes.  
+25:50 What is happening in motorcycles? Are 
+people trying to migrate towards? Sure. Let us see. So, these are the people who own two 
+wheelers. Now, out of that, let us first see.  
+26:08 So, there are totally 62, right, 
+wherever 62 wheelers, right.
+26:13 So, we will do the whole this thing now.  
+26:23 Data, advanced, copy.  
+26:33 Why are we doing it? The only three categories. 
+Yeah, but might as well automate it, no.  
+26:38 Makes life easier for us. I say you 
+want to count. Just count it, count it. Sure, find it.  
+26:58 Some blanks also came, we will remove this. 
+In general, I think this is the right way to  
+27:05 do it because you may actually miss 
+a category if you are not careful. Especially, we have only 100, but if you 
+have 10,000 rows. Now, we want to have  
+27:17 market share. Market share, correct. Market 
+share of existing owners, that is what is it.
+27:26 Of existing owners. Yeah, market share 
+is of existing owners. So, this is count  
+27:51 if.  
+28:06 So, this I should say dollar, dollar.  
+28:28 So, let us now see sum 62. What happened?  
+28:44 C4 to C6 it should be. 44. Because it is 
+why Urban? Because 18 people do not own.
+29:03 This divided by $C$7.  
+29:25 Now, so what are we saying? We are saying 
+that the big bikes is only 5 percent.  
+29:35 No, the small bikes is 5 percent. Which is the 
+big one? Apache is the big bike. Apache is the  
+29:41 big bike. So, big bike is 5 percent. 32 percent 
+is scooters and 64 percent is small bikes.
+29:49 No, no, 64 percent is scooters, active 
+owner is scooters. Oh, sorry, sorry,   64 percent is scooters, 32 percent 
+is small bikes and 5 percent is big  
+29:58 bikes. That is correct. I think 
+that is very true. Intuitively. But I want to understand the people from 
+going forward are moving from scooter to  
+30:03 bikes. Let us ask. And whether they 
+are going from bikes to bigger bikes.  
+30:13 Here we do not need to do buy now or not. Just look at intent to buy only. Not now, 
+we are not interested in the buy now part.  
+30:20 So, we will say count if. Here we look at 
+a different column. This is the column.  
+30:32 BU2 to BU101. But you want to do it 
+only if that guy is Bajaj whatever.
+30:44 That is what you are doing.   Oh, right, right, right. I 
+understand what you are doing.  
+30:53 Correct, no? Count if S, no? There is nothing 
+count if S, no? No, no. Do you want to count if S?  
+30:59 Because you want to count the number of 
+people who have Bajaj city and will say yes.
+31:05 So, I am saying that the fact that, 
+so let me explain to you my logic.  
+31:17 This is what type of to be  
+31:24 there. Oh, there also there is 
+a type of to be there. Yeah,  
+31:29 will buy two wheeler of type. And the 
+fact that this Bajaj city is there,   I am assuming means that he has 
+already answered yes to will buy.
+31:36 Oh, right, right, right. Got it, got it, got it. 
+I did not know that there was, I did not know that   the type was there in that. Yeah, yeah, very nice. 
+That is good, very good. Saves a lot of trouble.  
+31:48 This is what, this is 11 people. 11 people are saying they will buy, but I 
+think some of them are saying will not buy  
+31:56 now. That is why that two people are saying. So, 
+what is the ratio now? Just take the percentage.
+32:04 Same percentage. Similar, no? Do it, do it.  
+32:17 You can just copy this for less. No, because 
+I have used absolute. You used dollar.  
+32:31 Similar, not too much change.  
+32:38 Little bit change is there. So, 
+55 percent. So, the intent to buy,   what is the total? The scooter is 
+losing and the bigger bikes are gaining.
+32:47 Bigger bikes are gaining bigly and the other 
+bikes are not changing that much, 2 to 36. So,  
+32:54 scooter guys are moving to bike, 
+bike guys are going to bigger   bikes. Correct. That is probably what is 
+happening. Possibly what is happening.
+32:59 That is probably what is happening. Now, if 
+I want to show this change in market share,  
+33:07 how would you explain? One thing we can 
+do, of course, we can do bar charts.
+33:13 Chart to bar chart. Now, we 
+can do stack bar charts. Yes,   we can do that. So, let us say I will do this.  
+33:32 And this I do insert.  
+33:43 I should not have picked this right.
+33:49 What is 1, 2, 3? This is, I 
+will. It is doing the other way.  
+34:00 Why? It is correct. The 
+stack bar chart should show.   What is it showing? This is 
+the, this is 1 basically.
+34:13 This it is and we will have to. I do not 
+want to see the stack of 14 and 4. Then,  
+34:19 okay. You want to see 14, 28, 2. That is what 
+you want to do. Then what you have to do is.
+34:25 I want to see 14, 28, 2 stack 
+and then 4, 6. Select data,   we say switch rows to columns. 
+Excel has answers for everything.
+34:37 This you can remove. This we will remove.  
+35:01 So, what does it say? It says. So, of course, 
+these names will have to be, we will have to.  
+35:10 What is 3? No, no. So, this is a data label. 
+We will remove. The 2 and 1. That is this.  
+35:21 See, this blue is actually this 
+Bajaj city, blah, blah, blah.
+35:28 So, we will have to do a little bit of formatting 
+to get this. But why is it doing it like this?   Because you took number. If you have taken 
+percentage and set it on a proper chart.
+35:37 We should do that. Oh, you want to do 
+it like that? Because otherwise you   will not see the change. Sure, sure. I understood.  
+35:58 Copy that.
+36:04 Yeah, you can just stack those two only. You do 
+not need titles. Just take this 2 and stack it.
+36:13 No, no, I just have to. Yeah, 
+good. This is what I wanted to see.  
+36:45 So, now you can see, what you can see? This is 
+not changing much. This is red, you see. Can you  
+36:51 see? Yeah. And the grey one is. We had a line 
+like this. Correct. Grey one is increasing.
+36:57 Actually, I think there is a thing 
+that allows us to draw the line.  
+37:09 Actually, we could have just done this 
+instead of having to compute percentages. 100 percent stacked column would have 
+given us what we wanted. I see. But I  
+37:20 do not think that line thing is there. It is 
+not there in Excel directly. It is there in   some of these professional things. Right. 
+Okay. Okay. All right. Nice. Yeah. Okay.

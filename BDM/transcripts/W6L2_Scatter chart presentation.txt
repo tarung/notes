@@ -1,0 +1,387 @@
+00:00 [Music]
+00:15 so yeah okay
+00:16 i think this revenue looks uh better but
+00:19 can we see both of them together
+00:21 probably after we look at them together
+00:23 we'll be able to answer the question
+00:25 which was asked uh about how do i
+00:27 organize the fc
+00:29 right let's see if if if we can load
+00:32 them together on one graph is it
+00:33 possible
+00:35 you can't do a parallel with pareto you
+00:38 need only one axis so difficult to do
+00:41 two dimensional
+00:42 i guess you can do something you need a
+00:44 three-dimensional picture or something
+00:46 but uh
+00:48 when if you want to try a scatter plot
+00:51 type of thing maybe we have done that we
+00:53 did that scatter plotting of
+00:56 volume on one axis
+01:03 but at least it gives you a distribution
+01:05 of the
+01:06 things on yes
+01:07 yes i think that that should that should
+01:09 i should
+01:11 okay
+01:12 okay okay let's look at let's look at
+01:15 the
+01:16 scatter
+01:19 so
+01:20 again
+01:21 uh this is what we did we basically
+01:24 looked at the
+01:26 the sum of the volume
+01:28 and the sum of the revenue
+01:30 for the 30 skus
+01:33 yes and
+01:35 then what we what we've done is we've
+01:37 plotted the revenue on the y-axis and
+01:40 the volume on the x-axis
+01:42 okay
+01:43 uh so the blue dots are basically
+01:47 skus
+01:48 yeah the orange plots are the lifestyle
+01:51 skus and the gray dots of the
+01:56 yes this looks interesting but i think
+01:58 there is something which is happening
+01:59 here uh all
+02:02 barring the three of the
+02:04 highest uh volume skus right one from
+02:07 each vo
+02:09 right is getting aggregated in one
+02:11 corner of the graph itself so
+02:13 maybe
+02:18 we have a scale
+02:19 we have a scale problem because one item
+02:21 in each of these squares is
+02:23 excuse the scale quite dramatically
+02:25 right yeah outlets
+02:30 how it looks
+02:32 can we do that
+02:34 the outlier so do we want to remove the
+02:37 outlier and
+02:38 examine what is remaining i mean does it
+02:41 make sense okay
+02:42 yeah okay okay
+02:44 let let me let me do that and come back
+02:48 so uh this is what i did uh
+02:51 jv and um i removed
+02:54 the top uh
+02:56 top setting skus in each of the
+03:00 each of the business lines
+03:02 and now actually a little bit better
+03:04 spread i think yeah this looks much much
+03:07 more evenly sprayed
+03:09 let's uh i think this is more useful for
+03:12 uh answering the question which was
+03:13 asked to us by
+03:15 mr shastri right uh he wanted to
+03:17 organize as uh fc in the best possible
+03:20 way so let's say
+03:22 draw a couple of lines let's just start
+03:24 with a vertical line between let's say
+03:26 somewhere between 200 and 300 volume
+03:29 this will definitely
+03:31 be
+03:33 which are moving fast right let's say
+03:35 anything about 250 is what we'll call a
+03:37 fast moving sq these are the sql so
+03:41 let's draw it here
+03:43 yeah yeah yeah that should be good
+03:47 something like this yes
+03:49 so ideally okay it is a fast mover so i
+03:52 should store this
+03:54 as close to the dock as close to the
+03:57 processing area as possible within my fc
+03:59 right so i can offer
+04:01 better speed i'll have much lesser
+04:03 efforts for picking so that's a very
+04:05 good card
+04:06 but um
+04:08 look at it i can see a clear cut
+04:10 differentiation between the skews let's
+04:12 say which are about um i think one thing
+04:15 will help if you put commas there
+04:18 but okay if i draw a horizontal line
+04:20 also somewhere between 10 and 20
+04:23 then that will give me i think all of
+04:25 them are mobiles right up there
+04:28 yes that it does seem like that
+04:30 yeah so all of them are actually high
+04:32 value items right so i need the special
+04:35 type of storage i need to keep them in
+04:37 lock and key or a caged pallet or
+04:39 something which which will give me more
+04:41 security in terms of their storage
+04:44 right
+04:45 yes yeah once on the right needs a
+04:47 secure storage near dock but but once on
+04:50 left we'll need probably secured store
+04:52 but it can be anywhere if it happens to
+04:54 be close and fine right but which are uh
+04:58 once on left but bottom corner the
+05:00 fourth quadrant that we have third
+05:01 quadrant that we have
+05:03 um they can be scattered anywhere what
+05:06 are you going too fast for me
+05:08 just let's go slowly so what you're
+05:10 saying is that i've drawn a vertical
+05:11 line around that 250 line right yeah now
+05:15 what are you saying the ones the skus
+05:17 which lie to the right of the line are
+05:19 high volume escapes that's right
+05:21 so what did you say we should do for
+05:23 them so ideally they should be close to
+05:25 the processing area they should be
+05:27 closer to the
+05:29 customer
+05:31 no within fc i'll store multiple uh sqs
+05:35 everywhere right okay
+05:37 now the fast movers if i store closer to
+05:39 processing area processing areas where i
+05:42 pick and pack and dispatch to customer
+05:45 oh there's something else called
+05:46 processing
+05:48 yes so
+05:49 so when you order right
+05:52 naked mobile phone i will not dispatch
+05:53 that to customer right i'll put it in a
+05:55 box i'll put some you will put it in the
+05:57 box and all that yeah okay i'll put some
+05:59 bubble wrap around it put it in the bag
+06:01 let it go all right customer right
+06:04 that is the packing area
+06:06 where is usually where is that so if you
+06:08 say terminal earlier there will be one
+06:09 in there
+06:09 no no each fc will have it each each c
+06:12 will have it has a storage zone and
+06:14 there is a processing zone processing
+06:16 area
+06:17 so inside oh i understand so inside the
+06:20 fc you're saying yes you will store
+06:22 these skus
+06:24 closer to the place where the packing is
+06:25 going on correct you know which is the
+06:28 best fc i can give you example about
+06:30 ah
+06:31 is your kitchen
+06:39 food storage there is a raw material
+06:41 storage right oh
+06:43 right there will be nice
+06:46 something nearby everything right but
+06:48 the processing area is where your
+06:50 platform is processing area is where
+06:52 your stoves are
+06:54 right
+06:55 like that so you're saying that tracking
+06:57 is being done inside the fc yeah i need
+07:00 to store
+07:05 those sku's
+07:07 which are moving in very high volume you
+07:09 want to keep them closer to your uh
+07:12 where they do the packing correct so
+07:14 what is close to your stove is your salt
+07:16 and uh your uh right tata and stuff
+07:19 right yeah yeah yeah yeah the closest to
+07:21 the uh
+07:23 correct because that is used most often
+07:26 right
+07:27 so this vertical line has helped us to
+07:28 understand how to organize the sku's
+07:31 inside the fce inside the fc yeah the
+07:34 ones to the right will be closer to
+07:35 packing area and the ones to the left
+07:36 will be swollen here correct
+07:40 yeah now you draw another line didn't
+07:42 matter i was talking another
+07:56 precious costly
+07:59 okay right or they need special storage
+08:02 essentially right for example
+08:04 even if i use cheese every single day in
+08:07 my sandwich i will not keep cheese next
+08:09 to my stove
+08:10 right
+08:11 i still keep it in refrigerator right
+08:13 now yeah
+08:14 it's a lock-in key
+08:16 for for that matter mobile
+08:19 however small cost or however big it is
+08:23 and still keep it in the area which is
+08:24 secure which is locked in your area
+08:26 because even if a single mobile is lost
+08:29 it's a huge financial loss to me right
+08:32 right so high value items things which
+08:34 is generating a lot of revenue
+08:37 you want to put those skus in a secured
+08:40 zone in a secured place
+08:42 correct
+08:43 so
+08:44 it may not be close to the packing area
+08:45 actually
+08:47 may happen to be close to packing area
+08:49 may be close to the tracking we don't it
+08:51 will be dictated by okay so if i look at
+08:53 the grid again let's say there is
+08:54 quadrant one two three four
+08:56 right quadrant one i'll be secure but
+08:59 anywhere
+09:03 some text
+09:04 yeah that is yeah we need abcd or some
+09:07 something like that so that we can refer
+09:08 to that
+09:09 so i will call this
+09:12 a
+09:13 okay
+09:15 i will call this
+09:20 b maybe
+09:21 yeah
+09:23 and call this
+09:29 p
+09:31 all right
+09:32 and i will call
+09:34 this
+09:36 b
+09:37 okay
+09:38 okay let's talk these quadrants now now
+09:40 we already said something about b and c
+09:42 together that will be close to packing
+09:44 area yeah yeah so b is that something
+09:46 about a and b together secure area
+09:48 no a and b is secured area b and c
+09:50 closer to packing area all right it
+09:52 happens to be the stepchild that can be
+09:54 anywhere
+09:57 b can be anywhere yeah b we don't care
+10:03 uh maybe
+10:05 just need to move c little bit i think
+10:06 it's not coming clear where where the
+10:08 currents are
+10:11 yeah this is better
+10:14 okay now uh
+10:16 now umkar do you want to explain what is
+10:18 abcd yes we will do that again
+10:23 all right so now that we have drawn the
+10:25 lines let's name this quadrants abcd so
+10:28 that we can refer to them now let's look
+10:30 at this so
+10:32 the skews which fall on the right side
+10:35 of vertical line which are in quadrant b
+10:37 and c
+10:38 are all the skews which are moving
+10:40 faster right
+10:42 so if i store them within within a
+10:45 fulfillment center i like to store them
+10:48 close to processing area now if you want
+10:50 to ask what is processing area
+10:52 essentially that is the process that is
+10:53 the area
+10:55 where your order will be packed it will
+10:57 be bubble trapped and packed in a box or
+10:59 a or a polythene bag and it will be
+11:02 dispatched for your destination right
+11:05 so the fc will be divided into two parts
+11:07 one is which is storage area one which
+11:09 is processing area
+11:11 now
+11:12 orders which are faster need to be close
+11:14 to processing area however if i look
+11:17 high value items let's say whatever is
+11:19 above the horizontal line
+11:21 all these items are high value items you
+11:23 are talking about uh maybe
+11:25 15 000 plus
+11:27 cost for a single item so i don't want
+11:28 to use them
+11:30 right so ideally what i would like to do
+11:32 is i'd like to put them in a secured
+11:33 storage now secured
+11:36 could be a mirror with a lock and key or
+11:38 it could be a cage pallet it could be
+11:39 any form of
+11:40 security
+11:42 however i would like to keep them safe
+11:46 hence if i want to organize the fc which
+11:48 mr shasti was asking
+11:50 i'll rather keep items in quadrant c
+11:54 very close to
+11:55 dock very close to processing area
+11:60 items in quadrant b very close to
+12:02 processing area again but in a secured
+12:04 storage
+12:05 quadrant a i like to keep them secured
+12:07 but it could be anywhere in fc and items
+12:10 in d will be literally near fc in fc
+12:13 wherever i have space now
+12:15 i cannot keep constraint for all so that
+12:17 these are are the fillers they can form
+12:19 anywhere they can fit anywhere so this
+12:22 is typically how i organize my fc so
+12:25 that my cost of picking
+12:27 is least so that the person will not
+12:29 have to travel all the way in the depth
+12:31 of fc to pick up something which is
+12:33 required more frequently
+12:35 and i don't want many people to move
+12:36 around that that
+12:39 area again and again
+12:40 and hence i i organize my fulfillment
+12:43 center in this way so that i get maximum
+12:46 cost efficiency from picking perspective
+12:48 which i'll pass on to my customers for
+12:50 best price
+12:53 it's very interesting i think
+12:54 yeah this is i mean we didn't expect
+12:56 that we will generate so much insight
+12:58 from the scatter plot but it's nice very
+13:00 nice
+13:02 something very important
+13:05 that's the story part
+13:06 why yeah
+13:08 that's the content of the day if they
+13:09 don't
+13:10 imply something on ground doing data
+13:12 analysis of know yours no use yeah
+13:15 [Music]
+13:17 so omkar you also said something that
+13:19 struck me you said always put commas in
+13:22 these numbers yes absolutely that
+13:24 readability is very important i keep on
+13:27 saying this software happen my
+13:30 consultant in me always
+13:33 bothers
+13:35 myself about it
+13:36 i just use currency
+13:38 wherever your data is there just use
+13:40 currency format
+13:42 uh yes i will just make this so i
+13:46 take this and
+13:49 uh you don't need to change it here just
+13:51 go to the source data
+13:53 okay okay
+13:57 and uh this is our so yeah
+13:59 yeah yeah
+14:00 here just this and make a general
+14:04 currency with zero decimals
+14:08 i don't know oh i thought so
+14:12 currency is coming with ruby symbol but
+14:14 i that that's fine that should be okay
+14:16 that's okay
+14:18 and this i will now
+14:21 take this and i will paint this
+14:23 here
+14:24 as well as here
+14:26 yeah
+14:28 okay
+14:31 [Music]
+14:38 uh readability right i can see
+14:40 immediately its number is one crore
+14:45 right
+14:47 so
+14:48 otherwise i'll have to stop and count
+14:50 zeros and counting zeros is not easy
+14:54 you make mistakes
+14:55 more than that you make mistakes yes
+14:58 yeah

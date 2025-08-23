@@ -1,0 +1,580 @@
+00:00 [Music]
+00:16 uh
+00:18 you know you spoke about some of this
+00:20 but uh the other
+00:23 interesting question i think is you know
+00:25 kovit has sort of dominated the last 15
+00:28 months in terms of news right
+00:31 so how did and we spent the e-commerce
+00:34 case actually covered
+00:35 sort of
+00:37 increased demand for e-commerce uh how
+00:40 how has cobit affected the automotive
+00:43 sector
+00:45 yes um that is uh that is a great
+00:47 question and actually it has been um
+00:50 quite uh
+00:51 a major
+00:53 impact for the industry right negative
+00:55 impact um due to coverage so if you
+00:57 looked at how it developed right um
+00:59 right around the end of march
+01:02 most of the activity in the country shut
+01:04 down with respect to manufacturing and
+01:06 there was a migration of labor in april
+01:08 and may of 2020 away from the
+01:11 manufacturing clusters and the cities
+01:14 back to the um their homes and and
+01:17 so on so so there were multiple impacts
+01:20 due to this one was the disposable
+01:22 income
+01:24 of people to actually buy automobiles
+01:26 like new cars etc and and the
+01:28 willingness to buy right even if you
+01:30 have the income of the
+01:31 money to buy but the
+01:33 uh
+01:34 the the
+01:35 you know the demand also depends on the
+01:37 willingness to buy and all of that
+01:39 dropped very sharply in the first half
+01:41 of the financial year 2021. so you see
+01:44 the demand for the finished products
+01:46 dipped a lot um and that then meant that
+01:49 there was inventory lying in different
+01:51 parts of the valley chain another thing
+01:53 that happened was because of the
+01:54 migration of the labor away from the
+01:56 manufacturing clusters such as pune or
+01:58 chennai and so on
+01:60 uh even if the companies could even when
+02:02 they could reopen their factories they
+02:04 found it very difficult to actually get
+02:06 this labor back right and then get back
+02:09 to the full fledged kind of supply and
+02:12 uh in the second half of the year things
+02:14 actually started to normalize and you
+02:16 started to see production sort of pick
+02:18 up and you even saw a real sharp spike
+02:21 because there was some makeup pile right
+02:23 people who couldn't buy or go out for
+02:25 long they actually went and got more
+02:27 more cars around
+02:29 the festive season and so on so so you
+02:31 see a very turbulent year in 2020 for
+02:34 the
+02:35 entire industry and then again towards
+02:37 the end of the financial year we had the
+02:38 second wave starting to come up and that
+02:41 again was a dent on the industry so you
+02:44 will see that and then even the
+02:45 suppliers such as asps had to go through
+02:48 a similar
+02:50 sort of ups and downs uh as you will see
+02:52 so in the case study you will actually
+02:54 see
+02:55 two years because we want to illustrate
+02:56 all these phenomena right from
+02:59 april 1st 2019 you will see the data for
+03:02 24 months all the way till uh may march
+03:05 31st 2021
+03:08 and so in these two years you'll see
+03:10 both the bs4 to be a sixth transition in
+03:12 the first first year you'll see that the
+03:14 second year you'll see all the impact
+03:16 that was caused
+03:20 uh gb would the students know what is
+03:22 financial or should we explain it here
+03:25 worth explaining i think what is the
+03:27 financial year what's the difference
+03:28 between calendar year and financially
+03:31 yeah that's uh that's a great point so
+03:32 india traditionally has had a financial
+03:36 year
+03:37 and that's also true for our government
+03:38 our tax filings and everything that
+03:40 starts on april 1st of one year and goes
+03:43 to march 31st next year so when when we
+03:47 talk about uh financial year 2021 it
+03:50 means the period of time from april 1st
+03:53 2020 to march 31st 2021.
+03:56 sometimes in short it's just called
+03:58 financial year 21 which is a little bit
+04:00 illogical but because it's only the
+04:03 three years have come in 2021 but
+04:05 usually we always go by
+04:07 the the finishing year is more important
+04:09 so anyway we will for simplicity we'll
+04:11 talk about this 20 20 21 but if you look
+04:14 at the calendar year that's what a lot
+04:16 of companies in the western world use
+04:19 it's just basically january 1st to
+04:21 december 31st of each year right so
+04:24 calendar year 2020 is january 1 202
+04:27 december 31 2020
+04:29 and financial year uh 20
+04:32 hyphen 21 is april 1st 2020 to march
+04:36 31st 2021.
+04:39 okay so
+04:41 may also uh i know you alluded to this
+04:44 uh shiv but
+04:46 this bs4 bs6 of course i've seen some of
+04:49 it as an example on
+04:51 buses it says uh very often bs4
+04:54 compliant or trucks will save years for
+04:56 compliance
+04:57 but it'd be useful i think to explain to
+04:60 our students what is what exactly is
+05:02 believed for obvious speaks
+05:05 yes um that is a fantastic
+05:08 question um so so as you as you know um
+05:12 if you look at um a few years before
+05:15 right we have some of the worst
+05:16 pollution
+05:17 uh in places like delhi um that has ever
+05:20 been recorded and even going back 10
+05:22 years we we saw that pollution in the
+05:24 country was increasing as it was getting
+05:26 more urbanized there was more
+05:27 construction activity there was other
+05:30 activities such as
+05:31 you know how the crops are dispositioned
+05:33 there's activity around
+05:36 you know automobiles and so on so the
+05:38 government decided to improve the
+05:40 emission norm so emission norms are how
+05:42 much emission
+05:44 uh an automobile is allowed to have
+05:46 right so that that's what it guides they
+05:48 want to increase emission norms step by
+05:51 step and quickly catch up with the uh
+05:53 what's prevailing in some of the
+05:55 modern
+05:56 advanced countries like what is in
+05:58 western europe and and they have done a
+06:00 remarkable job in quickly
+06:02 uh ushering in bs6 so what if you look
+06:06 at the diesel that is where you see the
+06:08 stock differences in the allowed
+06:09 emission norms for bs4 to be a six right
+06:13 so if you look at um that table that
+06:15 talks about uh the diesel engines under
+06:17 the ps4
+06:19 regime they were allowed to have
+06:22 hydrocarbons and
+06:24 nox emissions up to 300 milligrams per
+06:27 kilometer
+06:28 and in bf6
+06:29 they can only have up to 170 milligrams
+06:32 of 43 reduction if you look at nox
+06:36 itself which is nitrous oxide which is a
+06:37 very poisonous gas that comes from the
+06:40 emissions of the cars right
+06:42 that's the stock decrease that has been
+06:44 mandated so from 250
+06:47 milligrams a kilometer
+06:51 it was reduced only up to 80 milligrams
+06:53 of kilometers allowed in the ps6
+06:56 cars or trucks right
+06:58 cars basically and then particulate
+07:01 matter is another one
+07:03 again from 25 milligrams per kilometer
+07:06 that was possible are allowed in the ps4
+07:09 vehicles
+07:10 um it was starkly reduced 82
+07:13 to 4.5 milligrams only allowed per
+07:16 kilometer if you see in the petrol the
+07:18 the changes are not that
+07:20 that big because um already petrol
+07:23 engines were less in nox and pm uh
+07:27 what's remarkable is if you see the bs6
+07:30 right the diesel engines are almost as
+07:33 good as petrol when it comes to
+07:35 knocks
+07:36 and particulate matters so so this is
+07:39 the this is the basis of the transition
+07:41 from bs4 to bs6
+07:44 and this sort of helps me
+07:47 understand and appreciate if i remember
+07:50 10 years ago you know some of these
+07:52 trucks and buses
+07:54 used to give out so much black smoke
+07:56 and now uh in most of the diesel cars
+07:59 you can't really see that much smoke
+08:01 coming out right i think it's because
+08:04 a lot of that has been cleaned up
+08:08 is that is that correct
+08:10 yes absolutely there is a number of
+08:11 mechanisms that have been incorporated
+08:13 in the bs-6 vehicles
+08:16 there is a nox trap which is a way in
+08:19 which the nitrous excess nitrous oxide
+08:21 is actually burnt off
+08:24 when the vehicle is actually going at a
+08:25 high speed or a good steady speed um and
+08:29 there's also urea treatment that happens
+08:31 to the emissions
+08:32 that reduces some of the emissions so
+08:35 the technology in the bs6 diesel engines
+08:38 is actually quite remarkable you can see
+08:40 the
+08:41 the drastic reduction that we see in
+08:44 knox and pm um and um and so
+08:48 it has been a little bit of a rough
+08:50 change for the industry initially
+08:51 because they have to then uh
+08:54 change a number of things with the
+08:55 engine the transmission and the
+08:56 production
+08:58 treatment of the exhaust treatment
+08:60 systems in the car
+09:01 but now it is bearing fruit because
+09:05 now i think people can actually feel
+09:06 less guilty about driving
+09:08 diesel vehicles i myself do when i drive
+09:11 my diesel suv but uh yes it is it did
+09:15 cause some disruption when the
+09:16 transition was going on but in the end
+09:18 we have much cleaner vehicles um today
+09:21 uh it's almost to the point that if you
+09:23 look at the overall composition of what
+09:25 the diesel does versus the petrol dust
+09:27 it's
+09:29 even in the carbon monoxide the diesel
+09:31 was always more efficient because the
+09:33 efficiency of the diesel engine it
+09:35 produced less carbon monoxide per
+09:38 kilometer so if you look at per
+09:39 kilometer
+09:41 in almost everything except hydrocarbon
+09:43 uh diesel is actually almost as good as
+09:45 petrol or better in some areas
+09:48 very very interesting
+09:51 we already i think we spoke about this
+09:54 right chief
+09:55 yes
+09:58 okay so
+10:00 uh
+10:01 you know
+10:02 one of the things you mentioned and that
+10:04 sort of was overwhelming for me is the
+10:06 number of departments uh
+10:09 you know
+10:11 in a factory
+10:13 so
+10:14 maybe
+10:15 you can explain to us how do all of
+10:17 these departments work together you know
+10:19 what are the kinds of
+10:20 uh
+10:22 systems what are the kind of processes
+10:24 uh
+10:25 who holds all of this together
+10:28 yeah that's a fantastic question and
+10:30 this slide should uh should help us um
+10:33 to sort of talk through that right so if
+10:35 you if you look at um
+10:37 uh earlier we talked about how planning
+10:39 was so important in the in this industry
+10:41 or in almost every manufacturing
+10:43 industry it is really really important
+10:45 and the way planning works is that you
+10:47 want to make sure the right amount of
+10:49 resources are available at the right
+10:51 time
+10:53 to enable the production
+10:55 of the product that you're making right
+10:57 and when you talk about resources you
+10:59 know manufacturing industry has multiple
+11:01 types of resources there is material
+11:03 resources that means you have to have
+11:05 the raw materials that are available to
+11:07 start the production process or the or
+11:09 the semi-finished products
+11:11 available to start the next stage of the
+11:12 production process there is human
+11:14 resources which is about the the
+11:17 the people that are required to operate
+11:19 the the machine lines and so on there is
+11:22 financial resources which means you have
+11:23 to have the cash to actually pay the
+11:25 supplier to get the product and so on um
+11:29 and and and so on so all of these
+11:31 resources have to be planned
+11:33 so that the right amount of resources
+11:35 available so if you
+11:36 if we spend too much to acquire too many
+11:39 resources then your money is locked up
+11:41 right and essentially that is good but
+11:43 if you have two less resources then you
+11:46 cannot do a particular step in that
+11:48 production and so
+11:50 all of the other resources will lie
+11:52 ideal right
+11:53 like it's a waste right you can't
+11:54 actually create the product and ship it
+11:56 to the customer
+11:57 so the whole planning process is uh is
+11:60 around making sure the right amount of
+12:02 resources are available at the right
+12:03 time and if you want to really do that
+12:06 well
+12:07 you have to go top down right so that's
+12:09 what this whole
+12:11 slide is showing so you have to plan at
+12:13 a strategic level
+12:15 year on year what is the this is going
+12:17 to do so for example if you have to
+12:19 create
+12:20 if you have if you think that in two
+12:21 years your demand will be twice what you
+12:23 have today right the number of products
+12:26 your customer want is going to be twice
+12:28 then you may need to set up a new
+12:29 factory so those are called long-range
+12:32 planning decisions that's the strategic
+12:34 business plan that's at the top right so
+12:36 the ceo the cfo the ceo of the company
+12:40 or means the heads of different parts of
+12:42 the company may sit together and say
+12:44 let's create a strategic business plan
+12:46 that says overall what is going to be
+12:48 our products where is it going to go
+12:51 we need
+12:52 from there
+12:53 very quickly you have to come to what
+12:54 happens month by month within a year
+12:57 right so once i know that 2022 is going
+12:59 to be strategically i don't know 1
+13:01 million units of product that i need to
+13:03 make i need to then say
+13:05 what do i need to make in january
+13:06 february march and so on because there
+13:08 could be some seasonality as the festive
+13:10 season comes a few months before that i
+13:13 may need to make more so that my
+13:15 end uh
+13:17 my customers were then creating products
+13:19 for the end customer is able to make
+13:21 more in that time so that is what
+13:24 happens in the sales and operations plan
+13:27 so the sales and operation plan is the
+13:29 one that marries the sales plan with the
+13:31 production problem at a high level so
+13:34 the sales guys come and say look i can
+13:36 sell
+13:37 uh one and a half million not one
+13:38 billion next year
+13:41 then the production guys have to ramp up
+13:42 for that right so the sales and
+13:44 production people have to sit together
+13:46 and say okay what is realistically
+13:48 possible that i have to plan month by
+13:50 month which is basically sales and
+13:52 operations plan so usually you'll have
+13:53 the same set there you'll have the
+13:55 production head there you'll have the
+13:57 financing there in that
+13:59 planning phase
+14:00 now we may do that for 2022 today right
+14:04 but when i get into 2022 there are going
+14:06 to be things that happen month by month
+14:08 that is going to change my outlook let's
+14:11 say the comic completely vanishes very
+14:13 positive scenario right and then
+14:15 everybody wants to buy and people are
+14:17 out there wanting to buy lots of new
+14:19 cars next year now that i may not have
+14:22 forecast i might have said one and a
+14:23 half million parts but when i actually
+14:26 come there i find that it's even more
+14:28 than that or less than that now i have
+14:30 to do month by month planning as i get
+14:32 close to the month right that is the
+14:34 master production trigger so that says
+14:37 very
+14:38 very close by uh next two three months
+14:41 what is going to be my production
+14:42 schedule how much capacity do i need how
+14:45 much materials i need etcetera that's
+14:47 month by month
+14:48 so that's again done usually by the
+14:50 production head
+14:52 the sales head and so on and then you
+14:54 have
+14:55 the material requirement plan which is
+14:57 almost on a weekly basis
+14:59 and sometimes it's even run on a daily
+15:01 basis to say okay i know how much i need
+15:04 to make this week
+15:05 i know how much labor i have
+15:07 how much material i have i know how much
+15:09 raw material and
+15:11 work in progress i have and i know how
+15:13 much i need to make this week
+15:16 let me now run
+15:18 a routine or a program to actually
+15:21 actually spit out exactly how much you
+15:23 need to make
+15:25 every single day of this week right so
+15:27 that's a material requirement plan and
+15:29 also it will spit out how much you need
+15:30 to order
+15:31 uh with your supplier for some of your
+15:33 raw materials
+15:35 similar to that is the capacity
+15:36 requirement plan so both mrp and crp are
+15:40 mostly by the production head the human
+15:42 resources head the procurement head and
+15:45 so on because they are trying to figure
+15:46 out how much i need to make on a shift
+15:49 day by day kind of basis and how much
+15:51 capacity i have for that so the capacity
+15:53 requirement plan also says i might
+15:55 actually need to get more contract labor
+15:58 or i might need to send out some parts
+15:60 to a contract supplier because i don't
+16:02 have capacity this week so those things
+16:04 happen in the capacity requirement plan
+16:06 and then finally on a shift-by-shift
+16:08 basis a shift is actually eight usually
+16:11 eight hours of production so many
+16:13 factories in this case ace runs three
+16:15 shifts so they run a morning shift uh an
+16:18 evening shift and a night shift and on
+16:20 that particular shift you have to decide
+16:22 exactly which machines are going to be
+16:24 loaded which machines are going to go
+16:26 under maintenance how much product do i
+16:28 need to make in machine x and why and
+16:31 how much labor do i assign to that
+16:33 machine so that's a detailed production
+16:35 schedule
+16:37 and and production activity control then
+16:39 is controlling that chevron it's making
+16:41 sure that what you actually plan to make
+16:43 that shift you did make is it efficient
+16:45 enough do you need to mean do you need
+16:47 proactive maintenance to make sure that
+16:49 the machine is running better next shift
+16:51 and so on so that comes now to uh that
+16:55 and then the purchasing plan ultimately
+16:56 which is managed by purchasing and
+16:58 finance is uh is aligned with the mrp
+17:01 material requirement plan and just
+17:03 talking about how much do i order today
+17:05 tomorrow and so on with my suppliers so
+17:08 you can see the whole thing is coming
+17:09 from multiple years to multiple months
+17:12 to multiple weeks to multiple
+17:14 days to multiple shifts and to one shift
+17:17 and then machines within that shift kind
+17:19 of thing so that's why the time phase it
+17:22 comes from uh top down it comes from a
+17:25 wide time gap down to a narrow time gap
+17:27 as we go through the planning process
+17:32 so so as you go down this uh down the
+17:36 spot you're basically paying attention
+17:38 to more and more details is that right
+17:41 yes absolutely you're getting more
+17:43 detail within a smaller time bucket
+17:46 you have more information on what is
+17:48 actually happening and so you can be
+17:50 more granular in your plan
+17:53 and that from our course perspective
+17:55 basically means more and more data is
+17:57 being generated more and more data has
+17:59 been captured and
+18:01 more work for us to do in terms of
+18:03 analysis right
+18:04 absolutely
+18:05 yeah
+18:06 okay
+18:07 yeah makes sense
+18:13 okay so this team's uh
+18:17 can you can you just help us understand
+18:19 what this is
+18:21 yes um so um this is what you'll see a
+18:25 lot of the data in your spreadsheets is
+18:26 around this picture so you can use this
+18:28 picture as a backup reference as you go
+18:31 through some of this data you will you
+18:33 will keep looking at this picture many
+18:34 times um what this is is called a bill
+18:37 of materials so so it is not a bill that
+18:40 you pay in a restaurant or whatever it's
+18:42 it's a term that's the production
+18:43 industry is always used to denote
+18:46 how the structure of the tree structure
+18:49 of the product is made up of so as a
+18:52 company what i'm selling to my customer
+18:54 is at the top right they are called
+18:55 finished products so i am selling 10
+18:58 different gear assemblies and this slide
+19:00 shows uh
+19:02 five of them that is actually full time
+19:04 it won't be fitting into a single slide
+19:07 but
+19:08 those are called the finished products
+19:09 at the top right those are things that
+19:10 we sell to the customer now to make uh
+19:13 gear assembly two for example i actually
+19:16 need a
+19:17 sub so these these are the finished
+19:20 products right these
+19:22 yes those are the finished products gear
+19:24 assembly two three four five six there's
+19:26 also one seven eight nine and ten which
+19:29 is not there in this picture but those
+19:31 are the finished product then we should
+19:34 talk about sub assemblies a sum assembly
+19:36 is something that's used
+19:39 at the next level of the finished
+19:41 product so for example gear assemblies 2
+19:43 is made of two
+19:44 gears
+19:45 gear 2a and 2b so as you saw that
+19:49 picture two of these gears have to be
+19:50 put together to make gear assembly too
+19:52 so these individual gears are called
+19:55 sometimes they're called semi-finished
+19:56 products sometimes i call work in
+19:58 progress sometimes they are called
+20:01 components and so on
+20:03 but you can you can imagine right now to
+20:05 make ear to a i actually start with a
+20:09 raw material which is at the bottom
+20:10 layer of this or those are called the
+20:12 raw materials um so the blank 0 0 1 is
+20:16 what is used to make gear 2a
+20:19 blank zero zero two is used to make here
+20:21 two b
+20:22 and now these two gears are together
+20:24 making nearest and weight two so this
+20:26 whole structure which is going it's a
+20:28 hierarchical structure is called bill of
+20:30 materials so when you this is very
+20:32 simple for me because i'm only making
+20:34 gear assembly but think about the car
+20:37 manufacturer look at think about their
+20:38 bill of material right if you if you
+20:40 think of a finished
+20:42 product which is a finished honda city
+20:44 car for example the bill of material if
+20:47 you keep breaking it down it will have
+20:49 probably
+20:50 50 to 60 levels right or a very large
+20:54 number of levels because at the top
+20:55 level you'll say car and then engine and
+20:58 transmission and so on and then within
+20:59 engine you could have multiple
+21:02 sub assemblies and then within that
+21:05 multiple uh
+21:06 products and so on so so if you go all
+21:09 the way across the value chain it will
+21:10 have a large number of layers
+21:14 so even if i'm using a simple screw
+21:18 it would be there in the bill of
+21:19 materials yes
+21:21 absolutely yeah
+21:24 okay so that's a lot of detail

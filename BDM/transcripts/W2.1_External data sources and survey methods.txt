@@ -1,0 +1,551 @@
+00:00 Start of segment.  
+00:17 In this segment, we are going to be discussing   external data sources. Where do you get 
+data from, external data from that you can  
+00:29 use to analyze the various things that 
+we discuss in the economic models. So,  
+00:40 quick relook at what we discussed in the economic 
+model thing, we said basically that there are  
+00:47 firms and there are households. We divide actually 
+all the entities, business, the activities that  
+00:55 are going on, economic activities that are going 
+on into firms on one side and households on the   other side. So, households are consumers, they 
+consume and the firms basically either produce  
+01:08 or they trade or they store or they transport 
+or they manage finance or something like that.
+01:13 So, all those activities are going on 
+inside firms, whereas the consumption   activities are happening inside the households 
+and the interaction between the firms and the  
+01:23 households are taking place in one direction, 
+which means when the firms sell products and   services to households, that interaction is taking 
+place through the product markets and the other  
+01:31 side where the households are providing labour, 
+capital or land to the firms that direction is  
+01:38 happening through the resource markets. So, that 
+is what we said is the basic economic model. Now,  
+01:46 where exactly does data come into 
+this? Where do you get data from? So,  
+01:53 first place to look for, we said also that the 
+government has a role to play in all this because  
+01:60 they collect taxes and provide some public 
+goods and incentives or transfers and so on.   But the government also has a much bigger role 
+to play, which is in terms of gathering data.
+02:10 So, government provides information. This is 
+a very, very important role of the government.   So, let us look at some basic sources of data 
+that come from the government. The first,  
+02:22 there are some sources of data that the government 
+provides, which are infrequent, which comes once  
+02:32 like in the case of census, it comes once in 
+10 years. But so the last census was in 2011.
+02:42 In fact, the 2021 census could not be 
+held because of COVID. But we have been  
+02:48 having one census every 10 years, ever 
+since 1950s. And the census basically is  
+02:58 comprehensive. Comprehensive means every 
+single household in India is covered. So,  
+03:04 they go knocking on everybody's 
+house and collect data. So, this is not sampling. This is  
+03:11 complete data capture of every single household 
+in the country. So, that is called economic,  
+03:19 that is called census. Similarly, there is a 
+census on this side. This is for households. So, census is done by households. Similarly, 
+there is an economic census of firms, small firms,  
+03:28 big firms, all kinds of firms. And this 
+economic census again is comprehensive,  
+03:33 which means every single firm is 
+covered. So, whereas the census is,  
+03:39 census by definition means 
+that you cover everybody.   Therefore, it requires a lot of resources 
+and amount of time and money and all that.
+03:47 So, it is done very infrequently. So, census is 
+done by 10 years. But there are more frequent   things done. For example, there is a national 
+sample survey that is done more frequently.  
+03:58 And there is a national, 
+there is a household consumer. So, national sample survey, we have had 72 
+of them in the countries in Singapore. And  
+04:07 there is a household consumer expenditure survey 
+that is done on the household side. Similarly,   there is an annual survey of industries, 
+annual means every year. There is a survey  
+04:16 of industries done every year, which covers 
+firms. So, this is a high frequency because   it is more, when we say high frequency, 
+it basically means relative to census.
+04:26 Census once is 10 years, whereas the 
+annual survey of industry is annual. Here,  
+04:32 this is 10 years, this might be more often. 
+So, you are doing it more often. Of course,   we will discuss that there are private sources of 
+information that are even more faster than this,  
+04:42 that means more frequency than this. So, 
+even try three times a year and so on. But the government source of information, 
+it is very difficult to get the government  
+04:50 to do things in a time frame where you get 
+things in 3 months, 6 months and so on. So,   you usually get information once in a few 
+years, but not once in 10 years like in  
+04:59 census. But these things are sample based. So, 
+the definition national sample survey, when you  
+05:04 say national sample survey, it means sample. So, 
+there is a methodology to doing the sampling. It picks certain households, we will 
+discuss how they do it. And they cover  
+05:13 those households in great detail. But only a 
+few households are covered, not all of them,  
+05:19 sample of households. And based 
+on that, you can form, you know,  
+05:24 statistics allows you by to form a picture of 
+the whole by doing sampling of the part. So,   you sample some and then use that to construct the 
+picture of the whole and it will have some error,  
+05:33 but the error will be small, basically, 
+if you do the sampling correctly. So, government sources of information are 
+very, very important for us. Just as an example  
+05:51 of a government source of data, there is this 
+thing called economic census. So, I am just  
+05:56 showing you basically how the, what is called the 
+schedule. Schedule means basically the form, how  
+06:01 it is, how it looks. So, this is the form that is 
+carried by the, by the field officer to fill data.
+06:11 So, one row in this basically is one house. 
+So, you can see basically that it is got   the census number for the house. So, census 
+basically, remember census covers everybody. So,  
+06:23 that census number is there, house 
+or you know, structure basically,   it could be firm means that there will be a firm, 
+for the firm also there will be a structure. And  
+06:34 then the name of the establishment owner, 
+the name of the owner of the establishment,  
+06:39 how many members are there, what does that 
+description, what does that establishment do.
+06:44 The reason why we are calling sometimes 
+it is using household and all that because   many of the establishments that we have 
+are actually home establishments because  
+06:52 they are businesses run from homes. So, you 
+cannot separate really the business from the   household that is the issue actually. What is 
+the broad activity? So, there is a two digit code  
+07:04 for the broad activity. So, there is indicator 
+here. For example, if it is livestock it is 0,2,   if it is transportation and storage it is 
+1,3, if it is education it is 20 like that.
+07:14 So, there is a two digit code that you will enter 
+here. There is a NIC, NIC stands for National  
+07:19 Industrial Classification Code. So, there is a 
+code for that NIC, NIC code that comes. Then,  
+07:25 you know, is it a handloom type activity, 
+handicraft activity? What is the ownership   structure? Is it a government, private, 
+partnership? Is it a self-help group? Is  
+07:35 it a cooperative like that? Is it a male run or 
+a female run? What social group, what religion?  
+07:41 What is the nature of operation and all that? And 
+how many people are employed? How many males are   employed? How many females are employed? Like 
+that. How many on hired basis, which means on  
+07:52 contract basis? How many on, how many are not 
+hired, which means that basically are temporary.
+07:57 Like that you write down all the things. 
+That is one row basically gives you one   establishment, like that there are many rows. So,  
+08:04 this is the schedule. This is how they collect 
+information. And based on that information,   some analysis can be given like the last 
+latest economic census report that we had.
+08:17 I have put some charts from it to 
+show you. So, this chart on the   left shows what is the percentage of rural 
+establishments, how are they financed? So,  
+08:26 for example, in rural establishments, 
+72.7 percent of the rural establishments  
+08:32 are self-financed. 10 percent are, have 
+assistance from the government sources.
+08:38 2.4 percent percent have borrowing 
+from financial institutions,   that is how they are financed. Some of 
+them are borrowed from moneylenders,  
+08:46 that is how they are financed. Some have got 
+loan from self-help group, that is how. Some   of them have got it from donation and all that. 
+So, majority of the rural firms are self-financed.
+08:55 In fact, if you look at urban, it is even more. 
+83.7 percent of the urban establishments are  
+09:01 self-financed. So, you can see how big, how 
+big the potential for organized finances,  
+09:10 for organized lending or organized 
+financing of firms, how big it is,   because most of the firms today are 
+all financed by self-finance. So,  
+09:18 that is a scope for people to take money 
+from elsewhere and expand their business.
+09:24 This chart on the right side shows how many 
+establishments are there with 10 or more  
+09:31 workers. So, which states what percentage of the 
+establishment with 10 or more workers, how are  
+09:38 they distributed? So, you can see that a very 
+large number of establishments with 10 or more   workers are in Tamil Nadu. 14 percent are in Tamil 
+Nadu, 11 percent in West Bengal, Maharashtra. So,  
+09:47 these are all, these states here, Tamil Nadu, 
+West Bengal, Maharashtra, Karnataka, Kerala,  
+09:53 account for 14, 11, 25, 35, 7, 42, 48. Half, 
+half the establishments are in these states.
+10:03 And some states have hardly any rights, you can 
+see that. So, that is what this picture says. So,  
+10:09 these very interesting views you get like 
+this, which you can present also in a form   of pie chart or some bar chart or something, but 
+you get very interesting views of what is going  
+10:20 on in terms of how establishments are formed 
+and so on using this economic census report.  
+10:29 Similarly, if you take the annual survey 
+of industries, I am not showing you the   schedule because it is very, very elaborate, 
+they, what they collect a lot of information.  
+10:38 So, you can see some of the charts that have 
+come from the latest annual survey of industries,   2022 this is, it shows basically percentage 
+share of major industries and total number of  
+10:51 persons engaged in factory sector, which means 
+how many people are working in factory sector.
+10:57 You take that set of people and you say how much 
+of that, what percentage of that are working in  
+11:03 food products. So, you find 11 percent of 
+the total number of people in factories,   factory sector are employed in food 
+products, 10 percent in textiles, 8,  
+11:11 7 and a half percent in apparel, 7.25 percent 
+in metal, 6.5 percent in motor vehicle, 6.
+11:19 3 percent like this. So, you can see the breakup. 
+So, some sectors are highly employment intensive,  
+11:24 some of them are not so employment intensive, 
+that is what this seems to show. Similarly, you   can say where are the people, which states are the 
+people who are working in factories, which states  
+11:34 are they in and you find that Tamil Nadu is one of 
+the states which has a large number of people. So,   you can see that we have two and a half lakh 
+people working in factories in Tamil Nadu,  
+11:43 whereas Gujarat is the next and then Maharashtra 
+and then there are other states like that.   So, all this information has come out 
+of from the annual survey of industries.
+11:53 Here is another one, which says what is the 
+aggregate GVA, GVA stands for gross value added.  
+12:00 So, a company might be getting all the components 
+of mobile phones and then assembling the mobile  
+12:06 phone in India and selling it. So, we asked 
+what is the gross value added of that assembly  
+12:12 process. So, it might be only 4 percent because 
+when it sold 100 rupees worth of mobile phone,   96 rupees it may have gotten components, PCB, 
+class take, everything it may have imported  
+12:22 and added 4 rupees worth of value and sold. So, in 
+that case, the gross value added is only 4 rupees,  
+12:28 even though it sold 100 rupees of phone, 
+only 4 rupees is the gross value added. So, we calculate exactly the value addition due 
+to a process. So, if you look at it like that,  
+12:38 you find that chemical and chemical products is 
+adding 11.17 percent of the total value is coming   from there, 10 percent from metals, pharma is 8 
+percent, food products 8 percent, motor vehicle  
+12:48 7 like that, you can write down the gross 
+value added. This is another very interesting   outcome of the annual survey of industries. 
+Now, the NSS, the National Sample Survey,  
+13:01 what it does basically is it divides, so based on 
+census again, it you can divide the country into  
+13:08 various census blocks, you know, regions and in 
+each of those regions, basically you create, you  
+13:17 do, you pick a sample, you pick some and when I 
+come to this, when I, later on when I discuss one  
+13:24 of the surveys in little bit more detail, I will 
+explain how the samples chosen very carefully. But, you know, you pick from each 
+of these regions, you pick a sample,  
+13:31 you pick some people and then you 
+do some estimations. In this case,  
+13:39 the NSS 72nd round, the National Sample 
+Survey 72nd focused on two areas,  
+13:44 one is how much do households spend on services, 
+services means like transportation, education,  
+13:51 healthcare and all that, business services and so 
+on. And how much do they spend on durable goods,  
+13:56 durable goods means refrigerator, air conditioner, 
+things like that. So, this charts are basically  
+14:04 about transportation. So, we are seeing basically 
+that we have looked at the rural and urban. So, this chart is rural, this chart is urban. 
+Data is presented in this form. So, you have  
+14:15 divided the population into five what are called 
+quintiles, which means you are saying the top  
+14:21 and based on their quintile class based on 
+their usual monthly per capita expenditure.  
+14:28 So, somebody who is spending, so you divide, you 
+basically calculate the total expenditure of the  
+14:34 household and you sort all of them and the people 
+who fall in the top 20 percent of expenditures,  
+14:41 they are in the top quintile. People who 
+in the bottom 20 percent expenditures,   they are in the bottom 20 percent quintile 
+and the others in the middle somewhere. So,  
+14:50 the top quintile, I mean top 20 percent of the 
+total spenders, expenditures, with the top 20  
+14:57 percent of the highest expenditures 
+in some sense, monthly expenditures. If you look at their expenditures, you will 
+find basically that their biggest source of  
+15:07 expenditure seems to be on bus. So, they are 
+spending about 180 rupees on bus monthly,  
+15:13 180 rupees on bus and this blue line first one 
+is railway, they are spending about 40 because  
+15:18 maybe from Bombay or something they travel 
+by train or metro or something like that. So,   50 rupees they are spending on railway, 180 
+rupees on bus and taxi some amount and then  
+15:30 you know the auto rickshaw and others. 
+Whereas, if you take the bottom quintile,   they are hardly spending any money. So, you 
+can see basically that even these people,  
+15:37 the bus is the biggest form of 
+transport, it is about 30 rupees but.
+15:42 If you go to rural areas, even 
+the top quintile, if you look,   they are also spending the most amount on 
+railway, on bus, their bus spending basically  
+15:51 is 80 rupees compared to 180 rupees. Here it 
+is 180, here it is 80. So, the top quintile  
+15:57 in the rural area spending 80 rupees on bus, 
+whereas the urban area they are spending 180.   Here there is not that much scope to spend on 
+railway I think because railway train may not  
+16:07 be going to all the rural areas and all. So, 
+they are not spending much but this person is   spending because of metro train and because 
+of local suburban railway and other things.
+16:15 So, you can see these kind of very 
+interesting consumption patterns   that come out by analysis of the data that 
+comes out from the National Sample Survey.  
+16:28 Besides those data sources, which data 
+sources, what I explained, the census,  
+16:35 the National Sample Survey, the census, economic 
+census, annual survey of industries besides these,  
+16:40 there are many other government sources of 
+data also that are available. For example,   you will have tax data. You get very fine 
+grained data of GST by different types of  
+16:49 products and services, which give you 
+an indication of which products are   being sold in which region in the country. The 
+Reserve Bank of India and the Stock Exchange,  
+16:57 they give you a lot of information on capital 
+raising and lending and everything else.
+17:03 There is a thing called the periodic labour 
+force survey, PLFS, which tells you what  
+17:10 is the employment that is happening, 
+how many people are getting employed,   how many people are out of labour market, how many 
+people, what wages are they getting employed at,  
+17:17 where are they getting employed, that kind of 
+thing you get from PLFS. So, you will get a   view of the labour market. How many licenses are 
+given, how many road transport licenses are given,  
+17:28 how many driving licenses were issued, all 
+these kind of information you will get.  
+17:34 You will get wholesale price index and consumer 
+price index. So, the total, how is inflation,  
+17:40 how is the price of general products and 
+services, how is it moving? Right now,   it looks like tomato and many other 
+things, the prices seem to be going up.
+17:47 So, that will impact the consumer price index.   And of course, people can always, through 
+this thing called right to information,  
+17:55 you can always ask for more information from 
+the government. Nowadays, the government   publishes everything. In fact, I want to 
+show you this site, which is called data.
+18:05 gao.in. I am not sure whether you can read 
+what I have typed in the URL, but it is,  
+18:11 I have typed data.gao.in. So, the idea 
+basically is that the government is saying   that they want to make as far as possible 
+all the information available publicly,  
+18:24 either for you to look at or for you to even 
+access through APIs and do your own analytics.
+18:30 You can generate your own charts. So, they 
+are saying basically that now they have so  
+18:37 many resources, 623,000, 623,000 resources. How 
+many times it has been downloaded, 9.79 million  
+18:44 downloads they have got. So, you can see basically 
+that you can discover it by sector, by groups,  
+18:52 whether it is central government or 
+state government, you can write your   own APIs and access it and 
+all the data sets are there.  
+19:04 So, health and family welfare, agriculture, census 
+and surveys, water and sanitation, statistics,  
+19:10 education, water resources, transport, 
+finance, government, plenty of data.
+19:15 All the data, of course, you will have to 
+log in, you have to create a registration,   log in and say why you need this data. So, 
+there is log in register, but by and large,  
+19:23 you can easily register and you can get hold of 
+your, you can get hold of your data. For example,  
+19:30 this UDICE is basically an education database 
+that is there here, present statistics, budget  
+19:39 for sports, how much was given like that. So, 
+they have tried to make available every possible  
+19:46 data that is there in different ministries, they 
+are trying to make available in a central place. So, it becomes a lot easier for you 
+to access it. So, you do not really,  
+19:54 I mean, right to information is there, but 
+nowadays it is not really required to do  
+19:60 right to information because even without right 
+to information, you can actually, government is  
+20:05 making everything available. So, you can just go 
+and get it. So, besides the government sources,  
+20:14 before I go on to non-government 
+sources, I want to talk about this  
+20:20 thing which we talked about here, which is 
+a periodic labour force survey, PLFS. So,  
+20:26 here is an example of a chart which comes from 
+the latest 21-22 periodic labour force survey.
+20:33 This relates to something that I had said earlier 
+also. You just look at in rural and urban, how are  
+20:43 they, how are the people employed? So, you find 
+basically that 54 percent of the people in rural  
+20:49 areas are self-employed, they are not working 
+for any company. Only 13.8 percent are getting  
+20:57 regular wages or salaries in India, 25.2 percent 
+are casual level, it means they get paid daily,  
+21:03 daily wages. And in the urban area, 33, this is 
+54 percent, in the urban area it has reduced,  
+21:09 but still it is very large, 33 percent are 
+self-employed, self-employed means like hawkers,  
+21:16 dobies or something like that, people who are 
+basically doing their own business self-employed. And in the urban area, 43 percent are wage 
+earning, regular wage earning. In the rural area,  
+21:27 it is only 13.8. Of course, one should expect 
+that if you are having a farm, you are more   likely to be self-employed, but still this number 
+is very, very small. And even in the urban area,  
+21:36 43 percent being organized and the remaining 
+being self-employed, unorganized is not very good.
+21:42 I mean, you need to have more people 
+organized. 11 percent are casual labor   and 12 percent means basically daily 
+wage labor and 12 percent are others,  
+21:52 sometimes in work, sometimes 
+not in work type of thing.   So, let me move on now to the non-government 
+data sources. Now, there are many places from  
+22:05 where you can get non-government data sources. 
+One of them is, for example, there is a, there  
+22:11 is an index called purchasing manager's index, 
+which basically gives you sentiment analysis.  
+22:17 What are firms doing in terms of buying? Are they 
+going to buy or not buy? That kind of decision.
+22:23 It is called purchasing manager's index. 
+And if it shows some number above 50,   it means that firms are optimistic about 
+the future. If it shows a number below 50,  
+22:30 it means firms are pessimistic about 
+the future. But we are not discussing   that right now. The main focus for us will 
+be data that comes from this organization,  
+22:38 which is called the Center for Monitoring Indian 
+Economy. This is a big provider of data for a  
+22:45 lot of companies, which basically then use 
+it to make decisions, strategic decisions. That is why we are interested in CMI 
+data. So, we will primarily focus,  
+22:53 so CMI produces two kinds of data, as we 
+saw in economic, what we said earlier,  
+22:58 you either look at this side or you look 
+at this side. So, if you decide basically   is households and their consumption, this 
+side is about firms and their investments.  
+23:07 So, the CAPEX report of CMIE tells you where, 
+which sectors firms are investing in, whereas the  
+23:15 consumer pyramids household survey of CMIE tells 
+you what households are buying or intend to buy.  
+23:25 So, we will be mostly focused on this. In fact, 
+I will show you what they do, how they do the   survey and in the next segment, we will actually 
+take the data that has come from the survey and  
+23:35 go through it in great amount of detail, so 
+that you get a feel for what is going on.
+23:41 So, the consumer pyramids household survey 
+of CMIE, the last, I mean, this picture,  
+23:47 snapshot was taken August very recently, in some 
+sense from the date of recording right now. So,  
+23:54 basically, we are saying now that 
+236,000 households. So, right now,  
+24:01 the wave that is in progress is 29th wave, 
+which will go from May to August of 2023.
+24:07 The response rate at this point in time is 62.99%. 
+So, what they basically have found is that on the  
+24:14 average, they get about 73% responses, which 
+means that if they go to a house and try to get  
+24:19 a response, many of them may not be there, house 
+will be locked, there will be reasons, but they   have been able to get 63% of the houses, they have 
+been able to get some response, which is very good  
+24:28 actually, this kind of response rate is extremely 
+good. So, 236,000 households were surveyed.  
+24:35 It is a longitudinal survey. Now, there is a very 
+interesting, this longitudinal survey is a very  
+24:41 interesting kind of survey, it means that the 
+same households you will go to again and again.  
+24:47 This is very important, because if you go 
+and do a sample of 10 people in this round,  
+24:53 and in the next round, you do 
+another sample of 10 people,   and there is no relation between this 10 people 
+that you sampled this time and the 10 people you  
+24:60 sample next time, then you do not know how 
+consumption pattern has changed over time. Of course, you will get some broad aggregate 
+picture. But if you go to the same household  
+25:08 two times, I went, last year, I went again 
+this year, and I found in the same house,  
+25:13 last year, they were consuming, you know, so 
+many litres of milk in a month, this year,  
+25:19 they are consuming a little bit more milk 
+every month, then it gives you a more definite   confirmation that this house basically is moving 
+up the economic ladder or something like that. In  
+25:29 the sense that they are consuming more products, 
+which are, you know, as, as income goes up,   you will start consuming certain kinds of 
+products like milk and so on, protein products  
+25:37 will get consumed more, meat and all that will 
+get consumed more. So, you can confirm that. So,  
+25:43 it is firstly longitudinal, which means the same 
+houses are visited again and again. Secondly,   it is a fast frequency survey, which means that 
+you are surveying, remember, I told you sensors  
+25:52 is done once every 10 years, these other 
+things are done a little bit more often. But here you are doing three times every year. 
+So, you are doing three surveys every year. So,  
+26:02 that is why it is called a fast frequency 
+survey. Now, what are the different kinds   of things on which data is collected? One 
+is called the people of India database,  
+26:10 which basically tells you the attributes 
+and peculiarities of Indian people,   not that interesting for us. The second thing 
+which is of greatest interest for us is the  
+26:19 consumption pyramid, which means what did they 
+consume in the last one month, this is called   the consumption pyramid. The third is aspirational 
+data, what do they want to consume? They are not  
+26:29 consumed the last month, but they are looking 
+forward to buying something like for example,   they want to buy a refrigerator, they 
+want to buy a car or something like that.
+26:36 Normally, you do not keep buying cars, you buy a 
+car, then you may not buy car for other 15 years.   So, I had asking them question about whether 
+you own a car that is coming here, but do you,  
+26:46 what do you do you intend to buy a car in the 
+next six, three months or something like that,  
+26:52 that question is asked here. And then income, 
+what kind of income do they have? How is the  
+26:57 income changing? What is the volatility of 
+income and all that is the income pyramid. So,   in the subsequent segments, we are 
+going to focus quite a lot on these two,  
+27:06 these two data sets, consumption pyramid 
+data set and aspirational India data set,  
+27:12 because one of them tells you how 
+they are spending their money. And this one tells you how they, what are 
+the things they would like to buy. So,  
+27:19 that tells you that. So, what exactly do 
+they do? How do they do their survey? So,  
+27:25 first thing they do basically is they identify 
+what are called primary sampling units,   which are based on the census. How the census 
+is done? Remember census covers everybody. So,  
+27:34 based on that, they can choose the 
+primary sampling units and they group.
+27:42 So, then from this, they create something called 
+a homogeneous region. A homogeneous region is a  
+27:48 set of neighboring districts within a state that 
+has similar conditions. So, relatively similar  
+27:54 urbanization levels, similar female literacy, 
+similar size in terms of households as per 2011  
+27:60 census. The idea being that if you take two 
+regions, which are very different from each  
+28:06 other in terms of either size of households or 
+in terms of literacy rate or something, and you   try to randomly sample, you may get a biased 
+sample. But if you take a homogeneous region,  
+28:17 it means a region where all the districts in 
+that region basically are roughly alike. So,  
+28:22 it does not matter whether I choose from here or 
+choose from there, I will get the same result. So, take a homogeneous region and from that region 
+you choose a sample and make sure that all the  
+28:32 homogeneous regions, different homogeneous regions 
+are all represented. So, that is basically how the   sampling is done. So, bias is removed because 
+of this concept called homogeneous region. So,  
+28:42 you can see how the homogeneous regions, how the 
+households are split across various things. So,  
+28:48 rural homogeneous regions on the average 
+634, the very large towns like this,  
+28:54 large towns like this, medium towns and small 
+towns, how does it split up? What is the min,   max, average number of households pick? So, 
+they have basically ensured that you are picking  
+29:04 households from across the spectrum, all this 
+data, you are not picking it only from rural,   only from small towns or something 
+like that, everything is covered.
+29:15 State wise also there is some distribution. 
+So, you can see basically that how many towns   are covered in Andhra Pradesh, 14 towns were 
+covered and how many households were covered,  
+29:23 5000 households are covered, how many samples 
+were taken and all that. So, you can see that. So,  
+29:29 it is basically covering everything. So, with 
+that we come to the end of this segment. So,  
+29:37 what we are learning from this segment 
+basically is that we can use surveys  
+29:44 of various kinds, some of them are government has 
+done the surveys and calculated, otherwise this   private agencies like CMI has done surveys and 
+these surveys basically generate data and this  
+29:57 data is of use to us to do some charting like we 
+saw to get some insights into what is going on.
+30:03 So, in the next segment, we will go deep dive 
+into some of the survey data and try to get some  
+30:09 really, really deep insights. Hopefully, 
+you will find it interesting. Thank you.

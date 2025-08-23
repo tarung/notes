@@ -1,0 +1,287 @@
+00:00 foreign
+00:03 [Music]
+00:28 so let's look at volumes so the data I
+00:31 guess that we have to use this the sheet
+00:33 which is selling the sales by day
+00:47 but now it's got every so we got
+00:50 so we have to add up yes we have to add
+00:53 up the sales so if you want to find out
+00:54 the sales of m01 then one thing we can
+00:57 do is we can do a filter
+00:58 right so you can just simply select
+01:08 give us all the m0 ones now you add this
+01:11 up
+01:14 it's a pain to do I know it's it's pain
+01:16 no huh see yeah so we're adding up
+01:18 across all the all the cities all the
+01:21 dates all the dates nine zero nine
+01:25 total sum is 90. yeah and there's no
+01:29 systematic way of doing this no we need
+01:32 to so is there I mean some Excel would
+01:34 have something there is a tool in Excel
+01:36 it's called pivot table
+01:38 okay
+01:40 so what the pivot table allows us to do
+01:42 is to basically look at various cuts of
+01:45 the data okay on different axis so in
+01:48 this case you want it on the m01 sort of
+01:51 axis right if you look at the data as a
+01:54 as a you know x y z graph and you want
+01:58 to say what is the data that is there in
+01:60 this one plane m01 m01 plane that's
+02:03 really what pivot tables hopefully will
+02:06 do correct so here is what we do we
+02:08 select this entire data so now what we
+02:12 do is we go and we say insert pivot
+02:15 table now what we want and let's let's
+02:18 try and imagine what what is the table
+02:20 we want right the table we want is that
+02:23 in the we want rows made of skus so
+02:27 you've got a table in which the rows are
+02:29 M 0 1 M 0 to m03 m04
+02:33 and against each SKU you have the sum of
+02:36 all the units that were sold over 15
+02:39 days over 15 days across all cities
+02:41 across all cities right yeah so the
+02:43 first thing you do is you take
+02:45 this SKU column and you move it into
+02:50 this
+02:50 thing called
+02:52 rows
+02:53 okay okay so now you can see that you
+02:56 have got a table which has 30 rows and
+03:02 the rows are row labels are basically
+03:04 your SK units all right understand
+03:07 now the second thing you should do is
+03:10 you want to know what are the values
+03:11 associated with each of these
+03:14 so you look at
+03:16 the data correspond in in column cell
+03:20 and you move it to Sigma values
+03:24 oh so now this is giving you some of
+03:27 sale
+03:29 we can do other things also you can do
+03:31 other things also so you could do as an
+03:33 example it's okay so if you look at this
+03:37 so if you click on this yeah it will
+03:40 give you a menu one of the fields there
+03:43 will be value field settings okay so if
+03:45 you click on value field settings
+03:47 instead of count instead of sum I could
+03:50 say count oh I see so it will tell you
+03:53 that there are 45 45 entries for f01
+03:57 which is not a surprise 15 days three
+03:59 distribution centers right so everywhere
+04:01 you will see 45 entries I think
+04:04 but maybe we will let us look at some
+04:08 more interesting right so instead of uh
+04:11 same access let's look at Max yeah
+04:15 so the highest sale of f 0 1
+04:19 in a single day from a single DC was 34
+04:23 units
+04:25 36 is also there 36 for M 0 for f01 f 0
+04:29 1 was 34 for f 0 1 it was 34. okay okay
+04:32 for uh L 0 1 it was 36 right right
+04:36 okay but actually what we want right now
+04:40 is sum we want some right so let's
+04:42 select some Okay so
+04:45 and just to cross check our work do you
+04:48 remember yeah nine zero nine
+04:51 nine zero nine so m01 is 90. okay
+04:56 so because I have not selected date or
+04:60 city
+05:01 the those values are ignored it seems to
+05:05 have listed this in alphabetical order
+05:06 okay it will list it on alphabets
+05:09 alphabetical order of the SQL names
+05:13 but actually that is not interesting to
+05:15 us what we want it in and omkar's
+05:19 question was which is giving the highest
+05:22 volume
+05:23 so you actually want it sorted on some
+05:25 of sale you don't want it sorted on
+05:28 alphabetical order no you can sort it
+05:30 the only thing is uh pivot tables will
+05:35 not allow you to sort on a computed
+05:37 column
+05:38 what is a computer so this is a computed
+05:40 column because if you look at this it
+05:43 says Sigma value so we computed sum of
+05:46 sales okay okay now if you want to sort
+05:48 on a computed column what you do is you
+05:52 take this table
+05:54 Let's ignore the grand total value and
+05:57 you
+05:58 copy the values in this table Ctrl C
+06:01 Ctrl C
+06:02 and then in another
+06:05 place in the sheet you paste it as
+06:09 values
+06:11 so now this is not a computed value this
+06:14 is an absolute value okay okay
+06:16 this table now you can sort
+06:21 okay okay
+06:23 so we can sort on and you want this
+06:26 sorted on
+06:28 sorry I should have I should have
+06:30 collected
+06:32 so
+06:38 so now if I say sort
+06:42 I want it sorted by some of sales and I
+06:46 wonder
+06:46 highest values first ah okay yes yeah so
+06:50 I want largest to smallest largest to
+06:52 smallest yes is any order correct so
+06:55 this tells you that F 0 1
+06:58 you make you sold 914 units across the
+07:02 three distribution centers in 15 days
+07:06 m01 mobile kilometer second highest with
+07:09 12 000 rupees or something like that and
+07:12 this was the one if you remember the CFO
+07:14 wanted to know why are you not getting
+07:16 something it is generating most of their
+07:17 revenue looks like correct we'll find
+07:19 out 22 Revenue but yeah looks like that
+07:21 okay so we know that nine okay so now
+07:24 what so what it is what do you want to
+07:26 know you want to find out which ones are
+07:28 so so this gives the sick some number
+07:30 three you can take phones five take the
+07:33 top five top five how much uh how many
+07:36 units do the top five skus sell is that
+07:39 your because we said we want to find the
+07:41 units which are selling the most correct
+07:43 so here take some number of these take
+07:45 the first five okay so we will take
+07:47 first five but actually that doesn't
+07:49 make sense no because you take C fixed
+07:51 what is it one two three four five four
+07:53 fifty Seven sixth one is 429 actually
+07:55 it's quite nearby
+07:57 on what basis you will take five you can
+07:59 take 10 hours yeah
+08:01 three
+08:10 and say first three
+08:13 uh the other way of doing a GB is to
+08:17 let's see totally how many shipments did
+08:20 this did they do
+08:22 all together all together okay
+08:25 so if I
+08:27 go here
+08:29 that is that 7438 we have on the left
+08:32 yeah seven four three eight right
+08:46 okay now the question is
+08:50 how important is 9 14 and 7438
+08:54 it's quite important I would suspect 914
+08:57 as a percentage of sample correct
+08:59 do that now we can do that
+09:02 No 9 14.
+09:04 here we can say this
+09:08 divided by
+09:15 12 so let me just a prism is important
+09:19 10 is a lot it is no yeah
+09:25 what is that after the river
+09:27 I'm just trying to say that I will
+09:29 divide everything by the sum
+09:35 and if I
+09:37 show it as a percentage it's 12 percent
+09:42 now if I do the same thing for all
+09:45 so you will see that the top three are
+09:48 roughly contributing to 12 percent each
+09:50 of the deliveries
+09:52 then there is a bunch of them that are
+09:54 contributing roughly between six and
+09:56 three percent and then actually there is
+09:58 no Trend now it's like
+09:60 it looks I mean
+10:03 there is this principle called Pareto
+10:06 Principle okay
+10:08 ah Pareto Principle says that ah
+10:12 in any I mean any naturally occurring
+10:15 thing
+10:16 eighty percent of the things will be
+10:18 done by 20 20 80 percent of the things
+10:21 will be contributed by 20 of the causes
+10:25 yeah okay always usually usually
+10:28 usually the most naturally occurring
+10:30 things
+10:31 so if you are selling for example 80
+10:33 percent of the sales will be from 20 of
+10:35 the products so in this case
+10:37 of the volumes will come from 20 percent
+10:40 of the skills you know volume is I don't
+10:42 know that's happening it surely when we
+10:44 see Revenue you might see it but the
+10:46 usually 80 80 yeah generally it's like
+10:50 that
+10:53 and see yeah we can add we can add that
+10:56 and see so what we're doing is
+10:58 cumulating right adding we will need to
+11:00 accumulate no so we will because you
+11:02 want to see what you are saying is
+11:04 totally you can compute the percentage
+11:06 at the percentages
+11:08 I can add the volumes I think okay
+11:12 yeah okay now so the first unit the
+11:18 topmost unit was contributing 914
+11:21 deliveries
+11:23 for the two the first two units are
+11:26 contributing
+11:28 914 plus 909 plus 909 yeah
+11:34 now first three the first three are
+11:36 contributing eighteen twenty three plus
+11:38 eight Ninety Six ah correct correct let
+11:41 me keep going so now if I double click
+11:43 that you get all the way yeah okay
+11:45 that's good yeah
+11:47 and this you are saying I can do a
+11:49 percentage percentage of the total
+11:50 percentage of the total okay let's do
+11:53 that
+11:54 this we could have done the percentage
+11:55 and add it also we could have actually
+11:58 but now when I click okay let's see
+12:01 what's going on let's see we're getting
+12:02 to 80 18 is so let's say here right
+12:07 roughly here
+12:08 is 80. this is like 15 seconds there's
+12:12 no use no it doesn't seem half the items
+12:14 are contributed so this is not showing
+12:16 anything no no it's not half it's about
+12:18 11. base 11. see you're beginning on row
+12:22 four or row four and up to row 15. so
+12:26 roughly 11 items are contributing 80 so
+12:30 11 out of 30 would be about forty
+12:32 percent forty percent forty percent is
+12:34 contributing 80. something somewhat
+12:37 close to I mean but it's not really we
+12:38 should see 20 but six items six to seven
+12:41 items that is what the rules yeah the
+12:44 principal was saying saying should
+12:45 should be like that it should be like
+12:47 generally if you have a shop can a large
+12:49 shop correct because I think maybe
+12:51 because we have 30 items but if you have
+12:52 a large number of items this is what you
+12:54 will see a few items will be
+12:56 contributing to majority of the sales in
+12:57 terms of uh volume volume or Revenue
+12:60 both Revenue both cases okay okay ok ok
+13:03 so in this case the parallel rule is
+13:06 should we then for the same way GV then
+13:09 let's look at because anyway omkar was
+13:11 asking us for Revenue also so in this
+13:14 case can we say that the F 0 1 M 0 1 and
+13:17 l01 those are the three items looks like
+13:19 no kind of because they are dominant
+13:21 dominant items a third of uh your sales
+13:24 are coming just from 10 of your uh
+13:26 something like that escapes something
+13:28 like that yeah yeah ten percent equal to
+13:30 Big third yeah ten percent is
+13:32 contributing a third okay but then let's
+13:35 go and see uh omkar was asking us anyway
+13:38 for Revenue also which are the skus that
+13:41 are contributing to revenue so why don't
+13:43 we repeat this analysis for Revenue we
+13:45 should do that

@@ -1,0 +1,778 @@
+00:00 [Music]
+00:20 so do you want to lead into the case uh
+00:24 sure
+00:25 so
+00:25 so uh you know let me start sharing my
+00:29 screen uh and while i do that
+00:32 so judy do you want to give us an
+00:35 overview of what we are going to learn
+00:36 in the next two weeks
+00:39 we are going to look at a number of
+00:40 issues that come up in manufacturing
+00:42 industry specifically
+00:45 i think she will speak with his
+00:46 experience about
+00:48 first of all i mean
+00:50 this is a data science course so
+00:52 question about where the data comes from
+00:54 in a manufacturing industry is it really
+00:56 digital
+00:57 how do we convert all the existing
+00:58 physical records that are there in
+00:60 manufacturing industry to digital those
+01:01 kind of issues
+01:03 we have to look at it so that will come
+01:04 certainly we will try to introduce some
+01:06 of that but we want to see the digital
+01:08 data that is available in manufacturing
+01:09 industries and use it to
+01:11 do some analysis of sales
+01:13 and revenue similar to what we did in
+01:15 the
+01:16 fab mart the e-commerce case that we did
+01:18 already already
+01:20 but the difference from that case
+01:21 leading into this case is that where
+01:23 these products are not
+01:25 stocked and sold like e-commerce but
+01:27 they're actually manufactured
+01:28 so don't look at the factory aspects how
+01:30 we do
+01:31 production planning
+01:33 and analysis of the
+01:35 and scheduling of the production
+01:38 and the analysis of that
+01:39 and uh you know
+01:41 materials that go into production
+01:43 basically they have costs and so on so
+01:44 we look at the bill of materials
+01:46 and then profitability analysis of
+01:48 different parts
+01:50 and uh work back from there to
+01:51 understand
+01:53 the materials how do you plan
+01:55 requirement of materials what kind of
+01:56 materials are required first of all to
+01:58 do this production
+01:59 what kind of human resources are
+02:00 required to do this production so some
+02:02 kind of
+02:04 requirement analysis that we will be
+02:05 doing for these
+02:07 raw materials and human resources
+02:08 and we saw a little bit of some of this
+02:10 in the first four weeks
+02:12 how material and
+02:14 material and
+02:15 people
+02:16 people resources and material resources
+02:18 how important they are in the costing
+02:20 and in planning and all that so we're
+02:22 going to get into it in more detail in
+02:24 this case
+02:26 and of course as we go along doing it
+02:28 all of this we'll be doing this through
+02:29 spreadsheets so
+02:30 you'll learn a little bit more about
+02:31 spreadsheets and how to use spreadsheets
+02:33 to rule this kind of analysis so with
+02:34 that context uh maybe uh
+02:38 we can start
+02:39 talking about the case that we have
+02:41 today the case that we have today is
+02:43 about a company called ace gears
+02:46 and ace gears is what is called in the
+02:49 automotive industry as a tier one
+02:51 supplier
+02:53 uh the people that make the cars
+02:56 actually that make and sell the cars in
+02:58 the automotive industry are called oems
+03:01 uh and these would then be people like
+03:04 that
+03:05 equipment manufacturer right
+03:07 original equipment manufacturer
+03:09 and there's companies like
+03:12 hyundai or general motors or ford
+03:15 uh
+03:16 companies like that uh but there are a
+03:19 bunch of companies as ship was
+03:21 mentioning that actually make the sub
+03:23 assemblies and uh
+03:26 uh a skiers is one of the one one such
+03:30 company and so in that context it's
+03:32 called
+03:33 a tier one
+03:34 so ship why don't you tell us a little
+03:36 bit about this company you know what
+03:37 what does this company do uh what are uh
+03:40 some of the challenges that a company
+03:42 like this faces
+03:44 uh that we can use data to analyze
+03:48 absolutely um so so as you as just as
+03:53 melin just mentioned um the ace years is
+03:56 actually
+03:58 is actually manufacturing
+03:60 gear assemblies so so
+04:02 you know basically when you think of the
+04:04 concept of the gear it is actually the
+04:06 way to transmit the energy that's
+04:08 created from
+04:09 uh one source into another place so in
+04:12 specific context of the auto automobile
+04:14 you have the engine that's creating the
+04:16 internal combustion engine that's
+04:18 creating the the uh the rotating energy
+04:21 and the gear is used to actually
+04:22 transmit
+04:23 this energy to the different wheels
+04:26 right so that's why it's called a
+04:27 transmission because it's transmitting
+04:29 the
+04:30 the energy from the from the motor to
+04:33 the to the different
+04:35 different wheels so if you so so this
+04:37 company is involved in creating gear
+04:39 assemblies that go into this
+04:40 transmission right so that is the main
+04:43 business of this of this company
+04:45 and it has to supply uh mostly to oems
+04:49 but also to some tier one companies
+04:50 which then create finished transmissions
+04:53 right so it does both of these things
+04:56 and it has customers in all the parts of
+04:58 the country right so basically it is
+05:00 supplying to
+05:02 oems located in the different regions
+05:05 and you'll see that in a bit later on in
+05:07 this case study it has a number of
+05:09 products right it has a number of
+05:11 different types of years here assemblies
+05:14 and so on and for the purpose of this
+05:16 case study we are actually going to
+05:17 consider 10 products just to keep it uh
+05:21 more
+05:21 easy to follow uh that we will look in
+05:24 this case study and and then we talked
+05:26 about some of the challenges that an
+05:28 industry like this faces right is that
+05:30 uh automobile demand is highly variable
+05:34 uh as as we all know right so it depends
+05:37 on a number of things it depends on
+05:39 government policies around and changes
+05:41 in those policies it depends on
+05:44 uh
+05:45 the festive season for example where a
+05:48 lot of people try to attend to buy new
+05:49 cars
+05:51 and so on it depends also on
+05:53 availability of parts so right now we
+05:55 are for example passing through a phase
+05:56 when electronic components are not
+05:58 available uh in the way that they used
+06:01 to be so now there is a supply challenge
+06:03 that comes into the into the industry
+06:05 then of course there's labor uh labor of
+06:08 people are very important to actually
+06:11 run these lines right and create these
+06:13 products and sometimes what happened in
+06:16 2020 was
+06:18 that because of kovit for instance all
+06:20 this labor that worked in factories in
+06:23 this industry actually went back right
+06:26 to their to their native uh towns and
+06:29 villages and that meant there was a big
+06:31 shortage of labor and of course the
+06:33 safety of operating the factory in the
+06:35 pandemic so these are all kinds of
+06:37 challenges that affect this industry
+06:39 right from the demand to the the to the
+06:44 supply to all of the resources that are
+06:46 required for this industry keeps
+06:47 changing over time
+06:50 so these challenges seem really really
+06:53 large and i'm very curious to see how
+06:55 using data perhaps we can break them
+06:57 down into smaller challenges right
+07:00 absolutely i think data is made a huge
+07:04 difference in the productivity uh
+07:06 and the cost of of running operations
+07:09 for this industry they were one of the
+07:11 pioneers to adopt technology uh to run
+07:14 their planning and manufacturing and
+07:16 procurement operations so if you go way
+07:18 back in early 90s uh mahindra mahindra
+07:22 was one of the first companies in india
+07:23 to implement a full-fledged erp system
+07:26 right sap system so this
+07:29 you have industry
+07:30 explain what this erp system
+07:32 i guess yes later maybe which explains
+07:34 it
+07:36 yes uh i think uh there is a slide in a
+07:38 couple of uh slides we have one that
+07:40 talks about erp
+07:42 okay
+07:43 erp is enterprise resource planning huh
+07:45 yes erp is enterprise resource planning
+07:48 um and we will talk a bit more in detail
+07:50 when we uh get to that point but it's
+07:52 basically uh the way to integrate all
+07:55 the different planning functions of a
+07:57 company into one
+07:60 single
+08:02 base of data right earlier you know you
+08:05 used to have different types of data to
+08:07 manage different parts of
+08:10 of the company or different functions of
+08:12 the company
+08:12 uh if we go down one or two slides that
+08:14 is a slide about erp
+08:16 so that actually shows you
+08:19 uh
+08:22 yes this one um so so as you see here
+08:25 right um earlier
+08:27 all of these circles used to operate
+08:28 independently so you have the finance
+08:30 department which has its own accounting
+08:32 system and then you had the production
+08:34 department which had its own uh
+08:36 production tracking system you had the
+08:38 human resource department which had its
+08:40 own hr system and so on and all of these
+08:43 systems are not connected the data was
+08:45 not common commonly held right
+08:48 in one single database and what that
+08:50 meant was the data that production
+08:53 shows would be different from the data
+08:55 that sales shows or finance shows and
+08:57 this used to cost a lot of confusion and
+08:60 a lot of error in the way we plan and
+09:02 execute the business but with the coming
+09:05 of the erp systems uh back in the 80s
+09:07 and really accelerated in the 90s and
+09:10 the last decade is uh companies are now
+09:13 operating out of a single system which
+09:15 got integrated database so that once you
+09:17 record a product that's produced out in
+09:20 the production module it immediately
+09:22 updates
+09:22 the costs in the costing module it
+09:25 updates inventory in the finance module
+09:28 it updates the availability in the sales
+09:30 module and so on so that everyone is now
+09:32 working with the same set of data
+09:34 so that is uh a bit about erp but uh as
+09:38 i said before uh automotive industry has
+09:40 been a very
+09:41 forerunner in uh adopting erp systems
+09:45 so sure this is this picture is actually
+09:48 uh quite interesting because in the fab
+09:50 mart case uh we saw
+09:52 and perhaps a simplified view where we
+09:56 were only talking about infinity
+09:57 management planning and finance okay but
+10:00 clearly what this picture tells us is
+10:02 that you know there are
+10:04 many many departments in the company
+10:08 and each one of them is doing their own
+10:10 bit and all of it has to sort of gel
+10:12 together like a gear right
+10:14 almost
+10:16 yes that's a really interesting analogy
+10:18 that is very true and if you look at the
+10:19 manufacturing industry and compare it to
+10:21 service industry or other industries it
+10:24 has got a much broader set of activities
+10:28 right
+10:28 you know if you look at a trading
+10:29 industry or even e-commerce it's really
+10:32 about procuring a product and then
+10:33 making it available to the customer uh
+10:36 in a very fast way right but as if you
+10:38 look at this industry it's actually got
+10:40 to think about how do i not only procure
+10:43 all the components that are required
+10:46 to to create my product but also it has
+10:48 to schedule all the machines that are
+10:50 required to actually convert the
+10:52 components into a finished product it
+10:55 has to make sure that the labor is
+10:56 available at the right place at the
+10:57 right time it has to make sure that uh
+11:00 the the
+11:01 finished product at different stages uh
+11:04 of of production are tracked
+11:06 appropriately and then it has to think
+11:08 about making sure it is distributed to
+11:10 the to the right places so that the
+11:12 logistics industry can then take it over
+11:14 and deliver it to the final point so
+11:16 that's why you see a lot more richness
+11:19 in uh the business functions in a
+11:21 manufacturing industry
+11:24 also in an e-commerce example uh that
+11:27 million pointed out
+11:28 the day that the
+11:30 data is already digital in the digital
+11:32 form because you sold it electronically
+11:33 i presume so you have a digital data
+11:36 right from the beginning at the origin
+11:37 itself isn't it whereas here presumably
+11:40 some
+11:41 item will shape the shipment shipping
+11:42 voucher and all there are many physical
+11:44 records
+11:46 when things are physical goods are
+11:47 physical and a lot of
+11:49 records are also physical i presume and
+11:51 so somewhere this physical
+11:53 data has to get converted into somebody
+11:55 has to make entry right digital
+11:56 directory to make this thing into a
+11:58 digital data so can you speak about when
+12:00 data gets actually entered into the
+12:02 system into the erp system
+12:04 yes absolutely
+12:06 so that's a great point and there are
+12:07 many points which are still paper based
+12:10 in the industry although the company's
+12:13 leading companies are trying to minimize
+12:16 how much of physical entries there a
+12:18 typical example is when product when
+12:20 your raw materials arrive into your
+12:22 inventory or store store room right if
+12:25 it's a if it's a steel bars or whatever
+12:27 that is that that is fine is being
+12:29 bought um and so uh somebody has to then
+12:33 record that this this has been perceived
+12:35 how much has been received in good
+12:36 quality and a lot of times you find that
+12:39 this is maintained in manual records and
+12:41 then later somebody enters that data
+12:43 into the system although companies are
+12:45 now providing a point of
+12:48 you know
+12:48 interfaces that people can actually keep
+12:50 this and right at the time that they
+12:52 received similarly when you're actually
+12:53 manufacturing the actual quantity
+12:56 produced is actually recorded by
+12:58 manufacturing execution systems that are
+12:60 attached to the line but from here it
+13:02 needs to then travel into the erp system
+13:05 so you'll see some data that's coming
+13:07 from machine to uh to into the erp
+13:10 system as well
+13:12 right um so there's number of points
+13:14 where
+13:14 there is manual information or external
+13:18 information that needs to be captured in
+13:19 the brp system
+13:21 okay
+13:24 fantastic so
+13:26 uh
+13:27 you know why
+13:28 you were mentioning that this company
+13:31 makes 10 products you know
+13:33 and and that
+13:35 uh you know
+13:37 it's a it's a very large number of
+13:38 products so perhaps you can tell us uh
+13:41 what are the kind of products that this
+13:43 company needs
+13:45 yes um so uh as we were saying they they
+13:49 do make a number of products and they
+13:50 are considered ten of them in this case
+13:52 study um
+13:54 what you see there is something called a
+13:57 gear assembly all the products that we
+13:59 are talking about uh here are gear
+14:01 assemblies so gear assembly you can
+14:03 think of it as a
+14:05 more than one gear joined together right
+14:07 and there are different types of gears
+14:08 there are helical gears power gears all
+14:11 these types of things that are used in
+14:13 the transmission and we are considering
+14:15 uh a gear assembly which is made up made
+14:18 out of two gears so the way this
+14:21 actually works if you actually go down
+14:23 one slide i think it might be easier to
+14:25 explain with some pictures
+14:27 uh just one more slide here
+14:30 yeah
+14:31 so so actually yeah go up once
+14:34 yeah so so as you can see here on the
+14:36 right side you see the gear assembly so
+14:39 it's actually got two helical gears that
+14:41 are put together
+14:43 and what that then does as you can
+14:45 imagine is actually transmitting the
+14:47 energy that's created in one axis into
+14:49 another axis right from vertical to
+14:51 horizontal or horizontal
+14:54 and
+14:55 this gear assembly involves actually two
+14:57 gears so as you can see here this is the
+14:59 air assembly number three that's then
+15:00 sent to the oem but actually it involves
+15:03 gears 3a and 3b which are the two gears
+15:06 that are part of that assembly right
+15:09 now the company has to then make these
+15:12 two gears uh and gears are made using a
+15:15 two-step process one is called hobbing
+15:17 and the other is called approaching so
+15:19 hobbing is think of it as the way that
+15:22 the external teeth of the gear are
+15:24 actually cut and then the broaching in a
+15:26 very simple way is the internal things
+15:29 like whether it be that uh
+15:31 shaft kind of thing that uh allowing it
+15:34 to be fit etcetera to be to be made is
+15:36 the approaching process
+15:38 and the the whole thing starts the blank
+15:40 that you see on the left so the the
+15:42 company procures these blanks which look
+15:44 like that and then they do the hobbing
+15:46 process which cuts those teeth that is
+15:48 in the outer side and then the broaching
+15:50 that finishes the insides and similarly
+15:53 it has to make two such gears 3a and 3b
+15:56 in a very similar way and then they're
+15:58 put together into this assembly and
+16:00 quality instruction is done packaging is
+16:03 done and then it's sent to the oe right
+16:05 so that's the whole process that we are
+16:07 going to see
+16:08 uh and we're going to see this from uh
+16:12 the sales end and working backward
+16:14 through the chain right because we're
+16:16 going to see how much is the actual
+16:17 sales of these assemblies and then we'll
+16:20 see
+16:20 okay to make those sales you know what's
+16:22 the amount of gears we need to make and
+16:24 then from there we'll see how how many
+16:27 blanks we need to buy and so on so we're
+16:29 going to go from the right to the left
+16:32 as you proceed to the case study
+16:35 so when i hear the word gear right
+16:40 i think of uh you know when i change my
+16:42 gear in my scooter or on my car
+16:45 and that this assembly is what actually
+16:48 enables it is it
+16:50 absolutely
+16:51 there are different uh transmission is a
+16:53 very complex mechanism but you can think
+16:55 of it as
+16:56 there is a certain amount of power and
+16:58 talk that the engine can create right
+17:01 when you're in a standstill and you want
+17:03 to move forward you need a very high
+17:05 level of torque
+17:07 that means you need a very short gear
+17:09 think of it as a way to move your car
+17:12 forward uh
+17:14 with a with a lot of push right that's
+17:16 the torque that it gives but as you get
+17:18 more
+17:19 you know the vehicle moving now you want
+17:21 to
+17:22 increase the speed of the vehicle and
+17:23 then you are switching to longer and
+17:25 longer gears from the shorter gear so
+17:28 that you get more revolutions on the
+17:30 wheels uh as the car or
+17:33 tubular moves forward so that's the
+17:35 whole purpose of this transmission is
+17:37 actually switch and finger to switch
+17:38 from a state of rest to a state of
+17:41 increasing speeds uh and that's when the
+17:44 horsepower kicks in right when you're on
+17:46 a high speed then you want more
+17:47 horsepower when you're on a very low
+17:49 speed you want more torque and what
+17:51 that's what this gear assembly is
+17:53 enabled
+17:54 and so
+17:56 why would i have 10 different kinds of
+17:58 gear assemblies because there are
+17:60 different car models or there are
+18:02 different uh motorcycle modules is it
+18:05 yes absolutely so if you think about the
+18:07 industry itself there is both passenger
+18:09 vehicles and commercial vehicles and the
+18:11 company supplies to both of them uh if
+18:13 you think of trucks and pickup trucks
+18:16 and so on that's a commercial vehicle
+18:17 segment and then even within the
+18:19 passenger vehicles there are so many
+18:20 manufacturers and most of them have
+18:22 proprietary uh contributions right they
+18:25 make their own or they source it from a
+18:27 certain company that is made for that
+18:29 particular model so when you look at all
+18:31 these different models of transmissions
+18:34 then you need a number of different gear
+18:36 assemblies that go into it
+18:40 so
+18:41 in this
+18:43 slide you mentioned that there are
+18:45 three different kinds of gear assemblies
+18:49 yes um what we will cover in the slide
+18:51 is we want to illustrate an important
+18:53 aspect which was a transition from bar
+18:56 at stage four to bar at stage six that
+18:58 happened on april 1st
+19:01 2020
+19:02 so the supreme court
+19:04 ruled that
+19:06 because of the increasing pollution in
+19:08 the country
+19:09 and the government of course had
+19:11 regulations already in place to move
+19:13 from bs4 to bs6 but there was a clear
+19:15 ruling that march 31st 2020 was the last
+19:18 day that the bs4 equipped vehicles could
+19:21 be sold based on the court ruling and so
+19:24 what you see here is that there are
+19:25 certain assemblies that are used in the
+19:28 uh in the car in the transmissions of
+19:30 the ps4 types of vehicles so the cars
+19:33 that were sold before march 31st 2020
+19:36 used gear assemblies that were fit for
+19:39 bs4 are
+19:40 upgraded for bs4 and then once the new
+19:44 norms kicked in on april 1st 2020 the
+19:47 industry switched to ps6 and and then
+19:50 what happened is some of the parts that
+19:52 were in the transmission act to be
+19:54 redesigned
+19:56 and made more
+19:57 stronger and more resilient
+20:00 to support bs6
+20:02 so what happened is in of the 10 gear
+20:04 assemblies that we're going to discuss
+20:05 in this case study there are six of them
+20:07 that can be used or that were used in
+20:10 both the bs4 and bs6 transmissions the
+20:13 reason being that those particular gear
+20:15 assemblies did not get affected because
+20:17 of this trans transition they continue
+20:19 to be used but there are two parts or
+20:21 two assemblies that were stopped um you
+20:25 know uh when the bs4 ended because those
+20:28 gear assemblies could only be used in
+20:29 the older bs4 transmissions and there
+20:32 are two parts that actually were new
+20:35 parts that started selling just before
+20:37 the transition to bs6 happened
+20:39 and these parts are specifically made
+20:41 for bs6
+20:43 requirements or changes because of the
+20:45 bs6
+20:46 requirements in the transmission so
+20:48 these two parts are new parts that only
+20:51 start selling very close to the date of
+20:53 the launch of the ps6 vapors so you'll
+20:56 see all these examples in the data
+20:58 because you'll see the
+20:60 assemblies one and two which are bs4
+21:01 which you will see that they stop their
+21:03 sales or the sales stop uh they drop off
+21:06 and then they stop when before bs six
+21:09 norms kick in and then you'll see six
+21:11 parts which continue their sales because
+21:13 they are not affected by the transition
+21:15 and you'll see two assemblies that
+21:17 actually start the sales just before the
+21:21 bs6
+21:23 so shift
+21:25 sorry then it's very good
+21:27 this pattern
+21:29 where you see one one type going down
+21:31 another type going up and so on is very
+21:33 typical in manchester right because
+21:35 whenever there's a technology change or
+21:37 when a model is discontinued another
+21:38 model is introduced you will see these
+21:40 transitions isn't it you'll see
+21:41 transition from one type to another
+21:44 yes absolutely i mean some of this is
+21:46 regulatory like from the government but
+21:48 there's a lot of other changes that come
+21:49 because a new model is introduced or a
+21:52 new generation of a car is actually
+21:54 introduced so if you look at a very
+21:56 popular car like honda city right it's
+21:58 it's had four or five generations every
+22:01 six seven years a new generation comes
+22:03 and when you have a new generation of a
+22:05 car um almost everything gets changed
+22:08 it's a new engine typically there's a
+22:09 new transmission so when those things
+22:12 happen as well the component suppliers
+22:14 and the uh the tier one suppliers all
+22:17 have to quickly adapt to that change and
+22:20 start making new assemblies or new parts
+22:22 to to cater to the the new model
+22:25 the
+22:26 the new model generation of the
+22:28 manufacturer right so a lot of changes
+22:30 like this keep happening they're just
+22:32 uh showing in here just one change from
+22:35 vs4 to l6
+22:37 and
+22:39 so so sure the thing that strikes me is
+22:41 that if i make too many bs4 uh
+22:45 assemblies
+22:46 and bs4 cars are no longer being sold
+22:50 then i have a problem no because i will
+22:52 not be able to sell those assemblies uh
+22:55 going forward
+22:56 so i need to plan ahead and figure out
+22:60 exactly how much i want to make
+23:02 absolutely i think you you hit on a very
+23:04 important point there milan this is why
+23:07 planning is so important in this
+23:08 industry right because um there is there
+23:11 is a lead time involved in everything
+23:13 right so so if a manufacturer has to
+23:16 start for example uh making new bs6 cars
+23:19 or stop making bs4 cars
+23:22 then usually let's take the example of
+23:24 the bf6 right the manufacturers start
+23:26 selling new bs6 cars on april 1st that
+23:29 means they have to start making the cars
+23:31 at least one or two months ahead
+23:33 because then they they have to reach the
+23:34 cars to the showroom sometimes
+23:37 and then if the manufacturer has to
+23:38 start a month ahead then
+23:40 the assembly supplier of the assemblies
+23:42 that go into the transmission they have
+23:44 to start probably two months ahead
+23:47 to start providing these parts so that
+23:49 then that can get built and so it goes
+23:52 right if you have if you have to uh
+23:54 provide those parts to one side then the
+23:56 actual raw material the gear blank maker
+23:58 will probably have to do three months
+23:60 ahead before that and so the planning is
+24:02 so important in this industry and time
+24:05 we call it the time phased planning so
+24:07 you have to actually look at buckets of
+24:09 time whether it be months weeks etc and
+24:12 you have to say how much am i going to
+24:14 make and sell in those buckets and
+24:16 therefore
+24:17 what does it mean for the previous
+24:19 bucket for another part of my own
+24:21 factory or my supplier and then and go
+24:24 backward like that so
+24:26 as we get into the data you'll see the
+24:28 time buckets that we use in this mostly
+24:31 the monthly buckets for the two years
+24:33 and you'll see how the transitions
+24:35 actually affect many months ahead of the
+24:38 actual change happening at the end at
+24:40 the end of the day
+24:43 so gdp i think in the fab mart case also
+24:45 we looked at a little bit of this timing
+24:48 variability but there we had only 15
+24:50 days data so we couldn't see too much
+24:52 all right we could see any trends in
+24:54 fact there hopefully we'll see more
+24:56 trends in this one because it's monthly
+24:57 and for a period i think two year data
+24:59 we have let's see how it looks
+25:01 right right
+25:05 so ship why don't you introduce us to
+25:07 some of the people in this country
+25:10 yes absolutely there are we'll consider
+25:12 different roles as we go through the
+25:14 case study
+25:15 just to show you all the different
+25:17 departments that are involved in
+25:18 actually planning
+25:20 scheduling
+25:21 procuring and manufacturing right so the
+25:23 first role we'll see is the sales
+25:25 manager who is responsible for planning
+25:27 the sales of these gear assemblies and
+25:29 forecasting how many how many we need in
+25:31 the future
+25:32 uh that's archana and then you'll hear
+25:34 from swarup who is a production
+25:36 scheduler
+25:37 who has to then make sure that the
+25:39 machines the hobby approaching and other
+25:41 machines are appropriately loaded with
+25:44 the right kind of plans to make the
+25:45 right kind of gears and assemblies uh
+25:48 you'll also see the shop floor manager
+25:50 who is responsible for the day-to-day
+25:51 inventory work in progress which means
+25:54 the product that are still being made on
+25:55 the floor of the factory and the
+25:57 finished goods goes francis and then
+25:60 you'll also see razia who's a purchasing
+26:02 manager who has to make sure that the
+26:04 raw materials are procured in time the
+26:06 blanks are procured so that
+26:08 there is no stoppage to any of the
+26:10 machines for want of raw materials yet
+26:13 trying to make sure we have the right
+26:14 amount of uh raw materials that we don't
+26:17 overly
+26:18 stock more than what we need because
+26:20 every every item you stock there's a
+26:22 cost to buying and stocking that you'll
+26:25 also hear from chandra who's a finance
+26:27 manager
+26:28 who's concerned with profitability
+26:30 revenue and other accounting related
+26:33 items uh because at the end of the day
+26:35 the company has to make money we have to
+26:37 make sure your products are profitable
+26:39 cash is collected at the right time from
+26:41 uh from the customers and so on so
+26:44 you'll hear hear from chandra and also
+26:46 you will talk about ashish's role who's
+26:48 the human resources manager because to
+26:51 run all these machines and think of the
+26:52 factory where there's so many hobbing
+26:54 machines so many approaching machines so
+26:56 many assembly lines you need a lot of uh
+26:59 workforce uh both own workforce
+27:01 employees and contract workforce that is
+27:04 available to run these machines to
+27:06 inspect the products of quality and all
+27:08 that so workforce planning is another
+27:10 key element
+27:12 of manufacturing and we will also meet
+27:15 all of these people as we go through the
+27:17 case study
+27:18 so so gee looks like the finance people
+27:22 do roughly the same activity in all
+27:24 companies because in fab mart also over
+27:27 the finance uh
+27:29 uh person the cfo who had roughly
+27:31 similar concerns right but inventory
+27:34 here
+27:35 uh
+27:36 that looks a little different i think
+27:38 because there
+27:40 it was more about sales right it was
+27:42 more about
+27:44 pushing things to customers while here
+27:46 it is more about sourcing from suppliers
+27:50 it's a combination it's both i think
+27:51 yeah yeah there is also this interesting
+27:54 work in progress which will never be
+27:56 there in a commerce company
+27:58 correct
+27:59 so it's a little bit
+28:01 of difference but i think the finance
+28:03 guys
+28:04 are largely the same in all companies

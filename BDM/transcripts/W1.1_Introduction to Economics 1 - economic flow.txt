@@ -1,0 +1,320 @@
+00:00  Start of segment 2, Introduction to Economics part 1.
+00:22  So, in this segment I am going to introduce to you some very basic concepts in economics.
+00:32  What is the subject of economics about? Why do you need to study economics and the idea
+00:38  of what is called as circular flow in economics? So, this is what I am going to introduce to
+00:42  you in this course. Now, why do we need to do economics, study economics at all? The
+00:48  reason is that in order to understand what companies do and the kind of, if you want
+00:59  to look at their operations or if you want to look at their financial statements or whatever
+01:06  it is and try to interpret the data that is generated from within the company or outside
+01:10  the company about these things, then you need a model.
+01:15  You need some kind of a model into which you have to put all this data and then use that
+01:20  to analyze. So, the models for such analysis usually come from economics. Similarly, understanding
+01:29  consumption and the variation of consumption with other parameters, the linkage of consumption
+01:33  with other parameters like for example, price, inflation, which is overall price increases
+01:40  of several things. These things basically again, economics gives us some idea.
+01:44  And if you look at the data in trade of goods and services, what does the information about trade
+01:51  tell us? So, you can compare economics in some sense to physics. So, physics basically what it
+01:57  does is it tries to create a world view, a picture of the world. And in order to create a picture,
+02:03  for example, you want to study the, if I apply a force to an object, what will happen to the object?
+02:09  You want to understand that. So, you can, of course, you can experiment and you can do all
+02:14  these things. You know that when you apply a force, the body will start to move faster and
+02:19  faster that we know. But how much faster can I calculate and so on? For that I need a mathematical
+02:24  model. Then you find basically that you can write that if I apply a force on the, on a mass m,
+02:31  then it will accelerate by a, where a is given by f by m. We know that. So, now we are using
+02:37  mathematics. We are using division and all that. And we can say that if the initial velocity of
+02:42  this body, of this body is u and if you are accelerating it with an acceleration a,
+02:48  then the final velocity v will be given by u plus a times that amount of time t.
+02:54  Like that you can say something. These are all equations, algebraic equations that you can write
+02:58  which, for which you need mathematics. So, you can write the same thing, like you can write a
+03:02  as a differential of velocity and so on. So, or velocity as a differential of displacement or
+03:08  something like that. And when you do that, you are basically writing all these things in terms of
+03:13  mathematical tools. In the same way, economics tries to model the economic world using mathematics.
+03:18  So, we will create mathematical models of the world using economics and these mathematical
+03:23  models will then be applied to understand the economic world. So, it is like physics in that
+03:27  sense. Think about it like physics, where instead of using mathematical models to model physical
+03:35  phenomena, we are using mathematics to model economic phenomena. Now, the starting point
+03:41  that I am going to, the way I am going to start basically in economics is with trade.
+03:45  So, the thing I want to illustrate to you is that trade creates value. This is a good starting point
+03:49  because it clears the mind in terms of understanding. Look, a lot of people think
+03:54  that trade is something that is very exploitative or something like that. There is a producer,
+03:58  there is a consumer, consumer should buy from the producer, why this middleman is there trying
+04:02  to make money. This is what one thinks. But actually trade creates value. I want to show
+04:05  you why. So, let us say there are two states. In this case, there is a state Punjab state.
+04:12  There is Punjab here and there is Tamil Nadu, two states. So, Punjab is producing excess wheat.
+04:19  Excess wheat means that they are producing some wheat and they are consuming some wheat,
+04:22  the amount of wheat they are producing is much more than the wheat that they need locally.
+04:26  So, they have to do something with the excess wheat. What do they do with the excess wheat?
+04:30  They can store it and keep it and use it later. But next year again, they will produce more wheat
+04:35  than they need. So, they will keep on storing more and more wheat. There is no use for the
+04:38  excess wheat. Similarly, Tamil Nadu is a place where we make phones. You know that a lot of
+04:43  mobile phones in India that are sold in India are all made in Tamil Nadu. So, Tamil Nadu produces a
+04:47  lot of phones, much more phones than they are needed in Tamil Nadu. Now, again, what do they
+04:51  do with excess phones? They can store it. But then again, same problem. You know, you keep storing
+04:56  the phone and next year, that phone is not in fashion anymore. Nobody wants last year's phone,
+05:00  they want this year's phone. So, then what do you do with that phone which was made three years ago?
+05:04  You have to throw it on. So, that is a waste. So, you see basically that there is some potential
+05:09  for us to do something because Punjab is making wheat, Tamil Nadu is making phones, but people in
+05:15  Punjab also need phones. They also are going to use phone, make phone calls to the new phones
+05:20  and people in Tamil Nadu also eat chapati and also they also need wheat.
+05:24  So, you know Tamil Nadu need wheat and wheat is not grown that much in Tamil Nadu and Punjab
+05:30  needs phones and phone is not made in Punjab. So, what is the best way to answer this? The best way
+05:35  to address this is that Punjab sells or gives wheat to Tamil Nadu and Tamil Nadu in return
+05:43  gives mobile phones to Punjab. This is called barter. Barter basically means I give something
+05:49  and you give something back to me. In the very, very old days, this is how people used to do
+05:53  things. They used to make something, I used to make some food or something and you used to have
+05:57  some leather or something like that. I will give you food and you will give me leather.
+06:01  Something like that we used to do, bartering. And so, what is interesting to see in this
+06:08  business of exchange, this is the exchange. So, this is an exchange that is going on. This
+06:13  wheat has gone from here to here and mobile phones have gone from here. So, exchange. So,
+06:17  in this exchange, value is created. How is that? It is created because Punjab has very little value
+06:24  for the excess wheat. I have explained Punjab can only consume some amount of wheat. After that,
+06:28  whatever wheat you are producing, no use for Punjab. So, the value of their excess wheat is
+06:32  nearly 0 for Punjab. On the other hand, in Tamil Nadu there is no wheat. So, people who want to
+06:38  eat chapatis in Tamil Nadu are willing to pay good amount of money to get the wheat. So, there is
+06:42  value for wheat in Tamil Nadu. There is no value for wheat in excess wheat. The first bit of wheat,
+06:48  of course, there is value. After that, the excess wheat, the extra wheat that is there,
+06:52  there is little value for that, whereas Tamil Nadu is valuing it highly. Similarly, the excess
+06:55  phones in Tamil Nadu has very little value, whereas the excess phones are valued very highly
+06:59  in Punjab. So, when a value, low value object is transferred, low elements, the wheat that is not
+07:06  being used in Punjab is transferred to Tamil Nadu where the value is high, you created values
+07:11  for the wheat, even though you did not produce anything. You have not produced wheat, wheat
+07:15  production has happened. You are just transferring the wheat from one place to another and then
+07:19  created value. You created value because people in Tamil Nadu have a much higher value for wheat
+07:24  than people in Punjab. And similarly, people in Punjab have a much higher value for the excess
+07:29  mobile phones than Tamil Nadu. So, by transferring the excess phones from Tamil Nadu to Punjab,
+07:33  you have created value. So, in both directions, both directions you created value. So, this
+07:38  barter trade between Punjab and Tamil Nadu increase the value of both sides.
+07:43  So, this is the fundamental concept on which we build economic model. Economic model being that
+07:49  exchange creates value and then we have to ask the question, this value that is created,
+07:54  basically who shares that value, who gets that value? Does it go to the producer? Does it go all
+07:58  to the consumer? Does it go partly to producer, partly to consumer? Does some amount go to the
+08:03  trade and like that you have to ask. Of course, there is some cost in moving the wheat from Punjab
+08:08  to Tamil Nadu. So, if the all the value that Tamil Nadu is willing to give for the wheat is lost
+08:14  because the cost of transportation, then this trade will never happen. So, you know, you have
+08:20  to look into economics of transportation and also in this calculation. Now, typically you do not do
+08:26  barter. What you do is that the currency is created. So, Punjab sells wheat to Tamil Nadu and
+08:31  then Tamil Nadu gives some currency. In the olden days, the king used to mint the coins with their
+08:36  faces on it or something. Later on, we had national government. So, now we are a government
+08:41  republic of India now. So, we are basically, the Reserve Bank basically is responsible for
+08:49  creating currency. So, the rupees are all basically generated by Reserve Bank of India.
+08:58  So, Punjab will sell wheat to Tamil Nadu and Tamil Nadu will give rupees to Punjab and in turn,
+09:05  Punjab will buy mobile phones and give rupees. So, rupees are flowing like this and then flowing
+09:09  back like this. Wheat is going like this, mobile phone is going like this. So, these are the flows,
+09:12  they are not there. So, trade is settled using money typically.
+09:17  Now, if you look at this diagram a little bit more closely, you will see basically that though
+09:21  I have said Punjab and Tamil Nadu as if they are entities, they are not really like that. You know
+09:25  that inside Punjab, there are people who are growing wheat and there are other people,
+09:29  there are all kinds of people who are not necessarily growing wheat also or even those
+09:33  who are growing wheat also who will consume things. And then there are people inside Tamil
+09:37  Nadu also, there are producers of mobile phones and there are consumers, general consumers.
+09:42  So, it is not the companies that are making mobile phones that are consuming the wheat. Of course,
+09:47  the people working in those companies may consume some wheat, but consumption of wheat is taking
+09:53  place by the people of Tamil Nadu at large. So, we should basically divide it like this. We should
+09:58  say the producers of Punjab are selling wheat to the consumers of Tamil Nadu. Of course, some of
+10:03  those consumers also working for this producer, that is fine. Then these Tamil Nadu producers are
+10:07  selling mobile phones to consumers of Punjab. So, the picture we have really is Punjab producer is
+10:12  there, Tamil Nadu consumer is there, Tamil Nadu producer is there, Punjab consumer is there.
+10:16  Of course, now you can ask, is it not that Punjab consumer is consuming wheat? Of course,
+10:20  he is consuming wheat. So, we should draw that also. So, Punjab consumer is drawing wheat from
+10:24  Punjab producer and giving rupees. And similarly, Tamil Nadu consumer is consuming mobile phones
+10:30  and giving rupees. So, this is the picture we have now, which looks a little better than what
+10:34  we had earlier, because it broke the thing down into producers and consumers. So, we have producers
+10:39  who are producing and consumers. But you see that producer is not necessarily selling here in this
+10:42  case at least, not selling to each other and consumer is not doing anything with each other.
+10:46  So, these two diagonals are empty, whereas all the arrows are like this. So, one could think,
+10:52  why do not we reorganize this in a better way, rather than saying Punjab and Tamil Nadu, of
+10:57  course, Punjab, Tamil Nadu, some trade is going on. But rather than saying Punjab, Tamil Nadu,
+11:01  cannot we put all the producers on one side and all the consumers on the other side,
+11:04  that might be a different picture, more interesting picture maybe. And this is what
+11:08  economics does. It does, it puts all the producers together. So, you have Punjab producers and
+11:13  Tamil Nadu producers have come together, which means Punjab producers, this one and Tamil Nadu
+11:18  producers, this one, these two come together and Tamil Nadu consumers and Punjab consumers
+11:23  have come together. So, they have come together. And I put them all in a big box, this is called
+11:27  the producer box, this is called the consumer box. The producer box is selling wheat and mobile
+11:32  phones to consumers. Some of them are Punjab consumers, some of them are Tamil Nadu consumers,
+11:36  but at this point, I do not care. Of course, if I have to sell it to Tamil Nadu, I have to
+11:40  transport it, so it is additional cost. If I have to sell it to Punjab, maybe I do not have to
+11:43  transport it. Of course, I have to transport, inside Punjab also is transport. But less
+11:46  transport than transporting to Tamil Nadu. So, like that, I can say that I do not care,
+11:51  I will just train them all as consumers and I will figure out what price to sell to Punjab and
+11:56  Tamil Nadu and similarly mobile phones. So, producers are producing wheat and mobile
+12:00  phones, two types of things in this case and the consumers are giving rupees to producers.
+12:04  Now, when you look at this picture, suddenly another thing strikes you.
+12:07  You know, when I looked at this picture, when I looked at this picture like this,
+12:14  it looked like Punjab is getting rupees and it is giving rupees. It is got rupees from Tamil Nadu,
+12:19  so it gave rupees to Tamil Nadu, no problem. It seemed easier. But here, in this picture,
+12:24  there is only rupees going like this. So, where did this fellow get his rupees from?
+12:29  So, this, he is selling, producer is selling all these things, but where did this
+12:34  consumer get his rupees from? So, you know, I will stop a little bit, just pause the video here and
+12:40  think about it a little bit and then you can resume the video. So, I will just give you a
+12:45  little bit of time, think about it. Where did the consumer get his rupees
+12:48  that he can spend on product? Think about that. So, if you have thought about it,
+12:58  you will find basically that the consumer is getting their rupees because they work for the
+13:02  producers. Clearly, they get employed by producers. Producers cannot do anything without
+13:07  three things. One is land, they need land. Why do they need land? Farm needs land to grow things.
+13:13  The factory needs land basically to put up the factory. Second thing they need is labor,
+13:16  they need to employ people. Farm needs a lot of people to sow the crop, to reap the crop and to
+13:23  clean the crop and all that. And the third and to maintain the crop and then they need money.
+13:29  They have to buy materials, they have to buy equipment, they have to do all that. So,
+13:33  for that they need capital. So, where does the land, labor and capital come from? It comes from
+13:38  consumers. So, a consumer might choose to give land on lease or rent or something like that.
+13:43  So, they get rent from that, then they go and work in factories. So, because of that they get paid.
+13:48  So, they get wages from that and they may give capital. So, they may lend money to the company
+13:52  and they get interest on that. So, they may get interest on capital, they may get rent on land
+13:57  and they may get wages. So, three forms of income come, flows back. So, this flow shows basically
+14:05  that the consumer is providing land, labor and capital to firm and getting rupees, that rupee
+14:09  they are spending on producers and buying products. So, this seems to be a circular flow
+14:14  that makes sense. Now, the question that comes really is now when you look at this picture
+14:20  a little bit more carefully, we can ask these consumers that we have written, there is a box
+14:24  called consumers. Who are they? Are they individuals? Now, some things individually we
+14:30  buy like for example, mobile phones we buy individual, but many things that we buy we do
+14:34  not buy for ourselves, we buy for our whole house. Like if I buy rice or wheat or sugar or something,
+14:39  I am buying it for my house, then my house we will cook it and then everybody in the house will eat
+14:43  the same thing. Similarly, if I have rented a house, then that house rent is basically meant
+14:47  for all the people in the house, it is not for me. So, there are many things that we buy in the
+14:51  house or consume in the house, which are not only for ourselves, but for everybody in the house,
+14:55  which is why the unit of consumption in most economic models is basically a household,
+15:03  a house and not a individual, because it is very difficult to disaggregate consumption
+15:08  at the individual level. So, that is why they do at the level of households. So, what I have done
+15:12  is previously I had consumer, I changed consumers to households. So, on this side I have households
+15:18  and easier to enumerate also, what I will do basically is I will go around to house by house,
+15:23  every house has an address and all I will go to the house, knock on the door, go inside,
+15:26  ask them questions, how many people have any house, what do you buy, what did you buy last
+15:30  month and all they will tell me what they bought in the house. So, that is a method of doing a
+15:34  survey house by house. Similarly, if I look at this side, the producer side, there also there
+15:41  some color comes, because households or individuals or whatever do not go to a company,
+15:49  if I want to buy wheat, I do not go to a farmer and buy the wheat, normally, some people might,
+15:53  but normally we do not do that. Similarly, if I want to buy mobile phones, it is not like I walk
+15:57  to Foxconn factory in Sripuram, and try to get the phone from the factory, like I will not even sell
+16:02  it to me, you will say I cannot sell it. So, there is no way to get the phone like that or wheat like
+16:06  that, where do we go, we usually go to a shop, if I want to buy mobile phone, I will go to mobile
+16:10  phone shop or I will buy it online. If I want to buy wheat again, I will go to a grocery shop
+16:14  or something and buy the wheat, that is why I do my purchase, I will buy from someplace.
+16:18  So, it is not the producer who is actually directly giving to the household, there is an
+16:23  entire ecosystem of intermediaries, the producer will sell it to somebody called a wholesaler,
+16:29  the wholesaler will then sell it to a retailer. So, this guy has got Godown, Depot and all that,
+16:34  and he sells it to a retail store, small shop, Kiranal shop or something and the household buys
+16:40  it from the Kiran Apple. So, you have this intermediary called trade, retail trade and
+16:44  wholesale trade. And this basically, this guy is basically the one who is actually making contact
+16:50  with the household to sell. Similarly, on this side, when I look at the land, labour and capital,
+16:56  normally I do not go to a company and give land, my land if I have a large piece of land,
+17:01  some real estate company might take the land from me, buy the land or may take the land from me on a
+17:06  long lease or we may have a joint development agreement and then they will make that land into
+17:10  something usable by a factory, that can be done. Similarly, capital also, I do not go and give
+17:15  directly company, company might raise money from directly from the stock market and I might invest
+17:21  in it, that is possible. But most of the times what we are doing is we are putting our deposit in
+17:24  a bank, which is a financial institution and the bank is basically lending money to the company.
+17:31  So, we put our deposit in the bank, bank basically out of the deposit, a small part
+17:36  is kept aside as a reserve and the rest of it they lend it to producers. So, that is how the producer
+17:42  gets capital. So, there are intermediaries like financial institutions, real estate companies,
+17:47  staffing companies. I will show you later a chart in one of the later segments. I will show you a
+17:53  chart where we will see basically that most of the staffing is not directly by the company,
+17:57  but via temporary staffing agencies. So, the people actually go and work for the staffing
+18:02  companies who then place these people in the companies, that is the way it works.
+18:06  So, the intermediaries like this and like this are very important for making all these transactions
+18:12  happen. So, what we do is we typically call all these things as firms, that is the name,
+18:19  firm, we call them firms. So, retail firms, wholesale firms, factories, banks, all are firms.
+18:29  So, we have different types of firms. So, the entire ecosystem of all the organized things
+18:37  that are there that make, that give products and services to households and employ them and take
+18:46  their capital and make use of it and all, all those things basically they are all called firms.
+18:53  So, you could have even more interesting thing. Like for example, if you take producers,
+18:57  it is not like it is a one single box. I have shown it as a box here, but it is not a box. I
+19:01  am just showing you an example of a car company. A car basically consists of many parts. You know
+19:07  that it has an engine, it has tire, it has seat, it has some electronics, some entertainment system
+19:13  or something and it has windshield, glass and all that. Many other components are there.
+19:18  Now, there are different companies. Engine is made by a different company,
+19:21  tire is made by a tire company. So, Apollo is a company that makes tires, MRF, you see their ads
+19:25  on the television. There are seat companies, separate companies that make seats. There are
+19:29  companies that make electronic systems like Panasonic, Sony and all make electronic systems.
+19:34  There are companies that just specialize in making windshield. So, there are different
+19:38  companies making these parts. And if you take something like a windshield, it needs glass sheet,
+19:43  it needs adhesive, which comes from silica. For seat, you might need plastic, for tire,
+19:50  you might need rubber, for the chassis and engine and all you need steel. So, there are companies
+19:56  that make steel. There is not a steel is making steel and giving it to automotive company,
+19:59  somebody who is making engine, who is then giving it to somebody else like that.
+20:03  So, there is a whole supply chain, whole value chain of companies that are involved in order to
+20:08  get the final car out into your hand. So, this basically shows that, though I have put
+20:15  one box there saying producers, that one box basically can be blown up into a large number
+20:20  of many different types of firms. But as far as we are concerned, we are going to put all of them
+20:24  into this little box here and call it firm. Firm basically means all those things which I talked
+20:30  about. It could be trading company, it could be bank, it could be manufacturing company,
+20:34  it could be a component supplier, it could be anything. All those steel companies,
+20:37  cement company, all of them, energy company, everybody is inside this, transportation company,
+20:42  they are all there. And there are households on this side which we discuss, which are basically
+20:47  houses and these houses are buying goods and services from firms and in return they are
+20:52  giving land, labour and capital. This model, simplified model, in some sense I have distilled
+20:57  all the things we discussed into two boxes like this, some diagrams.
+21:01  This is called the circular flow model. And one can add a little bit more colour into the circular
+21:07  flow model by putting two more boxes like this because we know that households have choice.
+21:13  When I want to buy wheat, I can go, there are many brands of wheat first of all, and I can go also to
+21:19  different shops. I can go to one shop, ask for what is the price of wheat there or atta there
+21:24  and they say it is something. Then I go to another shop, ask what is the price of atta, they say
+21:28  something and compare it and then I will decide basically that the second shop is a better place
+21:32  to buy atta. On the other hand, I might buy sugar from the first shop. So, I do not necessarily buy
+21:35  everything from the same place. This based on my survey of where it is cheaper and all that,
+21:40  I will do it. So, this entire search process or this matchmaking process between product and
+21:45  service is happening in what is called the product market. Now, of course, some of these are
+21:49  physically present as markets in the sense that you might, for example, have in villages and all
+21:54  you have this, this, you know, organized selling, mandis are there, where the organic produce,
+22:01  farmers produce is brought there, consumers, bulk customers come there and then they haggle,
+22:06  they negotiate, they buy and they go. So, that happens or you know, for example,
+22:11  there are these interesting markets that come up on certain days, like for example, on a Saturday,
+22:17  you may have a market where all the producers basically come on to one place by the side of
+22:22  the road and they put up all their wares there and then people come and buy vegetables or something
+22:26  and they go. So, those are the examples of markets. So, markets can be formal, can be
+22:31  informal, can be organized, can be unorganized, all that kind of stuff. But there are intermediation,
+22:37  there is intermediation between firms and households for goods and services through
+22:40  what are called product markets. Similarly, there is intermediation between firms and households
+22:45  for the resources like land, labour and capital, these are called the resource markets.
+22:50  So, this picture, the circular flow picture with firms, households and two types of markets
+22:58  is the crux of the economic model that we will use to understand all the data sources that come
+23:04  from outside a company. Now, I will just put one more box in the middle of this called the
+23:10  government. So, you can ask why is there a government, what is the role of the government?
+23:13  The answer is that the government basically regulates all these things, activities through
+23:19  the means of various things. Like one thing that the government has to do is to give license to
+23:23  firms to operate. It cannot just allow anybody to start producing anything. It has to check that the
+23:28  firm has the ability to do it, it is following the norms correctly, it is financials are correct,
+23:32  it is not cheating customers and so on. It has to check the quality of products that are coming out
+23:36  from this firm. And those areas, all those activities are called public goods. All those
+23:42  services the government is giving, like it might decide that it makes a IT park or a specific place
+23:53  manufacturing setup, where firms can come and some shared facilities may be there. Road will be there,
+23:57  electricity will be there, water will be there, all these arrangements will be there, firms have
+24:01  to just come up, set up and start doing. So, those kinds of public goods, common shared
+24:06  public goods, government provides. And it also may give incentives once in a while to encourage
+24:10  certain things like we have right now in India production linked incentives and so on to encourage
+24:15  firms to get into various sectors of manufacturing. In turn, the government collects taxes from firms,
+24:21  two kinds of taxes. One is sales tax, which is now called goods and services taxes, JST in India.
+24:26  The other tax is income tax. So, the profit that the company makes, part of it you have to pay to
+24:32  the government to go off taxes. Similarly, the government also gives a lot of public goods and
+24:36  services to households. We get a lot of government services like Aadhaar and other things. We also get
+24:41  public distribution ration and all that. We get free food, rice and all these kinds of things we
+24:46  get. Or we may get subsidies, we may get transfers as they are called, direct benefit transfers,
+24:50  DBTs. So, government may just give us some money basically every month, like pension or something
+24:57  like that for old people. They may give some money and then that money we can use to buy goods or
+25:01  they can just give us free rice or something like that through the public distribution system.
+25:06  And in turn, the government collects taxes from people. So, the government basically regulates
+25:11  the system by using incentives and transfers and collects taxes basically to do its operations.
+25:19  This is the role of the government. So, this gives you a broad, very simple picture of economics,
+25:26  what it is all about. In the next segment, I am going to discuss the micro model, the underlying
+25:32  basis of these markets. How do these markets work through demand and supply? That is what I
+25:38  am going to discuss in the next segment. Before I do that, one should understand that somebody
+25:43  may have in their mind this doubt. I mean, we have seen government actually running companies.
+25:54  So, there are these things called public sector enterprises. So, for example, we have in the
+25:59  defence sector, all the manufacturing is done by the government itself. We have State Bank of
+26:05  India, which is a government bank. We also have private banks, ICICI bank is a private bank.
+26:11  The government, there is Indian Oil Corporation, which is basically,
+26:15  it is a government petroleum company and then Reliance is a private petroleum company.
+26:20  So, we have both government and private operating. So, it is what is called the hybrid model. So,
+26:26  sometimes the government may choose to, because they find that certain areas, it is not possible
+26:32  to do public goods and incentivize firms to do certain things. So, government itself decides
+26:38  to get into it like BSNL does telecom or something like that. So, you can do that.
+26:44  Public government can decide to set up its own firm, which is called a public sector enterprise.
+26:48  On the other side, government is also a big consumer of things. So, defence is a great
+26:52  example where the defence consumes so many things. Government also, offices of government,
+26:57  they need various things, they need energy, they need to consume raw material and so on.
+27:03  So, the government is also a consumer. So, government is a producer, sometimes government
+27:08  is a consumer most times. So, we should view the government not only in terms of the taxes it
+27:12  collects and the incentives and public goods that it provides, but also in terms of the government
+27:18  being a producer or consumer. Sometimes you say producer or consumer of last resort in some sense,
+27:24  producer of last resort, because others are not doing it, government gets into it and does it.
+27:29  So, with that, we come to the end of this segment.

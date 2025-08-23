@@ -1,0 +1,531 @@
+00:00 [Music]
+00:15 so uh we saw
+00:18 Trend uh Trend I think we should see the
+00:24 most important thing GV is we saw market
+00:26 share H I would be very curious to find
+00:30 out how market shares changes over can
+00:32 we see just just just one last thing
+00:35 between male and female can we see I
+00:36 mean I don't think there number of
+00:40 transactions on credit card between male
+00:41 and female and count of transactions
+00:43 yeah between male and
+00:47 female ah there is a men seem to be
+00:51 using credit cards quite a bit more ah
+00:53 Try by age also put AG in the column and
+00:58 see not borrower age actually we should
+00:60 should put categories age group
+01:04 yeah how's it
+01:07 saying the senior women seem to be more
+01:11 okay with 23 or 91 so it's like 23 on
+01:18 180 46 on
+01:20 159 for young young females 46 on 159
+01:26 okay which is like just take the
+01:27 percentage 46 159 would how
+01:29 much
+01:52 30% roughly 29% no I think the formula
+01:56 maybe some it's not correct it's not
+01:59 correct okay let me do one 111 and 400
+02:03 hold
+02:05 B 5 divided
+02:13 B7 yeah got it
+02:17 okay somewhat so you can see that the
+02:20 seniors senior women are even more
+02:23 conservative than senior men youngsters
+02:26 a little bit more but not that much
+02:28 difference but the fact is that
+02:31 men are twice as more likely to use
+02:33 credit cards than women okay that's a
+02:37 factor yeah um so if you wanted to sell
+02:41 credit cards you should Target men
+02:43 probably this count you should probably
+02:44 Target men 3250 year old count this is
+02:48 no can average of credit spending
+02:59 also
+03:00 roughly the same roughly the same here
+03:02 there's no difference so this one
+03:04 doesn't seem to have much difference
+03:05 across all categories
+03:08 correct okay all right we got sliced and
+03:11 diced number of things we did sure um
+03:15 yeah you were saying something about so
+03:16 what I was saying is one thing that I'm
+03:19 usually curious is we saw market share
+03:22 right uh by
+03:25 lender so we said
+03:28 lender uh
+03:30 age group we don't
+03:38 need
+03:40 right I'm now very curious to find out
+03:43 how did this change over the
+03:45 years market share Trend H right who's
+03:49 winning with who's
+03:52 losing in the market okay huh yeah
+03:55 that's fine okay so you would put the
+03:57 year on the I'll put the year in the
+04:00 columns column okay you put in the row
+04:04 okay I can flip
+04:06 that ah you got three CS this graph this
+04:09 is okay okay line chart is
+04:13 good but this number now percentage you
+04:16 want you want percentage
+04:22 so I calculator you probably have to
+04:25 calculate I think okay number also says
+04:28 something number says something can
+04:31 otherwise of course this guy is there
+04:34 our favorite guy put it lat we'll see
+04:37 what does it
+04:40 say not that much AG so in
+04:44 fy2 nbfc took slowly fbfc is growing
+04:47 grow H fbfc is gradually creeping up and
+04:53 PSU Banks seem to have lost market share
+04:55 from 19 to 20 at least in this data
+04:59 right
+05:05 broadly broadly H yeah broadly yeah
+05:10 Private Bank also is losing share
+05:11 correct both are losing share to nbfc
+05:13 that's what it's saying
+05:17 H
+05:18 okay nbfc is gaining share you can see
+05:21 it from the numbers also if you look at
+05:22 the numbers I think that go back to the
+05:24 line chart I like that a little better
+05:26 that add more
+05:28 information
+05:31 so the beauty is how easily you can
+05:35 switch see this shows right you can see
+05:39 that U private Banks actually are
+05:41 growing also growing private banks are
+05:43 growing nbfc is growing faster than
+05:46 bankage just kind of
+05:52 looking yeah isn't it
+05:55 yeah
+05:57 correct huh yep in credit cards in
+06:01 credit cards
+06:04 yeah
+06:06 yep what else would you like to see I
+06:09 want to see whether the same Trend year
+06:10 wise you can do instead of PSU private
+06:13 and credit remove that and place of that
+06:15 put age
+06:18 group we saw something some color like
+06:21 that sure but this will give us I think
+06:28 better this is what we saw no this what
+06:31 we saw okay okay okay this is what we
+06:33 saw this is what we saw so there's no
+06:34 change that's the same thing all
+06:37 right you can say take new to
+06:43 credit oh we haven't analyzed new to
+06:45 credit at all shall we look at new to
+06:48 credit yeah so this is
+06:51 Trends I if you want I can remove the
+06:55 years what this is saying
+06:58 is
+07:00 if you look at the people who took loans
+07:02 if 651 people took loans on credit
+07:06 cards 200 of them had not taken any loan
+07:09 before they're totally new this is the
+07:11 first loan they they taking and they're
+07:14 taking it on credit card because it is
+07:16 very easy to access take on credit
+07:18 card I think the first experience people
+07:21 H we don't know some people may take
+07:22 housing loan without having credit card
+07:24 okay all right I understand first time
+07:26 loan takers are taking it on credit card
+07:28 25 of the four out of 651 446 people
+07:32 already had some loan repeat loan don't
+07:36 fire a new correct do the year now I
+07:39 just want to see the trend is there a
+07:45 trend which line are we looking at now
+07:47 what is
+07:50 what oh so what shows is in
+07:56 fy21 people who had not taken loans
+07:59 before became am conservative
+08:01 M that's what it's showing they didn't
+08:04 want to take loans on credit card on
+08:06 credit card whereas guys who are
+08:08 having during coid time lot of people
+08:12 probably took credit card loans so those
+08:14 who had loans those who had credit cards
+08:18 who had experience using credit cards
+08:20 actually they did more of it correct
+08:22 they're divers the things are correct
+08:25 this is cool this is nice H it's very
+08:27 nice can we see a split of this is new
+08:29 to credit by
+08:31 age can why
+08:35 not are the youngsters taking new credit
+08:37 cards or who's taking
+08:39 it not new credit cards but they're new
+08:42 to credit taking new
+08:51 credit doesn't really give us any new
+08:55 information
+08:56 [Music]
+08:58 um
+09:00 doesn't give
+09:04 us 128 or 401 is 30%
+09:09 2791 also 30% it's all the same yeah
+09:13 it's not saying anything it's not saying
+09:14 anything
+09:16 no okay I think we have cut it anyway
+09:20 huh new cred I think we've got some feel
+09:22 for what to do credit card so how many
+09:25 who's taking it who's cutting new credit
+09:27 card or taking notes for the first time
+09:28 on credit card correct what is the
+09:31 average ticket size what is the split
+09:32 male and female what is a split by year
+09:35 how is the trend what is the trend year
+09:36 wise how is it going yes which lender is
+09:38 getting what share right okay we don't
+09:43 know the purpose for which they're using
+09:44 that information we don't have un for
+09:46 credit card you know that is the ease of
+09:50 use of credit card comes from the fact
+09:51 that you don't have to tell why you
+09:53 taking the loan right that's true H yeah
+09:55 that's true when on the other hand when
+09:57 you're taking a housing loan the process
+09:60 is far more intricate yeah but of course
+10:03 the interest rate is much
+10:05 lower you know I mean I somehow get the
+10:08 feeling that this credit card is an
+10:09 urban
+10:10 phenomenon possible okay where
+10:13 unfortunately we don't have that see we
+10:15 don't have Urban rural here we don't
+10:16 have the urban rural thing whereas micro
+10:18 Finance I think the rural finance I'm
+10:20 not sure okay could be maybe this micro
+10:23 Finance Urban but it looks more a rural
+10:25 fom possibly so what might be
+10:27 interesting is to see similar
+10:30 not not everything maybe similar
+10:31 statistics for micr finance if it's
+10:33 there I don't know whether we have the
+10:36 data Let's
+10:40 see we do have some data unfilter it we
+10:43 filtered everything else remove
+10:45 everything all the filters and then do
+10:47 it yeah we
+10:51 have we do have data okay can we find
+10:55 out the minimum and maximum loan size
+10:57 let's start with
+10:58 that
+11:00 this is
+11:02 average so there it was 2100 and 90k if
+11:05 I remember an average 30k was the 30k
+11:08 was average here it's 40K okay so
+11:11 similar size what is the minimum minimum
+11:14 is I
+11:16 think five should give us the minimum
+11:19 yeah 1,00,000 there was 2100 is th000
+11:21 and
+11:24 Max yeah small only you know W one and a
+11:27 half lakhs I think people
+11:30 business loans small business loans from
+11:32 micro so, to one and a half lakhs then
+11:34 average of a bigger range bigger range
+11:37 than credit cards then credit cards yeah
+11:39 looks like that no yeah and age group
+11:42 can we do can we do a pivot now so what
+11:44 did you want to do GV I want to do um
+11:48 micr Finance Loans by uh age group age
+11:51 profile which Okay Age profile is micr
+11:55 finance lending going
+11:56 to okay this is
+11:60 actually let's just
+12:05 restart
+12:08 yeah yeah so what did you want to do
+12:10 GV uh we were looking at micr Finance
+12:13 because it has a rural color I guess so
+12:17 can we do a micr finance profile by uh
+12:21 age group age group so I've selected the
+12:24 entire data let's insert a pivot
+12:28 okay
+12:30 H again sizes size every time I do a
+12:34 pivot this is a
+12:39 problem
+12:40 okay so you want
+12:44 uh segment of loan is micro Finance
+12:48 yeah
+12:50 yeah and uh age
+12:55 uh
+12:57 and count of uh
+12:60 loans account of micr Finance
+13:05 Loans so again
+13:07 here again same thing similar to credit
+13:09 card similar huh similar similar to
+13:12 credit card most of the loans are going
+13:13 to
+13:17 M so I think it's a function of GV who
+13:20 has the ability to repay and who has the
+13:24 appetite to
+13:26 borrow do by year do by year and see we
+13:29 saw some seniors becoming more
+13:31 conservative is it true for micr
+13:34 also other way you have to do
+13:38 switch yeah put a line
+13:50 graph uh here why also started declining
+13:54 everybody's declining actually here
+13:56 unlike credit
+13:58 card yeah huh yeah uh maybe in rural
+14:03 area rural area people impacted by Co
+14:07 correct possibly possibly yeah
+14:10 hypothesis hypothesis yeah appears
+14:14 whereas in urban there was not that much
+14:15 Impact Credit Card spending continued
+14:18 correct ni sir H something it tells you
+14:24 something h h i
+14:27 see it's also possible that micr Finance
+14:30 Loans were more business
+14:32 oriented ah business also suffered isn't
+14:36 it maybe and credit card were more
+14:39 consumption oriented right of course if
+14:41 you do commercial loans you'll get a
+14:42 know yeah the number is too small number
+14:45 is too small yeah number is too small
+14:47 and values are too large so we can try
+14:49 don't vales you count only you can try
+14:55 that numb are too small one two and all
+14:58 you have with you don't want age group
+14:59 you can age
+15:02 group yeah this is
+15:05 going so it's not commercial loans which
+15:08 are urban urban actually Urban rural
+15:10 only it is urban R commercial rural
+15:12 loans are doing well corre credit card
+15:14 is okay correct but micr Finance
+15:17 struggling correct across categories
+15:19 across categories young or medium or
+15:22 senior
+15:25 correct h
+15:28 h some some sense you get some sense you
+15:30 get yeah yeah you get some sense right
+15:36 yeah Okay so we've got some
+15:38 understanding I think JV of how people
+15:41 borrow and how age
+15:46 uh by age group by age group by we know
+15:50 female Mal are borrowing more some some
+15:53 sense we've got we got a sense uh now we
+15:56 have to figure out how to apply this to
+15:58 our original problem
+15:59 remember we want to figure out how many
+16:03 people will take a loan to buy a two
+16:06 wheeler we have two wheer Loan Data
+16:08 that's shall we take a look at that yeah
+16:10 yeah two wheer Loan Data we should look
+16:12 at so we will take type of
+16:18 loan and we will filter
+16:21 on let's compare it with auto loans just
+16:24 just sure we'll first take a look at two
+16:26 wheer loan then we'll they will have
+16:28 similar character I think but we'll find
+16:29 out there could be this kind of little
+16:31 Urban D land
+16:35 two so if you just look over the years I
+16:38 think auto loans seem to have peaked in
+16:41 fy19 little bit of a downward Trend I
+16:44 mean two wheer loans seems to be a
+16:47 downward Trend I think same thing rural
+16:50 I think
+16:51 rural try auto just just for the
+16:54 it try auto and
+16:57 see
+16:59 ah also also Autos have been flat since
+17:03 18 actually they not too many also small
+17:06 number
+17:09 only Auto industry seems to have a flat
+17:12 three or four years yeah can we see
+17:15 ticket size of Auto you can do you'll
+17:18 get an idea of what kind of car they're
+17:20 buying that's I'm trying to use it as a
+17:22 proxy
+17:23 again H so that is going
+17:27 up right right yeah 10 lakhs has gone up
+17:30 to 15 lakhs or 11 lakhs maybe has gone
+17:33 up to 15 lakhs 1 lakh or 11 lakhs one
+17:35 lakh it is 1 lakh oh 1 lakh has gone to
+17:37 one and a half lakhs sorry and same if
+17:41 you do the same thing for
+17:42 two ticket
+17:53 size it's going
+17:56 up but that could just be inflation
+17:59 actually some of this could just be
+18:00 inflation could be no 25 to 30,000 it's
+18:03 very looks like could just be inflation
+18:06 you know the people are buying the same
+18:07 kind of vehicle just that the vehicle
+18:09 has become more expensive so possible
+18:12 loan they need has become more more H
+18:14 yeah just be
+18:19 inflation okay okay so we want to see
+18:22 what do we want to see two wheer loans
+18:23 we want to see by lender type who's
+18:24 Landing to two wheelers yes and then we
+18:26 want to see the trend of that
+18:29 market share of different players in two
+18:31 wheer loans and how it's changing over
+18:33 Years first we'll do the market share
+18:35 without the
+18:37 year P chart what is required
+18:42 here this thing is we don't want so many
+18:46 zeros and we don't want average no we
+18:49 want here we want
+18:52 Count oh wow look at that put in pie
+18:57 chart
+19:05 man is dominated completely by
+19:08 nbfc we saw that already yesterday we
+19:11 saw that yesterday nbfc is dominating it
+19:14 and BSU bank has got not much of a
+19:17 player
+19:18 yes
+19:20 uh okay H Trend can we see
+19:25 wise put the year in Ro
+19:27 yeah
+19:29 and now let's put it in
+19:32 stacked percentage bar
+19:35 chart we hang of this
+19:47 now see
+19:50 Rec has tried to come out in 20 tried to
+19:53 make a attack on
+19:55 it but then Co made
+19:59 dominant player private bank is holding
+20:02 its
+20:04 own okay not much of a change in Trend
+20:07 no they're holding the share
+20:12 yeah if
+20:14 we wanted to look
+20:17 at uh age group Next no no total loan
+20:21 value ah H that may be more better to
+20:26 view as this one
+20:33 H so the total Market went up from let
+20:37 us say 15 lakhs to almost 35 lakhs in
+20:40 two
+20:42 years mostly grow by nbfc look at the
+20:45 NFC thing correct how it's gone but then
+20:48 it has dropped from 35
+20:51 lakh to almost maybe 27 28 lakhs the
+20:56 number of transactions don't seem to
+20:57 indicate it but yeah isn't it it did
+20:59 decline we did decline deine it is this
+21:01 is declining
+21:03 faster value is declining like anything
+21:05 yeah if you want to see the same thing
+21:07 for auto since you were can check what
+21:11 happened number is too small
+21:14 yeah there also is declining yeah but
+21:17 actually if you look at 20 to 21 it has
+21:20 grown a little
+21:22 bit and here if you see PSU banks are
+21:25 much better placed better than two
+21:26 wheelers correct correct isn't it not
+21:28 having a play two whe at
+21:30 all they're only lending in correct
+21:33 correct correct huh you're right isn't
+21:34 it
+21:36 yes they're not lending two wheer
+21:38 they're lending
+21:43 cars
+21:44 okay let's go back to two wheelers yeah
+21:47 two wheelers by age group age group you
+21:51 want uh age group H Group H
+21:54 group drop the lender type let Lo group
+21:59 keep the
+22:04 year and draw a line
+22:12 graph won
+22:23 count now what is it
+22:25 saying seniors are ever
+22:30 have
+22:31 theys nothing has changed nothing has
+22:33 changed but both youngsters
+22:36 and middleaged people have become
+22:39 conservative after
+22:42 F9 saying H yeah youngsters have become
+22:46 even more conservative even more
+22:47 conservative maybe they were not very
+22:49 sure of their job situation Co or
+22:51 whatever right yeah middle age people
+22:54 were a little bit more settled in fact
+22:56 after they quickly recovered because you
+22:57 see after 2021 it's kind of more I think
+22:60 actually after Co lot of people want did
+23:03 not want to travel in bus
+23:06 uh ah so maybe that is what has
+23:10 triggered this saved saved the
+23:14 middle-aged people correct correct
+23:16 possible isn't it yep correct many
+23:19 people said if we don't have in that
+23:21 consumption but if train information
+23:23 consumtion correct have shown in the yes
+23:26 reduction in transport cost correct no
+23:29 isn't it we saw the transport costs were
+23:31 there correct have seen a reduction in
+23:32 public transport cost or in the
+23:34 aspirational pyramid also you could have
+23:35 seen perhaps that you know intention to
+23:37 buy would have been jumping
+23:40 jumping
+23:42 maybe if I look at Auto here instead of
+23:46 two
+23:47 wheeler what is this so
+23:51 this now your your hypothesis but
+23:55 middle-age people said I will stick to
+23:58 us smaller
+23:59 ticket seniors are saying I want to go
+24:01 by car because it's safer correct maybe
+24:04 but middle age people are saying I want
+24:07 to be safe so I'll buy a vehicle of my
+24:09 own youngsters also saying way they also
+24:10 going be car maybe they switch from two
+24:12 wheer to car maybe people switch from to
+24:15 car because of maybe safety reasons but
+24:17 why are the M's dropping the M have
+24:19 dropped m is dropped dramatically
+24:22 dramatically H sharp
+24:24 decline don't know very it's number is
+24:28 small also so we don't know could be
+24:29 anomaly yeah it went up from 1920 that
+24:33 is the interesting thing where everybody
+24:36 else is going
+24:38 down and then it sh
+24:43 fall
+24:44 yeah isn't it
+24:47 yep something some data
+24:52 okay okay what else would you like I
+24:54 mean I think the interesting thing at
+24:56 least for me here mil is that with just
+24:58 some tweaks some drop downs you're just
+24:60 tweaking with the numbers pulling down
+25:01 drop down pulling like a magician
+25:04 playing with a thing it's giving you
+25:07 coming you're just producing graphs yes
+25:10 one after the other after the other
+25:11 right yes quickly you can generate
+25:12 graphs in 10 minutes you can produce
+25:14 five graphs yes huh yes that's the value
+25:16 of this that is the value absolutely
+25:18 it's not just graphs right it's also
+25:21 there's information information you're
+25:23 trying to digest the you know
+25:24 information that's coming in the form of
+25:25 visual right yeah
+25:28 so you can do phenomenal analysis in and
+25:30 I think that is really to my mind GV the
+25:33 purpose of this course right the purpose
+25:35 of this course is to encourage the
+25:37 students to take large sets of data not
+25:41 be large some sets of data sets of data
+25:43 meaningful sets of data and try and
+25:45 slice and dice it in Excel simple
+25:49 different ways ex and usually use just
+25:51 using Excel or Google Sheets Google
+25:53 Sheets basically use the spreadsheet
+25:55 model spreadsheet model and plot the
+25:57 graphs and try to make sense yes right
+26:00 and you can learn a lot like that you
+26:01 can learn a lot enough like that I think
+26:04 that's what it is
+26:07 yeah
+26:12 okay

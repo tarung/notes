@@ -1,0 +1,280 @@
+00:00 foreign [Music]
+00:23 something like 10 percent of sqs were giving us something three units was giving us some
+00:30 36 percent yeah uh so it isn't showing any Pareto rules or
+00:36 80 20 rule correct but uh still maybe does for revenues we don't know we
+00:43 don't know actually that's one of the questions omkar has asked us right he wants us to look at which contributes
+00:48 the most revenues correct so we might as well do that let's do that only thing is that for Revenue we need price and
+00:54 volume yes there's no price here at least in the yes so he has given us
+00:59 price in SQ master the challenge for us is that we have to
+01:04 now get this data into this data we have to import that data we have to import
+01:09 data into sales Master from SQL master now how do we do this so let's say I
+01:16 create a new column called price okay and
+01:22 first let us look at how would I do it manually right I would say I want the price of
+01:28 sko m0 okay the price of SKU m0 is in F 0 1
+01:35 yeah M 0 1 M 0 1 sorry is in available in the table sko master
+01:41 and in that what am I saying it's available in column B it is available the name of the SKU is available in
+01:48 column B yeah which if I say column number one the price is available in column number four
+01:54 because B you're saying is one then C is two D is one C is two D is three and E
+02:01 is four okay so if the name is available in column one one the price is available
+02:06 in column four but you have to say that it's in column B there is one no so correct so we have to say that it is in
+02:12 column B okay okay so now the this manual action that I do I want to
+02:19 do it automatically in Excel okay right so the way to do it is to use a function
+02:25 called vlookup okay okay now what is it that I want to look up I
+02:30 want to look up the value that is in cell B2 yeah yeah and where is the master data to look up
+02:38 available SK Master it is available in SKU master from column
+02:46 B 1 2
+02:53 cell e 31. okay okay that you have put
+02:59 dollars so that it's fixed hey I've put dollars because this is that standard place from where I want to look up okay
+03:04 and uh vlookup assumes that in this range the First Column is what has to be
+03:11 looked up so the First Column is that okay in this case you're starting from B I'm starting from B because I want to
+03:17 look it up in B huh and now I have to tell vlookup which uh
+03:23 column will have the answer that I'm looking for that is f so that is it's e actually I see so that is column number
+03:32 4 whether you would give a number you can't give e no you have to give
+03:38 e okay so you will say column number four okay and then for some technical reasons
+03:46 you have to say that you need an exact match you don't want an approximate match okay I don't know what that is okay false huh okay so you fill the it
+03:54 is the whole thing and that is because I have formatted this as a table if I just left it as a worksheet I would
+04:01 have had to do the double click and drag the formula down or if you format something in the table it feels it will it will automatically fill up so now you
+04:08 can see that it has filled it up right to the end can you check one more just to make sure sixty thousand respect what
+04:14 is that six things I think that's six thousand ah let's take that okay M10 I should be correct I think M10
+04:20 correct correct no yeah M10 sixty thousand yeah okay all right
+04:25 99 F10 is 999 can you check yes F10 is 999. okay
+04:32 n is nine nineteen okay all right sure okay okay yeah I think so yeah yeah and
+04:37 now we can compute the revenue that we are getting from
+04:44 the scale so how do we do that we say how many units did I sell
+04:51 into what is the price I got per unit yeah correct correct that's the definition of Revenue correct
+04:58 and so this is okay it will fill it up okay yeah so now what do I know I I know
+05:04 that by selling m01 in the city of Hyderabad
+05:10 in from Hyderabad m01 on first of April I sold 26 units at a price at an average
+05:18 price of 12 000 and so I got 3 lakh 12 000 as Revenue strictly speaking the
+05:23 price will change delivery it is yeah so here we have taken it as a standard and
+05:28 that's why I think omkar has called it average price it is not called its standard price if you look at SKU Master
+05:35 it's his average price oh I see it doesn't say exact price okay all right fine okay so this is approximate Revenue
+05:41 speaking that sales data should carry the prices okay all right and this we should also filter we should typically
+05:48 it's a good idea to format this as currency
+05:53 okay if you format this as currency then what it will do is it will put
+05:58 typically commas in a place that makes it easy to read like three lakh and Indian correct so now you are looking at
+06:05 three lakh twelve thousand rupees correct so you can actually configure
+06:10 this uh the settings for currency
+06:17 but this number is dollars and then it would have said three hundred and twelve thousand dollars
+06:23 because the American system is different right okay so GB uh
+06:29 now what we have got is we've got the revenue for a given SKU for a given City
+06:35 for a given date what we really need is the revenue for a given SKU across cities across dates
+06:43 so we will have to create a pivot table uh exactly like we did for Revenue correct so let's insert a pivot table
+06:53 and the range we want is we don't want so we
+06:59 want from sales data we want the complete column A
+07:06 to complete column F right yeah so dollar a
+07:12 will say the entire column A and dollar F says the entire column F okay okay so
+07:18 we are selecting from columns a to F okay now if we create a pivot table like that
+07:25 um what do we want we said we wanted for each SKU so s k u goes in the row and we
+07:33 want the sum of Revenue Sigma values correct okay
+07:43 yeah sorry yeah this is good yeah now and I think I did some so because I
+07:50 selected the entire column you will get some elements that are blank so we'll ignore the blanks okay so we'll just
+07:58 put a filter here and we'll it's okay okay so so now
+08:04 uh again we want to sort on your Revenue yeah and remember we cannot uh do that
+08:11 so let's copy faces values or something paste it values yeah
+08:18 and here I will paste this values and once we do that let's sort it yeah
+08:26 so now we're getting the hang of this I think it's easy huh sorry to sort it by sum of
+08:32 Revenue descending order largest to smallest yeah okay yeah
+08:39 okay and that is coming funny because it's not a wide enough thing so now if I and again again you will it may be a
+08:46 good idea uh to format this these cells as currency rupees yeah because
+08:58 format it is
+09:04 currency right and now let's do sum
+09:14 okay right first one is the same first one is
+09:20 the same and second one is cumulative Revenue so
+09:27 far plus this Revenue correct right now you can double click that and now if I
+09:33 double click this yep okay good and let's go do this so
+09:40 let's first go down and look at what is the sum that is the sum
+09:46 for 29. so 429 is the sum so let's let's just look at
+09:51 percentage right so this divided by
+09:59 and this g33 I will make it into a dollar dollar so that
+10:09 okay okay so you can see immediately that the first SKU the top is Ku is giving 25
+10:18 which is what the CFO is worried about that is why that is
+10:23 one quarter of the revenue is coming from one quarter can you imagine one item one item yes generating one quarter
+10:30 yes okay let's look at now so so you see there's an 80 percent
+10:37 and that is actually is it six it's exactly six skills
+10:43 so twenty percent of skus are giving you eighty percent of your Revenue this looks like fake data
+10:49 no I think maybe I don't know okay okay so 20 okay so what are you saying six SK
+10:55 is contributed eighty percent revenues correct uh um
+11:01 all right so on the other hand you are these there are mobiles they're all
+11:08 mobiles it's interesting to see look at the
+11:14 bottom you're not adding any Revenue at all yeah so there are all F's almost
+11:20 one two three four five six F's are there over there seven why are they keeping them
+11:26 this is what they call the tail they should not have them right you don't need to keep this we should ask omkar why they keep these no yeah
+11:34 at least talk mobile okay easy to manage also small unit no
+11:41 keep it in the Shelf will be easier but it's costly item so he has to worry
+11:47 about it yes yes so okay
+11:52 so interesting no very interesting Yeah so basically he's making most of his revenue for mobile top six percent go
+11:58 back to that eighty percent go back to the sales data she is I mean which items are contributing more to the sales no it's
+12:04 not all M right that was something else oh you're talking about the volume data yeah volume
+12:10 yeah no it was actually if there was no there was some f actually there's a blend
+12:16 there's FML ah so if you look at volumes there is a
+12:23 it's a much more diverse across product categories correct correct correct but
+12:28 uh if you look at this because of the price it's Revenue by the price driven by mobile that's why
+12:35 I think they I mean I online I think e-commerce is driven heavily by sales like Mobile sales and I
+12:41 think a lot of times people buy mobiles only on your online because you get more variety or correct you get good deals or
+12:48 something correct yeah okay okay yeah so now maybe in GB one
+12:56 thing that we can do is we can perhaps try drawing this as a
+13:02 chart what do you want to trust that so this data that we have created
+13:09 um uh
+13:16 so if we can hide so let's go this let's create a chart out of this okay let's
+13:23 hide this column hmm
+13:29 and we will call this percentage contribution
+13:35 to Revenue
+13:41 let's select this let's see what chatting produces and we
+13:47 will say make chart insert chart
+13:55 recommended charts oh wow look at that it's actually made a
+14:01 nice turtle it figured out that what how did it figure out that that presentation should be a line and it figured it out huh it
+14:09 figured it out and that thing should be a a bar chart
+14:16 nice right very nice yeah yeah so what is it saying now okay this is
+14:26 so one thing we can do is we can limit this to 100 so if we can click this
+14:32 and so that percentage contribution is cumulative now we have put up your cumulative
+14:38 percentage correct correct correct okay okay I understand correct so the shape of that so that curve should be in this
+14:44 case it's not it's a it's Sharp we should do the same thing for all uh
+14:50 we can do that we can do that shall we do that I see you made it 100 yeah it
+14:55 was going to 120 because I am just made it hundred percent okay that's something that people should generally do right
+15:01 yeah they should they should manage the reason and we should also give a title so we'll call this
+15:14 capital a okay
+15:19 good yeah nice okay let's do the sales parrot also yes so that we have both in
+15:25 one place okay if I go here
+15:31 again actually we had not said this but this is cumulative
+15:38 sales this is
+15:43 percentage contribution
+15:49 sales we will hide this one
+15:59 select this whole table
+16:06 right and say insert recommended charts
+16:12 again nice okay
+16:21 you can see that just if you just go back to that chart look at this chart it's put both of them in the same place
+16:27 I think maybe so you want me to copy it here yeah copy it here because I think the shape wise you can
+16:32 see the difference that is so sharp right that's a this is the kind of chart that you normally see yeah correct okay uh
+16:42 no
+16:49 so yeah let's call this this was volume this volume yeah
+17:08 and again let me limit this to
+17:15 so if a format axis so it will say minimum is so right now the axis thinks
+17:21 it's going from 0 to 1.2 1.2 I should just say it should go up to one okay
+17:28 right and that will give you a nice nice now if I just reduce the size of this so
+17:33 that maybe we see both of them simultaneously
+17:43 yeah right now you can what you were mentioning right the
+17:48 shape of the graph is very different yeah that one is steep this one is like correct very slowly it's gradually
+17:55 growing up okay usually it's not like that okay
+18:00 right at the same time you can see here that the tail almost goes to zero but here
+18:08 the tail is not always going to zero correct correct so it's interesting I think there's some
+18:15 insight here may be worth going and showing these two charts
+18:22 um is there a way Milan that we can
+18:27 see the volume and Revenue together I mean of course you're
+18:32 seeing them as graphs here together but I was saying that we should basically see them on one chart one
+18:38 single chart so one thing we can do because uh that may tell us something also some things are selling in fact we
+18:44 saw that that is true some categories were selling more correct a lot of volumes but very little Revenue
+18:50 some things you are sharing with a lot of Revenue with low volume also correct so you'll see lot of Revenue low volume
+18:56 lot of volume low Revenue a lot of Revenue and volume correct or neither Revenue if it's neither Revenue nor
+19:02 volume I think definitely you shouldn't stock them correct right there's no reason to stock those things correct it's high Revenue
+19:09 definitely it makes sense yes or if you have high volume also there may be some logic
+19:16 so what what that means gva if I just think about what you are saying is you
+19:22 want we will need to get the sum of Revenue and the sum of volume
+19:27 into a single pivot table and then let us try and see if we can get a graph out of that
+19:33 what kind of graph we'll see let's first let's see actually they may suggest a graph okay let's see all right yeah
+19:40 let's see let's see let's see excels there is something yeah yeah but you're right we should get both the
+19:46 sums both the sums into a single single single pivot table single pivot table right so let's go to sales data and now
+19:54 here we have sales which is volumes and revenue yeah yeah so let's insert a pivot table
+20:02 again and again what we want is
+20:12 sales data dollar a to dollar
+20:19 f dollar F yeah you want that right
+20:26 and then we want squirrels
+20:31 we want two entries now yes we want sum of sales and sum of revenues hello
+20:37 so two entries yes all right okay okay this is simple
+20:43 okay you're gonna increase 175 species
+20:53 yeah now we got both now let's see what it recommends okay let's just select so
+20:59 here there is no notion of sorting right because you don't know what you will sort on Sir
+21:05 let's see insert
+21:11 okay it's this may not give us too much Inferno because I don't know I don't
+21:18 like this sir okay let's see
+21:23 this also doesn't give too much info X Y something then what is that x y
+21:29 Ah that's what we want okay let's see scatter plot it's called a scatter plot
+21:34 ah X Y scatter plot is what we want okay this is they are saying
+21:42 take a normal scatter plot because this one yeah that's good enough yeah let's
+21:47 see what it does oh you can't create this chart with data
+21:55 inside a pivot table okay same problem say the same thing let's copy it let's copy it
+22:01 Ctrl C
+22:06 TRL B now see if it recommends
+22:13 no no it didn't know how to do you thought is a mapper
+22:22 charts yeah and we said XY scatter Ah that's correct
+22:28 yeah that's what we want this way
+22:35 okay let's do that and then what we want is actually maybe
+22:43 a good idea to let's look at some of the options
+22:53 um
+23:04 oh wait hold on so it wants we can't do this as Discovery GV we have to say
+23:11 that we will do a scatter plot and then I will insert it so basically what I have to do is I
+23:18 have to create three separate Scatter Plots in the same chart so here is what I have to do okay
+23:25 so now GV we've got you know uh the volumes as well as the revenue uh from
+23:33 a given uh for a given SQ in the same sort of table
+23:42 so now let's try and create a scatter plot okay from a scatter plot is
+23:48 basically you're trying to plot for a single a single sort of SKU or single
+23:55 category you're trying to plot it on two different accesses at the same time you wanted to compare uh you want to put you
+24:02 want to put one on you want to put we'll put probably volumes on x axis and
+24:07 revenue on the y-axis and see okay and then you put this becomes a point okay
+24:12 however you will uh we should recognize that the scales are somewhat different
+24:18 okay so we will have to what we will do is we'll create three different Scatter Plots but overlay them
+24:25 okay so let let me show you how to do that because it's a little bit complicated so let's first thing we'll
+24:30 do is we'll create an empty scatter plot okay so we will say insert and instead
+24:36 of now saying recommended charts we will say insert scatter plot
+24:42 and this is the sort of scatter plot we want okay okay and this if we go
+24:50 let me move this here into this you want to insert this now into this we want to insert the data that is of interest to
+24:57 us all right right so let me just go a little bit to the right okay so for the thing we do is we will
+25:04 say select data and remember I told you we want to do three different series for each for each
+25:12 one for each right so first let us add for fmcg
+25:19 and for fmcg what are we saying the X Series is the volume
+25:24 so that is going to come from here doing this because the scale okay the range of
+25:30 values correct each of these is looking very different okay I understand okay and the Y values are the
+25:38 revenues so the
+25:44 I am actually doing this because I want to see I want to label those can you get the labels so I'll do that we can format
+25:51 it so that the labels come ok now let me add one more series
+25:57 okay the next series is going to be called the same same place the same place
+26:03 oh it will put different scales for each other no it will not so it will you will get them uh the across different scales
+26:11 but you will get them in different colors so you will get a sense of who's contributing what on the scale
+26:18 okay okay so of course you could do it in three different sheets but let's just
+26:24 take a look at what will happen if I do it together three series I have made it into three
+26:30 series currently okay and the next one is
+26:40 going to come from
+26:48 right so now you see what has happened here
+26:53 yeah so you've got orange plots which I think are corresponding to
+27:00 Lifestyle and the blue plots are corresponding to fmcg yeah yeah and I'll
+27:06 add now one more and I'll once you add this it's gone it will go completely it'll go Bonkers yes it will go Bonkers
+27:13 I agree yeah let's take a look uh these two look actually comparatively
+27:20 they are the same scale modulus similar scales yes so of course fmcg obviously expected
+27:25 it's got more volumes and lifestyle has more revenues uh this m01 as a killer I think
+27:34 we'll see what to do right I've got X
+27:43 and then we've got
+27:59 ah okay let's see for that and as expected right it got squished
+28:06 everything correct so all the orange plots and the blue plots are all squished
+28:12 there is one exceptional guy and we have to find out who this is right that is m01 m01 no doubt what else it is yeah
+28:20 okay can we put the level okay let's see how to put the labels so can we get the data
+28:25 labels now yeah so here is what we can do let's say we select uh this entire data Series yeah and if you right click
+28:34 you will get an option to add data labels okay okay now by default it will
+28:41 add the x value corresponding to this data right X or Y values the Y value
+28:47 sorry not the x value it will add the Y value now however we actually don't want the Y value right we want the name of
+28:55 the SK right now if you want to do that what you should do is click on this data
+29:01 label and say format data label um you will get many options here so one of
+29:07 the options will contain values from cell okay I see and you can
+29:13 now pick up the since we are looking at mobile data this is the so we select
+29:20 these cells okay these cells and
+29:26 we now the other thing also we do not want the Y values right so let us remove the Y
+29:32 values and this is what this scatter plot we will get is
+29:43 the other thing we can do GV is perhaps just delete this point it is m01 as we
+29:48 expected yeah yeah we delete it then just see no the entire series got deleted
+29:55 uh
+30:00 and ok so here is what we can do maybe what we can do is we can wrote from that
+30:06 we'll just select the data select the data without him yeah and uh let's start from two remove this
+30:13 edit
+30:18 yeah we will start from 25 right yeah 25 correct correct
+30:25 25 so we reboot one uh what is called which
+30:30 we call outlier correct you remove some extreme value we removed an extreme value and now you can see that the graph
+30:35 looks a little bit more better understandable uh now one thing that we
+30:40 can do and I'll I'll do this is we can copy this plot
+30:46 when we are presenting it to ah omkar GB
+30:51 my suggestion is here is what we will do we will show him this chart
+30:56 but maybe we should delete the mobile series altogether
+31:02 right so we've got one without the outlier but I think the mobile data itself is screwing up the chart is is
+31:09 distorting the chart so let's remove the mobile
+31:14 data and then you will get a different this is looking much cleaner correct
+31:19 correct correct correct that is true that is true so maybe we should just go and show these two charts back to omkar
+31:26 now of course we will need to annotate this a little bit so we will have to add the X titles and Y titles and so on uh
+31:35 so let's I'll do this for one of them

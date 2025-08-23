@@ -1,0 +1,348 @@
+00:00 foreign
+00:04 [Music]
+00:18 we've now understood how to analyze data
+00:20 using pivot tables
+00:23 but honestly it's a little boring isn't
+00:26 it looking at all of these numbers
+00:29 most people
+00:31 tend to lose track of data when they are
+00:34 presented with large data numbers
+00:37 uh instead they absorb the information
+00:39 much better
+00:41 if the same information is presented
+00:45 visually
+00:46 one of the key things that we hope you
+00:49 will be able to learn out of this course
+00:51 is how to not just how to analyze data
+00:55 but also wherever possible present the
+00:58 data with interesting visual
+01:01 representations graphs uh you know and
+01:05 so on
+01:06 and Excel and Google Google Sheets both
+01:10 give us excellent facility
+01:13 to analyze uh and present data visually
+01:18 so let's go back to our original data
+01:21 set right a data set of students uh
+01:23 their grades and their hostels
+01:25 now I want I know that the spread of
+01:29 students is between godavari kaveri
+01:32 sarayu yamuna and Ganga
+01:34 but
+01:35 what does this tell me okay now I want
+01:39 if I want to visually represent where
+01:42 are most of the students living
+01:45 how would I do that
+01:47 let's just select this data so this is
+01:51 the data we want to represent visually
+01:55 go to insert
+01:57 and look at this entire section here
+02:01 is about charts okay
+02:05 now what is the data we want to
+02:07 represent we want to take represent
+02:09 saying we have a total of 30 students
+02:12 and the 30 students are broken up in
+02:15 five hostels right so we want to
+02:17 represent in some sense
+02:20 parts of a whole right the entire class
+02:23 is 30 students some of them are in
+02:26 godavari some of them are in kaveri some
+02:28 of them are in sarayu and so on the most
+02:31 common chart that is used to represent
+02:34 this is called a pie chart
+02:37 so if I pick a 2d pie chart
+02:41 here is what I get right so here is a
+02:44 representation what am I saying the
+02:47 entire circle
+02:49 represents the entire class
+02:53 right
+02:54 and different slices of the circle you
+02:57 think of this like a pizza right except
+02:59 that this pizza you know when I order a
+03:02 pizza from Domino's it typically comes
+03:04 with six uniform slices or eight uniform
+03:06 slices depending on how big the pizza is
+03:09 but this pizza is not does not have
+03:11 uniform slices okay the biggest slice is
+03:17 godavari I think right godavari is the
+03:21 biggest slice then you've got kaveri
+03:24 then you've got sharayu
+03:27 you've got yamuna and then ganga is
+03:29 again a Big Slice right
+03:32 so visually this chart allows you to get
+03:36 an appreciation
+03:37 of how the class is split up amongst the
+03:41 five different hostels
+03:42 now this chart actually is telling you
+03:46 uh
+03:48 some interesting things
+03:50 but let's look at how to actually make
+03:53 the chart a little bit more appealing
+03:55 right
+03:58 now one of the things that I may want to
+04:00 do is to
+04:03 change how
+04:05 I don't want to include as an example
+04:07 ganga in this
+04:08 okay for whatever reason
+04:14 now you see
+04:15 I'm able to filter so this part here is
+04:19 called a legend okay what is the legend
+04:21 the legend is telling us what is the
+04:24 correlation between the color
+04:26 and the data that is being represented
+04:30 so I the color blues deep blue stands
+04:34 for let's say godavari I think
+04:36 the color orange stands for kaveri gray
+04:39 for sarayu yellow for yamuna and Light
+04:41 Blue for Ganga
+04:46 if I wanted to skip ganga for whatever
+04:49 reason
+04:52 then I can just filter and uh
+04:56 now I've just got the data for four
+04:59 hostels right
+05:02 I can also say that don't just show me
+05:05 the slices also tell me how many
+05:07 students are there okay
+05:11 so I could label this data okay so these
+05:15 are called data labels
+05:17 now if I add data labels you can see
+05:20 that godavari has eight students kaveri
+05:24 has five
+05:26 uh Sarah U has six
+05:29 yamuna has three and ganga has eight
+05:34 and I am able to see all of this just by
+05:38 looking at this pie chart I do not have
+05:40 to go and look at this table that I have
+05:43 here right
+05:45 so uh I could do other things I could as
+05:49 an example
+05:51 uh
+05:54 change series chart type so let's say I
+05:57 don't want to look at it
+05:59 uh as a pie chart another interesting
+06:03 thing is to look at it as a bar chart
+06:06 right or what in uh here is called a
+06:10 column
+06:11 okay so let's
+06:14 do this
+06:16 and this is another very very common
+06:18 chart okay
+06:20 uh
+06:21 this is typically used to show
+06:25 performance so I would not perhaps use
+06:28 this to show the breakup amongst hostels
+06:31 but let's say I wanted to look at grades
+06:34 ok now it's an excellent chart to show
+06:39 grades
+06:41 so let's look at
+06:43 grid
+06:44 so it shows you in some sense what not
+06:47 in some sense it it actually does show
+06:50 you how many students got an A how many
+06:52 got a B how many got a C how many got a
+06:55 D
+06:55 and usually this
+06:58 chart should actually be you know sort
+07:01 of symmetric around you know number of
+07:03 A's should be number equal to number of
+07:05 D's number of B should be equal to
+07:07 number of C's right so it should be a
+07:09 nice
+07:10 sort of
+07:12 how do I you know it should be like this
+07:16 our chart is a little bit
+07:19 skewed right
+07:21 uh but
+07:23 the fact that I could draw this uh sort
+07:27 of very easily uh using you know a bar
+07:31 chart gives me a very good indication
+07:34 already uh you know that perhaps the
+07:37 grading has been somewhat liberal right
+07:41 because you can see that the peak is
+07:43 more to the left and not so much to the
+07:46 center
+07:47 okay
+07:48 so this is a very useful chart normally
+07:52 I would use this chart when I'm trying
+07:55 to compare uh you know total number of
+07:59 A's to total number of B's so I'm
+08:00 comparing two uh two holes right so I'm
+08:05 comparing uh the entire set of A's to
+08:08 the entire set of B's to the entire set
+08:10 of C's so the bar chart is most
+08:12 intuitively uh obvious if you are
+08:16 comparing a whole set of one kind let's
+08:20 say I am comparing the total number of
+08:22 cars uh you know with the total number
+08:25 of Auto rickshaws or I am comparing the
+08:27 total number of scooters to a total
+08:30 number of motorcycles
+08:31 a great way to represent would be bar
+08:35 charts uh the next thing perhaps to look
+08:40 at is uh
+08:45 and unfortunately this data doesn't have
+08:48 it but uh let us say and I'll create a
+08:52 new set of data
+08:54 so
+08:55 let's
+08:56 do that
+08:58 uh the third key area where the third
+09:02 key sort of data that we often need to
+09:04 represent is Trends right uh what is the
+09:09 example of a trend example of a trend is
+09:11 how do a student's marks vary across
+09:14 semesters okay and I have just taken a
+09:18 simple data set here this is not a
+09:19 complete data set this is just an
+09:21 example so that you get an understanding
+09:24 so what do I have here I have roll
+09:27 number
+09:28 uh for a semester and marks right so
+09:34 in the first semester this student got
+09:38 uh
+09:41 34 marks the second semester also she
+09:44 got 34 and the third semester she got 28
+09:47 4th semester 34 and so on and so forth
+09:49 right now this data is extremely boring
+09:53 and it's very hard for me to figure out
+09:56 what is really happening with the
+09:58 students marks right now how do I uh
+10:02 sort of get try and get a trend the
+10:05 first thing is I want to see what
+10:07 happens so
+10:10 uh this data is currently uh in a sort
+10:14 of uh it's a table but I want to view it
+10:18 as a two dimensional table right roll
+10:20 number versus semester so of course we
+10:23 know our very powerful tool which is
+10:26 Pivot so let's go and create a pivot
+10:29 and we'll create and in this pivot what
+10:32 we'll do is
+10:33 for a given roll number
+10:35 for a given semester
+10:37 I want to see his or her marks okay
+10:41 and
+10:42 uh something we can see perhaps you can
+10:46 see that student number one
+10:49 has had consistently while of course
+10:51 there have been some ups and downs
+10:53 consistently good marks hmm
+10:57 student number two
+10:59 uh marks first went down then they went
+11:03 up
+11:05 then they again went down
+11:07 in student three actually started off
+11:09 very weak right I think he was perhaps
+11:12 suggesting being in a hostel or whatever
+11:14 but you can see that as time has gone by
+11:17 this guy has figured out uh how to study
+11:21 what he needs to do he's really caught
+11:23 on he's worked hard I think and you can
+11:26 see that his marks have been very good
+11:27 perhaps after the third semester
+11:30 but
+11:31 very hard to sort of see this
+11:34 intuitively right a lot of numbers I'd
+11:38 really like to see this in some form of
+11:40 a picture
+11:41 a very common uh method that people use
+11:46 for doing this is called
+11:50 uh
+11:51 line graphs sorry
+11:54 and there I'm going to insert here so
+11:57 you can see this line or area chart you
+11:60 pick an line chart and pick a 2d line
+12:03 right now what is this showing this is
+12:06 showing you
+12:08 uh
+12:09 students and marks and each line is
+12:14 showing how you know the students have
+12:17 performed in first semester but this is
+12:19 not what I want right I really want what
+12:22 I want is
+12:24 in the
+12:26 x-axis I want semesters
+12:29 and I want one line per student
+12:33 okay so now you can see this is this
+12:37 student you can see really really he
+12:39 shot up right he's shot up
+12:43 and then of course his sort of
+12:46 performances
+12:47 uh
+12:49 quite quite good actually
+12:51 this student is a good student you can
+12:53 see that she is always got like really
+12:56 high grades you know either age or B is
+12:59 but this student sort of has been much
+13:02 more fluctuating right
+13:05 some semesters is
+13:07 performance is not so good other
+13:09 semesters it's very very good so you can
+13:12 see that compared to this table
+13:15 looking at this chart gives you a very
+13:18 intuitive idea of
+13:20 of what is the data what are the trends
+13:24 in the data how does data change with
+13:26 time line graphs are best to represent
+13:30 data changes with time data changes with
+13:34 times are also called Trends and you can
+13:37 see Trends let us say in you know how
+13:41 many people are purchasing from Flipkart
+13:44 or Amazon uh or you know how many people
+13:48 are getting employed in the IT industry
+13:51 how many people are graduating with a
+13:54 BSC in data science all of these Trends
+13:57 all of these sets of data can be viewed
+14:00 as a
+14:02 you know time data sets that vary with
+14:05 time and the best way perhaps to
+14:08 represent some of this is to draw this
+14:12 picture just as
+14:14 uh
+14:15 as a line chart if you if you think that
+14:19 this chart is very complicated what you
+14:21 can do is you know just
+14:25 uh
+14:26 let's just look at the trend for one
+14:29 student right
+14:31 if you just look at the trend for one
+14:33 student
+14:35 you will be able to see
+14:37 ah
+14:39 sorry this let me just move this here
+14:42 you can see that this particular student
+14:44 has done
+14:45 consistently well
+14:47 if I look at the next student
+14:53 you can see that this student's
+14:55 performance has been very volatile
+14:59 and this student is really picked up you
+15:01 know he began sort of weak but once he's
+15:05 got the hang of the course he's done
+15:07 very very well
+15:09 so so this gives you a very good feel
+15:11 for which students are doing well which
+15:14 students perhaps need a little bit more
+15:16 attention and then if I overlay all
+15:19 these four three lines you can see how
+15:22 all the students have done together so
+15:24 you can draw a single line chart you can
+15:26 draw a multi-line chart you know again
+15:29 this is not uh
+15:32 you know some you just have to practice
+15:35 you have to play around you have to be
+15:37 creative with how you represent your
+15:39 data visually but broadly I would say
+15:42 that the bulk of the data that we are
+15:45 going to look at in this course can
+15:48 either be represented as a bar chart
+15:51 as a line chart or as a pie chart in
+15:55 some cases we are going to look at a
+15:56 scatter chart and you know scatter
+15:59 charts are useful if you are looking at
+16:02 three dimensional data but I'll let you
+16:05 go ahead and explore that on your own at
+16:09 some point when we come to uh you know I
+16:13 think it's the case study on e-commerce
+16:15 we will look at scatter charts in some
+16:18 more detail

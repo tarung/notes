@@ -1,0 +1,498 @@
+00:00 [Music]
+00:15 hello all I sukra uh I'm a course instructor for business data management
+00:20 uh in this module we will be doing some analysis on the aspirational data uh in
+00:26 the past weeks uh we have noticed and uh observed the data that was given to us
+00:34 and we called it the consumption data as well as the aspirational data and we
+00:39 dabbled a little into the Credit Data also uh what we will be doing in this
+00:45 module is going through the data and checking out a specific uh set of fields
+00:51 and applying some uh functions of excel uh you can consider this uh module as a
+00:58 run through or um a tutorial of sorts for on uh
+01:04 specific things related to excel uh as well as considering uh the various uh
+01:12 factors that are involved in a specific purchase decision um yeah so let's let's go ahead
+01:19 with that so um story time I recently moved to Chennai and I felt really hot
+01:27 here because uh it is uh really hot here down down south in Chennai and uh the
+01:33 first thing that I considered buying for myself was an air conditioner now uh
+01:39 that connecting the dot with the data that we have right now in the aspirational data also uh we were given
+01:47 a lot of information about uh what all are the incomes of the people that have
+01:56 appeared for the survey uh what do they exactly wish to
+02:01 buy do they wish to buy those things right away um uh what is their income L
+02:06 level where are they located geographically in India uh and other data points like that so let's have a
+02:14 look at the data first and then we can proceed further with it so here we have uh the base data uh if you can see if I
+02:22 if you want I can zoom into it so in the first uh row itself we are able to see
+02:28 that there are a lot of data points and which extend to probably a section
+02:34 which is going to the zero uh so that gives us a lot of data
+02:41 points now to analyze the data we will first need to realize what exactly is it
+02:47 that we are dealing with so to do that we are going to make a new sheet we'll
+02:53 call it data points and here I come back
+02:59 here and I have copied the first row so when once I copy the first row of course we don't we don't want the entire thing
+03:08 to come again in an horizontal manner so here what we will do is we'll go to
+03:13 paste and we'll do transports transpose Now by transposing what we have is
+03:19 instead of having all of them in a single row we have the heads in a single column now here we will identify the
+03:26 things that we might want to look into or we might want to uh consider while
+03:32 anal analyzing and since I mentioned that we'll be dabbling into uh something
+03:39 uh into the data related to air conditioners this is something uh that
+03:45 would be uh these are the fields that
+03:51 cut the following are the fields that we will be looking into and uh we'll see
+03:56 what all data points would be relevant for us for this specific analysis now
+04:02 first thing that we have here is state state is important for us uh where they
+04:08 exactly are placed in India or where they have U mentioned their
+04:14 needs from uh then comes the income group what
+04:19 income uh how much money are they taking in home and how much is their budget capacity that is something that we are
+04:26 interested in right now uh another thing that that we would like to buy which is
+04:32 uh we would like to consider is the air conditioners owned whether they already own an air
+04:39 conditioner while this while this survey was being taken uh another thing would
+04:44 be AC Brands brought air conditioners will buy air conditioners or will buy
+04:50 air conditioner now and also if they think that it is a good time to buy air
+04:56 conditioners or not so these are the few columns that I will highlight as of now
+05:01 but uh scrolling ahead I see that there are there is data about coolers on bought coolers will buy coolers will buy
+05:08 coolers now good time to buy coolers now if anybody knows the difference between
+05:14 uh desert coolers and air conditioners is that desert coolers will take less
+05:19 sort of less amount of electricity their cooling capacity can vary from device to
+05:25 device uh it is not obviously as effective and as uh
+05:30 sophisticated as um an air conditioner and not as expensive also but uh given
+05:37 situations and given locations of different uh coolers being set up uh not
+05:42 all are equally effective everywhere now uh for a desert cooler uh to be
+05:48 effective it has to be a fairly dry area otherwise uh in a place like Chennai uh
+05:54 where there is a very high humidity level coolers are not as effective they
+05:59 they will be effective more so probably in Rajasthan or more Aid areas of Punjab
+06:06 and harana uh but not as effective in Chennai because there is a lot of
+06:11 humidity that is playing uh its Factor so given we have all these data points
+06:17 let's see what we can exactly do with this data so uh to begin with to to make
+06:24 it easier for us to understand this data uh I will clean the data a little so
+06:30 from column C column A we don't really require right now so I can hide this
+06:36 column column C to let's see where our air conditioner data is so I'll contrl F
+06:43 that is search and I'll search for air so uh this is till a right so what I
+06:52 will do is I'll go back [Music]
+06:58 to the point where we have our income which is
+07:06 X that is where huh s uh the column s is where we
+07:12 have uh the income so I will select everything in
+07:19 between from the income column till the Air Conditional
+07:26 column and I will hide all of these because this is some data that we don't really
+07:32 require right now we have with us here on the left of the income we have what
+07:40 state they come in what is the weight of this entire thing we don't really
+07:45 require all these data points at this point so just for uh the sake of a
+07:50 better lesson being recorded uh I will also hide all the
+07:56 data points between uh the state and uh the data
+08:02 before that comes before income group because we don't really require all of that so right now what we can what you
+08:08 can see on the screen is what state they are belonging from their code which we
+08:14 don't really require so I'm going to hide this also whether they are uh in a rural area or an urban area their income
+08:21 group their air conditions owned uh air conditioners owned uh whether they have
+08:28 oh this is this does not make
+08:37 sense uh let's consider the data point that we have brought air conditioners that is they are they have an option of
+08:46 uh sorry they have already purchased an air conditioner or not uh in their house is there an air conditioner or not this
+08:54 seems like a wrong data because there is a lot of nose also here and there is is
+08:60 uh the AC brand that is populated here so I think we're going to delete this data column yeah now we have fairly
+09:08 clean data uh first gives the state what region they are in urban or rural income
+09:14 group uh what is how much are they earning annually whether they have
+09:19 bought an air conditioner whether they want to buy an air conditioner whether they want to buy an air conditioner
+09:24 right now uh do they consider it a good time to buy an air conditioner or not
+09:30 so going further and uh and there are more data points about coolers uh after
+09:36 that I haven't cleaned the data but as a snapshot in the screen that we can see right now we have most of the relevant
+09:43 data that we require okay now the first thing that we will do is we will put a filter because
+09:49 we need to figure out what exactly is happening and how many people have responded exactly so for that I will
+09:56 select the first uh row because that that is where all the heads of the columns are so I will click here on one
+10:04 if you can see this thing is selected uh for making it a little more visible for
+10:10 you I will uh put it in bold I can also change the color of this so it it is
+10:17 visible better again I will click here and then I will go to filters and then I
+10:25 will apply a filter on all of them okay now to figure out how many people have
+10:32 responded to the questions related to air conditioners uh we will click here
+10:39 whether uh if you can see on the formula bar you can see that there is bought air conditioner as an option uh sorry as as
+10:47 a data point and here we can see that there are select all everything is
+10:52 selected we don't want everything selected because we don't want uh to take up the data points of the people
+10:59 who whose data is not available so we will unselect data not available and we
+11:04 will select no and yes Y and N we will select and here we have the clean data
+11:10 of all the people who have responded whether they already own an air conditioner or not okay so we will
+11:18 select all of this and we see here in the bottom corner we see that the count
+11:24 of uh the people who have who possess already an air
+11:30 conditioner is 62 uh sorry my bad so uh 62 is the count of the people who have
+11:36 replied to this specific survey out of which we will see how many people have
+11:42 said yes that they own and uh uh accordingly we can say that these the
+11:48 rest of the people do not own but before we do that I would like to record this
+11:53 uh somewhere and I will write in a new sheet p
+11:60 people uh who have
+12:05 replied to AC related
+12:12 questions so basically this will give us a data point of how many people exactly we are dealing with and we will figure
+12:21 out the rest from here so people who have replied to AC related questions is
+12:26 62 so we have a data from 62 people we'll go back and see who how many of
+12:32 them really own uh own an AC or not so to do this we will unselect all of them
+12:39 and just select why that is they bought an AC they have already bought an AC if
+12:45 the answer to that is yes we will put a filter filter on that and we will say say yes now if we try to figure out how
+12:54 many people have actually bought an AC we see all of these are wise and they
+12:60 are a total of the count that we are getting here is 42 so 42 people have
+13:06 purchased an AC already so here we will uh mention it
+13:12 people with AC's is 42 and people without AC's
+13:20 should ideally be 62 minus 42 but we will
+13:25 still uh we will still see how many people
+13:31 have marked it as a no and ideally it should come out to be 20 so here we have
+13:39 the data points and the count is coming 20 so our data so far analysis has been
+13:45 decently done it is correct okay now this was simple filter
+13:52 application and we didn't really realize much as to this this didn't give us many
+13:58 much of an Insight because we know how many people have replied and we know how many own an AC how many do not own an AC
+14:06 but we need as as an organization we of course need more information about how
+14:12 our users are behaving and where all they are functioning and what is exactly
+14:17 happening to them and with them so to to filter uh and get more Sol of analysis I
+14:24 uh we shall go back and here I will clear all the filters that are there
+14:30 now uh to begin with we should figure out where exactly are our customers placed or where exactly are these
+14:36 citizens Place uh and accordingly we'll figure out where is the um where all are
+14:43 the AC's involved and if there is a specific concentration of AC's in a specific state or
+14:49 not now here uh in the B column we have all the states uh that they are coming
+14:55 from we will not get into the information of which city they are in right now because that is uh then Micro
+15:02 Data then we don't we do not want to do that so let's just take it on a bigger level uh and consider the states that
+15:08 they're coming from here we uh I I can select um pretty
+15:16 much this entire area yeah this much I can see uh till
+15:24 coolers I have selected and now what I can do is there is a
+15:29 single there is a simple way of selecting each and every state and
+15:35 seeing how many people from Andra Pradesh have bought it many of time many
+15:40 of the times I will get data not available to cut with to cut out this
+15:45 thing I will also unselect data not available and then I'll get two people
+15:50 from Andhra Pradesh have got this I can go back and write that
+15:57 Andra Pradesh how many wise how many
+16:04 NOS so two people why and there was Zero
+16:09 NOS so either the data is not available or they own AC's in Andhra Pradesh now
+16:16 doing this for all those 20 plus states that is that are given in the data is going to be a very lengthy process so to
+16:24 tackle which we are going to do something really smart and uh it is going to come in handy for the next of
+16:30 the weeks and uh very significantly in your professional life ahead is
+16:35 something that I call or Excel calls pivoting now pivot is a word that you
+16:41 might have heard in the series friends s something similar to that there is a
+16:46 thing called pivot table that uh we are dealing with right here so again we will
+16:52 select all of this data
+16:57 till let's say cooler we have cooler related
+17:05 data selected with us and now what we will do is we will go to insert section
+17:13 and then we will do a pivot chart or we can also do a pivot table we can do
+17:18 either of them right now I will do a pivot table uh it will ask me whether so
+17:24 the data range that I have selected is in front of you that is the entire data that we have I've selected all of that
+17:30 do I need this table in a new worksheet or in an existing worksheet I'd say I want it in an existing worksheet and uh
+17:38 I'll selected I select the uh radio button for existing worksheet I'll go
+17:44 here and I want the table table to be formed here so I select this and I just
+17:50 press okay here we will see that we have an option of pivot table that is enabled
+17:57 now for us but we also still need to figure out what all values and what all
+18:02 colum what all columns are we analyzing on so uh because we want to figure out
+18:09 where the users are coming from we will first select the state and we'll drag it
+18:14 to rows so here we have the population of all the rows that are
+18:20 here and uh now we will see whether uh
+18:25 what is the condition of air conditioners in um these specific States so here I have
+18:34 uh the column head of bought all bought air conditioners this I can select and I
+18:41 can keep it in values and I will see how many people have replied so 100 people we have 100 data
+18:48 points so of course all of these people have uh responded so in this data we can
+18:54 see we'll be able to see that there are responses that are being recorded for uh uh data not available yes and no these
+19:01 are the three options that we'll get but of course data not available is something that we do not want so what we
+19:08 can do is as filters we can also put this thing again as bought air
+19:13 conditioner as a filter here we will see that uh we are getting all are selected we don't want
+19:21 that so we'll do select multiple items we'll unselect data not available and
+19:27 right now we have yes yes and no right yes and no this comes out to be
+19:33 62 which is exactly equal to people who have replied whether they are 62 or not yeah
+19:40 we are getting the same thing but we already had this data point and we did not need to include uh the intricacy of
+19:49 a pivot table in here so uh we need to figure out more content what exactly is
+19:54 happening so we see this is it these are the the people who have uh all who have an air
+20:03 conditioner at their home and they have replied with a yes that they have already bought an air conditioner
+20:10 now given this data what can we infer or how can we uh really put it in a format
+20:19 which is more legible more understandable more relatable and
+20:24 recognizable so here we have a PE a set of uh data points how many uh air
+20:31 conditions are installed in the specific state of Andra Pradesh in within the given data that we have but to go over
+20:39 all these states is a little tedious task so we will see if we can include a snapshot of this so when I try to uh
+20:48 insert a recommended chart Microsoft Excel is giving me an error showing saying that all of these will not be
+20:55 able uh I mean Excel will not be able to make a chart for me if the data is coming from a pivot table so what I'll
+21:02 do is I'll copy this data and I'll just paste it as values here so I have a
+21:08 non-pivot table with data uh with States and the air conditioners that are there
+21:15 now what I can do is I can insert a thing and here I getting an
+21:21 option of fil filled Maps I'm getting an option of bar charts uh and I'm getting two
+21:29 more options that I'm not really inclined towards so uh let that be since
+21:34 there are states available and there is a Maps option available we'll see how Excel produces this uh sort of a data
+21:43 visualization takes time it will it is
+21:48 accepting yeah perfect now we have an India's map where we can see the
+21:55 population of uh data as per States as per the number of
+22:02 ACS that have been brought within the state now of course we understand that
+22:07 there are not only two AC's in Andra Pradesh there are not only three AC's in
+22:12 West Bengal but given the data this is the plot of that data that we have here
+22:18 this of course when there is uh data in billions it will make more sense it will
+22:24 give you uh a sort of a pattern recognition of sorts as to where exactly
+22:31 um uh the concentration of air conditioners or anything that you plot this data for uh is available in terms
+22:39 of colors in terms of statewise distribution all of that you will be getting um if you do that with a bigger
+22:46 sort of data now this so far we have clear that these
+22:53 are the states this is the distribution this is the map plot of it now what we can figure out more from this specific
+23:02 uh uh pivot table right here is we can also figure out that how many people
+23:11 here are from the urban background and are from the rural background and to do
+23:16 that I can put a filter of the region type now if we go back to region type
+23:22 what is region type saying region type is saying whether they are from an urbal background or a rural
+23:29 background so I'll come back here here uh is my pivot table field first thing
+23:35 that I will select of course apart from everything that has already been selected which is State and that they
+23:42 have a cooler another filter that I want to apply is where they are coming from whether they're coming from a rural
+23:48 background or an urban background so here what I can do is I can easily drag this to the column section and here I am
+23:56 getting a bifurcation of how many are there from rural and how many are there from the urban population so out of 42
+24:05 ACS that have been bought across the country in this data 11 come from rural
+24:10 and 31 come from an urban background so if you want to plot it of course I can
+24:16 insert R rows here and we can write our draw down our inferences here so we say
+24:23 rural population has a to of 11
+24:31 AC's and urban population has a total of 31 AC's as per
+24:39 the given data right so this is another data point that we
+24:45 could figure out with the help of pivot tables uh if you want to run through all
+24:51 of this again you can pause the video go back and follow along as to what exactly
+24:56 I did here or giving you a refresher uh there is when you once you click on the
+25:02 pivot table uh how did we get here we selected all of this we insert then
+25:08 inserted a pivot table after we inserted the pivot table we selected the location
+25:13 of that pivot table which was here somewhere here that I clicked that is when this pivot table appeared this
+25:20 pivot table now we had to insert data points into it so for which in within
+25:27 rows I put the State here I'm getting all the rows populated with states of
+25:32 this of the given data then I applied a filter filter type was brought air
+25:38 conditioner bought air conditioner or not uh where I could eliminate the option of not including um data not
+25:46 available data points so I did that here you can see that there are data not
+25:52 available yes and no so I've only selected yes since I'm interested in only that and moving further there have
+26:01 been uh we we also wanted to figure out how many of them are from a rural
+26:06 background how many of them are from Urban background so I want wanted a column wise bifurcation of how many
+26:14 people are coming from which region type so I selected the region type and dragged it to the column section now I
+26:22 can remove this also same field I can remove field and we're we're back to the
+26:27 regular uh thing but we I will include that here for uh the purpose of data
+26:34 analysis I'll keep this here and with values that you can see values being the most important factor here how many
+26:41 people have purchased it that the count of that I I dragged into the uh into the
+26:48 values box here so if I remove it mostly everything will go let's try and see
+26:55 yeah all the data points here went away because I removed the uh values that
+27:01 need to be fed into the pivot pivot table so if as in when you work more on
+27:07 this data you will realize how uh to operate on pivot tables uh it's fairly
+27:13 easy uh but you do need a few weeks of practice to be absolutely okay with it
+27:21 here I will write again air conditioner sorry a i about air conditioner and I
+27:28 will put it back to values perfect so that was an overview
+27:33 of how to apply filters how to manipulate a pivot table how to add
+27:41 columns how to add rows how to add values within the within a specific uh
+27:47 pivot table and how to apply filters also to sift out data that is uh even
+27:53 more intricate or U there can be a filter applied wherever there can be a
+27:58 filter applied how to apply the that filter now uh in income
+28:05 group now if we click down on this filter button here we will see that there are uh 1 2 3 4 5 6 7 8 9 10 10
+28:18 plus data not available 11 different sort of uh groups income groups
+28:24 available uh how do I get a unique list of all of these now
+28:30 if you are using uh this thing uh Google Sheets uh there
+28:37 is a there is an option of putting a formula which is called the
+28:43 unique formula we will be doing that in a bit uh but within Excel I doubt that
+28:49 there is uh any such option of equal to Unique uh to test this Theory out what I
+28:56 will do is I will do equal unique oh there is
+29:03 unique okay now so since we are dealing with aspirational data let's break down
+29:08 the word aspirational data people are aspiring something people aspire to buy uh goods and commodities and how do they
+29:15 do that with their income that they're getting so we will also need to figure out the incomes of these people and
+29:23 their aspirations whether they can uh afford a AC whether they want to buy an
+29:29 air conditioner or not okay so we will come back to the aspirational data and
+29:35 we will see that we have a column here called income group uh that is the S
+29:40 column that we have here so with this s column uh irrespective of the fact that
+29:46 you're using Microsoft Excel or Google spreadsheets or any other spreadsheet uh
+29:52 there is a Formula or there is a method of taking out un unque uh data points now here
+30:00 what we can see in s column we have uh various different sort of data points so
+30:06 there are 1 2 3 4 5 6 7 8 9 10 plus data
+30:11 not available so there are 11 different sort of uh data points available here but they are repeated over in 100 uh
+30:19 entries so we want to figure out which is the unique data point that we have and where do we have
+30:26 it uh so to tackle that what we will do is I will go at the absolute bottom of
+30:32 it we'll see what all are the unique data points why am I doing this activity
+30:38 is because there are different data points related to incomes uh we need to categorize them in
+30:45 whether they are a low income group a high in a medium in income group or a high income group so that is my main
+30:52 motive of uh motive behind doing this activity here so if I do
+30:60 equals that is to apply a formula and I press
+31:05 unique and I just press tab so it will take the column uh like it'll ask me
+31:11 where exactly am I looking for this data and I select all of
+31:16 this and that's pretty much it so here I'm getting a list of everything that is
+31:26 available uh uh in uh in terms of data entries of this specific column I would
+31:32 call uh there here we have a list that we can see now uh here we have ones T
+31:41 hundreds thousand so there is somebody who is earning 2 lakhs to 2.5 lakhs 1.2 lakhs
+31:48 to 1.5 lakhs 1.5 lakhs to 2 lakhs uh 2.5 lakhs to 3 lakhs 5 lakhs to
+31:57 6 lakhs 3 to 4 lakhs 1 to 1.2 lakhs 4 lakhs to 5 5 lakhs 8 to 9 lakhs and
+32:05 there comes uh one section of 60,000 to 72,000 annually which is barely I think
+32:13 5,000 or 6,000 a month which is very less so we need to uh give them a
+32:22 specific category how we're going to do is I'll just can I'll just cut all of
+32:27 this data and uh where we are doing the analysis I'll just paste this data
+32:32 here okay this is the different data types um income groups we can call
+32:42 them income groups and this is the
+32:48 classification whether they're high income low income or medium income now
+32:54 uh there is a more complicated way of doing it via Excel but uh given the
+33:01 complexity of this lecture and the and for our own ease we will uh enter
+33:08 content by ourselves so we see that 60 to 70,000 is definitely low 8 lakhs to 9
+33:17 lakhs given it is the highest amongst the other uh data points we'll mention it as
+33:24 high uh 4 to 5 lakhs I would consider consider as a mid amount like it's a
+33:31 it's a medium income level so I wrote it mid here 1 to 1.2 lakhs gives us uh an
+33:40 income of maybe 10,000 per month or even lesser uh
+33:46 annually so I would again consider it a low income 3 to
+33:52 4 gives around 30,000 a month which is not too l less but not too much also so
+33:60 I will consider it a medium uh sort of a thing again 5 to six lakhs this is
+34:09 pushing towards a higher end given the given data so I will mention it as high
+34:16 because people are earning around 50,000 50 to 55,000 here per month so uh I will
+34:23 consider it high uh here we have two .5 lakhs to 3 lakhs which comes around 20 to 24,000 a
+34:32 month which I would say is not too much but it's not as less as the rest of them
+34:39 1.5 lakhs to 2 lakhs that is definitely low anything below that is definitely
+34:44 low 20 to 25 again I think it's not too much it's 2,000 something a month that
+34:52 is uh 20,000 something a month I do not consider that uh a very high income so
+35:00 here we can see that we have 1 2 3 four five five low income groups two medium
+35:08 income groups and two high income groups of course this classification is as per
+35:13 my experience and as per um my understanding of money uh for different
+35:19 people this classification will also be different although there has to be a standard uh which if comes in an
+35:26 assignment of course we will mention separately but as of now for the sake of this data and for the sake of this um
+35:34 video lecture we will go with this classification of data and uh for data
+35:40 not available I will write not applicable right now what exactly are we
+35:45 going to do with this data is something that we need to figure out okay we come back to our main sheet and
+35:54 what I will do here is I will in insert a sorry I will
+36:01 insert a column here
+36:13 unhide unhide yeah we have all the things here now I want to insert a
+36:19 specific column here uh and I want to write it as
+36:26 classification I had to unhide the previous columns
+36:31 because uh when I was trying to insert a column here it was inserting a column towards the left which I did not want
+36:38 really so I just previewed T and then uh insert a column in between SNT which now
+36:47 is our classification column here what we will what we will try to do is we'll
+36:53 try to populate it uh its classification as against the uh income group that we
+36:60 have available in the column s so to do that we will do uh the technique of V
+37:06 lookup now V lookup uh we can do when we have a certain set of data and we have a
+37:12 certain set of data that has to be returned against it uh which we already do here which is
+37:20 this this one so I'll come back here and I will do
+37:25 equals we look up what am I looking up is the income group
+37:30 I'll click on this comma where am I looking all of this data at or from I
+37:36 will select this specific set of data comma colum index now since this is
+37:44 the data this is the first row this is the second row I will write two since we're extracting data from the second
+37:51 row and we want an absolute match so it will be a false exact match or it can
+37:57 can I can write either WR F LC false or what I prefer to do is just write zero
+38:03 it understands for zero also now since the data was not available it returned
+38:09 the value as na a now if you notice I have messed up a little here before I
+38:15 copy and apply this entire data for the rest of the rows till uh row
+38:21 101 uh what I need to make sure is that the table that it is referring from has
+38:26 been anchored anchoring data or fixing data is done by the dollar dollar sign
+38:34 uh I can manually also put uh dollar b157 and dollar
+38:42 c168 here but I want to be a little faster in this so the the shortcut that
+38:49 I will be using is F4 uh the function 4 or F4 key that you have on the top row
+38:56 of your key keyboards that is something that you press so if you see I've just pressed F4 and there is dollar dollar
+39:03 applied in front of uh B and 57 again I press dollar and I have dollar
+39:10 c168 now what this did was it anchored my table where I'm getting the data from
+39:16 and when I scroll or when I autofill this entire column my source table will not be
+39:24 deterred anywhere uh this will we look up will take the data range Source from
+39:31 this specific table only it won't move as per it uh as in when it goes down
+39:38 right and now I double click all of this I autofill this and now we can see that
+39:43 22 uh 2 2 lakhs to 2.5 lakhs is low 1.5
+39:49 to 2 lakhs is also low 5 to6 it's showing High 2.5 to3 as we mentioned it
+39:55 there in the in that table it's medium and medium right so here we have the
+40:01 distribution of what is the data that we have here
+40:08 and what is the distribution of it now one thing that you might want to do uh
+40:13 on your own accord is remove these Nas because we don't want a data that is not
+40:19 applicable so let's see how many people are here 62 people have replied similar
+40:25 to the 62 people who had replied for the AC's also now if we wish to do a
+40:33 classification of or a distribution of how many people are in the medium low high category what we can do is I
+40:40 selected both of these things I went to insert
+40:46 and sorry I went to classification just selection classification should be fine
+40:53 insert recommended charts we will see that we
+40:59 have this of course we do not want
+41:06 uh this thing na to show up here I can remove the na field since I don't want
+41:15 that data and here I have the distribution of how many are there how many of them are low income how many of
+41:22 them are medium how many of them are high income uh if I hover over if I keep
+41:29 my mouse over it uh I will get a bubble which will tell me that uh this what is
+41:36 this specific data point what is the value of it how much percent does it take on the pie chart things like that
+41:42 so if we can see here that this is low the orange that we have here I keep my
+41:49 mouse here of course I can add the data labels also which will give me all these
+41:54 details but just to get a quick uh view msxl allows me with this
+42:04 little data balloon so 31 people out of 62 are are
+42:10 in the low income category 7 people are in the high income category and the rest 24 are in the medium uh income
+42:19 category good that we have this data separated now and we can understand what
+42:24 exactly is happening so I will copy this data uh and I'll keep
+42:30 this uh at the place where we're doing mostly all the uh my bad where we're keeping mostly
+42:38 all the information so here I will P this and now I have the data of count of
+42:45 income group high high low and medium and the rest of them are not applicable
+42:51 so it doesn't matter uh about them there'll be a 38 number of uh non
+42:57 applicable we I'm just keeping it to keep the count a total 100 here sum is
+43:03 still 100 so we are okay with this data now what is our um motive behind
+43:10 selecting the income groups and classifying them we want to see what are
+43:16 their behaviors as per buying uh as for buying uh the
+43:22 AC's so again what I will do is I will remove or I will hide
+43:30 um these columns and right here I have low medium
+43:37 high classification of people how many whether they want to buy air
+43:44 conditioners have they already bought air conditioners will they buy air conditioners or will they buy air
+43:49 conditioners now so what I can do is I can unselect all of these I will see
+43:54 what is the uh preference of high income people first okay so when I see there
+44:01 are 1 2 3 4 5 6 7 uh counts of um the
+44:07 high high income data point and all of them I can see here uh have already
+44:13 bought air conditioners okay so uh with the people
+44:18 who have uh High income group it is uh evident and apparent that um all of them
+44:26 would have already bought an air conditioner because this is kind of a luxury item and they can afford it now
+44:33 uh if we say so let's record this data first out of this let's
+44:41 say seven people
+44:47 bought AC's all seven have bought ACS already
+44:54 okay now uh let's see for people with
+45:03 medium unselected medium here we can
+45:08 see that not all have bought air conditioners let's see how many have
+45:14 bought air conditioners we have a total count of 20 people who with medium
+45:19 income have already bought air conditioners so out of 30 out of 24 we
+45:25 have 20 people who have already bought AC's four do not have
+45:30 AC's uh and we go back here and we'll see how many people with low income
+45:36 group have bought already bought
+45:41 AC's oh this is surprising uh and how many have not
+45:47 bought AC's okay so this is bigger number okay so let's unselect this and just select
+45:53 yes out of 31 people a total of 15 that is almost 50% have
+46:00 already bought AC's okay 15 people have AC's
+46:10 already now let us see uh why is this why is it that people with low income
+46:18 are also already having an AC is it something that is required in their
+46:23 state is it getting too hot there uh is it too moist there is something
+46:29 that we'll need to see so uh we can see Maharashtra is a fairly humid
+46:35 State uh Kerala again a fairly humid State
+46:42 Karnataka is a big State uh I'm not sure how humid it remains West Bengal
+46:48 definitely humid Gujarat definitely humid Maharashtra again humid so we we
+46:54 see that majority of the people people who are from the lower uh income group
+46:59 uh because they live in a humid State they have bought an air conditioner it
+47:05 gets really hot uh in my experience here uh so so them buying an air conditioner
+47:13 is a valid thing now given that they are
+47:18 of a lwi income category uh there was an there was a question asked to them will
+47:23 they buy an air conditioner now I want to remove uh any sort of filter that has
+47:29 already been applied here and I will apply here um a low income category I
+47:36 want to see how many of them will buy an air conditioner let's see what is that
+47:42 response so the people who have there are many people here who say that they
+47:48 don't have an air conditioner right now but uh 16 that that is a little more
+47:53 than uh 50 that's almost 50% yeah 50% people
+48:00 are saying that they will buy air conditioners and these people are from the lower income
+48:05 category so I will D the data point here I will say will
+48:14 buy uh here I have 16 people saying that they will buy an air
+48:19 conditioner coming back here let's see uh what is the response for the people
+48:26 with high income group all of them say that they will buy
+48:31 an air conditioner is there anybody saying that they won't buy an air conditioner there is one there are two
+48:37 people who are saying that they won't buy an air conditioner but if we see here they already have an air conditioner so I don't think they
+48:43 require an air conditioner so out of this I'll remove the no and we say we
+48:50 have 1 2 3 4 5 people saying that they want to buy another air conditioner will
+48:58 buy five remaining two people with medium uh category uh of
+49:06 income let's see what is their response oh this is a bigger number now there are
+49:12 many people who don't have air conditioners now here 1 2 3 4 four
+49:18 people out of these responses already do not have an air conditioner but uh we
+49:24 are getting a total of 17 people out of uh 24 who are saying that they will
+49:31 probably buy an air conditioner soon uh they will buy an air condition not soon not sure when but they will buy
+49:39 now we we'll figure out will buy soon or will buy now is something uh that uh we
+49:46 have to consider so I come back here and uh again I clear all filters I
+49:54 want to see how many people people will buy now so this is if you want to read
+50:00 the um formula bar it says will buy air conditioner now this is the condition
+50:08 that we have here uh I will is there a filter already applied
+50:16 no oh okay so here I will remove all things and I will say yes note that I
+50:24 haven't applied any classific any filter on the classification so all of them here are saying that they will buy an
+50:31 air conditioner out of these let's see how many of the lwi income people are
+50:37 okay to buying the uh air condition right away that is again a very big number uh
+50:46 16 people out of uh the 16 people out of the 32 people that
+50:54 we have here say say that they are in a condition and they will buy an air conditioner right now so fine good for
+51:02 them we will go back here and uh 16 is the number that I put here in will by
+51:09 now okay I will make it look a little better so I will make
+51:16 sorry I will format paint this these sections also and now we have a better
+51:25 looking piece of of data will boy and also already bought
+51:32 ACS okay so we checked out for low income so this brings us to 16 people
+51:38 wanting to buy uh the AC right away uh
+51:43 in a similar fashion you can also do for analysis for high and medium uh who for who will be buying now
+51:52 you can also of course do all of these things things that we did uh directly
+51:58 via a pivot table and not by applying filters uh on the data specific directly
+52:03 so that is another approach to um handling this sort of data
+52:10 analysis now we know how different income groups are behaving what
+52:15 different states uh are there with how many AC's uh distributed amongst them uh
+52:23 of course this is a small data so it won't give us the exact picture of how the country behaves but it gives us
+52:31 a platform to start analyzing data at a smaller uh scale and slowly slowly we
+52:39 can increase our um uh data analysis and the amount of
+52:45 data that uh we uh need to churn and we need to sift through to get any sort of
+52:52 insight now uh we have have more data related to coolers whether they have
+52:59 brought coolers whether they are intending to buy coolers uh and of
+53:05 course the states that they are belonging from uh so accordingly we can do a similar analysis uh of coolers and
+53:14 AC's and we can also do a comparative analysis of uh the people who have
+53:20 already bought coolers uh whether they are from the low income category uh and
+53:26 whether they show in interest in buying um AC's in the future or buying AC's
+53:32 right now uh whether uh there is a transition from
+53:37 uh a transition of coolers to AC's in the medium category people and whether
+53:44 uh the people in the high income group are dealing with coolers at all or uh
+53:51 whether they are uh just buying or using air conditioners all the the time so the
+53:56 these are few different uh data points that you can analyze and figure out and
+54:02 compare uh to understand the behavior and purchasing behavior of uh people in
+54:07 different income groups people in different states and accordingly make
+54:12 your inferences uh if you get stuck anywhere feel free to write to us on discourse or
+54:19 on my email ID uh and I would strongly urge all students to do their own
+54:25 analysis given the data make or modify a data or Source data from cm
+54:32 cmei and um that would be really really helpful for you for practicing purposes
+54:39 for understanding the demographics for understanding the customer and uh just for fun insights so that is
+54:48 it from for this tutorial I will see you soon um good
+54:54 day
