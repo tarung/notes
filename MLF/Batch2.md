@@ -22,19 +22,19 @@ A probabilistic model produced by a density estimation algorithm can evaluate ho
 
 ### Probabilistic Models and Their Role
 
-The output of a density estimation process is a probabilistic model \( P \) that maps data points \( x \) from their input space (such as the space of tweets or other forms of data) to positive real numbers representing probabilities. A key property of such models is that the sum of probabilities over all possible data points must equal 1, ensuring that the model is a valid probability distribution.
+The output of a density estimation process is a probabilistic model $P$ that maps data points $x$ from their input space (such as the space of tweets or other forms of data) to positive real numbers representing probabilities. A key property of such models is that the sum of probabilities over all possible data points must equal 1, ensuring that the model is a valid probability distribution.
 
-For instance, if a tweet is represented as a sequence of 128 characters, and each character can be one of 26 lowercase letters (or possibly 27 including a space), the space of all possible tweets is enormous—\( 26^{128} \) possible tweets. The model must assign a probability to every potential tweet such that the probabilities sum to 1.
+For instance, if a tweet is represented as a sequence of 128 characters, and each character can be one of 26 lowercase letters (or possibly 27 including a space), the space of all possible tweets is enormous—$26^{128}$ possible tweets. The model must assign a probability to every potential tweet such that the probabilities sum to 1.
 
 ---
 
 ### Mathematical Formulation of Density Estimation
 
-The goal is to learn a function \( P: \mathbb{R}^d \to \mathbb{R}^+ \) that assigns probabilities to each possible data point in a \( d \)-dimensional space, where \( d \) is the dimensionality of the data. The sum (or integral, in the case of continuous variables) of \( P(x) \) over all \( x \) must be 1.
+The goal is to learn a function $P: \mathbb{R}^d \to \mathbb{R}^+$ that assigns probabilities to each possible data point in a $d$-dimensional space, where $d$ is the dimensionality of the data. The sum (or integral, in the case of continuous variables) of $P(x)$ over all $x$ must be 1.
 
-The learning algorithm receives a dataset consisting of \( n \) samples \( \{x_1, x_2, ..., x_n\} \) drawn from the underlying distribution. The objective is to find a probability distribution \( P \) that assigns high probabilities to data points that resemble the training data, and low probabilities elsewhere.
+The learning algorithm receives a dataset consisting of $n$ samples $\{x_1, x_2, ..., x_n\}$ drawn from the underlying distribution. The objective is to find a probability distribution $P$ that assigns high probabilities to data points that resemble the training data, and low probabilities elsewhere.
 
-To quantify how well a model fits the data, the negative log likelihood (NLL) is commonly used as a loss function. Specifically, for each data point \( x_i \), the model aims to maximize \( P(x_i) \), or equivalently minimize \( -\log P(x_i) \). The average negative log likelihood over the dataset is minimized to find the best model.
+To quantify how well a model fits the data, the negative log likelihood (NLL) is commonly used as a loss function. Specifically, for each data point $x_i$, the model aims to maximize $P(x_i)$, or equivalently minimize $-\log P(x_i)$. The average negative log likelihood over the dataset is minimized to find the best model.
 
 ---
 
@@ -42,21 +42,21 @@ To quantify how well a model fits the data, the negative log likelihood (NLL) is
 
 #### Example 1: Uniform Distributions on the Real Line
 
-A simple illustrative example is presented where the data is one-dimensional, consisting of four data points \( x_1=2.3 \), \( x_2=2.7 \), \( x_3=4.6 \), \( x_4=4.9 \).
+A simple illustrative example is presented where the data is one-dimensional, consisting of four data points $x_1=2.3$, $x_2=2.7$, $x_3=4.6$, $x_4=4.9$.
 
 Three candidate models are considered:
 
-- \( P_1(x) \): Uniform distribution over the interval \([0, 10]\), with density \( \frac{1}{10} \) if \( x \in [0,10] \), zero otherwise.
-- \( P_2(x) \): Uniform distribution over the interval \([0, 5]\), with density \( \frac{1}{5} \) if \( x \in [0,5] \), zero otherwise.
-- \( P_3(x) \): Uniform distribution over the interval \([3, 8]\), with density \( \frac{1}{5} \) if \( x \in [3,8] \), zero otherwise.
+- $P_1(x)$: Uniform distribution over the interval $[0, 10]$, with density $\frac{1}{10}$ if $x \in [0,10]$, zero otherwise.
+- $P_2(x)$: Uniform distribution over the interval $[0, 5]$, with density $\frac{1}{5}$ if $x \in [0,5]$, zero otherwise.
+- $P_3(x)$: Uniform distribution over the interval $[3, 8]$, with density $\frac{1}{5}$ if $x \in [3,8]$, zero otherwise.
 
 The negative log likelihood is computed for each model on the four data points:
 
-- For \( P_1 \), since all data points lie between 0 and 10, the probability for each is \( \frac{1}{10} \).
-- For \( P_2 \), all points also lie between 0 and 5, so the probability for each is \( \frac{1}{5} \).
-- For \( P_3 \), two points (2.3 and 2.7) lie outside the interval [3,8], so their probabilities are zero, meaning the negative log likelihood is infinite.
+- For $P_1$, since all data points lie between 0 and 10, the probability for each is $\frac{1}{10}$.
+- For $P_2$, all points also lie between 0 and 5, so the probability for each is $\frac{1}{5}$.
+- For $P_3$, two points (2.3 and 2.7) lie outside the interval [3,8], so their probabilities are zero, meaning the negative log likelihood is infinite.
 
-Because \( P_3 \) assigns zero probability to some data points, it is rejected. Between \( P_1 \) and \( P_2 \), \( P_2 \) assigns higher probabilities (due to the smaller interval), resulting in a lower negative log likelihood and hence a better fit to the data.
+Because $P_3$ assigns zero probability to some data points, it is rejected. Between $P_1$ and $P_2$, $P_2$ assigns higher probabilities (due to the smaller interval), resulting in a lower negative log likelihood and hence a better fit to the data.
 
 This example illustrates how the choice of model impacts the likelihood score and highlights the importance of selecting models that cover the data well without overly broad distributions.
 
@@ -68,18 +68,18 @@ The video then discusses a more complex example involving nine data points in tw
 
 Two Gaussian mixture models (GMMs) are proposed as candidate models for the data:
 
-- Model \( P_1 \): Mixture of three Gaussian components centered near the clusters in the data, e.g., centers at \((0,0), (4,1), (7,3)\).
-- Model \( P_2 \): Mixture of three Gaussians centered at points not matching the data clusters, e.g., \((5,5), (8,9), (-1,-2)\).
+- Model $P_1$: Mixture of three Gaussian components centered near the clusters in the data, e.g., centers at $(0,0), (4,1), (7,3)$.
+- Model $P_2$: Mixture of three Gaussians centered at points not matching the data clusters, e.g., $(5,5), (8,9), (-1,-2)$.
 
-While the video does not compute exact likelihood values, it is clear that \( P_1 \) better captures the structure of the data since its centers are aligned with the observed clusters, while \( P_2 \) is less representative.
+While the video does not compute exact likelihood values, it is clear that $P_1$ better captures the structure of the data since its centers are aligned with the observed clusters, while $P_2$ is less representative.
 
-Again, the negative log likelihood would be lower for \( P_1 \), making it the preferred model for density estimation.
+Again, the negative log likelihood would be lower for $P_1$, making it the preferred model for density estimation.
 
 ---
 
 ### Generalization and Model Selection
 
-The video emphasizes that in real-world density estimation, one is not restricted to a small set of predefined candidate models (like \( P_1, P_2, P_3 \)). Instead, the learning algorithm explores an entire parametric family or an infinite class of models to find the one that minimizes the negative log likelihood.
+The video emphasizes that in real-world density estimation, one is not restricted to a small set of predefined candidate models (like $P_1, P_2, P_3$). Instead, the learning algorithm explores an entire parametric family or an infinite class of models to find the one that minimizes the negative log likelihood.
 
 This involves balancing model complexity and fit, often using tools from optimization, statistical inference, and machine learning theory to identify the best probabilistic representation of the data’s distribution.
 
@@ -96,7 +96,7 @@ The video concludes by situating density estimation alongside dimensionality red
 ### Core Concepts Covered
 
 - **Density Estimation:** Learning a probabilistic model that assigns likelihoods to different data points.
-- **Probabilistic Model:** A function \( P \) mapping data points to probabilities, summing or integrating to 1.
+- **Probabilistic Model:** A function $P$ mapping data points to probabilities, summing or integrating to 1.
 - **Negative Log Likelihood (NLL):** The loss function used to evaluate how well a model fits observed data.
 - **Model Comparison:** Using NLL to choose the best model from a set of candidate distributions.
 - **Uniform Distribution:** A simple example to illustrate density estimation with continuous data.
@@ -176,14 +176,14 @@ These sets can be extended to higher dimensions via Cartesian products. For exam
 
 Next, the concept of a **metric space** is introduced, which is essentially a set equipped with a distance function (metric). The primary metric used in the course is the **Euclidean distance** on Rᵈ, defined as:
 
-\[ d(x, y) = \|x - y\| = \sqrt{(x_1 - y_1)^2 + \ldots + (x_d - y_d)^2} \]
+$$d(x, y) = \|x - y\| = \sqrt{(x_1 - y_1)^2 + \ldots + (x_d - y_d)^2}$$
 
-where \(x, y \in R^d\).
+where $x, y \in \mathbb{R}^d$.
 
 A key concept related to metric spaces is the **ball**:
 
-- **Open ball** \(B(x, \epsilon)\): The set of points within a radius \(\epsilon\) of a center point \(x\), excluding the boundary.
-- **Closed ball** \(\bar{B}(x, \epsilon)\): The set of points within or on the radius \(\epsilon\) of \(x\), including the boundary.
+- **Open ball** $B(x, \epsilon)$: The set of points within a radius $\epsilon$ of a center point $x$, excluding the boundary.
+- **Closed ball** $\bar{B}(x, \epsilon)$: The set of points within or on the radius $\epsilon$ of $x$, including the boundary.
 
 This distinction between open and closed balls is illustrated in two-dimensional space, emphasizing their importance in analysis and topology within metric spaces.
 
@@ -195,13 +195,13 @@ The video then revisits basic set operations and logic with a focus on Venn diag
 
 - **Union (A ∪ B):** Elements in either set A or B.
 - **Intersection (A ∩ B):** Elements common to both sets.
-- **Complement (Aᶜ):** Elements not in A but in the universe \(V\).
+- **Complement (Aᶜ):** Elements not in A but in the universe $V$.
 - **Set difference (V \ A):** Equivalent to the complement of A.
 
 De Morgan’s laws are highlighted:
 
-1. \((A ∪ B)^c = A^c ∩ B^c\)
-2. \((A ∩ B)^c = A^c ∪ B^c\)
+1. $(A ∪ B)^c = A^c ∩ B^c$
+2. $(A ∩ B)^c = A^c ∪ B^c$
 
 These laws are visually and algebraically verified using examples with intervals on the real line, reinforcing the fundamental logic required for set theory and mathematical reasoning.
 
@@ -224,12 +224,12 @@ These logical tools are essential for formal mathematical statements in analysis
 
 Sequences, defined as ordered collections of elements (often vectors), serve as a foundational concept. Two example sequences in R² illustrate convergent and non-convergent behavior:
 
-1. **Convergent sequence:** \(x_n = (1 + \frac{4}{2^n}, 3 - \frac{4}{2^n})\) approaches the point (1, 3) as \(n \to \infty\).
-2. **Non-convergent sequence:** \(x_n = (\cos(\frac{\pi}{2} n), \sin(\frac{\pi}{2} n))\) oscillates without settling to a limit.
+1. **Convergent sequence:** $x_n = (1 + \frac{4}{2^n}, 3 - \frac{4}{2^n})$ approaches the point (1, 3) as $n \to \infty$.
+2. **Non-convergent sequence:** $x_n = (\cos(\frac{\pi}{2} n), \sin(\frac{\pi}{2} n))$ oscillates without settling to a limit.
 
 The formal definition of convergence in a metric space is provided:
 
-A sequence \(\{x_n\}\) converges to \(x^*\) if for every \(\epsilon > 0\), there exists an \(N\) such that for all \(n \geq N\), \(x_n\) lies within the open ball \(B(x^*, \epsilon)\).
+A sequence $\{x_n\}$ converges to $x^*$ if for every $\epsilon > 0$, there exists an $N$ such that for all $n \geq N$, $x_n$ lies within the open ball $B(x^*, \epsilon)$.
 
 Graphical intuition is given, showing how the convergent sequence eventually stays inside any arbitrarily small ball around the limit point, whereas the non-convergent sequence does not.
 
@@ -243,7 +243,7 @@ The concept of a **vector space** is introduced as a set of vectors closed under
 \text{If } u, v \in V \text{ and } \alpha, \beta \in \mathbb{R}, \text{ then } \alpha u + \beta v \in V.
 \]
 
-The primary example is \(R^d\), which naturally satisfies this property. Other vector space properties exist but are not detailed, emphasizing the importance of closure under linear combinations.
+The primary example is $\mathbb{R}^d$, which naturally satisfies this property. Other vector space properties exist but are not detailed, emphasizing the importance of closure under linear combinations.
 
 The video also covers the **dot product** (inner product) in vector spaces:
 
@@ -254,10 +254,10 @@ x \cdot y = x^T y = \sum_{i=1}^d x_i y_i,
 and the associated **norm**:
 
 \[
-\|x\|^2 = x \cdot x = \sum_{i=1}^d x_i^2.
+$$\|x\|^2 = x \cdot x = \sum_{i=1}^d x_i^2$$
 \]
 
-Orthogonality (perpendicularity) is defined as two vectors \(x, y\) being orthogonal if their dot product is zero:
+Orthogonality (perpendicularity) is defined as two vectors $x, y$ being orthogonal if their dot product is zero:
 
 \[
 x \cdot y = 0.
@@ -275,10 +275,10 @@ Functions are mappings from one set (domain) to another (codomain):
 f: A \to B,
 \]
 
-where \(A\) and \(B\) are sets. The domain and codomain are clarified, with special attention to real-valued functions where the codomain is \(R\).
+where $A$ and $B$ are sets. The domain and codomain are clarified, with special attention to real-valued functions where the codomain is $\mathbb{R}$.
 
-- **One-dimensional function:** \(f: R \to R\).
-- **Multivariate function:** \(f: R^d \to R\).
+- **One-dimensional function:** $f: \mathbb{R} \to \mathbb{R}$.
+- **Multivariate function:** $f: \mathbb{R}^d \to \mathbb{R}$.
 
 The **graph of a function** is defined as:
 
@@ -292,9 +292,9 @@ Visualizing functions is straightforward for one-dimensional functions (plots on
 
 ### Visualization of Two-Dimensional Functions: Contour and Heat Maps
 
-For functions \(f: R^2 \to R\), visualization requires techniques beyond simple plots:
+For functions $f: R^2 \to R$, visualization requires techniques beyond simple plots:
 
-- **Contour plots:** Lines (contours) representing points where the function has constant values. For example, \(f(x) = x_1 + x_2\) can be visualized by plotting lines where \(f(x) = c\) for various constants \(c\).
+- **Contour plots:** Lines (contours) representing points where the function has constant values. For example, $f(x) = x_1 + x_2$ can be visualized by plotting lines where $f(x) = c$ for various constants $c$.
 
 Contours resemble geographic isotherms or isobars, indicating levels of equal value.
 
@@ -302,8 +302,8 @@ Contours resemble geographic isotherms or isobars, indicating levels of equal va
 
 Examples include:
 
-- \(f(x) = x_1 x_2\), where contour lines form hyperbolas.
-- \(f(x) = x_1^2 + x_2^2\), where contours are concentric circles, and the heat map is circularly symmetric.
+- $f(x) = x_1 x_2$, where contour lines form hyperbolas.
+- $f(x) = x_1^2 + x_2^2$, where contours are concentric circles, and the heat map is circularly symmetric.
 
 The video explains how increasing the number of contours or adjusting color scales can enhance visualization.
 
@@ -356,10 +356,10 @@ The video concludes by summarizing the key mathematical tools and visualization 
 ### FAQ
 
 **Q: What is the difference between open and closed intervals?**  
-A: Closed intervals include the boundary points \(a\) and \(b\), whereas open intervals exclude these boundary points.
+A: Closed intervals include the boundary points $a$ and $b$, whereas open intervals exclude these boundary points.
 
 **Q: How is convergence of a sequence defined in a metric space?**  
-A: A sequence converges to a point \(x^*\) if for every radius \(\epsilon > 0\), all sequence elements beyond a certain index lie within the \(\epsilon\)-radius ball centered at \(x^*\).
+A: A sequence converges to a point $x^*$ if for every radius $\epsilon > 0$, all sequence elements beyond a certain index lie within the $\epsilon$-radius ball centered at $x^*$.
 
 **Q: Why are vector spaces important in machine learning?**  
 A: Vector spaces provide the framework for handling data points, features, and parameters as vectors, enabling linear algebra operations fundamental to many algorithms.
@@ -386,23 +386,23 @@ This comprehensive summary covers all the critical concepts presented in the vid
 
 - ([00:00](https://www.youtube.com/watch?v=yvaPORg2w9c&t=0s)) ### Summary
 
-This lecture provides a foundational review of univariate calculus concepts essential for understanding machine learning. It focuses primarily on the notions of continuity and differentiability of real-valued functions from \(\mathbb{R}\) to \(\mathbb{R}\). The lecture revisits the formal definitions, offers illustrative examples, and explores the relationship between continuity and differentiability, preparing students for later modules involving derivatives and linear approximations.
+This lecture provides a foundational review of univariate calculus concepts essential for understanding machine learning. It focuses primarily on the notions of continuity and differentiability of real-valued functions from $\mathbb{R}$ to $\mathbb{R}$. The lecture revisits the formal definitions, offers illustrative examples, and explores the relationship between continuity and differentiability, preparing students for later modules involving derivatives and linear approximations.
 
 ---
 
 ### Continuity of Functions
 
-The lecture begins with a formal definition of continuity for a real-valued function \(f: \mathbb{R} \to \mathbb{R}\). A function \(f\) is said to be continuous at a point \(x^*\) if for every sequence \((x_i)\) converging to \(x^*\), the corresponding function values \(f(x_i)\) converge to \(f(x^*)\). In other words:
+The lecture begins with a formal definition of continuity for a real-valued function $f: \mathbb{R} \to \mathbb{R}$. A function $f$ is said to be continuous at a point $x^*$ if for every sequence $(x_i)$ converging to $x^*$, the corresponding function values $f(x_i)$ converge to $f(x^*)$. In other words:
 
 \[
 \lim_{x \to x^*} f(x) = f(x^*)
 \]
 
-This definition ensures that as inputs approach \(x^*\), the function values smoothly approach the function's value at \(x^*\), with no sudden jumps or breaks.
+This definition ensures that as inputs approach $x^*$, the function values smoothly approach the function's value at $x^*$, with no sudden jumps or breaks.
 
 **Example 1: Continuous Function**
 
-The function \(f(x) = x^2\) is continuous at \(x^* = 2\). To verify this, consider a sequence \(x_i\) such as \(3, 2.5, 2.25, \ldots\), which converges to 2. The corresponding function values \(f(x_i) = x_i^2\) produce a sequence \(9, 6.25, 5.0625, \ldots\), which converges to \(4 = f(2)\). This confirms continuity at \(x = 2\). More broadly, \(f(x) = x^2\) is continuous for all \(x \in \mathbb{R}\).
+The function $f(x) = x^2$ is continuous at $x^* = 2$. To verify this, consider a sequence $x_i$ such as $3, 2.5, 2.25, \ldots$, which converges to 2. The corresponding function values $f(x_i) = x_i^2$ produce a sequence $9, 6.25, 5.0625, \ldots$, which converges to $4 = f(2)$. This confirms continuity at $x = 2$. More broadly, $f(x) = x^2$ is continuous for all $x \in \mathbb{R}$.
 
 **Example 2: Discontinuous Function**
 
@@ -416,13 +416,13 @@ f(x) = \begin{cases}
 \end{cases}
 \]
 
-is discontinuous at \(x^* = 0\). Two sequences are considered here, both converging to 0: \(x_i = 1, \frac{1}{2}, \frac{1}{4}, \ldots\) and \(x_i = -1, -\frac{1}{2}, -\frac{1}{4}, \ldots\). The function values for the first sequence are all 1, converging to 1, while for the second sequence, the values are all \(-1\), converging to \(-1\). Since these two limits differ and neither equals \(f(0) = 0\), the function is not continuous at 0.
+is discontinuous at $x^* = 0$. Two sequences are considered here, both converging to 0: $x_i = 1, \frac{1}{2}, \frac{1}{4}, \ldots$ and $x_i = -1, -\frac{1}{2}, -\frac{1}{4}, \ldots$. The function values for the first sequence are all 1, converging to 1, while for the second sequence, the values are all $-1$, converging to $-1$. Since these two limits differ and neither equals $f(0) = 0$, the function is not continuous at 0.
 
 **Additional Examples**
 
-- A piecewise function \(f(x) = 2x + 1\) for \(x > 1\) and \(3\) for \(x \leq 1\) can be continuous, depending on the values at the boundary.
-- The function \(f(x) = \frac{1}{x}\) is not continuous at \(x = 0\) because it is undefined there. Even sequences approaching 0 from the positive side produce function values that diverge to infinity.
-- \(f(x) = \sin\left(\frac{1}{x}\right)\) is discontinuous at zero. Sequences approaching zero yield wildly oscillating function values, preventing a well-defined limit.
+- A piecewise function $f(x) = 2x + 1$ for $x > 1$ and $3$ for $x \leq 1$ can be continuous, depending on the values at the boundary.
+- The function $f(x) = \frac{1}{x}$ is not continuous at $x = 0$ because it is undefined there. Even sequences approaching 0 from the positive side produce function values that diverge to infinity.
+- $f(x) = \sin\left(\frac{1}{x}\right)$ is discontinuous at zero. Sequences approaching zero yield wildly oscillating function values, preventing a well-defined limit.
 
 The lecture emphasizes that a function is continuous if it is continuous at every point in its domain.
 
@@ -430,25 +430,25 @@ The lecture emphasizes that a function is continuous if it is continuous at ever
 
 ### Differentiability of Functions
 
-Moving from continuity, the lecture introduces the concept of differentiability. A function \(f: \mathbb{R} \to \mathbb{R}\) is differentiable at a point \(x^*\) if the following limit exists:
+Moving from continuity, the lecture introduces the concept of differentiability. A function $f: \mathbb{R} \to \mathbb{R}$ is differentiable at a point $x^*$ if the following limit exists:
 
 \[
 \lim_{x \to x^*} \frac{f(x) - f(x^*)}{x - x^*}
 \]
 
-If this limit exists, it is defined as the derivative of \(f\) at \(x^*\), denoted \(f'(x^*)\).
+If this limit exists, it is defined as the derivative of $f$ at $x^*$, denoted $f'(x^*)$.
 
 **Key Relationship Between Continuity and Differentiability**
 
-- If \(f\) is not continuous at \(x^*\), it cannot be differentiable at \(x^*\).
+- If $f$ is not continuous at $x^*$, it cannot be differentiable at $x^*$.
 - However, the converse is not true: a function can be continuous but not differentiable at a point.
 
 **Example: Continuous but Not Differentiable**
 
-The absolute value function \(f(x) = |x|\) is continuous everywhere but not differentiable at \(x^* = 0\). To see why, consider two sequences:
+The absolute value function $f(x) = |x|$ is continuous everywhere but not differentiable at $x^* = 0$. To see why, consider two sequences:
 
-- \(x_i = 1, \frac{1}{2}, \frac{1}{4}, \ldots\) approaching 0 from the right.
-- \(x_i = -1, -\frac{1}{2}, -\frac{1}{4}, \ldots\) approaching 0 from the left.
+- $x_i = 1, \frac{1}{2}, \frac{1}{4}, \ldots$ approaching 0 from the right.
+- $x_i = -1, -\frac{1}{2}, -\frac{1}{4}, \ldots$ approaching 0 from the left.
 
 Calculating the difference quotient:
 
@@ -473,7 +473,7 @@ f(x) = \begin{cases}
 \end{cases}
 \]
 
-The function is not continuous at \(x = 2\) because the limits from the left and right differ (\(12\) from left, \(10\) from right). Therefore, it is also not differentiable at \(x = 2\).
+The function is not continuous at $x = 2$ because the limits from the left and right differ ($12$ from left, $10$ from right). Therefore, it is also not differentiable at $x = 2$.
 
 **Example: Continuous but Not Differentiable at a Point**
 
@@ -486,7 +486,7 @@ f(x) = \begin{cases}
 \end{cases}
 \]
 
-This function is continuous at \(x = 2\) since both sides approach the same value. However, the derivative from the right is 4, and from the left is 2, so the derivative does not exist at \(x = 2\).
+This function is continuous at $x = 2$ since both sides approach the same value. However, the derivative from the right is 4, and from the left is 2, so the derivative does not exist at $x = 2$.
 
 ---
 
@@ -494,15 +494,15 @@ This function is continuous at \(x = 2\) since both sides approach the same valu
 
 The lecture offers an intuitive geometric interpretation of the derivative as the slope of the tangent line to the curve at a point.
 
-The derivative at \(x^*\) can be expressed as:
+The derivative at $x^*$ can be expressed as:
 
 \[
 f'(x^*) = \lim_{h \to 0} \frac{f(x^* + h) - f(x^*)}{h}
 \]
 
-This limit represents the slope of the secant line connecting \((x^*, f(x^*))\) and \((x^*+ h, f(x^* + h))\) as \(h\) approaches zero. As \(h\) decreases, the secant line approaches the tangent line at \(x^*\), and the slope of this tangent line is the derivative.
+This limit represents the slope of the secant line connecting $(x^*, f(x^*))$ and $(x^*+ h, f(x^* + h))$ as $h$ approaches zero. As $h$ decreases, the secant line approaches the tangent line at $x^*$, and the slope of this tangent line is the derivative.
 
-The lecture describes this visually: When \(h=1\), the secant line can be quite different from the curve; as \(h\) becomes smaller (e.g., \(h = \frac{1}{2}, \frac{1}{4}, \ldots\)), the secant line better approximates the curve near \(x^*\). In the limit as \(h \to 0\), the difference disappears, and the derivative equals the slope of this tangent.
+The lecture describes this visually: When $h=1$, the secant line can be quite different from the curve; as $h$ becomes smaller (e.g., $h = \frac{1}{2}, \frac{1}{4}, \ldots$), the secant line better approximates the curve near $x^*$. In the limit as $h \to 0$, the difference disappears, and the derivative equals the slope of this tangent.
 
 This interpretation connects the concept of the derivative to linear approximations of functions, which will be explored in subsequent modules.
 
@@ -514,9 +514,9 @@ This interpretation connects the concept of the derivative to linear approximati
 - **Differentiability** requires a function to be smooth enough to have a well-defined slope at a point.
 - Differentiability implies continuity, but continuity does not imply differentiability.
 - Piecewise functions may be continuous but not differentiable at boundary points.
-- Functions with oscillatory behavior near a point (like \(\sin(1/x)\) near zero) can be discontinuous.
+- Functions with oscillatory behavior near a point (like $\sin(1/x)$ near zero) can be discontinuous.
 - The derivative can be understood as the slope of the tangent line, capturing the instantaneous rate of change.
-- The limit definition of the derivative can be approached via sequences converging to the point or via the limit as \(h \to 0\).
+- The limit definition of the derivative can be approached via sequences converging to the point or via the limit as $h \to 0$.
 
 ---
 
@@ -548,11 +548,11 @@ This interpretation connects the concept of the derivative to linear approximati
 
 ### Core Concepts
 
-- **Continuity at a Point:** \(f\) is continuous at \(x^*\) if \(\lim_{x \to x^*} f(x) = f(x^*)\).
-- **Sequence-Based Continuity:** For every sequence \(x_i \to x^*\), the corresponding \(f(x_i) \to f(x^*)\).
+- **Continuity at a Point:** $f$ is continuous at $x^*$ if $\lim_{x \to x^*} f(x) = f(x^*)$.
+- **Sequence-Based Continuity:** For every sequence $x_i \to x^*$, the corresponding $f(x_i) \to f(x^*)$.
 - **Discontinuity:** Occurs when limit values differ from the function value or are undefined.
-- **Differentiability at a Point:** The derivative exists if \(\lim_{x \to x^*} \frac{f(x) - f(x^*)}{x - x^*}\) exists.
-- **Derivative as Slope:** The derivative represents the slope of the tangent line to the function at \(x^*\).
+- **Differentiability at a Point:** The derivative exists if $\lim_{x \to x^*} \frac{f(x) - f(x^*)}{x - x^*}$ exists.
+- **Derivative as Slope:** The derivative represents the slope of the tangent line to the function at $x^*$.
 - **Continuity Implies Differentiability?** No; differentiability implies continuity, but not vice versa.
 - **Piecewise Functions:** Continuity and differentiability at boundary points must be checked carefully.
 - **Non-Differentiability Examples:** Sharp corners (e.g., absolute value function) or jump discontinuities.
@@ -591,8 +591,8 @@ A3: The derivative at a point is the slope of the tangent line to the curve at t
 **Q4: How do piecewise functions affect continuity and differentiability?**  
 A4: At points where the function definition changes, continuity and differentiability need to be verified by comparing limits from both sides.
 
-**Q5: Why is \(f(x) = \sin(1/x)\) discontinuous at zero?**  
-A5: Because as \(x\) approaches zero, \(\sin(1/x)\) oscillates infinitely often and does not settle on a single value.
+**Q5: Why is $f(x) = \sin(1/x)$ discontinuous at zero?**  
+A5: Because as $x$ approaches zero, $\sin(1/x)$ oscillates infinitely often and does not settle on a single value.
 
 ---
 
@@ -617,7 +617,7 @@ This lecture focuses on the fundamental concepts of derivatives and linear appro
 ### Core Concepts
 
 1. **Derivative Definition**  
-   The derivative of a function \( f: \mathbb{R} \to \mathbb{R} \) at a point \( x^*\) is defined as:  
+   The derivative of a function $f: \mathbb{R} \to \mathbb{R}$ at a point $x^*$ is defined as:  
    \[
    f'(x^*) = \lim_{x \to x^*} \frac{f(x) - f(x^*)}{x - x^*}
    \]
